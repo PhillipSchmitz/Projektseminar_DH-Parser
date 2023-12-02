@@ -1,6 +1,6 @@
 import re
 import initiate
-
+import pickle
 
 def set_dir(filename: str):
     """
@@ -8,7 +8,7 @@ def set_dir(filename: str):
     :param filename: name of file
     :return: path to file
     """
-    return "ocr_sagen/" + filename
+    return "ocr_sagen/" + filename + ".txt"
 
 
 def read_text(name: str):
@@ -36,16 +36,16 @@ def seperate_text(text: list, titles: list, cat: list):
     sage = []
     page = 1
     for line in text:
-        #print(titles[0])
-        #print(line)
+        # print(titles[0])
+        # print(line)
         add = True
         for item in cat:
             if item + ".\n" == line:
-                #print(line)
+                # print(line)
                 add = False
                 break
             if item[4:] + ".\n":
-                #print(line)
+                # print(line)
                 add = False
                 break
         if not add:
@@ -99,22 +99,25 @@ def seperate_text_v2(text: list, titles: list, categories: list):
                 if add:
                     s.append(sage)
         else:
-            s.append("page_marker_ocr" + str(page+28))
+            s.append("page_marker_ocr" + str(page + 28))
             s.append("page_marker_book" + str(page))
             page += 1
     return sort_sagen
 
 
-def main():
+def write_tale(name, text_list):
+    with open("parsed_sagen/" + name + ".pkl", "wb") as f:
+        pickle.dump(text_list, f)
+
+def parse():
     """
     main function to parse raw data and prepare for xml-creation
     :return: None
     """
     name, titles, categories, dict = initiate.trier_und_umgebung()
     text = read_text(name)
-    #sep_text = seperate_text(text, titles, categories)
+    # sep_text = seperate_text(text, titles, categories)
     sep_text = seperate_text_v2(text, titles, categories)
-    for item in sep_text:
-        print(item)
-    #print(len(sep_text))
-main()
+    write_tale(name, sep_text)
+
+parse()

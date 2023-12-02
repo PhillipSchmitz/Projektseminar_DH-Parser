@@ -1,0 +1,11 @@
+Hier sind geparsten Sagen aus dem OCR-Parser als pickle-Datei gespeichert.
+Die pickle-Dateien enthalten eine list of lists eines Sagenbuchs im Binärformat.
+Diese können mit der Datei "create_xml.py" weiterverwendet werden.
+
+Das Muster der Listen sieht folgendermaßen aus:
+
+[
+[Titel 1, Zeile 1, Zeile 2, Zeile 3,...],
+[Titel 2, Zeile 1, Zeile 2, Zeile 3,...],
+[Titel 3, Zeile 1, Zeile 2, Zeile 3,...],
+...]

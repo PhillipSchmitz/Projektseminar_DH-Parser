@@ -1,4 +1,11 @@
 from xml.etree import ElementTree as ET
+import pickle
+import initiate
+
+def retrieve_list(name):
+    with open("parsed_sagen/" + name + ".pkl", "rb") as f:
+        tale_list = pickle.load(f)
+    return tale_list
 
 
 def create_xml_tree():
@@ -31,6 +38,8 @@ def create_sage(body: ET, sage: str, number: str):
 
 
 def main():
+    name, titles, categories, dict = initiate.trier_und_umgebung()
+    sagen = retrieve_list(name)
     tei, body = create_xml_tree()
     sage = create_sage(body, "Trierer Sage", "1")
     ET.dump(tei)

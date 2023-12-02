@@ -173,9 +173,9 @@ del sort_sagen[0]
 i = 0
 for sage in sort_sagen:
     print(sage)
-    """sage[0] = re.sub(r"\*", "", sage[0])
+    sage[0] = re.sub(r"\*", "", sage[0])
     with open("trier_umgebung_sagen/" + str(i) + " " + sage[0][0:-2] + ".txt", "w", encoding="utf-8") as f:
         f.writelines(sage)
-    i += 1"""
+    i += 1
 
 #print(len(titles))

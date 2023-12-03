@@ -59,6 +59,7 @@ def create_book(body: ET, book: list, dictionary: dict):
 
 
 def write_xml(tree: ET, name: str):
+    ET.indent(tree, space="\t", level=0)
     with open("xml_sagen/" + name + ".xml", "wb") as f:
         tree.write(f, encoding="utf-8")
 

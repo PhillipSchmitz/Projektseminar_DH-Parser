@@ -163,10 +163,10 @@ def get_dict_trier_umgebung():
               "Der mit der Elle gemessene Wein": "Einzelheiten der Stadt Trier",
               "Das Marktkreuz": "Einzelheiten der Stadt Trier",
               "Die Inschrift auf der Steipe": "Einzelheiten der Stadt Trier",
-              "Die Steine des Gymnaſiums": "Einzelheiten der Stadt Trier",  # "Die Steine des Gymnasiums"
+              "Die Steine des Gymnasiums": "Einzelheiten der Stadt Trier",
               "Coder aureus": "Einzelheiten der Stadt Trier",
               "Sendung Rictiovar's nach Trier": "St. Paulin",
-              "Einzug der Thebaïschen Legion": "St. Paulin",
+              "Einzug der Thebaischen Legion": "St. Paulin",
               "Das Kreuz": "St. Paulin",
               "Die vier Steine": "St. Paulin",
               "Das Deckengemälde der St. Paulinskirche": "St. Paulin",

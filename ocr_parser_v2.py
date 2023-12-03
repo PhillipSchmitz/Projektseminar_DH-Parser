@@ -81,7 +81,7 @@ def seperate_text_v2(text: list, titles: list, categories: list):
     page = 1
     for sage in text:
         add = True
-        if titles[i] in sage:
+        if titles[i] + ".\n" in sage:
             i += 1
             sort_sagen.append(s)
             s = []

@@ -43,7 +43,7 @@ def create_text(tale: ET, text: list):
     content = ET.SubElement(tale, "p")
     for tale_line in text:
         line = ET.SubElement(content, "line")
-        line.text = tale_line
+        line.text = tale_line[:-1]
 
 
 def create_book(body: ET, book: list, dictionary: dict):
@@ -54,7 +54,7 @@ def create_book(body: ET, book: list, dictionary: dict):
         title = tale[0][:-2]
         category = dictionary[title]
         tale_nodes.append(create_sage(body, title, i, category))
-        create_text(tale_nodes[-1], tale[1:])
+        create_text(tale_nodes[-1], tale)
         i += 1
 
 

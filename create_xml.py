@@ -49,7 +49,6 @@ def create_text(tale: ET, text: list):
 def create_book(body: ET, book: list, dictionary: dict):
     i = 1
     tale_nodes = []
-    text_nodes = []
     for tale in book:
         print(tale)
         title = tale[0][:-2]

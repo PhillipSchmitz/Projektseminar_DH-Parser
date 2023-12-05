@@ -2,6 +2,7 @@ import re
 import initiate
 import pickle
 
+
 def set_dir(filename: str):
     """
     Creates a the file path
@@ -79,12 +80,24 @@ def seperate_text_v2(text: list, titles: list, categories: list):
     i = 0
     s = []
     page = 1
+    page_memory = []
     for sage in text:
         add = True
         if titles[i] + ".\n" in sage:
-            i += 1
+            mem = False
+            if "page_marker" in s[-1]:
+                page_memory = []
+                page_memory.append(s[-2])
+                page_memory.append(s[-1])
+                del s[-2:]
+                mem = True
             sort_sagen.append(s)
             s = []
+            s.append(titles[i])
+            if mem:
+                s.append(page_memory[0])
+                s.append(page_memory[1])
+            i += 1
         if not re.search(r"----- \d+ / \d+ -----", sage):
             if not re.search(r"\d+", sage):
                 for cat in categories:
@@ -99,8 +112,8 @@ def seperate_text_v2(text: list, titles: list, categories: list):
                 if add:
                     s.append(sage)
         else:
-            s.append("page_marker_ocr" + str(page + 28))
-            s.append("page_marker_book" + str(page))
+            s.append("page_marker_ocr" + str(page + 28) + "\n")
+            s.append("page_marker_book" + str(page) + "\n")
             page += 1
     return sort_sagen
 
@@ -108,6 +121,7 @@ def seperate_text_v2(text: list, titles: list, categories: list):
 def write_tale(name, text_list):
     with open("parsed_sagen/" + name + ".pkl", "wb") as f:
         pickle.dump(text_list, f)
+
 
 def parse():
     """
@@ -119,5 +133,6 @@ def parse():
     # sep_text = seperate_text(text, titles, categories)
     sep_text = seperate_text_v2(text, titles, categories)
     write_tale(name, sep_text)
+
 
 parse()

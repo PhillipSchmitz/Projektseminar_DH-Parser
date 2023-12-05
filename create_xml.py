@@ -27,7 +27,13 @@ def create_xml_tree():
     return tei, body, tree
 
 
-def create_sage(body: ET, sage: str, number: int, cat: str):
+def create_category(body: ET, cat: str, number: int):
+    category = ET.SubElement(body, "div", {"type": cat, "n": str(number)})
+    category.text = cat
+    return category
+
+
+def create_sage(category: ET, sage: str, number: int):
     """
     creates an xml TEI body part containing a tale
     :param body: TEI body tag
@@ -35,27 +41,33 @@ def create_sage(body: ET, sage: str, number: int, cat: str):
     :param number:
     :return:
     """
-    sage = ET.SubElement(body, "div", {"sage": sage, "category": cat, "n": str(number)})
-    return sage
+    title = ET.SubElement(category, "head", {"type": sage, "n": str(number)})
+    title.text = sage
+    return title
 
 
 def create_text(tale: ET, text: list):
     content = ET.SubElement(tale, "p")
     for tale_line in text:
-        line = ET.SubElement(content, "line")
-        line.text = tale_line[:-1]
+        lb = ET.SubElement(content, "lb")
+        lb.text = tale_line[:-1]
 
 
 def create_book(body: ET, book: list, dictionary: dict):
-    i = 1
+    i_cat = 1
+    i_tale = 1
     tale_nodes = []
+    cat_memory = ""
     for tale in book:
         print(tale)
-        title = tale[0][:-2]
+        title = tale[0]
         category = dictionary[title]
-        tale_nodes.append(create_sage(body, title, i, category))
-        create_text(tale_nodes[-1], tale)
-        i += 1
+        if not category == cat_memory:
+            tale_cat = create_category(body, category, i_cat)
+            i_cat += 1
+        tale_nodes.append(create_sage(tale_cat, title, i_tale))
+        create_text(tale_cat, tale[1:])
+        i_tale += 1
 
 
 def write_xml(tree: ET, name: str):

@@ -49,8 +49,8 @@ def create_sage(category: ET, sage: str, number: int):
 def create_text(tale: ET, text: list):
     content = ET.SubElement(tale, "p")
     for tale_line in text:
-        lb = ET.SubElement(content, "lb")
-        lb.text = tale_line[:-1]
+        l = ET.SubElement(content, "l")
+        l.text = tale_line[:-1]
 
 
 def create_book(body: ET, book: list, dictionary: dict):

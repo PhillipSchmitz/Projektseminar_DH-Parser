@@ -1,0 +1,1 @@
+"""Hier entstehen die SQL Dateien der Sagen, mit denen die Datenbank gefüttert wird"""

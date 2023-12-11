@@ -79,7 +79,6 @@ def write_xml(tree: ET, name: str):
 def main():
     name, titles, categories, dict = initiate.trier_und_umgebung()
     sagen = retrieve_list(name)
-    del sagen[0]
     tei, body, tree = create_xml_tree()
     create_book(body, sagen, dict)
     write_xml(tree, name)

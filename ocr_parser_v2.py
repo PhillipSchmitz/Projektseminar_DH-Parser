@@ -1,6 +1,7 @@
 import re
 import initiate
 import pickle
+import testing
 
 
 def set_dir(filename: str):
@@ -132,7 +133,9 @@ def parse():
     text = read_text(name)
     # sep_text = seperate_text(text, titles, categories)
     sep_text = seperate_text_v2(text, titles, categories)
+    del sep_text[0]
     write_tale(name, sep_text)
+    print(testing.test_trier_umgebung(sep_text))
 
 
 parse()

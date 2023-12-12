@@ -11,3 +11,11 @@ def trier_und_umgebung():
     categories = tcs.get_categories_trier_umgebung()
     dict = tcs.get_dict_trier_umgebung()
     return name, titles, categories, dict
+
+
+def trier_und_umgebungen_sql():
+    name = "trier_umgebung_sagen"
+    book_title = "Trier und seine Umgebung in Sagen und Liedern"
+    dict = tcs.get_dict_trier_umgebung()
+    lang = "deutsch"
+    return name, book_title, dict, lang

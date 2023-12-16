@@ -19,3 +19,21 @@ def trier_und_umgebungen_sql():
     dict = tcs.get_dict_trier_umgebung()
     lang = "deutsch"
     return name, book_title, dict, lang
+
+
+def lothringen():
+    name = "lothringen_sagen"
+    titles = tcs.get_titles_lothringen()
+    return name, titles
+
+
+def oberelsass():
+    name = "oberelsass"
+    titles = tcs.get_titles_oberelsass()
+    return name, titles
+
+
+def unterelsass():
+    name = "unterelsass"
+    titles = tcs.get_titles_unterelsass()
+    return name, titles

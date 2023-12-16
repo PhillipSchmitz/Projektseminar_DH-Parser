@@ -68,7 +68,7 @@ def seperate_text(text: list, titles: list, cat: list):
     return sage
 
 
-def seperate_text_v2(text: list, titles: list, categories: list):
+def parse_trier_umgebung(text: list, titles: list, categories: list):
     """
     Version 2: works better (maybe no proper page insertion)
     Extracts tales from unsorted data
@@ -119,9 +119,65 @@ def seperate_text_v2(text: list, titles: list, categories: list):
     return sort_sagen
 
 
-def write_tale(name, text_list):
+def parse_lothringen(text: list, titles: list):
+    pass
+
+
+def parse_elsass(text: list, titles: list):
+    pass
+
+
+def write_tale(name: str, text_list: list):
     with open("parsed_sagen/" + name + ".pkl", "wb") as f:
         pickle.dump(text_list, f)
+
+
+def parse_trier_umgebung_full():
+    """
+    Parses and writes book trier und umgebung to pickle
+    :return: None
+    """
+    name, titles, categories, dict = initiate.trier_und_umgebung()
+    text = read_text(name)
+    sep_text = parse_trier_umgebung(text, titles, categories)
+    del sep_text[0]
+    print_tale(sep_text)
+    write_tale(name, sep_text)
+    print(testing.test_trier_umgebung(sep_text))
+
+
+def parse_lothringen_full():
+    """
+    Parses and writes book lothringen to pickle
+    :return: None
+    """
+    pass
+
+
+def parse_oberelsass_full():
+    """
+    Parses and writes book oberelsass to pickle
+    :return: None
+    """
+    pass
+
+
+def parse_unterelsass_full():
+    """
+    Parses and writes book unterelsass to pickle
+    :return: None
+    """
+    pass
+
+
+def print_tale(book: list):
+    """
+    Prints list of lists in readable format
+    :param book: list of lists of tale book
+    :return: None
+    """
+    for tale in book:
+        print(tale)
 
 
 def parse():
@@ -129,13 +185,16 @@ def parse():
     main function to parse raw data and prepare for xml-creation
     :return: None
     """
-    name, titles, categories, dict = initiate.trier_und_umgebung()
-    text = read_text(name)
-    # sep_text = seperate_text(text, titles, categories)
-    sep_text = seperate_text_v2(text, titles, categories)
-    del sep_text[0]
-    write_tale(name, sep_text)
-    print(testing.test_trier_umgebung(sep_text))
+    book_names = {1: "Trier und Umgebung", 2: "Lothringen", 3: "Oberelsass", 4: "Unterelsass"}
+    book = book_names[1]
+    if book == "Trier und Umgebung":
+        parse_trier_umgebung_full()
+    elif book == "Lothringen":
+        parse_lothringen_full()
+    elif book == "Oberelsass":
+        parse_oberelsass_full()
+    elif book == "Unterelsass":
+        parse_unterelsass_full()
 
 
 parse()

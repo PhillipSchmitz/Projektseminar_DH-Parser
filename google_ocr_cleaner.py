@@ -47,8 +47,9 @@ def main():
     Main function for handling Google OCR cleaning
     :return: None
     """
-    name_list = ["Deutsche_Sagen_im_Elsass", "Die_Sagen_des_(Unter-)Elsasses", "Die_Sagen_des_Elsasses"]
-    name = name_list[2]
+    name_list = ["Deutsche_Sagen_im_Elsass", "Die_Sagen_des_(Unter-)Elsasses", "Die_Sagen_des_Elsasses",
+                 "Sagen_und_Bilder_aus_Lothringens_Vorzeit"]
+    name = name_list[3]
     book_list = read_book(name)
     cleaned = clean_book(book_list)
     write_cleaned_book(cleaned, name)

@@ -1,3 +1,13 @@
+"""
+!!!IMPORTANT!!!
+
+This script is only used to clean the Google OCR files from white spaces and new lines. The output file from this
+script can't be used by the ocr-parser because of naming differences of the output file and the parser input file.
+This is to prevent accidental replacement of the parser input file. The input file may be manually adjusted for
+proper parser support (e.g. minor title differences).
+To use the output of this script in the ocr parser you need to manually add '_sagen' between filename and '.txt'.
+Do not change this script to automate the naming!
+"""
 import re
 
 
@@ -38,7 +48,7 @@ def write_cleaned_book(book: list, name: str):
     :param name: name of the book
     :return: None
     """
-    with open("ocr_sagen/" + name + "_bereinigt.txt", "w", encoding="utf-8") as f:
+    with open("ocr_sagen/" + name + ".txt", "w", encoding="utf-8") as f:
         f.writelines(book)
 
 
@@ -49,10 +59,13 @@ def main():
     """
     name_list = ["Deutsche_Sagen_im_Elsass", "Die_Sagen_des_(Unter-)Elsasses", "Die_Sagen_des_Elsasses",
                  "Sagen_und_Bilder_aus_Lothringens_Vorzeit"]
-    name = name_list[3]
+    output_list = ["None", "unterelsass", "oberelsass", "lothringen"]
+    book_number = 3
+    name = name_list[book_number]
+    output = output_list[book_number]
     book_list = read_book(name)
     cleaned = clean_book(book_list)
-    write_cleaned_book(cleaned, name)
+    write_cleaned_book(cleaned, output)
 
 
 main()

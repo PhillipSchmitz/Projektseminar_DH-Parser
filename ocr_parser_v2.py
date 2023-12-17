@@ -120,7 +120,47 @@ def parse_trier_umgebung(text: list, titles: list, categories: list):
 
 
 def parse_lothringen(text: list, titles: list):
-    pass
+    """
+    Extracts all tales from the book Sagen und Bilder aus Lothringens Vorzeit, cleans them and adds page numbers
+    :param text: List of every line in the book (except beginning)
+    :param titles: List of tale titles
+    :return: List of lists where one list contains one tale
+    """
+    sort_sagen = []
+    i = 0
+    s = []
+    page = 1
+    page_memory = []
+    for sage in text:
+        add = True
+        if titles[i] + ".\n" in sage or titles[i] + ". \n" in sage or titles[i] + "\n" in sage:
+            mem = False
+            if "page_marker" in s[-1]:
+                page_memory = []
+                page_memory.append(s[-2])
+                page_memory.append(s[-1])
+                del s[-2:]
+                mem = True
+            sort_sagen.append(s)
+            s = []
+            s.append(titles[i])
+            if mem:
+                s.append(page_memory[0])
+                s.append(page_memory[1])
+            i += 1
+        if not re.search(r"-+ Page \d+-+", sage):
+            if not re.search(r"-*\d+-*", sage):
+                if not re.search(r"-+", sage):
+                    if not re.search(r"―+", sage):
+                        if not re.search(r"!+", sage):
+                            if not re.search(r"\w\s\n", sage):
+                                if add:
+                                    s.append(sage[:-1])
+        else:
+            s.append("page_marker_ocr" + str(page + 20) + "\n")
+            s.append("page_marker_book" + str(page) + "\n")
+            page += 1
+    return sort_sagen
 
 
 def parse_elsass(text: list, titles: list):
@@ -134,7 +174,7 @@ def write_tale(name: str, text_list: list):
 
 def parse_trier_umgebung_full():
     """
-    Parses and writes book trier und umgebung to pickle
+    Manages parsing and writes book trier und umgebung to pickle
     :return: None
     """
     name, titles, categories, dict = initiate.trier_und_umgebung()
@@ -148,15 +188,20 @@ def parse_trier_umgebung_full():
 
 def parse_lothringen_full():
     """
-    Parses and writes book lothringen to pickle
+    Manages parsing and writes book lothringen to pickle
     :return: None
     """
-    pass
+    name, titles = initiate.lothringen()
+    text = read_text(name)
+    sep_text = parse_lothringen(text, titles)
+    del sep_text[0]
+    print_tale(sep_text)
+    write_tale(name, sep_text)
 
 
 def parse_oberelsass_full():
     """
-    Parses and writes book oberelsass to pickle
+    Manages parsing and writes book oberelsass to pickle
     :return: None
     """
     pass
@@ -164,7 +209,7 @@ def parse_oberelsass_full():
 
 def parse_unterelsass_full():
     """
-    Parses and writes book unterelsass to pickle
+    Manages parsing and writes book unterelsass to pickle
     :return: None
     """
     pass
@@ -182,14 +227,16 @@ def print_tale(book: list):
 
 def parse():
     """
-    main function to parse raw data and prepare for xml-creation
+    Main function to parse raw data and prepare for XML-creation
     :return: None
     """
     book_names = {1: "Trier und Umgebung", 2: "Lothringen", 3: "Oberelsass", 4: "Unterelsass"}
-    book = book_names[1]
+    book = book_names[2]
     if book == "Trier und Umgebung":
+        print("Parsing Trier und Umgebung")
         parse_trier_umgebung_full()
     elif book == "Lothringen":
+        print("Parsing Lothringen")
         parse_lothringen_full()
     elif book == "Oberelsass":
         parse_oberelsass_full()

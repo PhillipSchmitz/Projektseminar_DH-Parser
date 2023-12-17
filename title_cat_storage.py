@@ -226,22 +226,23 @@ def get_dict_trier_umgebung():
 
 
 def get_titles_lothringen():
-    titles = ["Frau florentina die Getreue",
+    titles = ["Frau Florentina die Getreue",
               "Die Bischöfe von Metz und ihre Legenden",
-              "Im Königspalaste in Metz",
-              "Sancta Glossindis von Metz",
+              "Im Königspalaste zu Metz",
+              "Sankta Glossindis von Metz",
               "Im Schatten des Hirtenstabes von Gorze",
               "Die Kaiserin Hildegard",
               "Lohengrin",
               "Papst Leo IX.",
-              "Der heil. Richard und Kaiser Heinrich II.",
+              "Der hlg. Richard und Kaiser Heinrich II.",
               "Die Sagen der Herzöge von Lothringen",
-              "Wappen, Fahnen, Schlachtrufe und Devisen der Herzöge von Lothringen",
-              "Templer und Adelsfagen",
+              "Wappen, Fahnen, Schlachtrufe u. Devisen der Herzöge von Lothringen",
+              "Templer- und Adelssagen",
               "Der Graf von Engelweiler und die Waldfrau",
-              "Auf Feld und flur",
+              "Auf Feld und Flur",
               "Geflügelte Worte aus dem alten Metz",
-              "Der reiche Bürger von Verdun"]
+              "Der reiche Bürger von Verdun",
+              "qwertz"]
     return titles
 
 def get_ort_unterelsass():

@@ -150,12 +150,16 @@ def parse_lothringen(text: list, titles: list):
             i += 1
         if not re.search(r"-+ Page \d+-+", sage):
             if not re.search(r"-*\d+-*", sage):
-                if not re.search(r"-+", sage):
-                    if not re.search(r"―+", sage):
+                if not re.search(r"-+\s\n*", sage):
+                    if not re.search(r"―+\s*\n", sage):
                         if not re.search(r"!+", sage):
                             if not re.search(r"\w\s\n", sage):
-                                if add:
-                                    s.append(sage[:-1])
+                                if not re.search(r"@", sage):
+                                    if not re.search(r"\*", sage):
+                                        if not re.search(r"•\s*\n", sage):
+                                            if not re.search(r"—\s*\n", sage):
+                                                if add:
+                                                    s.append(sage[:-1])
         else:
             s.append("page_marker_ocr" + str(page + 20) + "\n")
             s.append("page_marker_book" + str(page) + "\n")
@@ -164,7 +168,48 @@ def parse_lothringen(text: list, titles: list):
 
 
 def parse_elsass(text: list, titles: list):
-    pass
+    sort_sagen = []
+    i = 0
+    s = []
+    page = 1
+    page_memory = []
+    for sage in text:
+        add = True
+        if titles[i] + ".\n" in sage or titles[i] + ". \n" in sage or titles[i] + "\n" in sage:
+            print(sage)
+            mem = False
+            if "page_marker" in s[-1]:
+                page_memory = []
+                page_memory.append(s[-2])
+                page_memory.append(s[-1])
+                del s[-2:]
+                mem = True
+            sort_sagen.append(s)
+            s = []
+            s.append(titles[i])
+            if mem:
+                s.append(page_memory[0])
+                s.append(page_memory[1])
+            i += 1
+            print(titles[i])
+        if not re.search(r"-+ Page \d+-+", sage):
+            if not re.search(r"-*\d+-*", sage):
+                if not re.search(r"-+\s\n*", sage):
+                    if not re.search(r"―+\s*\n", sage):
+                        if not re.search(r"!+", sage):
+                            if not re.search(r"\w\s\n", sage):
+                                if not re.search(r"@", sage):
+                                    if not re.search(r"\*", sage):
+                                        if not re.search(r"•\s*\n", sage):
+                                            if not re.search(r"—\s*\n", sage):
+                                                if add:
+                                                    s.append(sage[:-1])
+        else:
+            s.append("page_marker_ocr" + str(page + 20) + "\n")
+            s.append("page_marker_book" + str(page) + "\n")
+            page += 1
+    #return sort_sagen
+    return ["!This is under construction!"]
 
 
 def write_tale(name: str, text_list: list):
@@ -204,7 +249,10 @@ def parse_oberelsass_full():
     Manages parsing and writes book oberelsass to pickle
     :return: None
     """
-    pass
+    name, titles = initiate.oberelsass()
+    text = read_text(name)
+    sep_text = parse_elsass(text, titles)
+    print_tale(sep_text)
 
 
 def parse_unterelsass_full():
@@ -212,7 +260,10 @@ def parse_unterelsass_full():
     Manages parsing and writes book unterelsass to pickle
     :return: None
     """
-    pass
+    name, titles = initiate.unterelsass()
+    text = read_text(name)
+    sep_text = parse_elsass(text, titles)
+    print_tale(sep_text)
 
 
 def print_tale(book: list):
@@ -231,7 +282,7 @@ def parse():
     :return: None
     """
     book_names = {1: "Trier und Umgebung", 2: "Lothringen", 3: "Oberelsass", 4: "Unterelsass"}
-    book = book_names[2]
+    book = book_names[3]
     if book == "Trier und Umgebung":
         print("Parsing Trier und Umgebung")
         parse_trier_umgebung_full()
@@ -239,8 +290,10 @@ def parse():
         print("Parsing Lothringen")
         parse_lothringen_full()
     elif book == "Oberelsass":
+        print("Parsing Oberelsass")
         parse_oberelsass_full()
     elif book == "Unterelsass":
+        print("Parsing Unterelsass")
         parse_unterelsass_full()
 
 

@@ -254,6 +254,7 @@ def parse_oberelsass_full():
     name, titles = initiate.oberelsass()
     text = read_text(name)
     sep_text = parse_elsass(text, titles)
+    del sep_text[0]
     print_tale(sep_text)
     write_tale(name, sep_text)
 

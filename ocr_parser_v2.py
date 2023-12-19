@@ -153,7 +153,7 @@ def parse_lothringen(text: list, titles: list):
                 if not re.search(r"-+\s\n*", sage):
                     if not re.search(r"―+\s*\n", sage):
                         if not re.search(r"!+", sage):
-                            if not re.search(r"\w\s\n", sage):
+                            if not re.search(r"^\w\s\n$", sage):
                                 if not re.search(r"@", sage):
                                     if not re.search(r"\*", sage):
                                         if not re.search(r"•\s*\n", sage):
@@ -176,7 +176,7 @@ def parse_elsass(text: list, titles: list):
     for sage in text:
         add = True
         if titles[i] + ".\n" in sage or titles[i] + ". \n" in sage or titles[i] + "\n" in sage:
-            print(sage)
+            #print(sage)
             mem = False
             if "page_marker" in s[-1]:
                 page_memory = []
@@ -191,25 +191,27 @@ def parse_elsass(text: list, titles: list):
                 s.append(page_memory[0])
                 s.append(page_memory[1])
             i += 1
-            print(titles[i])
+            #print(i + 1)
+            #print(titles[i])
         if not re.search(r"-+ Page \d+-+", sage):
             if not re.search(r"-*\d+-*", sage):
                 if not re.search(r"-+\s\n*", sage):
                     if not re.search(r"―+\s*\n", sage):
                         if not re.search(r"!+", sage):
-                            if not re.search(r"\w\s\n", sage):
+                            if not re.search(r"^\w\s\n$", sage):
                                 if not re.search(r"@", sage):
                                     if not re.search(r"\*", sage):
                                         if not re.search(r"•\s*\n", sage):
                                             if not re.search(r"—\s*\n", sage):
-                                                if add:
-                                                    s.append(sage[:-1])
+                                                if not re.search(r"[-—―\d]+\s*\n", sage):
+                                                    if add:
+                                                        s.append(sage[:-1])
         else:
             s.append("page_marker_ocr" + str(page + 20) + "\n")
             s.append("page_marker_book" + str(page) + "\n")
             page += 1
-    #return sort_sagen
-    return ["!This is under construction!"]
+    return sort_sagen
+    #return ["!This is under construction!"]
 
 
 def write_tale(name: str, text_list: list):
@@ -253,7 +255,7 @@ def parse_oberelsass_full():
     text = read_text(name)
     sep_text = parse_elsass(text, titles)
     print_tale(sep_text)
-
+    write_tale(name, sep_text)
 
 def parse_unterelsass_full():
     """
@@ -264,6 +266,7 @@ def parse_unterelsass_full():
     text = read_text(name)
     sep_text = parse_elsass(text, titles)
     print_tale(sep_text)
+    #write_tale(name, sep_text)
 
 
 def print_tale(book: list):

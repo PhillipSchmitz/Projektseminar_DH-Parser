@@ -266,8 +266,9 @@ def parse_unterelsass_full():
     name, titles = initiate.unterelsass()
     text = read_text(name)
     sep_text = parse_elsass(text, titles)
+    del sep_text[0]
     print_tale(sep_text)
-    #write_tale(name, sep_text)
+    write_tale(name, sep_text)
 
 
 def print_tale(book: list):
@@ -286,7 +287,7 @@ def parse():
     :return: None
     """
     book_names = {1: "Trier und Umgebung", 2: "Lothringen", 3: "Oberelsass", 4: "Unterelsass"}
-    book = book_names[3]
+    book = book_names[4]
     if book == "Trier und Umgebung":
         print("Parsing Trier und Umgebung")
         parse_trier_umgebung_full()

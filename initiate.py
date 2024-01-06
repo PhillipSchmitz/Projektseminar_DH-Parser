@@ -52,3 +52,8 @@ def unterelsass():
     name = "unterelsass_sagen"
     titles = tcs.get_titles_unterelsass()
     return name, titles
+
+def moseltal():
+    name = "moseltal_sagen"
+    titles = tcs.get_titles_moseltal()
+    return name, titles

@@ -211,7 +211,11 @@ def parse_elsass(text: list, titles: list):
             s.append("page_marker_book" + str(page) + "\n")
             page += 1
     return sort_sagen
-    #return ["!This is under construction!"]
+    # return ["!This is under construction!"]
+
+
+def parse_moseltal(text: list, titles: list):
+    return ["!This is under construction"]
 
 
 def write_tale(name: str, text_list: list):
@@ -258,12 +262,26 @@ def parse_oberelsass_full():
     print_tale(sep_text)
     write_tale(name, sep_text)
 
+
 def parse_unterelsass_full():
     """
     Manages parsing and writes book unterelsass to pickle
     :return: None
     """
     name, titles = initiate.unterelsass()
+    text = read_text(name)
+    sep_text = parse_elsass(text, titles)
+    del sep_text[0]
+    print_tale(sep_text)
+    write_tale(name, sep_text)
+
+
+def parse_moseltal_full():
+    """
+    Manages parsing and writes book unterelsass to pickle
+    :return: None
+    """
+    name, titles = initiate.moseltal()
     text = read_text(name)
     sep_text = parse_elsass(text, titles)
     del sep_text[0]
@@ -286,8 +304,8 @@ def parse():
     Main function to parse raw data and prepare for XML-creation
     :return: None
     """
-    book_names = {1: "Trier und Umgebung", 2: "Lothringen", 3: "Oberelsass", 4: "Unterelsass"}
-    book = book_names[4]
+    book_names = {1: "Trier und Umgebung", 2: "Lothringen", 3: "Oberelsass", 4: "Unterelsass", 5: "Moseltal"}
+    book = book_names[5]
     if book == "Trier und Umgebung":
         print("Parsing Trier und Umgebung")
         parse_trier_umgebung_full()
@@ -300,6 +318,9 @@ def parse():
     elif book == "Unterelsass":
         print("Parsing Unterelsass")
         parse_unterelsass_full()
+    elif book == "Moseltal":
+        print("Parsing Moseltal")
+        parse_moseltal_full()
 
 
 parse()

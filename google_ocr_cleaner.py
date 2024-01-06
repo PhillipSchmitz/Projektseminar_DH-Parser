@@ -59,9 +59,9 @@ def main():
     :return: None
     """
     name_list = ["Deutsche_Sagen_im_Elsass", "Die_Sagen_des_(Unter-)Elsasses", "Die_Sagen_des_Elsasses",
-                 "Sagen_und_Bilder_aus_Lothringens_Vorzeit"]
-    output_list = ["None", "unterelsass", "oberelsass", "lothringen"]
-    book_number = 1
+                 "Sagen_und_Bilder_aus_Lothringens_Vorzeit", "sagen_geschichten_moseltal"]
+    output_list = ["None", "unterelsass", "oberelsass", "lothringen", "moseltal"]
+    book_number = 4
     name = name_list[book_number]
     output = output_list[book_number]
     book_list = read_book(name)

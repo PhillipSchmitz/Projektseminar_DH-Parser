@@ -3,6 +3,4 @@ Wir schreiben ein Python-Skript, um den OCR4All-Output für unsere Zwecke, spric
 
 Ich kann diesen Teil auch bearbeiten 
 
-Pythonexterne Packages: 
-pandas
-flair
+Pythonexterne Packages: pandas, flair

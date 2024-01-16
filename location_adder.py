@@ -1,6 +1,9 @@
 """Hier entsteht die Zuordnung der Orte"""
 import initiate
-import flair
+import pickle
+from flair.data import Sentence
+from flair.models import SequenceTagger
+import re
 import pickle
 
 
@@ -21,9 +24,6 @@ def ner_with_flair(text: str):
     :param text: tale in string form
     :return: Not sure yet
     """
-    from flair.data import Sentence
-    from flair.models import SequenceTagger
-
     # Load the German language model
     # optional: flair/ner-german-large (F1 score: 0.92), flair/ner-german-legal, flair/ner-german
     tagger = SequenceTagger.load("flair/ner-german-large")
@@ -31,10 +31,18 @@ def ner_with_flair(text: str):
     tagger.predict(sentence)
     print(sentence)
 
-    print('The following NER tags are found:')
-    # optional: PER, LOC, ORG, MISC
+    locations = []
     for entity in sentence.get_spans('ner'):
-        print(entity)
+        # print(entity.tokens)
+        ent = str(entity.get_labels()[0])
+        # print(ent)
+        if re.search(r"LOC", ent):
+            # print(ent)
+            loc = re.search(r'"\w+"', ent).group(0)
+            loc = re.sub(r'"', "", loc)
+            locations.append(loc)
+
+    return locations
 
 
 def stringify_book(tale_book: list):
@@ -58,8 +66,20 @@ def stringify_tale(tale: list):
     """
     tale_str = ""
     for line in tale:
-        tale_str += line[:-1]
+        tale_str += line[:-1] + " "
     return tale_str
+
+
+def ner_handler(book: list):
+    locations = []
+    for tale in book:
+        locations.append(ner_with_flair(tale))
+    return locations
+
+
+def write_locations(name: str, loc_list: list):
+    with open("ner_sagen/" + name + ".pkl", "wb") as f:
+        pickle.dump(loc_list, f)
 
 
 def main():
@@ -70,7 +90,10 @@ def main():
     name = "trier_umgebung_sagen"
     tale_book = retrieve_list(name)
     str_book = stringify_book(tale_book)
-    print(str_book)
+    print(str_book[0])
+    locations = ner_handler(str_book)
+    print(locations)
+    write_locations(name, locations)
 
 
 main()

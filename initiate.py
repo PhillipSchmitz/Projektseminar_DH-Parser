@@ -28,6 +28,7 @@ def trier_und_umgebung_tei_header():
 
     return MainTitle, SubTitle, Author, PublicationYear, PublicationPlace, Publisher, Edition, Copyright, encoder
 
+
 def trier_und_umgebungen_sql():
     name = "trier_umgebung_sagen"
     book_title = "Trier und seine Umgebung in Sagen und Liedern"
@@ -53,7 +54,14 @@ def unterelsass():
     titles = tcs.get_titles_unterelsass()
     return name, titles
 
+
 def moseltal():
     name = "moseltal_sagen"
     titles = tcs.get_titles_moseltal()
+    return name, titles
+
+
+def geschichten_moseltal():
+    name = "geschichten_moseltal_sagen"
+    titles = tcs.get_titles_geschichten_moseltal()
     return name, titles

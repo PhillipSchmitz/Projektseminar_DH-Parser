@@ -214,8 +214,52 @@ def parse_elsass(text: list, titles: list):
     # return ["!This is under construction!"]
 
 
-def parse_moseltal(text: list, titles: list):
-    return ["!This is under construction"]
+def parse_geschichten_moseltal(text: list, titles: list):
+    sort_sagen = []
+    i = 0
+    s = []
+    page = 1
+    page_memory = []
+    for sage in text:
+        add = True
+        if titles[i] + ".\n" in sage or titles[i] + ". \n" in sage or titles[i] + "\n" in sage:
+            print(sage)
+            mem = False
+            if "page_marker" in s[-1]:
+                page_memory = []
+                page_memory.append(s[-2])
+                page_memory.append(s[-1])
+                del s[-2:]
+                mem = True
+            sort_sagen.append(s)
+            s = []
+            s.append(titles[i])
+            if mem:
+                s.append(page_memory[0])
+                s.append(page_memory[1])
+            i += 1
+            print(i + 1)
+            print(titles[i])
+        if not re.search(r"Page \d+", sage):
+            if not re.search(r"-*\d+-*", sage):
+                if not re.search(r"-+\s\n*", sage):
+                    if not re.search(r"―+\s*\n", sage):
+                        if not re.search(r"!+", sage):
+                            if not re.search(r"^\w\s\n$", sage):
+                                if not re.search(r"@", sage):
+                                    if not re.search(r"\*", sage):
+                                        if not re.search(r"•\s*\n", sage):
+                                            if not re.search(r"—\s*\n", sage):
+                                                if not re.search(r"[-—―\d]+\s*\n", sage):
+                                                    if add:
+                                                        s.append(sage[:-1])
+        else:
+            s.append("page_marker_ocr" + str(page + 20) + "\n")
+            s.append("page_marker_book" + str(page) + "\n")
+            page += 1
+    return sort_sagen
+
+    #return ["!This is under construction"]
 
 
 def write_tale(name: str, text_list: list):
@@ -289,6 +333,15 @@ def parse_moseltal_full():
     write_tale(name, sep_text)
 
 
+def parse_geschichten_moseltal_full():
+    name, titles = initiate.geschichten_moseltal()
+    text = read_text(name)
+    sep_text = parse_geschichten_moseltal(text, titles)
+    #del sep_text[0]
+    #print_tale(sep_text)
+    #write_tale(name, sep_text)
+
+
 def print_tale(book: list):
     """
     Prints list of lists in readable format
@@ -304,8 +357,8 @@ def parse():
     Main function to parse raw data and prepare for XML-creation
     :return: None
     """
-    book_names = {1: "Trier und Umgebung", 2: "Lothringen", 3: "Oberelsass", 4: "Unterelsass", 5: "Moseltal"}
-    book = book_names[5]
+    book_names = {1: "Trier und Umgebung", 2: "Lothringen", 3: "Oberelsass", 4: "Unterelsass", 5: "Moseltal", 6: "Geschichten Moseltal"}
+    book = book_names[6]
     if book == "Trier und Umgebung":
         print("Parsing Trier und Umgebung")
         parse_trier_umgebung_full()
@@ -321,6 +374,9 @@ def parse():
     elif book == "Moseltal":
         print("Parsing Moseltal")
         parse_moseltal_full()
+    elif book == "Geschichten Moseltal":
+        parse_geschichten_moseltal_full()
+
 
 
 parse()

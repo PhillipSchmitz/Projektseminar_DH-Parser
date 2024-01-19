@@ -29,7 +29,7 @@ def ner_with_flair(text: str):
     tagger = SequenceTagger.load("flair/ner-german-large")
     sentence = Sentence(text)
     tagger.predict(sentence)
-    print(sentence)
+    #print(sentence)
 
     locations = []
     for entity in sentence.get_spans('ner'):
@@ -37,8 +37,8 @@ def ner_with_flair(text: str):
         ent = str(entity.get_labels()[0])
         # print(ent)
         if re.search(r"LOC", ent):
-            # print(ent)
-            loc = re.search(r'"\w+"', ent).group(0)
+            print(ent)
+            loc = re.search(r'".+"', ent).group(0)
             loc = re.sub(r'"', "", loc)
             locations.append(loc)
 
@@ -72,8 +72,12 @@ def stringify_tale(tale: list):
 
 def ner_handler(book: list):
     locations = []
+    i = 1
     for tale in book:
+        print("Sage: " + str(i) + "/" + str(len(book)))
         locations.append(ner_with_flair(tale))
+        i += 1
+    #locations.append(ner_with_flair(book[3]))
     return locations
 
 
@@ -87,10 +91,10 @@ def main():
     Main function to handle NER on a tale book
     :return: None
     """
+    booknames = {1: "trier_umgebung_sagen"}
     name = "trier_umgebung_sagen"
     tale_book = retrieve_list(name)
     str_book = stringify_book(tale_book)
-    print(str_book[0])
     locations = ner_handler(str_book)
     print(locations)
     write_locations(name, locations)

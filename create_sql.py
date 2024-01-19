@@ -1,8 +1,10 @@
 """Hier entstehen die SQL Dateien der Sagen, mit denen die Datenbank gefüttert wird"""
 import pandas as pd
+from pandas.io.sql import get_schema
 import initiate
 import pickle
 from random import randint
+import re
 import sqlalchemy
 from sqlalchemy import create_engine
 import sqlite3
@@ -56,23 +58,29 @@ def main():
     tale_list = retrieve_list(name)
     df_input = create_dataframe_input(tale_list, dict, lang)
     df_output = create_dataframe_output(df_input)
-    #print(df_output)
-    conn = sqlite3.connect("sql_sagen/sagen.db")
+    test_schema = get_schema(df_output, "Sage")
+    #print(test_schema)
+    df_output = df_output.copy().assign()
+    columns = ", ".join(df_output.columns)
+    tuples = map(str, df_output.itertuples(index=False, name=None))
+    values = re.sub(r"(?<=\W)(nan|None)(?=\W)", "NULL", (",\n" + " " * 7).join(tuples))
+    print(f"INSERT INTO {test_schema} ({columns})\nVALUES {values};")
+    """conn = sqlite3.connect("sql_sagen/sagen.sql")
     c = conn.cursor()
     c.execute(
         "CREATE TABLE IF NOT EXISTS Sage (SagenID number, Titel text, Volltext text, Sprache text, Kategorie text, OrtID number, WerkID number)")
     c.execute("CREATE TABLE IF NOT EXISTS Ort (OrtID number, Name text, Koordinaten number)")
     c.execute("CREATE TABLE IF NOT EXISTS Werk (WerkID number, Name text, Koordinaten number)")
     conn.commit()
-    df_output.to_csv("sql_sagen/sagen_test.csv", "\t", encoding="utf_8")
+    df_output.to_csv("sql_sagen/sagen_test.csv", "\t", encoding="utf-8")
     df_output.to_sql("Sage", conn, if_exists="replace", index=False)
     ort_output = create_locations()
     #print(ort_output)
-    ort_output.to_csv("sql_sagen/ort_test.csv", "\t", encoding="utf_8")
+    ort_output.to_csv("sql_sagen/ort_test.csv", "\t", encoding="utf-8")
     ort_output.to_sql("Ort", conn, if_exists="replace", index=False)
     book_output = create_book()
     #print(book_output)
-    book_output.to_csv("sql_sagen/werk_test.csv", "\t", encoding="utf_8")
+    book_output.to_csv("sql_sagen/werk_test.csv", "\t", encoding="utf-8")
     book_output.to_sql("Werk", conn, if_exists="replace", index=False)
     c.execute('''  
         SELECT * FROM Sage
@@ -88,6 +96,6 @@ def main():
         SELECT * FROM Werk
                   ''')
     for row in c.fetchall():
-        print(row)
+        print(row)"""
 
 main()

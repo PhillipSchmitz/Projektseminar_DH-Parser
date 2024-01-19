@@ -59,4 +59,22 @@ def moseltal():
     print(output)
 
 
-moseltal()
+def geschichten_moseltal():
+    with open("geschichten_moseltal_temp.txt", "r", encoding="utf-8") as f:
+        titles = f.readlines()
+
+    clean = []
+    for title in titles:
+        title = re.sub(r"\d+\. ", "", title)
+        title = re.sub(r"\.\n$", "", title)
+        clean.append(title)
+
+    output = '['
+    for c in clean:
+        output += '"' + c + '",'
+    output += ']'
+
+    print(output)
+
+
+geschichten_moseltal()

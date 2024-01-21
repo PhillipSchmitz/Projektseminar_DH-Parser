@@ -1,6 +1,5 @@
 """Hier entsteht die Zuordnung der Orte"""
 import initiate
-import pickle
 from flair.data import Sentence
 from flair.models import SequenceTagger
 import re
@@ -29,7 +28,7 @@ def ner_with_flair(text: str):
     tagger = SequenceTagger.load("flair/ner-german-large")
     sentence = Sentence(text)
     tagger.predict(sentence)
-    #print(sentence)
+    # print(sentence)
 
     locations = []
     for entity in sentence.get_spans('ner'):
@@ -77,7 +76,7 @@ def ner_handler(book: list):
         print("Sage: " + str(i) + "/" + str(len(book)))
         locations.append(ner_with_flair(tale))
         i += 1
-    #locations.append(ner_with_flair(book[3]))
+    # locations.append(ner_with_flair(book[3]))
     return locations
 
 
@@ -91,8 +90,9 @@ def main():
     Main function to handle NER on a tale book
     :return: None
     """
-    booknames = {1: "trier_umgebung_sagen"}
-    name = "trier_umgebung_sagen"
+    booknames = {1: "trier_umgebung_sagen", 2: "oberelsass_sagen", 3: "unterelsass_sagen", 4: "lothringen_sagen",
+                 5: "moseltal_sagen"}
+    name = booknames[5]
     tale_book = retrieve_list(name)
     str_book = stringify_book(tale_book)
     locations = ner_handler(str_book)

@@ -29,6 +29,7 @@ def retrieve_list(name: str):
     """
     with open("parsed_sagen/" + name + ".pkl", "rb") as f:
         tale_list = pickle.load(f)
+        print(tale_list[0])
     return tale_list
 
 
@@ -161,7 +162,7 @@ def create_body(body: ET, book: list, dictionary: dict):
         # print(tale)
         title = tale[0]
         group = dictionary[title]
-        if not group == group_memory:
+        if not group == group_memory and not group == None:
             tale_group = create_group(body, group, i_group)
             i_group += 1
         group_memory = group

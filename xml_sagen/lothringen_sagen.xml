@@ -1,0 +1,2813 @@
+<TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="full">
+					<title type="main">Trier und seine Umgebung in Sagen und Liedern.</title>
+					<title type="sub">Mit Bemerkungen über die Quellen dieser Sagen.</title>
+				</title>
+				<author>Ph. Laven</author>
+				<respStmt>
+					<resp>Encoded by</resp>
+					<name>Ben Conrad</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Projektseminar Praxis der Digital Humanities</publisher>
+				<pubPlace>University of Trier, Germany</pubPlace>
+				<availability>
+					<p>CC0</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<author>Ph. Laven</author>
+					<title type="full">
+						<title type="main">Trier und seine Umgebung in Sagen und Liedern.</title>
+						<title type="sub">Mit Bemerkungen über die Quellen dieser Sagen.</title>
+					</title>
+					<edition>first</edition>
+					<pubPlace>Trier, Germany</pubPlace>
+					<publisher>Verlag der Fr. Lintz'schen Buchhandlung</publisher>
+					<date>1851</date>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Erfassung von Sagensammlungen des 19. Jahrhunderts entlang Mosel. OCRisierung. Modelierung. Lokalisierung.</p>
+			</projectDesc>
+			<editorialDecl>
+				<p>Typographic Lines encoded as line elements</p>
+			</editorialDecl>
+			<geoDecl>Flat Earth Coordinate System</geoDecl>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+		<front />
+		<body>
+			<div type="Sagengruppe" n="1">
+				<head> </head>
+				<div type="Sage" n="1">
+					<head>Frau Florentina die Getreue</head>
+					<p>
+						<pb type="ocr" n="21" />
+						<pb type="book" n="1" />
+						<l>Frau Florentina die Getreue</l>
+						<l>in herrlicher Herbstesabend hatte seinen leuchtenden,</l>
+						<l>Arbeit aus Stein, das heutige Metz schmückt, noch nicht erstanden.</l>
+						<l>dort ein Wappenschild. Das waren die Wohnhäuser der ritterlichen,</l>
+						<pb type="ocr" n="22" />
+						<pb type="book" n="2" />
+						<l>vonMek; dort standen in weißen Gewändern die Münſterſchüler;</l>
+						<l>alten Stadt Met sich heute nahen sollte.</l>
+						<l>die Wasserbäche.</l>
+						<l>Sonne auf den Wipfeln der Platanen und Kaſtanien am Thore;</l>
+						<pb type="ocr" n="23" />
+						<pb type="book" n="3" />
+						<l>Die Ritter von Metz lenkten ihre Rosse näher an einander;</l>
+						<l>Volksprediger als die ersten empfangen von der Meter Bürgerschaft;</l>
+						<l>Vereinigungen der Zünfte und Gilden den langen Zug beschlossen,</l>
+						<l>wallte.</l>
+						<l>war und ihm zu Rosse entgegenzog, der hob zum Gruß das Schwert,</l>
+						<pb type="ocr" n="24" />
+						<pb type="book" n="4" />
+						<l>Hausfrau geworden war des Ritters Alexander.</l>
+						<l>Der Dom des heiligen Stephan in Meh war erreicht. St.</l>
+						<l>Geläut der Glocken hinein. Der Cisterzienser trat zum Altare vor,</l>
+						<l>küßte die Reliquie. Dann sang er selbst die Liturgie.</l>
+						<l>in seine entfernteſte Tiefe. Was war das für ein Gesang?</l>
+						<l>leuchtenden Muttergottesbilde gewendet, die Worte hinzu :</l>
+						<l>"O clemens, o pia,</l>
+						<l>ſchimmerndem Golde geschmückten Wölbungen des Gotteshauſes.</l>
+						<l>Ordens; er schilderte aber auch die ewige Freude, welche den Gefallenen,</l>
+						<l>sei. Dann aber schloß er :</l>
+						<pb type="ocr" n="25" />
+						<pb type="book" n="5" />
+						<l>regenden Schlachtenmutes.</l>
+						<l>das Gelübde zur heiligen Fahrt verkündendem Tuche gebracht worden.</l>
+						<l>Und wiederum erhob der Heilige machtvoll seine Stimme.</l>
+						<l>Märtyrerkrone sein. Unaufhörlichsoll dies Kreuz euch daran mahnen,</l>
+						<l>Wangen, drängten die Edlen, die Bürger von Meß sich zum Altare,</l>
+						<pb type="ocr" n="26" />
+						<pb type="book" n="6" />
+						<l>zur heiligen Fahrt verpflichtet hatten.</l>
+						<l>aber lagen noch auf dem Altare.</l>
+						<l>Metz lieblich und milde zu :</l>
+						<l>,,Sag', Ritter Alexander, warum zögerst du?"</l>
+						<l>man von deiner Tapferkeit, und du, du bleibſt dahinten?“</l>
+						<l>Da trat der Ritter Alexander zu dem Heiligen vor.</l>
+						<l>kam es über seine Lippen.</l>
+						<l>deutsches Blut?"</l>
+						<l>Hand so fest umschloſſen hält?“</l>
+						<l>„Was ist's ?"</l>
+						<pb type="ocr" n="27" />
+						<pb type="book" n="7" />
+						<l>„ nU d warum nicht?“</l>
+						<l>„Wie heißen dieſe Friedebrecher?“</l>
+						<l>dein Schicksal sein ein Spiegelbild der wunderbaren Wege,</l>
+						<l>Da kniete Alexander vor dem Altare nieder. „Ich glaube,</l>
+						<l>Zeichen auch auf die Schulter des Bannerherrn von Meh.</l>
+						<l>wachten noch der Hauptmann der Stadt und seine liebliche Gattin.</l>
+						<l>Gelübde auf die Seele des tapfern Mannes gefallen.</l>
+						<l>zarten Hand die Stirne und die Locken streichelnd.</l>
+						<l>„Was drückt und ängstigt dich, mein Trauter ?“</l>
+						<l>Und zweifelst du an meiner Treue?"</l>
+						<pb type="ocr" n="28" />
+						<pb type="book" n="8" />
+						<l>jene Worte zugerufen, die mir der Engel sagte:</l>
+						<l>bild der wunderbaren Pfade, die Gott geht, und jener Kraft,</l>
+						<l>Schlafgemache der Gatten.</l>
+						<l>Gottesfrieden aber, so hatte der Abt von Clairvaur bestimmt,</l>
+						<l>eingewurzelt ; die Ritter trugen ja die Narben von Wunden an sich,</l>
+						<pb type="ocr" n="29" />
+						<pb type="book" n="9" />
+						<l>Sallines lächelte und richtete sich dann energiſch in den Bügeln auf.</l>
+						<l>wandte sich dann zu den beiden Befehdern der Stadt.</l>
+						<l>zienſers. Mit einer Thräne im Auge gehorchte ihm der Edelmann.</l>
+						<l>Sallines.</l>
+						<l>Du trohest, Mann?" so fragte er.</l>
+						<l>oder altersmüder Hand. "</l>
+						<l>„Vermessener, du glaubst an keinen Gott?"</l>
+						<pb type="ocr" n="30" />
+						<pb type="book" n="10" />
+						<l>trägt dich auf zu den ſchimmernden Zinnen des himmliſchen Jeruſalem,</l>
+						<l>von Sallines, daß unserm Gotte niemand widerstehen kann. Ihm,</l>
+						<l>Apostel Petrus gleichen, welcher den Lahmen heilte vor der „schönen“</l>
+						<l>brauchte auch St. Bernhard, als er ausrief :</l>
+						<l>er die Hände faltend :</l>
+						<l>das Schwert gezogen und hielt dem heiligen Vernhard seine Klinge hin.</l>
+						<pb type="ocr" n="31" />
+						<pb type="book" n="11" />
+						<l>„Hochwürd Her ,</l>
+						<l>Und wieder erklangen die Glocken von allen Türmen. St.</l>
+						<l>Bernhard willfahrte dem Bittenden.</l>
+						<l>Dann aber verkündete er Gottesfrieden.</l>
+						<l>„Gefriedet seien“, so sprach er, „ die Kirchen und ihre Vorhöfe,</l>
+						<l>und die Frauen, die Pilger, sowie die Kaufleute und ihre Diener,</l>
+						<l>Schwört ihr's?"</l>
+						<l>das Kreuz verkündigen wollte.</l>
+						<l>Der Winter kam, und Frau Florentina spann und webte.</l>
+						<l>Jahrhunderte lang dort schriftlich aufbewahrt worden sind :</l>
+						<l>"Was thut ihr, tapfere Männer, Knechte des Kreuzes?</l>
+						<pb type="ocr" n="32" />
+						<pb type="book" n="12" />
+						<l>drängten Volksmassen aus dem Dome getragen.</l>
+						<l>oder Graully, in deſſen Rachen die Bäcker Brote werfen mußten,</l>
+						<l>im Schmucke der grünen Maien durch die Stadt geführt worden,</l>
+						<l>Gemahlin des Ritters Alexander, hatte alles wohl vorbereitet ;</l>
+						<l>von Meh die Fahrt nach Speyer antreten.</l>
+						<l>der zum geheiligten Kampfe ausziehenden Bürger von Meh ge=</l>
+						<l>waren, das waren nur fünf Seelen vier Männer, eine Frau:</l>
+						<l>Baudoche und Ritter Alexander mit seiner tugendſamen Gemahlin.</l>
+						<l>nachdem die Feier beendet war, zu Frau Florentina. „Holde Frau,</l>
+						<pb type="ocr" n="33" />
+						<pb type="book" n="13" />
+						<l>ihres Gatten leuchtendes Kreuzfahrerkleid, ――― sie nahm einen blauen,</l>
+						<l>Dort stand ihr Liebstes, was sie nach ihrem Gatten auf Erden besaß;</l>
+						<l>ſeinem Münster einrichtete.</l>
+						<l>Harfe und suchte Trost in Tönen und in Thränen.</l>
+						<l>vertrauensvoll begann daſſelbe :</l>
+						<pb type="ocr" n="34" />
+						<pb type="book" n="14" />
+						<l>„Sei gegrüßt, du Stern der Meere,</l>
+						<l>Der in dem Schoß des Vaters ruht,</l>
+						<l>Durch die bange Nacht der Trauer,</l>
+						<l>Durch die Angst und durch die Qual,</l>
+						<l>Durch der Wetterwolken Schauer,</l>
+						<l>Und so zogen sie dahin, durch Deutschland, durch Ungarn.</l>
+						<l>Reich und über Konstantinopel nach Klein-Asien führte.</l>
+						<l>Doch viele, viele Kreuzfahrer machten eine rühmliche Ausnahme.</l>
+						<l>wir unsere Freunde wieder.</l>
+						<l>Denn wiederum, wie bei Gelegenheit des ersten Kreuzzuges,</l>
+						<pb type="ocr" n="35" />
+						<pb type="book" n="15" />
+						<l>Ufer weit. So blieb's den Tag über, so die Nacht. Endlich ver.</l>
+						<l>Gottesdienst. Als sie das Coblied auf die Jungfrau anstimmten,</l>
+						<l>Wangen: manch' guter Mann hatte einen unrühmlichen Tod gefunden.</l>
+						<l>nossen. Hier, in dem Thale des Athyras, aber zeigte es sich zuerst,</l>
+						<l>Alerander und ihn selbst behütete.</l>
+						<l>Heinrich von Sallines, ――― sie waren rein und unbefleckt geblieben.</l>
+						<l>ein kleines Kristallgefäß, indem er sprach:</l>
+						<pb type="ocr" n="36" />
+						<pb type="book" n="16" />
+						<l>Erde von Asien zu betreten.</l>
+						<l>nach Ikonium ein. Zum erstenmal wehte die deutsche Kaiser.</l>
+						<l>Kämpfer oft einem von ihnen selbst herbeigewünschten Ende zuführten.</l>
+						<l>der Mantel Heinrichs von Sallines.</l>
+						<pb type="ocr" n="37" />
+						<pb type="book" n="17" />
+						<l>Deutschen, welches sich noch immer auf der Ebene von Ikonium.</l>
+						<l>befand.</l>
+						<l>die Bürger von Meh ſich auf einem Felsenplateau gelagert hatten.</l>
+						<l>zuvor die Wacht gehabt und war, zum Tode müde, eingeschlafen.</l>
+						<l>Alexander von Met betrachtete aufmerksam die Züge des Ruhenden ;</l>
+						<l>nehmen. Herr Heinrich lächelte oft milde in seinem füßen Schlafe.</l>
+						<l>du Puy die schwüle Stille der Nacht; „ich sah heut’' ihrer zwei ,</l>
+						<l>die hier vorübergingen: mit höhnischen Blicken schauten sie sich um,</l>
+						<l>zuversichtlich hoffe ich, daß uns das heilige Naß beſchüßen wird,</l>
+						<l>strahlen, welche am Horizonte aufleuchteten, wurden heller und greller.</l>
+						<l>meiner Sünden willen darf ich das heilige Land nicht sehen ; jedoch,</l>
+						<pb type="ocr" n="38" />
+						<pb type="book" n="18" />
+						<l>Die Metzer Krieger versuchten es nicht, den Freund zu trösten ;</l>
+						<l>ihre Schilde zurück.</l>
+						<l>Ritter Alerander dachte an ſein ſtilles, glückliches Heim zu Meh.</l>
+						<l>erreicht.</l>
+						<l>hatten von denselben leider nicht mehr gewonnen werden können ;</l>
+						<l>das liebe, ferne Vaterland und focht dann fort mit Löwenmut, fest.</l>
+						<pb type="ocr" n="39" />
+						<pb type="book" n="19" />
+						<l>ſprigt war, und ist dann gläubig, des Paradieſes Freuden erwartend,</l>
+						<l>bluteten alle, nur Ritter Alexander war unverwundet geblieben,</l>
+						<l>Mantel, welchen Frau Florentina ihm gewirkt hatte, war durchbohrt,</l>
+						<l>ward es still, ganz still. Heißer und heißer aber wurde die Sonnenglut;</l>
+						<l>hell und freudig blieb sein Auge. Die Freunde knieten um ihn her;</l>
+						<l>glut die Felsenspitzen des Gebirges. Aber er wurde nicht ungeduldig ;</l>
+						<l>Dort aus der Spalte des Steines strömte ein silberheller Quell hervor;</l>
+						<l>Aber das Niedersteigen war unendlich beschwerlich; es wurde Abend,</l>
+						<l>als er wieder zu den Freunden kam.</l>
+						<pb type="ocr" n="40" />
+						<pb type="book" n="20" />
+						<l>und immer leuchtender wurden seine Züge, je mehr der Abend nahte.</l>
+						<l>Diener Gottes: Herr Heinrich von Sallines hatte vollendet.</l>
+						<l>Eine Felsenkluft von nur geringer Breite war bald aufgefunden;</l>
+						<l>waren zerstoßen und zermalmt in seine Brust gedrungen.</l>
+						<pb type="ocr" n="41" />
+						<pb type="book" n="21" />
+						<l>Tiere in den Thalkeſſel geflüchtet, entronnen aus dem wilden Kampfe.</l>
+						<l>Ein Schlauch mit Wein, zwar nur noch einige Becher enthaltend,</l>
+						<l>wasser. Dann saßen sie auf; ――――――― als die Morgensonne aufstieg hatten,</l>
+						<l>ſie die Nachzügler des christlichen Heeres bereits wiederum erreicht.</l>
+						<l>Mauern von Meh hinausgeführt hatte. Das machte ihn tieftraurig.</l>
+						<l>Faſt ſchien nun für die Kreuzfahrer jede Aussicht verſchwunden,</l>
+						<l>die nun mit den Trümmern des deutschen Heeres vereinigten Franzosen.</l>
+						<l>Christen. So kamen die Wallbrüder zu den Grenzen Pamphyliens.</l>
+						<l>sicher zu sein und sich der erwünschten Ruhe hingeben zu können.</l>
+						<l>Nacht die Totenklage der Christen.</l>
+						<pb type="ocr" n="42" />
+						<pb type="book" n="22" />
+						<l>von Metz zu erblicken hatte, und welches er selbst durchleben mußte.</l>
+						<l>Zweifel, ob Gott denn wirklich also sein Volk verlaſſen könne.</l>
+						<l>zum Himmel aufgestiegen sei. Endlich wurde Antiochia doch erreicht;</l>
+						<l>geisterhafter Reiter ihm stets zur Rechten blieb.</l>
+						<l>Heinrich von Sallines, welchem er den letzten Liebesdienst erwieſen hatte.</l>
+						<l>Hier fand auch Raimund du Puy ſeines kriegerischen Lebens Ziel ;</l>
+						<l>ihrer heil'gen Stadt.</l>
+						<l>Nun lag der Weg nach Jerusalem offen vor dem Heere da;</l>
+						<l>Frau Florentina's gedenkend, zog Ritter Alexander auf ihm hin.</l>
+						<l>glanze verklärt, den franzöſiſchen und deutschen Kreuzfahrern entgegen.</l>
+						<l>wurden die Wallfahrer zu Jerusalem von den Christen empfangen,</l>
+						<pb type="ocr" n="43" />
+						<pb type="book" n="23" />
+						<l>jenes Jahrhunderts an den heiligen Stätten zu kaſteien pflegte.</l>
+						<l>erfahrener Sultan, ein Emir, Namens Anak, befehligte in der alten,</l>
+						<l>Stadt vorgeführt. Ein Regen von Geschossen überschüttete die Pilgrime ;</l>
+						<l>froßdem aber drangen sie vor. Auf den engen Zugängen zur Stadt,</l>
+						<l>bei den Wällen und Palissaden entspann sich ein heftiger Kampf;</l>
+						<pb type="ocr" n="44" />
+						<pb type="book" n="24" />
+						<l>vom Rumpfe getrennt.</l>
+						<l>Was aber half deutsche Tapferkeit, wenn es unter den Franzosen,</l>
+						<l>Christen waren nun leider auf die andere Seite des Fluffes geführt,</l>
+						<l>legten.</l>
+						<l>Schuld sie um den Erfolg des großen Zuges gebracht hatte.</l>
+						<l>von Mehz.</l>
+						<pb type="ocr" n="45" />
+						<pb type="book" n="25" />
+						<l>hingeführt und in den Turm geworfen.</l>
+						<l>Hier schmachtete der Ritter lange, bange und schwere Tage,</l>
+						<l>Und die Krieger und Ritter des Sultans Anak von Damaskus,</l>
+						<l>niedrigendsten Arbeit verdammt wurde.</l>
+						<l>Es begannen daher jetzt furchtbare Tage, Wochen und Monate.</l>
+						<l>Acker, bis ihnen der Schweiß blutig von der Stirne troff;</l>
+						<l>und unbarmherzig ſchwang der Aufseher ſeine Geißel über ihnen.</l>
+						<l>du Puy und von Karol Baudoche hatte, er nichts mehr vernommen;</l>
+						<l>allein noch von den Christenskaven übrig, um den Pflug zu ziehen.</l>
+						<pb type="ocr" n="46" />
+						<pb type="book" n="26" />
+						<l>dem Kreuzesschmuck.</l>
+						<l>nicht wußten; es waren Worte deutscher Sprache, und sie lauteten :</l>
+						<l>wüstliche Kraft des Ritters Alexander.</l>
+						<l>Heiden ein s; ie fürchteten sic vh or dem Manne mit dem ſchimmernden,</l>
+						<l>engel der Ihrigen in der Schlacht, beſchloſſen ſie, ihn zu vernichten.</l>
+						<l>richtete er seine Arbeit.</l>
+						<l>Da fragte ihn einst einer seiner Aufseher : ·</l>
+						<pb type="ocr" n="47" />
+						<pb type="book" n="27" />
+						<l>„Sag', ― bist du ein Engel?"</l>
+						<l>„Nein“, erwiderte Alerander, „ich bin ein armer, sündiger Mensch;</l>
+						<l>„Und dein unbeflecktes, unzerreißbares Gewand?"</l>
+						<l>Herrn zu berichten, was sie an Alexander bemerkt hatten.</l>
+						<l>Ungläubig lächelte der Heide zu der Erzählung der Aufseher.</l>
+						<l>jammerte ihn des Ritters, der so furchtbares still und geduldig ge=</l>
+						<l>befragte ihn wegen seines wunderbaren Hemdes.</l>
+						<l>auf die Fragen des Sultans.</l>
+						<l>der Sultan weiter.</l>
+						<l>Die starken Veiden haben Kraft zu schützen alle, die auf sie hoffen,</l>
+						<l>fühle ich jetzt und so sage ich dir, Sultan :</l>
+						<pb type="ocr" n="48" />
+						<pb type="book" n="28" />
+						<l>Ich will dir deinen Glauben nicht nehmen, Ritter Alexander ;</l>
+						<l>Und so lassen wir denn Herrn Alexander arbeiten und beten,</l>
+						<pb type="ocr" n="49" />
+						<pb type="book" n="29" />
+						<l>des Gefangenen an Frauentugend und Frauentreue vernichten könnte.</l>
+						<l>und als ein Chriſt.</l>
+						<l>Alexander etwas davon wußte, —hin nach der Stadt Meß in Lothringen.</l>
+						<l>mit einem Blicke auf sein leuchtendes Gewand.</l>
+						<l>schwang seine Peitsche über ihn nicht mehr in seiner rohen Weise,</l>
+						<l>Kreuzfahrerkleides, wurde bewundert auch von den sonnenbraunen,</l>
+						<l>mandeläugigen Töchtern des Drients.</l>
+						<pb type="ocr" n="50" />
+						<pb type="book" n="30" />
+						<l>Eine Wallfahrt wollte er thun zu dem Arme des heiligen Stephanus,</l>
+						<l>persische Fürst nur Trauer und Wehklagen vor.</l>
+						<l>der Ritter Alerander?"</l>
+						<l>erfüllte das Gotteshaus. Der Bischof tröstete, ſelbſt tief ergriffen,</l>
+						<l>entſtrömte die Klage :</l>
+						<pb type="ocr" n="51" />
+						<pb type="book" n="31" />
+						<l>ihrem Herzen sagte ihr :</l>
+						<l>Gott, den Wunderthäter voller Allmacht.</l>
+						<l>so fand er frau forentina vor.</l>
+						<l>konnte selbst der Gattin des edlen Alerander nicht unbekannt bleiben,</l>
+						<l>frau florentina galt dermalen nun für eine Witwe in der Stadt;</l>
+						<l>aber ihre eigenen Verwandten, welche ihre Schönheit beneideten.</l>
+						<l>Stunden hindurch; aber sie vergaß des Gottvertrauens nicht. „Nein“,</l>
+						<pb type="ocr" n="52" />
+						<pb type="book" n="32" />
+						<l>Anlaß, sich der Frau Florentina zu nahen.</l>
+						<l>nur den Heiligtümern der Stadt Metz seine Verehrung bezeigt hatte,</l>
+						<l>sie den Fremdling willkommen. Er sprach von ihrem Gatten nicht;</l>
+						<l>dürfen, um sich an ihrem Harfenspiele zu erfreuen.</l>
+						<l>Wie hätte Frau Florentina so bescheidene Bitte versagen können?</l>
+						<l>Hand küßte. Doch mil -d freundlich sprach sie:</l>
+						<l>ein reicher Herr, und mein Gemahl weilt in der fremde unter Not,</l>
+						<l>wohl zu bedienen wußte.</l>
+						<l>durchzuführen und das edle Weib zu gewinnen.</l>
+						<pb type="ocr" n="53" />
+						<pb type="book" n="33" />
+						<l>wie sein Herr liebten Geſang und Spiel mit Leidenschaft.</l>
+						<l>Indeß: derstolze Sarazeneward zu Meh ein unglückseliger Mann.</l>
+						<l>Die keusche Hoheit Frau Florentinas ließ keine zweite Liebe reifen.</l>
+						<l>reichbegabten, so erbarmungsvollen, so friedevoll ergebenen Frau.</l>
+						<l>Manchmal versuchte er es, sich damit zu tröſten, daß er sich sagte :</l>
+						<l>zukehren. In seinem Herzen wogte ein Meer von Empfindungen.</l>
+						<l>es ihn fort; er sank zu ihren Füßen und gestand ihr seine Liebe.</l>
+						<l>Kräfte. Mild, aber durchaus fest erwiderte ſie :</l>
+						<l>ſelber würdig zu machen, in dem Himmelsſaale ſeine Genoſſin zu ſein.</l>
+						<pb type="ocr" n="54" />
+						<pb type="book" n="34" />
+						<l>Er küßte ihres Gewandes Saum und wandte sich zum Gehen.</l>
+						<l>Wahrheit ?"</l>
+						<l>Der Kämmerling Omar hätte nicht die edle Seele sein müssen,</l>
+						<l>an ihr Tagewerk und fröhlichen Herzens entwarf sie einen Plan,</l>
+						<l>mit duftenden Blumen geziert war. „Heilige Jungfrau“, sprach ſie,</l>
+						<l>Darauf faßte Frau Florentina, völliger Einsamkeit sich überlaſſend,</l>
+						<pb type="ocr" n="55" />
+						<pb type="book" n="35" />
+						<l>auf die Stadt Met herabgesunken war, verließ sie Haus und Heimat,</l>
+						<l>Hier nimm diese", fuhr er fort, zu dem Wachthauſe eilend ;</l>
+						<l>ihres Gatten gelobt hatte.</l>
+						<l>Lande, indem sie stets sich an die Spuren jenes Morgenländers hielt,</l>
+						<l>lombardische Ebene hinab und wanderte der Stadt Venedig zu.</l>
+						<l>müſſe. Daß niemand sie für ein Weib ansah, das wußte sie ; St.</l>
+						<l>Maria hatte ihr Gebet erhört ; sie schien ein junger, wunderschöner,</l>
+						<l>ſein, vertauſchte ſie in Venedig ihre Harfe mit einer völlig fremden.</l>
+						<l>und freundlich sich zu ihr neigend sprach, die Heilige :</l>
+						<pb type="ocr" n="56" />
+						<pb type="book" n="36" />
+						<l>„D Herr“, sprach da der Spielmann mit flehentlicher Stimme,</l>
+						<l>ich's dazu, daß ich mein Gelübde löse ?"</l>
+						<l>nicht Geld, so hast du doch der Töne Gold. Und deſſen bedarf ich,</l>
+						<l>Kämmerer Omar aber fuhr fort:</l>
+						<pb type="ocr" n="57" />
+						<pb type="book" n="37" />
+						<l>ich den frieden, welchen mir frau Florentina einst gab. "</l>
+						<l>Jüngling, bei ihm zu bleiben in dem schönen Palaste von Damaskus,</l>
+						<pb type="ocr" n="58" />
+						<pb type="book" n="38" />
+						<l>zuſammenbleiben konnt .e Glücklich landete die Barke in Akkon ;</l>
+						<l>glücklich kamen edi Beiden nach Damaskus.</l>
+						<l>das that; denn er fürchtete doch etwas wie die Ungnade ſeines Herrn.</l>
+						<l>Aber lächelnd empfing ihn der Sultan Anak.</l>
+						<l>Allah's freut es, wenn sie seines Ebenbildes Spur erhalten sehen,</l>
+						<l>zu schlagen, die er da hält mit also schwacher Hand?“</l>
+						<l>Kämmerer.</l>
+						<l>Waldesnacht gezogen kommt. Dann aber stiegen ſie in majeſtätiſcher,</l>
+						<l>voll und friedlich verhallten.</l>
+						<pb type="ocr" n="59" />
+						<pb type="book" n="39" />
+						<l>dem Spielmanne reichen. Doch der Jüngling wies ihn zurück. „Nein,</l>
+						<l>besuchen, eine Wegzehrung; ――――――― so bin ich wohl zufrieden."</l>
+						<l>Der Sultan freute sich des bescheidenen, kunstfertigen Jünglings.</l>
+						<l>aus ; doch als sie allein war, floßen heiß und bitter ihre Thränen.</l>
+						<l>Wie hatte sie an sich halten müssen. Herr Alexander krank,</l>
+						<l>Oft spielte der Pilger nun vor dem Sultan, und jene holde,</l>
+						<l>finsterer Geist des Zornes auf ihm lag, wie über König Saul.</l>
+						<l>Geister zu verbannen.</l>
+						<l>Gatten. Eine furchtbar schwere Zeit war an ihr vorübergegangen,</l>
+						<l>→</l>
+						<l>eine Prüfzeit ihres Glaubens und ihres Hoffens. Wohl hätte sie,</l>
+						<l>der anscheinende, christliche Jüngling, dem kranken Christensklaven,</l>
+						<pb type="ocr" n="60" />
+						<pb type="book" n="40" />
+						<l>eine zuvor gehabt hatte.</l>
+						<l>sie demnächst den Sultan erfreuen wollte. Plötzlich blickte sie auf.</l>
+						<l>Da stand er vor ihr, an den Stufen des Gartenhauses, ihr Alerander,</l>
+						<l>die Harfe sank aus ihrer Hand.</l>
+						<l>wahrscheinlich die, daß Sultan Anak sie beide bei sich zurückhielt.</l>
+						<l>hat zu seinen Jüngern einst gesprochen :</l>
+						<pb type="ocr" n="61" />
+						<pb type="book" n="41" />
+						<l>"In Gottes Namen denn; ――― leb' wohl."</l>
+						<l>Die Schmerzen der beiden, welche sich unerkannt so nahe waren,</l>
+						<l>sah es, wie der Ritter Alexander wieder genas; sie sah's mit Freuden,</l>
+						<l>Sultan Anak. Doch nie nahm der Pilger Gold, noch ein Geschenk;</l>
+						<l>medaner dem Christen verehrte, trug der Jüngling zu den Sklaven,</l>
+						<l>deutscher Ritter war.</l>
+						<l>kräftigt genug zur Fahrt war, nahm er Abschied von Sultan Anak,</l>
+						<l>eine goldene Kette, von welcher sich Glied für Glied ablösen ließ,</l>
+						<l>und sprach dann:</l>
+						<l>„Sie sei im voraus dir gewährt"; erwiderte der edle Sarazene ;</l>
+						<l>Und weiter nichts?"</l>
+						<pb type="ocr" n="62" />
+						<pb type="book" n="42" />
+						<l>wendest du dich jetzt?"</l>
+						<l>„Der Ritter Alerander soll mich führen zu den heil'gen Stätten,</l>
+						<l>sprach der Sultan Anak.</l>
+						<l>wegten Herzens die Hand.</l>
+						<l>des Barradi. An ihm zog der Pilgrim von Damaskus nach Süden.</l>
+						<l>nach der Stadt Joppe. Sie sind mit Wegzehrung wohl versehen.</l>
+						<l>dich und dein Haus. Grüße dein edles Weib daheim von Nureddin,</l>
+						<l>Alexander wollte fragen; allein der Kämmerer winkte ihm,</l>
+						<pb type="ocr" n="63" />
+						<pb type="book" n="43" />
+						<l>der Worte des Kämmerers nicht weiter und zog mit dem Pilger,</l>
+						<l>dank und -preiserfüllt gegen Gott, seine Straße dahin.</l>
+						<l>See mit Berufung auf ihr Gelübde von ihrem Reisegefährten ab,</l>
+						<l>hatte ihr befohlen :</l>
+						<l>derMannſchaft an das Land. Was that der wunderſame Spielmann?</l>
+						<pb type="ocr" n="64" />
+						<pb type="book" n="44" />
+						<l>sehr fröhlich.</l>
+						<l>So kamen sie bis zum schwäbischen Meere, dem Bodensee,</l>
+						<l>wundervolles :</l>
+						<l>Länger als ein Jahr;</l>
+						<l>Mit Golde wohl bewand,</l>
+						<l>Und flog in and're Land.</l>
+						<l>Seit sah ich wieder den Falken,</l>
+						<l>Stolz war sein Flug und hoch;</l>
+						<l>Die seidenen Riemen noch;</l>
+						<l>Noch überall roll Gold :</l>
+						<l>"</l>
+						<pb type="ocr" n="65" />
+						<pb type="book" n="45" />
+						<l>schneide ein Stücklein des Leinens dort aus dem Waffenhemde,</l>
+						<l>„Gern, trauter Bruder, " sprach der Ritter Alexander ; „ aber,</l>
+						<l>zu in dem schneeweißen Linnen. "</l>
+						<l>sonnendurchleuchteten Waldboden; in der Ferne aber verklang sein Lied :</l>
+						<l>zu. Frau Florentina eilte. Denn sie hatte den weiteren Weg.</l>
+						<l>Edelleute verweilen würde, und gedachte so, eher nach Meh zu kommen,</l>
+						<l>denn er.</l>
+						<pb type="ocr" n="66" />
+						<pb type="book" n="46" />
+						<l>liehen, wären nicht ihre Befehle so klar und gemessen geweſen,</l>
+						<l>aber war gütig gegen jedermann ; doch schweigſam ganz und gar.</l>
+						<l>Jubel des Volkes sprengte er vor sein Haus.</l>
+						<l>Mantel, das Haupt noch einmal mit bräutlichem Kranze geſchmückt,</l>
+						<l>Gott, sank der Ritter in ihre ausgebreiteten Arme.</l>
+						<l>Bald tönten wiederum die Glocken vom Dome. Es galt ja,</l>
+						<l>worden war, war Ritter Alexander, der Bannerträger der Stadt,</l>
+						<l>Versammelten die Geschichte ſeiner Rettung und Rückkehr zu verkünden.</l>
+						<pb type="ocr" n="67" />
+						<pb type="book" n="47" />
+						<l>an derselben Stätte erklungen waren, die Worte St. Bernhards.</l>
+						<l>hatte recht, als er es mir verkündigte :</l>
+						<l>bild der wunderbaren Wege, die Gott geht, und jener Kraft,</l>
+						<l>ambrosianische Lobgesang durch die Hallen des Domes.</l>
+						<l>leben. Der Minne Frühling stieg noch einmal ihnen auf und friſcher,</l>
+						<l>nun in Liebe umfing.</l>
+						<l>eine eigentümliche Wahrnehmung: man ſchien ihn zu bedauern, ja,</l>
+						<l>eine Gottesstimme in jenen Tagen:</l>
+						<l>zurückkehrend, einſt über die breite Haide ritten, Alexander und Baudoche,</l>
+						<l>seinem Freunde :</l>
+						<pb type="ocr" n="68" />
+						<pb type="book" n="48" />
+						<l>„Bei Gottes Blute, " fuhr Herr Alexander auf, wage es nicht,</l>
+						<l>Doch ruhig fuhr Herr Karol von Baudoche fort :</l>
+						<l>____ stoße das Schwert zurück und höre :</l>
+						<l>geben.</l>
+						<l>Daheim im stillen Kämmerlein wartete seiner die Gattin.</l>
+						<l>„Mein Alexander, ―――― bist du krank?" rief sie angstvoll aus.</l>
+						<l>„Ist der Nachttau giftig auf dich gefallen P“</l>
+						<l>,,Geliebter, was ist dir?"</l>
+						<l>deren Mahnung an sie.</l>
+						<pb type="ocr" n="69" />
+						<pb type="book" n="49" />
+						<l>weinend und nahm nicht Speiſe, nicht Trank zu sich.</l>
+						<l>ſchuldiges und störriſches Weib. Wie es die Sitte der Zeit vorſchrieb,</l>
+						<l>wollte ihr das Herz brechen. Doch die Engel Gottes trösteten sie.</l>
+						<l>verließ das Zimmer.</l>
+						<l>Die Diener des Hauses aber trugen den Gästen Wein auf.</l>
+						<l>Weib von ihrer Schuld zu befreien.</l>
+						<pb type="ocr" n="70" />
+						<pb type="book" n="50" />
+						<l>sie nicht gezweifelt; selbst bittere Gedanken waren ihr nicht ge=</l>
+						<l>rüſtend zum Spiele.</l>
+						<l>beschloß, ſie aufzusuchen, sobald die Gäſte das Haus verlaſſen hätten,</l>
+						<l>erfreuen.</l>
+						<l>Länger als ein Jahr;</l>
+						<l>Mit Golde wohl bewand,</l>
+						<pb type="ocr" n="71" />
+						<pb type="book" n="51" />
+						<l>Und flog in and're Land.</l>
+						<l>Seit sah ich wieder den Falken,</l>
+						<l>Stolz war sein flug und hoch;</l>
+						<l>Die seidenen Riemen noch;</l>
+						<l>Noch überall voll Gold :</l>
+						<l>Gott sende die zusammen,</l>
+						<l>niemand anders sein als mein Bruderherz aus dem Schwabenlande,</l>
+						<l>Jüngling. Oben aber drängte sich alles um den wunderſamen Sänger.</l>
+						<l>Doch der wehrte jeden Dank von sich ab.</l>
+						<l>Der Bannerträger that's.</l>
+						<l>Uber an Frau Florentina?"</l>
+						<pb type="ocr" n="72" />
+						<pb type="book" n="52" />
+						<l>Ein voller Strahl der goldenen Morgenſonne traf Frau Florentina.</l>
+						<l>Gewande stand ſie da. Wie ein Heiligenschein umleuchtete es sie.</l>
+					</p>
+				</div>
+				<div type="Sage" n="2">
+					<head>Die Bischöfe von Metz und ihre Legenden</head>
+					<p>
+						<pb type="ocr" n="73" />
+						<pb type="book" n="53" />
+						<l>Die Bischöfe von Metz und ihre Legenden</l>
+						<l>für alle Zeit verheißen ist.</l>
+						<l>unter ihre Heiligen aufgenommen hat. St. Clemens, St. Cölestus,</l>
+						<l>bacius, St. Rufus, St. firmin, St. Legontius, St. Auctor u. s. w.,</l>
+						<l>so folgen die Bischöfe von Meh in langer Reihe hintereinander ;</l>
+						<l>Blätterschmucke umrankte Bischofsgestalten sind nur St. Clemens,</l>
+						<l>St. Rufus und St. Adelphus, St. Auctor und St. Arnold.</l>
+						<pb type="ocr" n="74" />
+						<pb type="book" n="54" />
+						<l>aufzufinden vermocht haben.</l>
+						<l>schichte von Metz" über ihn freilich nur die wenigen Worte:</l>
+						<l>das keltische, wie das römische Heidentum gänzlich zu beseitigen.</l>
+						<l>die Kirche St. Pierre aur Arènes in der Nähe des Amphitheaters,</l>
+						<l>Serpenoise-Thore gelegenen Abteien, Kirchen und Klöster anzusehen. ” —.</l>
+						<l>Warnefrieds und der gefeierte Geſchichtsschreiber der Langobarden,</l>
+						<l>seiner feierlichen Weise hier selber alſo ſprechen :</l>
+						<pb type="ocr" n="75" />
+						<pb type="book" n="55" />
+						<l>war. Mit ihm zugleich sind, wie es die uralte Ueberlieferung erzählt,</l>
+						<l>worden, um diese letteren für das Wort des Glaubens zu gewinnen;</l>
+						<l>mit St. Clemens abgeschickt.</l>
+						<l>der Stadt gelegen ist, sich, wie man sagt, seine erste Wohnstätte.</l>
+						<l>Er baute auf demselben Orte dem Herrn auch ein Dratorium auf,</l>
+						<l>große Menge desselben von dem schmutzigen Kulte der Göten ab,</l>
+						<l>meinde vor.</l>
+						<l>wertes Wunder von dieſem heiligen und verehrungswürdigen Manne.</l>
+						<l>ſagter Stadt gekommen war, lag eine schwere Plage auf dem Volke.</l>
+						<l>blähende Gift der Schlangen war eine fast übergewaltige Sterblich.</l>
+						<l>sich nahte, da wagte es niemand mehr, zu ihren Thoren zu schreiten;</l>
+						<pb type="ocr" n="76" />
+						<pb type="book" n="56" />
+						<l>nicht durch das Wasserbad der heiligen Taufe verloren hatte?</l>
+						<l>Herrn gestärkt hatte, begab er is c ih n die Gewölbe des Amphitheaters,</l>
+						<l>um mit der alten Schlange, das ist, mit dem Teufel, zu kämpfen.</l>
+						<l>Nacken sofort zu seinen Füßen nieder.</l>
+						<l>Wurm sich mehr auf ihm erblicken läßt."</l>
+						<l>der Apostel der Meter sodann die ersten Kirchen in seiner Bischofs=</l>
+						<l>aber fand Clemens auch noch einen heilbringenden Brunnen auf,</l>
+						<pb type="ocr" n="77" />
+						<pb type="book" n="57" />
+						<l>sein. Der aber hatte des Nachts darauf eine wunderbare Erscheinung:</l>
+						<l>sein: St. Clemens ist eine Lichtgestalt der deutschen Legende wie St.</l>
+						<l>mit dem milden Namen ist darum indes noch keineswegs zu zweifeln.</l>
+						<l>Landschaft von Metz mit ihren großartigen Römerbauten eintrat ;</l>
+						<l>aber er blieb sich selber getreu und errang dadurch auch den Sieg.</l>
+						<pb type="ocr" n="78" />
+						<pb type="book" n="58" />
+						<l>christlichen Kirche von Meh. Patiens gilt als ein Schüler von St.</l>
+						<l>ſeinem Munde, reichte ihn seinem Schüler und sprach :</l>
+						<l>Apostel Johannes zur Predigt des Evangeliums in Meh abordnete,</l>
+						<l>für sich in Anspruch.</l>
+						<pb type="ocr" n="79" />
+						<pb type="book" n="59" />
+						<l>des heiligen Patiens sind verschollen. Es ist jedoch tiefwehmütig,</l>
+						<l>darüber:</l>
+						<l>Jahren schon nicht mehr mit dem „ aM ntel Karls des Großen"</l>
+						<l>selben also : St. Clemens, St. Cölestus, St. Felir, St. Patiens,"</l>
+						<l>St. Patiens wäre danach erst vierter Bischof der Stadt gewesen.</l>
+						<pb type="ocr" n="80" />
+						<pb type="book" n="60" />
+						<l>Bürger fort, deren Ahnen er einst zum Christentum bekehrt hatte.</l>
+						<l>eben durch dies Opfer der Bürgerschaft hold gestimmt werden sollten,</l>
+						<l>um dann draußen im Meßer Lande die Frühlingsfrüchte zu ſegnen.</l>
+						<l>Bischofe d'Apremont beigeſetzt ; indes verſchwanden seine Reliquien,</l>
+						<pb type="ocr" n="81" />
+						<pb type="book" n="61" />
+						<l>heiligen Clemens von Meß und wenden uns seinen Nachfolgern zu.</l>
+						<l>ihnen war es beschieden, nach ihrem Tode durch Wunder zu glänzen,</l>
+						<l>worden, welcher uns als der dritte der Meher Bischöfe genannt wird.</l>
+						<l>stätte; so voll war seine Seele von der Sorge um seine ewige Zukunft.</l>
+						<l>Er pflegte daher des Nachts all' jene Kirchen und Klöster zu besuchen,</l>
+						<l>einen Gruß zuzurufen.</l>
+						<pb type="ocr" n="82" />
+						<pb type="book" n="62" />
+						<l>Schlage aber ändert sich nun dieser Charakter der Meter Sage.</l>
+						<l>Wieder erzählen wir nur schlicht nach unserer Quelle.</l>
+						<l>In jener wetterſturmdurchwehten Zeit“, so klingt es uns zu,</l>
+						<l>ſchlachteten, begab er sich unerschrocken nach dem Lager der Barbaren,</l>
+						<l>aber hatten ihr Lager auf einem Berge vor Marſal aufgeſchlagen ;</l>
+						<l>merkten die Gläubigen gar bald eine wundersam heilende Kraft ;</l>
+						<l>Nachmals aber hat Bischof Theodorich von Meh, nach Andern St.</l>
+						<pb type="ocr" n="83" />
+						<pb type="book" n="63" />
+						<l>Heilige hatte seinen Willen kundgethan; hier, —nicht zu St. Vincent,</l>
+						<l>erhielt nachmals auch seinen Namen.</l>
+						<l>Dratorium des heiligen Stephanus hinbringen laſſen, welches von St.</l>
+						<l>jenen Tagen auch der heilige Servatius, der Bischof von Tongern,</l>
+						<l>Sünden des Volkes seien. Ganz Gallien," so sprach Petrus zu St.</l>
+						<l>werden auch; die Gotteshäuser werden den Hunnen zur Beute fallen;</l>
+						<pb type="ocr" n="84" />
+						<pb type="book" n="64" />
+						<l>zurück.</l>
+						<l>Mauern zusammenstürzten. Als nun der heilige Auctor dies sah,</l>
+						<l>rief er die Bürger zuſammen, ermahnte ſie, ihre Sünden zu bekennen,</l>
+						<l>durch die Kunde von dem Unglücke, welches zu Meh geschehen war,</l>
+						<l>standen die Feinde von ihrem Verſuche ab, die Kirche zu erbrechen;</l>
+						<l>wieder zurück nach dem verwüsteten Meß.</l>
+						<l>Diese furchtbare Zerstörung der Stadt Metz durch die Hunnen.</l>
+						<l>aber war durch Träume den Heiligen längst vorherverkündet worden.</l>
+						<pb type="ocr" n="85" />
+						<pb type="book" n="65" />
+						<l>treten war und sie angerufen hatte: , ihr Heiligen; gestattet es nicht,</l>
+						<l>an, weil St. Clemens einst die Steine, mit welchen ich getötet worden.</l>
+						<l>dem staunenden Volke geschah das Wunder alsofort auf ſein Wort,</l>
+						<l>aus der naiven Betrachtung eines Kunſtwerkes entstanden ist.</l>
+						<l>Kirche des Abendlandes das apostolische Wort:</l>
+						<l>ihn auf den Bischofsſitz von Metz berief. Graf Arnulf oder Arnold,</l>
+						<pb type="ocr" n="86" />
+						<pb type="book" n="66" />
+						<l>volle Amt an; dann aber ließ er sich von seiner Gattin Doda ſcheiden,</l>
+						<l>Klöster bei Trier begab.</l>
+						<l>Nie aber war eine Wahl glücklicher gewesen als die von St.</l>
+						<l>einziges, kostbares, goldenes Gefäß. Allein auch das gab er hin.</l>
+						<l>Unvergessen, wie sein kirchliches ist ferner das politische Verdienst,</l>
+						<l>welches er als Ratgeber Dagoberts I. sich erworben hat.</l>
+						<l>ſollte durch seine Tugenden vielmehr die Leuchte des Landes werden,</l>
+						<l>glauben, daß Gott mir meine Sünden vergeben hat."</l>
+						<l>mehr. So trug man denn eines Tages einen Fisch vor ihm auf.</l>
+						<l>Erstaunt aber zeigte ihm der Koch zugleich einen kostbaren Ring,</l>
+						<pb type="ocr" n="87" />
+						<pb type="book" n="67" />
+						<l>nach seiner nun zerstörten Abtei hinaus und machte dort von St.</l>
+						<l>Tausendfüßler, im Siegel, nach anderen einen Fisch in einer Reuse.</l>
+						<l>der erfreute Vater das Haupt des teuern, ihm gleichgesinnten Sohnes,</l>
+						<l>und Anſegis wurde der Großvater des großen Karl.</l>
+						<l>nulf, sich völlig aus der Welt in die Einsamkeit zurückzuziehen.</l>
+						<l>seine Bittte, ihn zu entlaſſen, auf's dringendste wiederholt hatte :</l>
+						<l>Ernst und gemessen antwortete St. Arnulf: „Mein Leben,</l>
+						<l>ſowie das ſeinige, stehen in Gottes Hand. Du aber zeigst mir leider,</l>
+						<pb type="ocr" n="88" />
+						<pb type="book" n="68" />
+						<l>mein König, daß du noch immer nicht Herr deines Geiſtes biſt,</l>
+						<l>gemessener:</l>
+						<l>Bischofe nieder und sprach zu ihm:</l>
+						<l>nicht zu verlaſſen. Weinend ſagte ihnen der Heilige :</l>
+						<l>das Reich Gottes, so wird euch alles Andere von selbst zufallen."</l>
+						<l>Lebenstage zubringen könnte.</l>
+						<l>Doch ehe der große Arnulf von Meh von seiner Heerde ſchied,</l>
+						<pb type="ocr" n="89" />
+						<pb type="book" n="69" />
+						<l>Hand und sprach zu ihm:</l>
+						<l>„Mein Freund,“ erwiderte ihm der Heilige, „ich komme nicht;</l>
+						<l>an den Händen,“ so sagt der Verfaſſer von St. Arnolds Lebensbe.</l>
+						<l>gegen das Feuer aus, das Zeichen des heiligen Kreuzes machend.</l>
+						<l>Sofort wichen die Flammen zurück. “</l>
+						<l>Lothringen, auf welchem ſich damals ein berühmtes Frauenstift befand.</l>
+						<l>lange Zeit. Es befanden sich aber Ausſäßige bei den Einsiedlern;</l>
+						<l>zu bleiben vermocht hätte.</l>
+						<l>Kloster des h. Johannes beigesetzt worden, welches, wie wir sahen,</l>
+						<pb type="ocr" n="90" />
+						<pb type="book" n="70" />
+						<l>.</l>
+					</p>
+				</div>
+				<div type="Sage" n="3">
+					<head>Im Königspalaste zu Metz</head>
+					<p>
+						<pb type="ocr" n="91" />
+						<pb type="book" n="71" />
+						<l>Im Königspalaste zu Metz</l>
+						<l>auf dem höchsten Punkte von Meh gar bald ein Palast,</l>
+						<l>sie ja auch wie der Wind, diese starken Edelinge der Merowinger,</l>
+						<pb type="ocr" n="92" />
+						<pb type="book" n="72" />
+						<l>tilgen wollten.</l>
+						<l>Trojaner dem Verderben. Sie irrten lange in der Welt umher.</l>
+						<l>Hertzog schreibt in Üebereinstimmung damit :</l>
+						<l>bei dem Rheine billig heißet Franken. "</l>
+						<l>bieten, giebt uns Gregor von Tours nach jetzt verlorenen Quellen.</l>
+						<pb type="ocr" n="93" />
+						<pb type="book" n="73" />
+						<l>mitteilen.</l>
+						<l>und ihm in ihrem eigenen Lande ohne Zweifel überlegen sein würden.</l>
+						<l>tinus aber zog mit dem Heere bei der Veste Neuß über den Rhein.</l>
+						<l>Als er zwei Tagemärsche über den Fluß hinaus vorgerückt war,</l>
+						<l>Bewohnern verlassen worden waren. Denn die Franken hatten gleich,</l>
+						<pb type="ocr" n="94" />
+						<pb type="book" n="74" />
+						<l>ringsum umſchloſſen fanden, wollten sie in eine sumpfige Ebene,</l>
+						<l>Rosse und die Cast der Waffen die Gerüsteten in die Tiefe zogen.</l>
+						<l>verloren war, wurden die Legionen überwältigt und niedergehauen. “</l>
+						<l>züchtigen. Dieser Rat ließ sich jedoch nicht eben leicht befolgen ;</l>
+						<l>auf Köln los.</l>
+						<pb type="ocr" n="95" />
+						<pb type="book" n="75" />
+						<l>zoge und Hauptleute. Das Weitere übergehen wir mit Stillschweigen;</l>
+						<l>an der Mündung des Rheinstromes gezogen, allwo sie zuerst „ge=</l>
+						<l>über sich gesetzt hätten. "</l>
+						<l>lang herabwallende Haar, welches jeder Sproß des Geschlechtes trug.</l>
+						<l>pflegten das Haar kurz zu scheren. “</l>
+						<l>Franken, welche uns namhaft gemacht werden, hinaufgeführt hat,</l>
+						<l>wissen wir nicht; fast scheint es nicht so.</l>
+						<l>zuerst einen gemeinsamen Fürsten erkoren: es war jener Pharamund,</l>
+						<l>auf dem Firſte des Wasgenwaldes die Ruhestätte, das „Heldenbette“,</l>
+						<pb type="ocr" n="96" />
+						<pb type="book" n="76" />
+						<l>Kapelle gestanden haben.</l>
+						<l>Die Geschichte zeigt uns ein freundliches Bild von diesen ältesten.</l>
+						<l>als den Sammler der salischen Gesetze kennen ; ehrwürdig blondlockig,</l>
+						<l>die Sage spricht ähnlich, — auch von Pharamunds nächſtem Nachfolger.</l>
+						<l>Clodio. Der Bischof Gregor von Tour ſchreibt über denselben :</l>
+						<l>Kundschafter nach derselben aus, und als sie alles erforscht hatten,</l>
+						<l>folgte er ihnen nach, überwand die Römer und nahm die Stadt ein.</l>
+						<l>das Land bis zur Somme. Aus seinem Stamme, sɔ behaupten einige,</l>
+						<l>sei der König Merowich entſproſſen, deſſen Sohn König Childerich war. “</l>
+						<l>Merowinger berichtet.</l>
+						<l>das folgende:</l>
+						<pb type="ocr" n="97" />
+						<pb type="book" n="77" />
+						<l>angelinge heißen. “</l>
+						<l>Die Sage ist sehr dunkel und erfordert eine kurze Besprechung.</l>
+						<l>die Franken auch den Merowingern göttlichen Ursprung zuſchrieben.</l>
+						<l>kaum ein anderer als der König der Tiefe selbst, der Gott des Meeres,</l>
+						<l>ursprünglich eine Schmach zu ſein ſchien.</l>
+						<l>Frankenberge an der Grenze des Elsasses zu erblicken vermeint hat.</l>
+						<l>einst mit Grauen zugeraunt hat, das muß auch hier erzählt werden;</l>
+						<pb type="ocr" n="98" />
+						<pb type="book" n="78" />
+						<l>zukehren."</l>
+						<l>Also floh Childerich zu Biſſinus, dem Könige der Thüringer,</l>
+						<l>die Franken den Aegidius, den Vater des Syagrius, einen Römer,</l>
+						<l>sprechen nicht, welches er seinem Herrn Childerich gegeben hatte ;</l>
+						<l>bereuten, ihren angeborenen Herrn vertrieben zu haben.</l>
+						<l>ein Goldstück geweſen, welches zwischen ihnen zerteilt worden war.</l>
+						<l>also in sein Reich zurück.</l>
+						<l>Fremde aufgenommen hatte, besaß ein Weib, mit Namen Basina.</l>
+						<l>die Fürstin fragte, warum sie aus so weiter Ferne zu ihm käme,</l>
+						<l>da gab sie ihm zur Antwort:</l>
+						<l>bist; deshalb bin ich gekommen, bei dir zu wohnen. Denn wisse:</l>
+						<pb type="ocr" n="99" />
+						<pb type="book" n="79" />
+						<l>zu gewinnen. Und so wohnten sie in dem Königspalaste zu Metz,</l>
+						<l>und Basina gebar einen Sohn; den nannte der König Chlodwig.</l>
+						<l>Basina in der Metzer Pfalz ihren Gatten Childerich aufforderte,</l>
+						<l>weise Königin, was dieſe ſeltſamen Gesichte zu bedeuten hätten.</l>
+						<l>zu geben. Nach Sonnenaufgang aber sprach sie zu Childerich:</l>
+						<l>dir die Beschaffenheit unserer Nachkommen dar. Unser Sohn wird.</l>
+						<l>schlechte werden seig wie die Hunde sein. Das kleine Getiere aber,</l>
+						<l>von welchem du gesehen hast, wie ſich dasselbe unter einander zerriß,</l>
+						<l>bedeutet das Volk der Franken welches dann keines Königs Geſetz,</l>
+						<l>Gesicht König Childerichs und die Deutung der Königin Baſina.</l>
+						<pb type="ocr" n="100" />
+						<pb type="book" n="80" />
+						<l>fressen. Das Grab enthielt ferner verrostete Eiſenſtücke, zwei Schädel,</l>
+						<l>Leben erwacht.</l>
+						<l>Unsere Darstellung hat sich nun jenem Manne zuzuwenden,</l>
+						<l>durchtönendem Ruhme erfüllt hat: es ist der König Chlodwig,</l>
+						<l>zunächst die Geſchichte vom „ Kirchenkruge. “</l>
+						<l>dem Boten, ihm nach der Stadt Suession zu folgen. "/Dort wird",</l>
+						<pb type="ocr" n="101" />
+						<pb type="book" n="81" />
+						<l>die Franken erbeutet hatten; denn dort sollte dasselbe verlost werden.</l>
+						<l>sich, schlug mit seinem Schwerte den Krug in Scherben und sprach:</l>
+						<l>Trümmer des kostbaren Gefäßes dem Boten des Bischofs.</l>
+						<l>schlagen hatte. Da sprach Chlodwig:</l>
+						<l>I g He ist ke Fe als du ;</l>
+						<l>Schwert, stieß ihm dasselbe blißſchnell in den Rücken und ſprach:</l>
+						<l>versteckten und finstern Entschlossenheit.</l>
+						<pb type="ocr" n="102" />
+						<pb type="book" n="82" />
+						<l>der Königstochter Chrodichilde von Burgund.</l>
+						<l>Burgund, hatte zwei Nichten; die verbannte der schlimme Mann;</l>
+						<l>die ältere Corona mit Namen wurde Nonne; um die jüngere aber,</l>
+						<l>er wußte, daß Chrodichilde, die Christin, da es ein Sonntag war,</l>
+						<l>einen Kuß auf dieselbe. Von jungfräulicher Schamröte übergoſſen,</l>
+						<l>zuführte. Wie nun Aurelian zu ihr kam, da fragte sie ihn :</l>
+						<l>mosens meine Hand vom Mantel entblößtest und küßtest ?"</l>
+						<pb type="ocr" n="103" />
+						<pb type="book" n="83" />
+						<l>hatte, um die Brautgaben aus dem groben Linnen hervorzuziehen,</l>
+						<l>das rote Gold wurde dem Gaste wiederum zugestellt, welcher nun,</l>
+						<l>er geschehe." Noch aber bat Chrodichilde, alles geheim zu halten,</l>
+						<l>herrscher der Franken gesendet hatte, in ihres Dheims Schazkammer.</l>
+						<l>palaſte von Meh wurde die folgenschwere, gesegnete Hochzeit gehalten.</l>
+						<l>unaufhörlich in ihren Gemahl, indem sie alſo ſprach :</l>
+						<l>ſprach, sie konnte ihn nicht zu Christo bekehren.</l>
+						<l>König die Galle ; er schalt heftig auf die Königin und ſprach :</l>
+						<pb type="ocr" n="104" />
+						<pb type="book" n="84" />
+						<l>Wäre der Knabe geweiht worden im aN men meiner Götter:</l>
+						<l>Die Königin aber erwiderte :</l>
+						<l>nannte. Aber auch er fing an zu erkranken. Da sprach der König:</l>
+						<l>auf das innige Gebet seiner Mutter wieder gesund.</l>
+						<l>er seine Augen zum Himmel und sprach :</l>
+						<l>jetzt aus der Hand meiner Widersacher. "</l>
+						<l>warfen sie sich Chlodwig und sprachen:</l>
+						<l>„Laß, wir bitten dich, nicht noch mehr des Volkes umkommen;</l>
+						<l>epischen Geist unsrer heldenhaften Vorzeit.</l>
+						<pb type="ocr" n="105" />
+						<pb type="book" n="85" />
+						<l>Jeht aber ließ die Königin heimlich den Bischof von Reims,</l>
+						<l>Chlodwig erwiderte :</l>
+						<l>geöffnet hatte, rief das Volk alſo :</l>
+						<l>bereit, zu folgen dem unsterblichen Gott, welchen Remigius predigt. “</l>
+						<l>Taufbade hin, sich rein zu waschen von dem Unrat der Sünde.</l>
+						<l>Der heilige Remigius aber redete ihn mit beredtem Munde also an:</l>
+						<l>uns entgegen.</l>
+						<pb type="ocr" n="106" />
+						<pb type="book" n="86" />
+						<l>Frankenbischofe erzählt worden, wie in der Pfalz und wie im Elſaſſe;</l>
+						<l>licher Mann. Man wußte ſicher dereinst auch hier davon zu sagen,</l>
+						<l>als in Cothringen; sie gehören der waldesduftigen Pfalz und dem.</l>
+						<l>noch heut, wie Remigius die Grenzen seines Landes abgeritten hat,</l>
+						<l>nehmen wollte, durch das Versinken des Mühlenwerkes gestraft hat,</l>
+						<l>haften Züge aus ihrem reichbewegten Leben zu sammeln.</l>
+						<l>des königlichen Schildzeichens und von der heiligen Ampulla.</l>
+						<l>drei schwarze Kröten in seinen gelbseidenen Fahnen geführt habe,</l>
+						<pb type="ocr" n="107" />
+						<pb type="book" n="87" />
+						<l>gewiß der Adler Roms oder Chlodwigs Siegelchiffre.</l>
+						<l>nun noch einmal die geschichtliche Sage in wahrhaft epiſcher Pracht.</l>
+						<l>nach Gregor von Tours. Der Bischof schreibt :</l>
+						<l>Teil Galliens besitzt. Lasset uns aufbrechen unter Gottes Beiſtande,</l>
+						<l>damals auf. Als er jedoch mit seinem Heere zum Viennefluß kam,</l>
+						<l>meheln.</l>
+						<l>Auf dem Felde von Vouillé, zehn Meilen von Poitiers ,</l>
+						<pb type="ocr" n="108" />
+						<pb type="book" n="88" />
+						<l>zog dann nach Angoulême. Dort erwies ihm der Herr solche Gnade,</l>
+						<l>daß die Mauern der Stadt, als er sie anblickte, von selbst niedersanken.</l>
+						<l>Kirche des heiligen Martinus.</l>
+						<l>rock und den Mantel an und schmückte sein Haupt mit einem Diademe.</l>
+						<l>redet. Von Tours aber ging Chlodwig nach Paris.</l>
+						<l>Chlodwig aber ließ ihm sagen : „Dank für deinen guten Willen ;</l>
+						<l>jenes in Augenschein nahmen, sagte er:</l>
+						<l>Da erwiderten die Boten:</l>
+						<pb type="ocr" n="109" />
+						<pb type="book" n="89" />
+						<l>,,Stecke doch einmal deine Hand hinein bis auf den Boden,</l>
+						<l>der Männer den Arm und hieb ihn mit der Art in das Haupt.</l>
+						<l>also getötet worden waren, berief er alles Volk zur Versammlung.</l>
+						<l>Schatzkästen eröffnete, von einem mir unbekannten Manne erſchlagen.</l>
+						<l>Blut meiner Stammesvettern nicht vergießen, und schimpflich wär's,</l>
+						<l>und dessen Schätze.</l>
+						<l>und ließ beide fesseln und scheren; Chararich wurde zum Priester,</l>
+						<l>weinte über seine Erniedrigung. Da sprach sein Sohn zu ihm:</l>
+						<l>und gewann so ihr Land, ihren Schatz und ihr Volk.</l>
+						<l>Es lebte aber damals zu Cambrai der König Ragnachar;</l>
+						<pb type="ocr" n="110" />
+						<pb type="book" n="90" />
+						<l>heran. Ragnachar aber fragte seine Krieger :</l>
+						<l>„Wie stark ist wohl das Heer meines Feindes?"</l>
+						<l>hatte:</l>
+						<l>Rücken fest und führten ihn mit seinem Bruder Richar vor Chlodwig.</l>
+						<l>desselben und sprach: „ Wenn du deinem Bruder beigeſtanden hätteſt,</l>
+						<l>nach dem Tode der beiden Könige aber wurden die Edlen gewahr,</l>
+						<l>sich bei dem Fürsten; er aber sprach:</l>
+						<l>in das Verderben lockt. "</l>
+						<l>verwandten, welche er ermordet hatte, also geredet haben :</l>
+						<l>„Ach, daß ich nun wie ein Fremdling unter Fremden daſtehe,</l>
+						<pb type="ocr" n="111" />
+						<pb type="book" n="91" />
+						<l>Tod derselben, sondern er that dies nur aus List, um zu erforschen,</l>
+						<l>ob sich noch Jemand fände, den er töten könnte.</l>
+						<l>Hierauf starb er zu Paris und wurde begraben in der Kirche,</l>
+						<l>in stetem Wohlthun verlebte. Nur selten noch kam sie nach Paris. “</l>
+						<l>voll dies nimmer ruhende Volk der Franken bändigende Herrscher,</l>
+						<l>manischer fürstenſitte bekanntlich in eine Teilung seines Reiches ge=</l>
+						<l>mögen, aber wie dieſe auch eine Fülle altepischer Züge enthalten.</l>
+						<l>halt der Burgunder gefallen; die Feinde hatten sein eigenes feld:</l>
+						<l>geſchrei gebraucht und gerufen :</l>
+						<l>er sprach:</l>
+						<pb type="ocr" n="112" />
+						<pb type="book" n="92" />
+						<l>Augenblick; sie sprach :</l>
+						<l>Hauses aber gehören um ihrer geſchichtlichen Wahrheit nicht hierher.</l>
+						<l>hängnisses sich löst: der Sage vom kommenden Walde.</l>
+						<l>bert I. von Austrasien zum Rachekriege gegen Fredegunde angeſtachelt;</l>
+						<l>Childebert errang. Um diese Schlacht ſchlingt sich eine alte Sage,</l>
+						<l>welche also lautet :</l>
+						<l>„Die Königin Fredegunde erkannte klar die große Gefahr.</l>
+						<l>Chlotar auf den Armen haltend, ging den Kriegern voraus damit,</l>
+						<l>sahen wohl, daß dasselbe gefangen werden müsse wenn, sie unterlägen.</l>
+						<pb type="ocr" n="113" />
+						<pb type="book" n="93" />
+						<l>hingen, damit sie durch deren Klang, wenn sie sich verlaufen hätten,</l>
+						<l>wiedergefunden werden könnten.</l>
+						<l>Während aber die Wächter solche Reden unter sich führten,</l>
+						<l>ließen die Franken die Laubzweige fallen. Da stand der Wald da,</l>
+						<l>Speere. Die Feinde aber überfiel Verwirrung und jäher Schrecken;</l>
+						<l>Palatium gekommen, in welchem Brunichilde nun unumschränkt herrschte.</l>
+						<l>halten hatte. Zum letztenmale atmen die Traditionen des mero»</l>
+						<l>steigt eine neue und mildere Zeit auf.</l>
+						<pb type="ocr" n="114" />
+						<pb type="book" n="94" />
+						<l>und ritt Tag und Nacht, bis er eines Morgens zu der Weſer (Fulda)</l>
+						<l>fluß zu dem andern Ufer hinüber.</l>
+						<l>Wort, sondern hob nur seinen Helm vom Haupte, daß ſein ſchönes,</l>
+						<l>Schmucke, und Bertoald rief ihm zu:</l>
+						<l>„Bist du nun d ,a du stummes Tier?"</l>
+						<pb type="ocr" n="115" />
+						<pb type="book" n="95" />
+						<l>daß wir Mühe haben, das Hierhergehörige vollständig zu sammeln.</l>
+						<l>Merowingerreiches dar, um dann für immer zuſammenzubrechen,</l>
+						<l>Geschlechtes.</l>
+						<l>drücken oder vielmehr ihn ſinnbildlich zu umschreiben, wohl zu sagen:</l>
+						<l>jeden Freundschaftsbandes zu bezeichnen, das französische Sprüchwort:</l>
+						<l>„Il n'y a pas de société, qui ne se sépare“ auch mit den Worten ein:</l>
+						<l>derselben scheiden muß. "</l>
+						<pb type="ocr" n="116" />
+						<pb type="book" n="96" />
+						<l>Dagoberts Hirschjagd.</l>
+						<l>des Areopagiten aus Athen und seiner Gefährten verborgen waren,</l>
+						<l>aber zu dem Hauſe kamen, vermochten die Rüden nicht einzudringen,</l>
+						<l>aufsuchen.</l>
+						<l>den Prinzen Dagobert aus dem heiligen Hauſe abführen sollten,</l>
+						<pb type="ocr" n="117" />
+						<pb type="book" n="97" />
+						<l>und wert vor allen: er gründete dort die berühmte Abtei St. Denys,</l>
+						<l>und Heiligtum des alten Frankreich.</l>
+						<l>ermüdet die Ruhe im grünen Hage auf. Wohl schlummerte er ein;</l>
+						<l>auf ihn eindrang und ihm den Tod androhte. Aber St. Dionys,</l>
+						<pb type="ocr" n="118" />
+						<pb type="book" n="98" />
+						<l>lingen, soll Dagobert ein sagenhaftes Testament verfaßt haben;</l>
+						<l>zu Ende führen. Sie bilden in ihrer Gesamtheit eine Überlieferung,</l>
+						<l>aber erhob sich ein gewaltiger Aufſtand der fränkiſchen Großen;</l>
+						<l>von wunderbarer Pracht, -im Thale von Siebeldingen gestanden,</l>
+						<l>Haingeraidebauern zerstörte.</l>
+						<l>Schutzheiligen aufsah : wir müssen an dieser Stelle darauf verzichten ;</l>
+						<l>denn dem Lande Lothringen und nicht der Pfalz ist dies Buch geweiht.</l>
+						<l>wir noch mit einem Worte erwähnen.</l>
+						<pb type="ocr" n="119" />
+						<pb type="book" n="99" />
+						<l>in der Pfalz; sie schweben nicht allein über der Stadt Metz; nein,</l>
+						<l>sie gesellen auch dem vollen Chore lieblicher Sagenſtimmen sich zu,</l>
+						<l>getötet, die länger waren als sein Schwert. König Dagobert aber,</l>
+						<l>Turm. Wir wissen's ; der Abt Samuel hat einst denselben erbaut ;</l>
+						<l>worden sei.</l>
+						<l>Und noch weiter gen Osten habe ich den Leser hinzuführen,</l>
+						<l>sahen, wie Dagobert auszog, gegen die Sachsen zu kämpfen.</l>
+						<l>heffen, wo heute das Dorf Dagobertshausen sich erhebt.</l>
+						<l>einen großen Hort an Golde mit eben nicht allzu ängstlicher Gewissen.</l>
+						<pb type="ocr" n="120" />
+						<pb type="book" n="100" />
+						<l>Jahrhunderte in dem Kloster auf dem St. Petersberge bei Erfurt,</l>
+						<l>dem Schatze gesucht : allein man hat ihn nimmer gefunden.</l>
+						<l>tönt dort noch weiter fort.</l>
+						<l>Das Volk nannte den König den guten König Dagobert,</l>
+						<l>Fürsten und die Gewaltigen der Kirche warben um seine Freundſchaft;</l>
+						<l>Lastern aufgezehrt.</l>
+						<l>außer vielen anderen Frauen die Königinnen Lanthilde, Ragnatrud,</l>
+						<l>Wolfgunde und Berchilde bei. Schließlich begann er zu rauben,</l>
+						<l>undankbar die Klöster und Abteien.</l>
+						<l>den Heiligen Arbogast und Florentius.</l>
+						<l>St. Arbogast war Bischof von Straßburg und galt gleich St.</l>
+						<pb type="ocr" n="121" />
+						<pb type="book" n="101" />
+						<l>wilden förste jazten, ohne daß des Heren scharfes Auge sie bewachte.</l>
+						<l>Pfalz gebracht. Da rieten die Diener dem Könige, zu St. Arbogast,</l>
+						<l>dem heiligen Manne, zu senden; der könne vielleicht noch helfen.</l>
+						<l>Leben gegeben, auch dem Jünglinge den Atem wieder erwürbe.</l>
+						<l>nach der Apostel Vorbild nicht nehmen.</l>
+						<l>Auf ähnliche, wunderbare Weise half dem Könige auch St.</l>
+						<l>Stimme:</l>
+						<l>viel Besitztum auch zu Kirchheim. Der Heilige bat jedoch den König,</l>
+						<pb type="ocr" n="122" />
+						<pb type="book" n="102" />
+						<l>möchte, wie weit und breit er habe. Da sprach Dagobert:</l>
+						<l>deiner Wohnung gehören. "</l>
+						<l>im Bade zu treffen, wie es verabredet worden war.</l>
+						<l>So hold zeigte sich der gute Dagobert anfangs der Geistlichkeit;</l>
+						<l>dem Glauben des wildesten Freibeuters die Schlüſſel des Himmels,</l>
+						<l>folgende:</l>
+						<l>unsern Herrn um die Erlaubnis, ſeiner Seele zu Hilfe zu kommen,</l>
+						<pb type="ocr" n="123" />
+						<pb type="book" n="103" />
+						<l>zurück."</l>
+						<l>ſind, zu der Auſtraſier-Pfalz in Met.</l>
+						<l>Mächtig hat einst der goldene Klang des Liedes ihre kurzen,</l>
+						<l>guten Dagobert.</l>
+						<l>Vogesen.</l>
+						<l>wir uns jetzt nur :</l>
+						<l>blieben?"</l>
+						<pb type="ocr" n="124" />
+						<pb type="book" n="104" />
+						<l>erhalten; das war die Erinnerung an den guten König Dagobert.</l>
+						<l>Einer der ältesten Gasthöfe in Meh trug ſeinen Namen.</l>
+						<l>Leser entrollen können.</l>
+					</p>
+				</div>
+				<div type="Sage" n="4">
+					<head>Sankta Glossindis von Metz</head>
+					<p>
+						<pb type="ocr" n="125" />
+						<pb type="book" n="105" />
+						<l>Sankta Glossindis von Metz</l>
+						<l>Frankenlandes der Lobgesang der Engel, jenes hohe,</l>
+						<l>Bethlehem der geängsteten Welt verkündet hatten :</l>
+						<l>Römerstadt Massilia bis zu der schaumumfluteten Küste der Friesen:</l>
+						<pb type="ocr" n="126" />
+						<pb type="book" n="106" />
+						<l>sich untereinander, und führerlos irrte das arme Volk umher.</l>
+						<l>flüchtete sich alles, was den Adel der That, die Ruhe des Gewiſſens,</l>
+						<l>der Mönch nunmehr die weite, schöne, blühende Welt zu suchen;</l>
+						<l>wund. Und das Weib, welches in den heiligen Schleier sich hüllte:</l>
+						<l>sprechlicher Herrlichkeit geführt hatte.</l>
+						<l>Auf dem Königsstuhle in der Mezer Pfalz aber saß Brunichilde,</l>
+						<l>auf das breite, von Todesrosen blühende Feld. Er wußte dann ja,</l>
+						<pb type="ocr" n="127" />
+						<pb type="book" n="107" />
+						<l>ihr, denen sie ihre Huld geschenkt hatte, Edle, Grafen und Herzöge.</l>
+						<l>tunatus von ihr gesungen hatte: die Lieder, wie sie, eine blühende,</l>
+						<l>kriegerische Königin, alter, tiefer Herzenswunden nimmer vergessend,</l>
+						<l>wie die Woge des Meeres.</l>
+						<l>friedlicher zu leben in der Champagne als in dem Meher Lande.</l>
+						<l>und Schwachen dem Grafen alles Heil und Glück und beteten für ihn.</l>
+						<l>weitere Fahrt gewährten :</l>
+						<pb type="ocr" n="128" />
+						<pb type="book" n="108" />
+						<l>eure Heiligen mir meines Herzens Anliegen gewähren. “</l>
+						<l>Welt voll Feinden und doch festes Herzens ihnen ins Auge sah.</l>
+						<l>in seinen Hof zu Troyes heimgekehrt und vom Rosse gestiegen war,</l>
+						<l>eines Mägdleins.</l>
+						<l>erhob sie sich, einer Seherin gleich, und ſprach zu ihm:</l>
+						<pb type="ocr" n="129" />
+						<pb type="book" n="109" />
+						<l>müssen, ehe du die Vergebung deiner Schuld erlangſt. “</l>
+						<l>Bade den Namen Gloſsinde.</l>
+						<l>aus der Stadt Tours mitgeteilt hat, da er noch unter uns lebte,</l>
+						<l>Jahre stehend, rückte den Sessel sich zurecht zu Wulfhildens füßen,</l>
+						<l>welche also begann :</l>
+						<l>war. Er gab den Brautschatz und man sette den Hochzeitstag fest.</l>
+						<l>ihrem Bräutigam und weinte bitterlich. Er aber sprach zu ihr:</l>
+						<l>schwieg. Da fuhr er fort: „Ich beschwöre dich bei Jesu Chriſto,</l>
+						<l>dem Sohne Gottes, daß du mir sagest, warum du traurig bist."</l>
+						<pb type="ocr" n="130" />
+						<pb type="book" n="110" />
+						<l>gewaltigen Schmerz nicht verbannen können, der meine Seele erdrückt.</l>
+						<l>du es über dich gewinnen, daß wir unbefleckt bleiben in dieser Welt,</l>
+						<l>mit dem Zeichen des Kreuzes und ſprach:</l>
+						<l>ſich die Hände und schliefen ein.</l>
+						<l>bestatten ließ, sprach er also :</l>
+						<pb type="ocr" n="131" />
+						<pb type="book" n="111" />
+						<l>Da lächelte die Tote und sprach :</l>
+						<l>Tag nennen die Einwohner des Drtes sie die beiden Liebenden. "</l>
+						<l>eine Braut Christi zu werden.</l>
+						<l>ein: ein Kranz zierte seine Schläfen; es war ein werbender Mann.</l>
+						<l>Gewalt mußte ihr freilich das Schwert in die Hand gedrückt werden,</l>
+						<l>welches sie bei dem Verlöbnisse dem Grafen zu übergeben hatte.</l>
+						<l>Obolenus aber schmückte ihre Hand mit einem herrlichen Fingerreife:</l>
+						<l>Weib in ihrer Lage ſich glücklich_gefühlt; allein ſie war tief unglücklich.</l>
+						<l>Obolenus war ein ritterlicher Mann man rühmte durch ganz Auſtraſien;</l>
+						<pb type="ocr" n="132" />
+						<pb type="book" n="112" />
+						<l>Gnade ihres Erlösers in heißem Gebete.</l>
+						<l>näher rückte der Hochzeitstag, und nun tagte der festliche Morgen.</l>
+						<l>Gemaches schloß sich hinter den Beiden.</l>
+						<l>Was sollte das bedeuten? Die Gäste sehen sich fragend an.</l>
+						<l>Doch diese Menge von Reitern, welche den Anführer geleiteten?</l>
+						<l>sprengten in den Hof und besetzten den Eingang.</l>
+						<l>einen Mönch gedungen haben, um die Königin zu ermorden.</l>
+						<l>Muskel der hohen, edlen Geſtalt zuckte. Feierlich ſprach er zu Wintrio :</l>
+						<l>„Ich gehe gewiſſem Tode entgegen, denn allzu ſtolz bin ich,</l>
+						<pb type="ocr" n="133" />
+						<pb type="book" n="113" />
+						<l>er sie erblickte, erhob der Graf seine Stimme und rief:</l>
+						<l>In dem Grafenhause zu Troyes herrschte nun die tiefſte Trauer.</l>
+						<l>zurück.</l>
+						<l>ſeine Habe. Da sprachen viele Freier vor in der Pfalz von Troyes;</l>
+						<l>des Vaters Stirn.</l>
+						<l>Und jetzt hielt ein burgundischer Graf um Gloſſinden an.</l>
+						<pb type="ocr" n="134" />
+						<pb type="book" n="114" />
+						<l>widerstehen. "</l>
+						<l>und frei konnte ſie dann dem Vater entgegentreten und sprechen:</l>
+						<l>Da wußte auch die Jungfrau Gloſſinde, was sie zu thun hatte;</l>
+						<l>Schritte bereit.</l>
+						<l>glanz umflossene Gestalt ſtand vor ihr; es war ein Engel des Herrn.</l>
+						<l>Alles liegt in der Pfalz in Schlaf, und Aller Augen sind gehalten. “</l>
+						<l>und hat beſchloſſen, in ein Kloster zu gehen, um sie abzubüßen.</l>
+						<l>des Herrn verbleiben willst. “</l>
+						<pb type="ocr" n="135" />
+						<pb type="book" n="115" />
+						<l>die Getröstete. Doch der Engel erwiderte ihr:</l>
+						<l>man mich hier in dieſer Welt Scholaſtika. Du kennst meine Geschichte?</l>
+						<l>sie niederkniete. Bald dämmerte der Morgen.</l>
+						<l>sie aber nicht mehr, denn sie wußte ſich unter himmliſchem Schuße.</l>
+						<l>Kathedrale entdeckt ward.</l>
+						<l>Jeht aber stand der Vater mit zürnendem Blicke vor ihr.</l>
+						<l>gegnete sie. „ teurer Vater, gönne mir die Ruhe in Gott;</l>
+						<l>brauchst dich nicht mehr vor den Gesandten des Richarius zu fürchten ;</l>
+						<l>ſie ſind zurückgerufen worden; auch der Graf will ein Mönch werden.</l>
+						<l>Und noch milder fuhr Wintrio fort :</l>
+						<pb type="ocr" n="136" />
+						<pb type="book" n="116" />
+						<l>phirenden Ausdruck in den Zügen eines Dienstmannes ihres Vaters,</l>
+						<l>und eine überirdische Stimme rief ihr zu:</l>
+						<l>es vor Gott verantwortest, daß du den Eltern ungehorsam gewesen bist. "</l>
+						<l>seiner Herrschaft. “</l>
+						<l>einen noch härteren Kampf hatte Gloſſinde am Abende zu beſtehen.</l>
+						<l>Da kam Frau Godila, um ihr Kind an die Mutterbruſt zurückzuziehen.</l>
+						<l>er bestanden.</l>
+						<l>In nächtigem Dunkel ruhte nun die Kathedrale von Troyes;</l>
+						<l>Ziele führen."</l>
+						<l>auf ihre heiße Stirn und auf ihre verſchmachtenden Lippen.</l>
+						<l>barmherzige Menschen werden dir geben, was du bedarfst. Verbirg'</l>
+						<pb type="ocr" n="137" />
+						<pb type="book" n="117" />
+						<l>ein abgehärmtes Weib sein, welches nicht Brot hat für ihre Kinder.</l>
+						<l>christlichen Kirche sich befanden.</l>
+						<l>anvertraut.</l>
+						<l>Stimme der gütigen Scholastika zu ihr :</l>
+						<l>Zeit gar bald, in der du wachen mußt. “</l>
+						<l>Geängſtete hinab. Der Bischof Arnold ging an ihr vorüber; milde,</l>
+						<l>des Segens über sie, während eine Thräne in seinem Auge erglänzte.</l>
+						<pb type="ocr" n="138" />
+						<pb type="book" n="118" />
+						<l>mit tiefem Ernste erwiderte ihm dieser:</l>
+						<l>Himmels ist. “</l>
+						<l>Doch trokig erwiderte Wintrio jest:</l>
+						<l>ungehorsame Kind ergreifen und zurückführen zu ihrer Tochterpflicht.</l>
+						<l>ist mir hold und gnädig. “</l>
+						<l>er gesagt hatte.</l>
+						<l>sehen.</l>
+						<l>Münster. Sie begehrte während dieſer Zeit nicht Speiſe, nicht Trank,</l>
+						<l>nicht frische Luft ; sie blieb im Dome bis zur siebenten Mitternacht.</l>
+						<l>Konfession des heiligen Stephanus; —die Nacht draußen war tiefdunkel.</l>
+						<l>das Wunder den Nachkommen verkündet. Es trug sich aber fol.</l>
+						<l>gendes zu:</l>
+						<pb type="ocr" n="139" />
+						<pb type="book" n="119" />
+						<l>schimmer an der Decke der Kathedrale, der stärker und stärker wurde,</l>
+						<l>Christi geworden.</l>
+						<l>erste Äbtissin.</l>
+						<l>lischer Bräutigam Jesus Christus, , der Herr.</l>
+						<pb type="ocr" n="140" />
+						<pb type="book" n="120" />
+						<l>bestattet, welche später den Namen St. Arnulfs oder Arnolds empfing.</l>
+						<l>Denn in Dankbarkeit gegen den heiligen Arnold hatte sie bestimmt,</l>
+						<l>der front des Klosters; St. Gangulf schloß sich ihm im Nordosten an.</l>
+						<l>Legende der heiligen Gloſſinde von keiner andern übertroffen.</l>
+						<l>sagung erfüllte sich auch an dem Grafen Wintrio von der Champagne.</l>
+						<l>zu nehmen.</l>
+						<pb type="ocr" n="141" />
+						<pb type="book" n="121" />
+						<l>Grafen Wintrio Seele gerettet war, der der Vater gewesen St.</l>
+						<l>Gloſſindens von Meh.</l>
+						<l>wilderregten Tagen.</l>
+					</p>
+				</div>
+				<div type="Sage" n="5">
+					<head>Im Schatten des Hirtenstabes von Gorze</head>
+					<p>
+						<pb type="ocr" n="142" />
+						<pb type="book" n="122" />
+						<l>Im Schatten des Hirtenstabes von Gorze.</l>
+						<l>Erinnerungen und auf ihre in Kriegen erhaltenen Wunden,</l>
+						<l>Eigenart fesselt dieselbe den Blick jedes Wanderers,</l>
+						<l>gehabt hat.</l>
+						<l>sind zum großen Teile die folgenden Sagenblüten entnommen,</l>
+						<l>Klosterstätte umziehen.</l>
+						<pb type="ocr" n="143" />
+						<pb type="book" n="123" />
+						<l>ein Mauerrest, welcher jetzt zur Umzäunung eines Gartens dient.</l>
+						<l>brannten den Ort selbst nieder. Dadurch gingen das Schloß des Abtes,</l>
+						<l>laſſen uns den grausam vergewaltigten Bau um ſo rührender erscheinen.</l>
+						<l>zu rauben vermocht. Auch einzelne Skulpturen sind noch geblieben.</l>
+						<l>domus Pipin die Stiftung des Bischofs Chrodegang von Mek,</l>
+						<pb type="ocr" n="144" />
+						<pb type="book" n="124" />
+						<l>geßlich auf den Blättern der deutschen Kirchengeschichte aufgezeichnet,</l>
+						<l>befanden sich vierundzwanzig Bischöfe und noch ein Höherer als sie,</l>
+						<l>dem Beispiele ihres Fürsten mit Darreichung von beträchtlichen Gaben.</l>
+						<l>Der Bischof Chrodegang sorgte väterlich für seine neue Stiftung.</l>
+						<l>entwendeten, welchen man der Obhut ihrer Kirche anvertraut hatte.</l>
+						<pb type="ocr" n="145" />
+						<pb type="book" n="125" />
+						<l>und in diesem Buche hat nicht die Geschichte Lothringens das Recht,</l>
+						<l>Chrodegang, an dieser Stätte, grade an dieser, ein Kloster zu stiften?</l>
+						<l>schöne Tier, und auf der Stelle ließen die Rüden von demselben ab.</l>
+						<l>nun selbst von der Wahrheitsliebe seiner Knechte überzeugen wollte.</l>
+						<l>mich beauftragt, dem Volke, welches deiner Sorgfalt anvertraut iſt,</l>
+						<l>für das Heil aller Welt gestorben ist. “</l>
+						<pb type="ocr" n="146" />
+						<pb type="book" n="126" />
+						<l>seinem Landhauſe zurück.</l>
+						<l>des Klosters war es; denn St. Clemens soll gerade an dem Orte,</l>
+						<l>auf welchem sich später das Kloster erhob, ein Bethaus errichtet haben.</l>
+						<l>auf St. Clemens zu sprechen kommen: auch bei Uncy an der Moſel,</l>
+						<l>französischer Sprache die folgende Inschrift:</l>
+						<l>des heiligen Clemens, welcher dem Mont-Saint-Blin gegenüber liegt.</l>
+						<l>heiligen Clemens aus den Segen erteilt habe.</l>
+						<l>Schon vorher sagten wir, daß noch ein anderer Heiliger, St.</l>
+						<pb type="ocr" n="147" />
+						<pb type="book" n="127" />
+						<l>des heiligen Theobald. Um die Segnungen des Heiligen zu empfangen,</l>
+						<l>in Berührung bringen.</l>
+						<pb type="ocr" n="148" />
+						<pb type="book" n="128" />
+						<l>brücken, und zwar bevor noch von der Kirche das „ Angelus “ ertönte.</l>
+						<l>der erste Sangeston der Frühmeſſe früher als gewöhnlich ertönten;</l>
+						<l>reiche Schätze zuſchrieb. Denn Gorze, so hieß es einst, ist so reich,</l>
+						<l>brechung auf eigenem Boden wandern können. Ohne Bedeutung ist,</l>
+						<l>seiner Feinde beschossen worden sein. Daher der Name „Eierfeld"</l>
+						<pb type="ocr" n="149" />
+						<pb type="book" n="129" />
+						<l>Rest des alten Volksglaubens anführt, wollen wir ihm gerne schenken.</l>
+						<l>ferner Höhlen und Erdlöcher mit fabelhaften Wesen bevölkert hat.</l>
+						<l>„ Trou-Robinfey" und die Trou de la Gueule" hier anführen.</l>
+						<l>Krankheit heimgesucht werde.</l>
+						<pb type="ocr" n="150" />
+						<pb type="book" n="130" />
+						<l>aber iſt die Überlieferung von dem „ Jungfernſteine.“</l>
+						<l>So heißt nämlich ein regelmäßig würfelförmiger Granitblock,</l>
+						<l>mäßig senkrecht geneigt, erinnert er sehr wohl an die „ Wendelſteine“</l>
+						<l>bestimmten, heiligen Steine der Kelten.</l>
+						<l>worden sein, welcher in der deutschen Sage so häufig vorkommt.</l>
+						<l>er eine Kirchenthür erreicht hatte; hier aber versank die Erscheinung,</l>
+						<l>als hätte die Erde sie verschlungen. Bald darauf brach die Seuche aus.</l>
+						<l>Tochter in diesem grünen, kühlschattigen Thale eine Zuflucht gesucht.</l>
+						<pb type="ocr" n="151" />
+						<pb type="book" n="131" />
+						<l>Kraft genug, um sich zu erheben und eine Kerze zu entzünden.</l>
+						<l>Augenblicklich war die Kammer wie von dem Scheine der Mittags:</l>
+						<l>wunderbare Licht. Sie verbrachten die Nacht in unſäglicher Angſt;</l>
+						<l>geliebter Gefangener zu derselben Stunde, als ihnen das Licht erſchienen,</l>
+						<l>die geächtete familie auch Gut und Habe wieder.</l>
+						<l>Gräbern bestattet worden.</l>
+						<l>herab die Predigt hielt.</l>
+						<pb type="ocr" n="152" />
+						<pb type="book" n="132" />
+						<l>der Fülle ihrer Macht ja nicht verſchmähte.</l>
+					</p>
+				</div>
+				<div type="Sage" n="6">
+					<head>Die Kaiserin Hildegard</head>
+					<p>
+						<pb type="ocr" n="153" />
+						<pb type="book" n="133" />
+						<l>Die Kaiserin Hildegard</l>
+						<l>Die Stadt Metz bewahrte unter ihren vielen Reliquie</l>
+						<l>zweiten rechtmäßigen Gemahlin Karls des Großen.</l>
+						<l>Kirchenhallen, ja überhaupt vorzugsweise lebendig :</l>
+						<pb type="ocr" n="154" />
+						<pb type="book" n="134" />
+						<l>halten. Würde er aber, so fügte der König beim Abschiede hinzu,</l>
+						<l>Hildegard, daß sie endlich nachgab. In dreien Tagen sollte glänzende,</l>
+						<l>vermählt werden. Gott der Herr aber ist Schüßer jeder echten,</l>
+						<l>rechten Ehe; er hatte es anders beſchloſſen.</l>
+						<l>König Karl lag zu Felde auf der weiten, breiten Ungarnheide.</l>
+						<l>Da trat in der Nacht ein Engel vor sein Lager und verkündete ihm,</l>
+						<l>aber sprach:</l>
+						<pb type="ocr" n="155" />
+						<pb type="book" n="135" />
+						<l>deine Stadt Metz tragen."</l>
+						<l>zweiten Tag noch bei hellem, goldigem Sonnenſcheine nach Paſſau,</l>
+						<l>dreimal mußte der König bitten, ehe er das junge, edle Pferd erhielt.</l>
+						<l>Des Schreibers Pferd aber gab er in den Kauf mit hinein.</l>
+						<pb type="ocr" n="156" />
+						<pb type="book" n="136" />
+						<l>ein rechter Edelmann, desgleichen meine Augen nie zuvor erblickten. "</l>
+						<l>hüten sollte.</l>
+						<l>Fürsten und mahnte ihn: „Herr, gebet mir den verheißenen Cohn ;</l>
+						<l>geweckt. " Schnell stand Karl auf, gab dem Wächter jenen Ring,</l>
+						<l>Riegel. „Herr“, sprach der Wirt, „ihr müſſet unten durchſchlüpfen;</l>
+						<l>Welt; er floh und verkündete dem Priester:</l>
+						<l>bloßem Schwerte über den Knieen auf dem gesegneten Stuhle sitzen."</l>
+						<pb type="ocr" n="157" />
+						<pb type="book" n="137" />
+						<l>Licht seiner Hand, und auch er floh angstvoll zum Bischofe zurück.</l>
+						<l>Erscheinung zu beschwören, und rief ihr zu: „Ich beschwöre euch,</l>
+						<l>daß ihr mir saget, wes Mannes ihr seid, ob geheuer oder ungeheuer,</l>
+						<l>fizet." Da hob der König an: „Ich war euch einst wohlbekannt,</l>
+						<l>hatte sie den Bitten der Freier widerstanden und faſt mehr erduldet,</l>
+						<l>als ein Weib irgend vermag.</l>
+						<l>Herzog Heinrich dem Löwen und dem Ritter Thedel von Walmoden.</l>
+						<l>Wir haben jedoch von Frau Hildegard eine noch lieblichere Sage;</l>
+						<l>der hoheitsvolle Charakter deutscher Frauen uns erhebend entgegen.</l>
+						<l>Der Anfang dieser Sage ist fast derselbe :</l>
+						<pb type="ocr" n="158" />
+						<pb type="book" n="138" />
+						<l>ihrem Schße war der Graf Taland, des Königs Halbbruder, bestellt.</l>
+						<l>in einem Turme ein köstliches Brautgemach zu erbauen.</l>
+						<l>"Unser zweier Liebe.</l>
+						<l>des lothringiſchen forstes ein kostbares Brautgemach; er ließ das:</l>
+						<l>Hildegard fürchtete ihn sehr. Sie ließ ihm Speise und Trank reichen ;</l>
+						<l>endlich auch frohe Kunde aus dem Sachsenlande.</l>
+						<l>hatte, war es nämlich dem Könige Karl, dem Streiter des Kreuzes,</l>
+						<l>zusammenzutreiben, welches sich bei der Porta Weſtfalika eröffnet.</l>
+						<pb type="ocr" n="159" />
+						<pb type="book" n="139" />
+						<l>Frau Hildegard solche Botschaft von ihrem Gatten gehört hatte,</l>
+						<pb type="ocr" n="160" />
+						<pb type="book" n="140" />
+						<l>Talands und ihre Erwartung ging nur zu bald in Erfüllung.</l>
+						<l>und abgehärmt bin, großer König, daran ist nur deine gottloſe,</l>
+						<l>Karl saß wie versteinert auf dem Roſſe, deſſen Zügel er anhielt.</l>
+						<l>nun, wie Frau Hildegard nach Karls Abzuge, vergeſſend aller Scham,</l>
+						<l>jenen neuen Turm im Walde erbaut und ihn darin gefangen geſetzt.</l>
+						<pb type="ocr" n="161" />
+						<pb type="book" n="141" />
+						<l>ertränken. Frau Hildegard hatte unterdessen bereits von dem furcht.</l>
+						<l>baren und doch so grundlosen Zorne des Königs gegen sie vernommen,</l>
+						<l>hochgelegenen Burgen des Landes oder im klösterlichen Verstecke.</l>
+						<l>gessenheit bringenden Schlafe auf moosigem Waldesboden erwachte,</l>
+						<l>eine Gefangene. Mitleidslos zeigten die Knechte auf die Moſel,</l>
+						<l>ſie unſchuldig dem Tode überlieferte; allein ſie faßte ſich bald wieder,</l>
+						<l>Mosel emporragte.</l>
+						<pb type="ocr" n="162" />
+						<pb type="book" n="142" />
+						<l>euch niemand lösen kann; denn eine Heilige Gottes wollt ihr ermorden."</l>
+						<l>Auge blickte in jedes Kloster und in die Gemächer einer jeden Burg ;</l>
+						<l>machen ihn Wegelagerer; gefährlich ist es zudem für schußloſe Frauen,</l>
+						<pb type="ocr" n="163" />
+						<pb type="book" n="143" />
+						<l>Gelehrte mit der Weisheit der Alten, der Philoſophen und der Ärzte,</l>
+						<l>ihre stets zur Hülfe bereite Hand nur eine höhere Weihe.</l>
+						<l>von der kunstverständigen Frau zu Rom durch alle Lande ging.</l>
+						<l>Gottes über diese drei deutſchen Herzen in dem welschen Rom aus.</l>
+						<l>Pfalz von Meh uns zurückwenden. Karl weilte nicht mehr dort;</l>
+						<l>Gedanken des Zornes und der Rache in ihm verflogen waren hörte,</l>
+						<l>aus, und bittere Sehnsucht nach der Totgeglaubten ergriff ihn dann.</l>
+						<pb type="ocr" n="164" />
+						<pb type="book" n="144" />
+						<l>entschwunden.</l>
+						<l>Den lügnerischen Taland, den schnöden Verräter der Unschuld,</l>
+						<l>ein furchtbares Siechtum, in Blindheit und in Aussat, gefallen.</l>
+						<l>Heilung für den Fürsten war bei keinem Arzte zu finden geweſen;</l>
+						<l>da. Da klang's auf einmal wie eine frohe Botschaft zu seinen Dhren,</l>
+						<l>große Imperator des Abendlandes, der Schutzherr der Christenheit,</l>
+						<l>sich in der Nähe von St. Peter befand.</l>
+						<l>keit wieder aufzurichten auf Erden.</l>
+						<l>in die ewige Stadt gekommen. Die fremde, welche ein schlichtes,</l>
+						<l>lassen. Und Gottes Engel war mit der hehren, frommen frau,</l>
+						<pb type="ocr" n="165" />
+						<pb type="book" n="145" />
+						<l>weder Gold noch kostbares Geschmeide zum Lohne; aber am Aus.</l>
+						<l>Worte des Heilandes trug :</l>
+						<l>Was ihr gethan habt einem dieser Geringsten,</l>
+						<l>Das habt ihr mir gethan."</l>
+						<l>gebeugt. Niemandem aber hatte es die gottgesegnete Frau anvertraut,</l>
+						<l>die Sonne die Engelsburg, das Grabmal Hadrians feuriger beschien,</l>
+						<l>und die Pinieen vernehmlicher rauschten an der Pyramide des Cestius,</l>
+						<l>Maria mit der Mondsichel Gaben und Gebete darbringen.</l>
+						<l>des Herrn, da trat auch Taland der Ausfähige vor die edle frau.</l>
+						<pb type="ocr" n="166" />
+						<pb type="book" n="146" />
+						<l>Feuer seiner Augen war erloschen und vorsichtig tastete sein fuß.</l>
+						<l>von Groll, welches sie vielleicht noch in ihrem Herzen gehegt hatte.</l>
+						<l>er es der kunstreichen Frau in seiner Ansprache ein :</l>
+						<l>gesammelt zu Taland:</l>
+						<l>mir Kraft verleihen wird, dich auch körperlich gesund zu machen.</l>
+						<l>Als am Abende desselben Tages aber Frau Hildegard St.</l>
+						<l>mit sich in eine Nische der Kirche und hörte ihm die Beichte ab.</l>
+						<l>daß der Priester die bebende Brust des Beichtenden halten mußte.</l>
+						<pb type="ocr" n="167" />
+						<pb type="book" n="147" />
+						<l>Sohn, deine Sünden sind dir vergeben sündige hinfort; nicht mehr. "</l>
+						<l>war; aber die Krankheit seines Leibes war heut besonders stark her.</l>
+						<l>vorgetreten, gleichsam, als wollte sie den frohen Glauben Hilde.</l>
+						<l>blickte zuversichtlich nach oben. „ Alles für dich und alles durch dich,</l>
+						<l>Hand verteilte das Öl über Talands Antlik und seine schneeweißen,</l>
+						<l>vom Aussatz bedeckten, blutenden Glieder.</l>
+						<l>dieser Heilung durch die Stadt Rom. Es konnte nicht anders sein :</l>
+						<l>Ärztin zu sehen. Ihn aber beschied die edle Frau in St. Peters Dom.</l>
+						<l>und Beherrscher gegeben werden sollte.</l>
+						<l>dem Gitter der Apostelgräber auf; mit herabgelaſſenem Schleier,</l>
+						<l>entgegen.</l>
+						<pb type="ocr" n="168" />
+						<pb type="book" n="148" />
+						<l>Märtyrerin.</l>
+						<l>die Totgeglaubte hin und benette ihre Hände mit seinen Thränen.</l>
+						<l>ſelbſt aber wollte er mit prächtigem Geleite aus demMünſter abholen.</l>
+						<l>Doch Frau Hildegard entgegnete:</l>
+						<l>glanzvollen feier teil, mit welcher das Imperium Karls in St.</l>
+						<l>Peter geweiht wurde.</l>
+						<pb type="ocr" n="169" />
+						<pb type="book" n="149" />
+						<l>enthühnt und mit getilgter Schuld aus diesem Leben.</l>
+						<l>von Freudenberg. Wer so Schweres mit einander durchgelebt hat,</l>
+						<l>Burgwart öffnete, und der festliche Zug begab sich auf den Schloßhof.</l>
+						<l>zarte Fräulein vom Schloſſe aber wurde von niemand Geringerem,</l>
+						<l>jenes Schwert, durch welches sie sich selbst ihm zu eigen schenkte.</l>
+						<l>des Hauses Freudenberg, wie in jener der Bodman vom Bodensee.</l>
+						<l>der ruhmreich gefallene Krieger aufzusteigen glaubte.</l>
+					</p>
+				</div>
+				<div type="Sage" n="7">
+					<head>Lohengrin</head>
+					<p>
+						<pb type="ocr" n="170" />
+						<pb type="book" n="150" />
+						<l>Lohengrin.</l>
+						<l>lands zusammen genommen darstellen. Ganz Austrasien,</l>
+						<l>Lützelburg, der Hennegau, sowie die Lande Namur, Lüttich, Limburg,</l>
+						<l>Jülich und Köln, Kleve und Geldern, Utrecht, Holland und Brabant,</l>
+						<l>Der Sage aber gilt nicht jener erste Kaiser Lothar, welcher,</l>
+						<l>Namens, welchen die dämonische Liebe zu einer Waldrade bewog,</l>
+						<pb type="ocr" n="171" />
+						<pb type="book" n="151" />
+						<l>ist. Es ist Coherangrin, Garin oder Werin der Cothringer,</l>
+						<l>nämlich die Sage, weit über's Meer, ist er in dieses Land gekommen,</l>
+						<l>von allen Erzählungen über den mythiſchen Helden nur diejenige,</l>
+						<l>lothringischen Landes nicht unerwähnt bleiben dürfen:</l>
+						<l>Namen erhalten hat, und :</l>
+						<l>Fürstenhaus Lothringens abſtammt.</l>
+						<l>er mit den Jahren zu einem mannlichen Helden heran.</l>
+						<pb type="ocr" n="172" />
+						<pb type="book" n="152" />
+						<l>ihm, indem es sich in einen Fluß stürzte und denselben überschwamm.</l>
+						<l>Quell sprudelte rauschend aus der harten Bruft des Felsens hervor.</l>
+						<l>Driant verweilte lange still und allein an dem traulichen Orte,</l>
+						<l>blickte sie auf die beiden Bracken hin, welche ihren Herrn geleiteten;</l>
+						<l>dann fragte sie den Königssohn:</l>
+						<l>Wald zu führen und in meinem Gebiete zu jagen?"</l>
+						<l>Driant wollte ihr Antwort erteilen, aber er vergaß derselben ;</l>
+						<pb type="ocr" n="173" />
+						<pb type="book" n="153" />
+						<l>und Beatrir lebten in der vollen, maienschönen Wonne einer starken,</l>
+						<l>jungen Liebe ihre Stunden still dahin.</l>
+						<l>einst sonnenfroh von dem Altane seines Schlosses über das weite,</l>
+						<l>sündigend, den Gemahl:</l>
+						<l>Schuld und Fehl zwei Kindlein zugleich zur Welt bringt?"</l>
+						<l>Bald darauf mußte der junge König Driant zu Felde zichen.</l>
+						<l>zartem Leben zu wachen. Denn ihre Stunde mußte bald ſich nahen.</l>
+						<l>geworden war.</l>
+						<pb type="ocr" n="174" />
+						<pb type="book" n="154" />
+						<l>selben die Worte zu:</l>
+						<l>und gegen deinen Eheherrn gesündigt hast. Sieben scheußliche Wölp:, (</l>
+						<l>so entrüsteter und heftiger beschuldigte Matabruna das „ Bettelweib",</l>
+						<l>die fremde, des schändlichsten Ehebruches.</l>
+						<l>vertrauten Diener Markus indem, sie sprach:</l>
+						<l>aus der Brut der heimatlosen Fra ,u die meinen Sohn bethört hat,</l>
+						<l>man henken muß? Soll diese Schmach unserm Hauſe widerfahren?</l>
+						<l>in seinen Mantel ein, ritt in den Wald und wollte sie dort töten.</l>
+						<pb type="ocr" n="175" />
+						<pb type="book" n="155" />
+						<l>nimmer ein.</l>
+						<l>beugte sich über die Kinder, auf daß die von ihrer Milch tränken,</l>
+						<l>und begierig sogen die Kleinen davon.</l>
+						<l>grünenden Blättern, und die Kleinen spielten froh in dem Geſträuche;</l>
+						<l>Menschen allezeit notwendig ist:</l>
+						<l>in Gottes furcht und in Gottes Gnade.</l>
+						<pb type="ocr" n="176" />
+						<pb type="book" n="156" />
+						<l>von den schönen, zarten Königskindern mit den silbernen Kettlein,</l>
+						<l>vernahm er nichts.</l>
+						<l>auch ihm gelten, weil sie es verſchmähte, ſich vor ihm zu reinigen,</l>
+						<l>Reiches, welche, wie er wohl wußte, zu streng nicht richten würden,</l>
+						<l>noch immer zugethan waren.</l>
+						<pb type="ocr" n="177" />
+						<pb type="book" n="157" />
+						<l>ihm saßen sieben Kindlein in grünen Laubgewändern, ― Kindlein,</l>
+						<l>Helias ihm die Hände entgegen.</l>
+						<l>Gebieterin zu verkünden was, er gesehen hatte.</l>
+						<l>Markus und rief daher aus:</l>
+						<l>mir her zum sichern Wahrzeichen, daß mein Befehl erfüllt iſt.</l>
+						<l>der Diener Markus gesagt hatte :</l>
+						<pb type="ocr" n="178" />
+						<pb type="book" n="158" />
+						<l>Walde ein.</l>
+						<l>ihm die Antwort, daß eine Frau verbrannt werden sollte, ein elendes,</l>
+						<l>Beginnens und dann sprach er zu seinen Begleitern :</l>
+						<l>stimmten ihm bei, froh, solch eines Blutwerkes überhoben zu sein.</l>
+						<l>ihnen freilich schwer auf's Herz; doch Sawari wußte auch dafür Rat,</l>
+						<l>indem er sprach:</l>
+						<l>laut vor furcht auf, als die fremden Männer das Pförtlein öffneten;</l>
+						<l>der Jäger Sawari beschwichtigte sie jedoch und rief ihnen zu:</l>
+						<pb type="ocr" n="179" />
+						<pb type="book" n="159" />
+						<l>Kettlein, welche die Kindlein als Halsschmuck trugen, von ihnen ab.</l>
+						<l>das Hüttlein des Eremiten sich barg.</l>
+						<l>hatten: Der Zorn des Himmels und die Rache der Königin Matabruna.</l>
+						<l>Endlich ermannte sich der Jäger und sprach zu den andern:</l>
+						<l>anderen Ketten einen Becher zu gießen.</l>
+						<l>und schmolz eine derselben ein. Er betrachtete forschend den Tiegel :</l>
+						<l>ergab, um zwei Becher von Silber zu schmieden.</l>
+						<l>gefertigten Gefäße und brachte dasselbe der Königin Matabruna.</l>
+						<l>unholde Fürstin, war denn auch mit seiner Arbeit wohl zufrieden ;</l>
+						<pb type="ocr" n="180" />
+						<pb type="book" n="160" />
+						<l>war doch schon der eine der Becher an Silber schwerer geworden,</l>
+						<l>zu der lieblichen Stätte zurück.</l>
+						<l>im Walde; nirgends aber fand er sie.</l>
+						<l>Herz pochte ihm hörbar. Er fand die Kindlein nicht, auch nicht,</l>
+						<l>den Wald, um die Geschwister zu suchen.</l>
+						<l>unterdeſſen ein schlanker, ſtarker Jüngling geworden, rosig von Antlik,</l>
+						<pb type="ocr" n="181" />
+						<pb type="book" n="161" />
+						<l>beschlossen, ihn zum Priester heranbilden zu laſſen.</l>
+						<l>Doch wir verlassen nun den Wald mit feinen Wundern:</l>
+						<l>Wölpe willen", welche sie geboren haben sollte.</l>
+						<l>noch sonst gesonnen hätte. Macharis war überdem dazu bereit,</l>
+						<l>Schändlichste gebrochen habe.</l>
+						<l>Schmerze getröstet hatte : den Glauben an die Unschuld seiner Gattin.</l>
+						<l>Doch ist nicht Gott der Tröster aller unschuldig Leidenden?</l>
+						<l>Jesus Christus flehentlich an, daß die ihre Unschuld offenbarten.</l>
+						<l>sendete einen Engel zu dem Einsiedler und offenbarte ihm Alles.</l>
+						<l>Dieser lichte Himmelsbote gab ferner dem alten Helias den Befehl,</l>
+						<pb type="ocr" n="182" />
+						<pb type="book" n="162" />
+						<l>⚫an. Ein Blätterkleid war auch jetzt noch sein einziges Gewand;</l>
+						<l>großer Kraft zu schwingen verstand.</l>
+						<l>sprach: „Ich habe mit dem falschen Ritter Macharis zu thun. “</l>
+						<l>Da ergrimmte Helias und schlug den Mann mit seiner Keule nieder.</l>
+						<l>legen; Helias aber entzog sich ihnen und sprach: „Laßt mich;</l>
+						<l>Macharis erhoben, um die Königin zu verklagen. "</l>
+						<l>Also trat Helias der junge vor seinen Vater Driant und bat,</l>
+						<l>auch der betrübte König, „ ich sehe, daß es nur ein Wahnsinniger iſt,</l>
+						<l>dir zu fechten." Zürnend aber erhob sich jetzt der König Driant.</l>
+						<pb type="ocr" n="183" />
+						<pb type="book" n="163" />
+						<l>ſich mit edlem Anſtande vor seinem Vater verneigte : „Herr König,</l>
+						<l>Geschwister und seiner selbst.</l>
+						<l>fangen habe und daß sie nicht wiſſe, was mit ihr geschehen sei.</l>
+						<l>zukam. Dann aber zog er zum Walde, um den Einsiedler zu befragen,</l>
+						<l>daß in einem Ordale Gottes Wille kund werde.</l>
+						<l>mehr das grüne Waldkleid, nach welchem man ihn den „Lohengrin“</l>
+						<l>[{"</l>
+						<pb type="ocr" n="184" />
+						<pb type="book" n="164" />
+						<l>gethan hast?" Und noch einmal stürmten die Roſſe aufeinander los.</l>
+						<l>überwunden; Gottes Gnade ist von mir gewichen, laß mich leben,</l>
+						<l>Goldschmied nenne, welchem die Ketten übergeben worden sind. "</l>
+						<l>getragen hatte, vor den König und zeigte ihm an, daß die Königin Mata,</l>
+						<l>es durch Sawari sich erwiesen hatte, daß die Kinder noch lebten.</l>
+						<pb type="ocr" n="185" />
+						<pb type="book" n="165" />
+						<l>machte er über dem Antlitz des Markus das Zeichen des Kreuzes.</l>
+						<l>Licht der Augen, wieder.</l>
+						<l>Ränkevolle fand Mittel und Wege, auch von hier zu entkommen.</l>
+						<l>strafenden Gerechtigkeit Gottes und des Königs Driant.</l>
+						<l>das weiße Schwanenkleid noch trugen. Er bat seinen Vater daher,</l>
+						<l>ihm die filbernen Ketten der Schwäne zu übergeben und versprach,</l>
+						<l>nicht eher zu rasten, bis er ſeine ſechs Geschwister aufgefunden hätte.</l>
+						<l>sechs Schwäne suchen? Tieftraurig stand er einst an dem fluſſe,</l>
+						<l>ihnen mit den Ketten; da verwandelten sie sich in Menschengeſtalt;</l>
+						<l>und wollte in seinem Schmerze sein blendendes Gefieder sich ausreißen.</l>
+						<l>macht Gottes und tröstete dann seinen so unglücklichen Bruder:</l>
+						<pb type="ocr" n="186" />
+						<pb type="book" n="166" />
+						<l>Kirche, um sie durch die heilige Taufe dem großen Gotte zu weihen,</l>
+						<l>lichten Glanz ritterlichen Heldentums verklärt worden sind.</l>
+						<l>seiner Kinder durch die Gnade Gottes ihm wieder zugeführt waren,</l>
+						<l>Königreiches an und befahl ihnen, seinem Sohne folgsam zu sein,</l>
+						<l>folger, die Pflichten des Königstums mild und gerecht zu üben.</l>
+						<l>Helias knieete nieder und versprach vor Gott und den Menschen,</l>
+						<l>versuchen, das Recht zu schützen. “</l>
+						<pb type="ocr" n="187" />
+						<pb type="book" n="167" />
+						<l>Vaters Statt und zeigte sich dem frohlockenden Volke.</l>
+						<l>von ihren Feinden erstiegen. Lebend fiel Matabruna in Helias' Gewalt.</l>
+						<l>Die Gefangene wurde dem Sieger vorgeführt. Helias rief :</l>
+						<l>vergebe ich euch ; um der Gerechtigkeit willen aber müßt ihr sterben.</l>
+						<l>an einen Scheiterhaufen gefesselt und den Flammen übergeben.</l>
+						<l>oft, „hat ſich dein edler Bruder, der trauernde Schwan, gewendet ?“</l>
+						<l>zuschwimmen, welcher an einer Kette einen Nachen nach sich führte.</l>
+						<pb type="ocr" n="188" />
+						<pb type="book" n="168" />
+						<l>ſich Helias in seinen lichten Panzer ; dann ergriff er einen Schild,</l>
+						<l>all' seine Verwandten begleiteten den Scheidenden zum Flusse hinab.</l>
+						<l>vertrauenden Sinnes, obwohl einer dunklen Zukunft entgegengehend,</l>
+						<l>blicklich ab ; er schwamm von Fluß zu fluß, von Strom zu Strom,</l>
+						<l>In jenen Tagen herrschte der deutsche Kaiser Otto der Große;</l>
+						<l>geschädigt und endlich sogar den heimgekehrten Gemahl vergiftet habe.</l>
+						<pb type="ocr" n="189" />
+						<pb type="book" n="169" />
+						<l>Herzogin vermochte nicht, sich von so schwerer Anklage zu befreien ;</l>
+						<l>sie mußte nach dem Rechte also nun solch' einen Kämpfer stellen,</l>
+						<l>jede über sie verhängte Strafe erdulden.</l>
+						<l>entgegenkamen, um ihn vor den gewaltigen Herrscher zu geleiten.</l>
+						<l>im Ingrimme immer zu lachen pflegte : Sucht ihr Abenteuer,"</l>
+						<l>ſchwören, daß ihr nicht schuldig ſeid so furchtbarer Frevelthat ?"</l>
+						<l>zurecht und zog das Band der Schuhwaffe fester an, indem er ſprach:</l>
+						<pb type="ocr" n="190" />
+						<pb type="book" n="170" />
+						<l>geöffnet.</l>
+						<l>auf ihren Rossen. Auch das zweite Lanzenpaar wurde verstochen,</l>
+						<l>der Stelle offenbar. Der Graf von Frankenburg sah sich genötigt,</l>
+						<l>Gattin und das weite Ardennerland zu eigenem Besitze zu geben.</l>
+						<pb type="ocr" n="191" />
+						<pb type="book" n="171" />
+						<l>die Herrschaft über Land und Leute verliehen hatte, da sprach sie :</l>
+						<l>In heller Freude wurde nun auf des Kaisers Pfalz zu Nim.</l>
+						<l>Schwanenritter Helias, nunmehr ein Herzog von Bouillon Abschied,</l>
+						<l>schmetternde Fanfaren verkündeten es im nächsten Jahre dem Lande,</l>
+						<l>daß der jungen Herzogin ihr erstes Kind geschenkt worden war.</l>
+						<l>Ida empfing und nachmals die Mutter ſtarker Helden wurde.</l>
+						<pb type="ocr" n="192" />
+						<pb type="book" n="172" />
+						<l>Haupt ihres Gatten an ihrem Busen zu ruhen hatte, sie ihn befragte,</l>
+						<l>verfinsterte sich die lichte Stirn des Helden, und er warnte seine Gattin,</l>
+						<l>ihn jemals wieder nach seinem Ursprunge zu fragen. „Denn sonst,'</l>
+						<l>zu thun; ſie glättete mit holder Hand die Heldenſtirn ihres Gatten.</l>
+						<l>gebracht.</l>
+						<l>Ritter davon.</l>
+						<l>Gatten wieder. Helias befahl dem großen Otto Land und Leute,</l>
+						<pb type="ocr" n="193" />
+						<pb type="book" n="173" />
+						<l>➖➖</l>
+						<l>Helias ein solches gethan hätte ; aber der Schwanenritter sprach :</l>
+						<l>wiederum erklangen die mahnenden Töne des wundersamen Vogels.</l>
+						<l>dem Königreiche Lillefort zurückgeführt.</l>
+						<l>ſchmiedete sie wieder zu dem um, was sie einſtmals gewesen waren :</l>
+						<l>Jeht mochte Helias sein Werk auf Erden für vollendet halten.</l>
+						<pb type="ocr" n="194" />
+						<pb type="book" n="174" />
+						<l>erbaut hatte, ward er mit vielen anderen ein demütiger Mönch.</l>
+						<l>Klariſſa von Bouillon geboren worden war.</l>
+						<l>gesegnet war, ein lichter Engel, welcher also zu ihr sprach :</l>
+						<l>hatten, mit dem Bischofe von Lüttich, mit dem Herzoge von Brabant,</l>
+						<l>daheim das Kindlein Euſtachius so heftig, daß eine niedere frau,</l>
+						<l>des Knaben sich erbarmend, ihn an die Brust nahm und stillte.</l>
+						<l>Als die zurückkehrende Mutter davon gehört hatte, ſprach ſie traurig:</l>
+						<l>ich schelte euch nicht darum, aber eine Krone habt ihr zerbrochen. “</l>
+						<l>Vonjener Zeit ab wurde sie tiefsinnig und sprach mit niemandem mehr.</l>
+						<l>daher der Sinn Klarissens; doch Gott hatte in seiner Gnade beſchloſſen,</l>
+						<pb type="ocr" n="195" />
+						<pb type="book" n="175" />
+						<l>erzählen uns die alten Chroniken auf folgende Weiſe :</l>
+						<l>Einer der ausgesendeten Diener Klariſſens, mit Namen Pontius,</l>
+						<l>war über das Meer gefahren, nach der heiligen Stadt Jerusalem,</l>
+						<l>er nach seiner Heimat. „Ich bin der Abt Gerhard von St. Tron, “</l>
+						<l>zurück über die See und wanderte mit ihm nach dem Ardennenwalde.</l>
+						<l>gelangten sie jedoch in die Nähe jener Abtei, di: Helias erbaut hatte,</l>
+						<l>wurde ihnen als Pilgern der Eintritt in Burg und Kloſter gewährt.</l>
+						<l>zubringen.</l>
+						<l>Denn noch lebte Helias, der gottesfürchtige Schwanenritter;</l>
+						<l>nahe zu sein. Die aber hier lebten in friedlicher Abaeschiedenheit,</l>
+						<l>sie hatten nichts mehr zu schaffen mit den Sorgen dieser Welt ;</l>
+						<l>weislich frau Klariſſa.</l>
+						<pb type="ocr" n="196" />
+						<pb type="book" n="176" />
+						<l>Gottes Thron niederlegte.</l>
+						<l>Endlich blickte er auf und erkannte seinen alten Diener Pontius.</l>
+						<l>willkommen hier, mein alter Freund, verweile bei mir und erzähle,</l>
+						<l>Klarissa seit meinem Scheiden ergangen ist und noch ergeht. "</l>
+						<l>wußte. Aufmerksam betrachtete er die Züge des Schwanenritters,</l>
+						<l>erzähle meinen Lieben daheim, wo ich bin und wie es mir ergeht.</l>
+						<l>Und damit dir jedermann glaube: nimm hier dieſen Ring und über.</l>
+						<l>Herzen, dem kühnſten und frommſten Manne, dem gütigſten Fürsten,</l>
+						<l>der Himmelfahrt des Herrn, an welchem sie vor demselben eintrafen.</l>
+						<pb type="ocr" n="197" />
+						<pb type="book" n="177" />
+						<l>Erwartung rief sie dem Boten zu: „ D, sage mir, getreuer Pontius,</l>
+						<l>erwidern:</l>
+						<l>Tochter mitgegeben hatte.</l>
+						<l>sucht erweckt worden, den geliebten Gatten noch einmal zu sehen.</l>
+						<l>der Graf von Bonn mit seinen Helden geleitete sie. Wie sie aber,</l>
+						<l>sprach er in friedlicher Ergebung; „gelobt in Ewigkeit ſei ſein heiliger,</l>
+						<l>gewesen ist und daß er mich nach schweren Leiden dazu berufen hat,</l>
+						<pb type="ocr" n="198" />
+						<pb type="book" n="178" />
+						<l>und tapfern Schwanenritter flossen.</l>
+						<l>In tiefer Trauer kehrte die Gräfin von Bonn darauf heim,</l>
+						<l>Ziel sette, da waren es die Söhne der Gräfin von Bonn, Gottfried,</l>
+						<l>trug, weltlicher gesinnt als er, die Krone des Königreichs Jerusalem.</l>
+						<l>Mär' von „Lohengrin“ , welcher vordem den Namen „Helias“</l>
+						<l>getragen hat.</l>
+					</p>
+				</div>
+				<div type="Sage" n="8">
+					<head>Papst Leo IX.</head>
+					<p>
+						<pb type="ocr" n="199" />
+						<pb type="book" n="179" />
+						<l>Papst Leo IX</l>
+						<l>Zu den hervorragendsten Trägern jenes strengkirchlich.</l>
+						<l>gang wir hier zu schildern haben. AufBurg Dachsburg oder Dabo selbst,</l>
+						<l>noch zum Überfluß :</l>
+						<pb type="ocr" n="200" />
+						<pb type="book" n="180" />
+						<l>gnade gezeugt haben den heiligen Sohn und Papst Sankt Leo. "</l>
+						<l>sache sei hier erwähnt, daß Bruno von Dagsburg und Egisheim,</l>
+						<l>lieren sollte.</l>
+						<l>Mainz, Savonnières und Mantua, auf welchen Leo stets persönlich,</l>
+						<l>den Vorſik führte, beſchäftigten sich aufs Eifrigſte mit der Frage,</l>
+						<l>lichen, entgegenzuwirken wäre. Auch für das Patrimonium Petri,</l>
+						<l>gekämpft, wie es ihm sein getreuer Berater, der große Hildebrand,</l>
+						<pb type="ocr" n="201" />
+						<pb type="book" n="181" />
+						<l>und gefangen genommen ; ja, er selber ist endlich für ſeine großen,</l>
+						<l>und einige hochfeierlich gehaltene Episteln.</l>
+						<l>noch heute erhalten sind.</l>
+						<l>Es ist charakteriſtiſch, was Karl Stieler, der jüngst verstorbene,</l>
+						<l>greifenden Landesteilen Lothringens sagt; er ruft aus :</l>
+						<l>Romantik."</l>
+						<l>auf diesen Felsgebirgen und gießt sich nieder in die tiefen Thäler.</l>
+						<pb type="ocr" n="202" />
+						<pb type="book" n="182" />
+						<l>ſind von Adlern umkreist. Das alles sind poesiebeglänzte Stätten,</l>
+						<l>haben. Ja, hier ist hochpoetisches Waldesdunkel; hier iſt echter,</l>
+						<l>Gottesdienst, welcher einſame, hochgelegene Haine beſonders bevorzugte,</l>
+						<l>die Gipfel der Berge mit den „ Dolmen“, den riesigen Opferſteinen,</l>
+						<l>umgürtete. Mit zäher Kraft behauptete sich hier das Heidentum/</l>
+						<l>Weg sich bahnen zu den hochverehrten Heiligtümern des Waldge=</l>
+						<l>der Götzen. Etwa dreihundert Jahre mochten danach vergangen sein;</l>
+						<l>da wurde inmitten dieser wogenden, rauschenden Wälder Graf Bruno,</l>
+						<l>sein Geschlecht bis in die graue Vorzeit zu einem Grafen Eberhard,</l>
+						<l>stark und gefürchtet war sein Arm. Allein schnell, ehe er's gedacht,</l>
+						<pb type="ocr" n="203" />
+						<pb type="book" n="183" />
+						<l>erhalten.</l>
+						<l>Wahrsagerin, an der Pforte des Schloffes Dagsburg und verlangte,</l>
+						<l>Trübsinn und in ein finsteres Brüten; denn er meinte nicht anders,</l>
+						<l>zurückkehrte, in welchen der fröhliche Knabe ihm gerne gefolgt war,</l>
+						<l>gedemütigten und zerknirschten Gebieters an. Gerad wie der Papst'</l>
+						<pb type="ocr" n="204" />
+						<pb type="book" n="184" />
+						<l>Größe seines Verbrechens eine Absolution nicht gewähren könne.</l>
+						<l>des Grafen Hugo wendete er, der Stellvertreter Christi auf Erden,</l>
+						<l>Greis auf und sprach mit tiefbewegter Stimme zu ihm:</l>
+						<l>endlich in seiner Barmherzigkeit auch den entsühnten Vater wieder. "</l>
+						<pb type="ocr" n="205" />
+						<pb type="book" n="185" />
+						<l>ſich zurückkehrenden Verlaufes des Jahres ist. Denn jener Knabe,</l>
+						<l>neu stärkenden und erhaltenden Kraft. Der jugendliche Sommergott,</l>
+						<l>Papst Leo durch die heimischen Fluren dem goldenen Mainz zuzog,</l>
+						<l>richten und zu retten.</l>
+						<l>lenden Bette des Mooses und schlief, vom Waldeszauber umfangen,</l>
+						<pb type="ocr" n="206" />
+						<pb type="book" n="186" />
+						<l>er seinen unversöhnlichen, furchtbaren Feind nur zu gut erkannt hatte.</l>
+						<l>behaftet, sprang Hugo auf d betete :</l>
+						<l>Da aber stand nach der Sage alsobald der heilige Venediktus,</l>
+						<l>dienen all ſein lebenlang.</l>
+						<l>Erfindungen, durch welche man Leos Ruhm zu vermehren gedachte,</l>
+						<l>durch die dunklen Korridore und die Gemächer der Burg.</l>
+						<l>Bei diesen Gängen kam er einst in Begleitung eines Dieners,</l>
+						<pb type="ocr" n="207" />
+						<pb type="book" n="187" />
+						<l>denken und ohne die geringste Regung des Ekels zu empfinden machte,</l>
+						<l>sein Drotorium, um für den Kranken zu beten.</l>
+						<l>nicht lange mehr warten ließ.</l>
+						<l>in der Burg des fernen Benevent. Auch sie hat ein Seitenstück;</l>
+						<l>seinem Herrn, welchem er sich für allezeit zu eigen gegeben hatte.</l>
+						<l>der Sage nach durch außerordentliche Umstände verklärt wurde.</l>
+						<l>der Kanonisation zu teil wurde.</l>
+						<pb type="ocr" n="208" />
+						<pb type="book" n="188" />
+						<l>Stuhle gesessen haben.</l>
+						<l>erhalten hatten, untergegangen. Der Abtei St. Arnold hatte Ceo IX.</l>
+						<l>und die Inschrift trug :</l>
+						<l>coniunx mittunt haec munera Domino Apostolico Joanni;"</l>
+						<l>Hand gespendet haben sollte. Das alles ist, wie gesagt, verſchwunden.</l>
+						<l>Gemahl, ihr nur das allereinfachste Leichenbegängnis zuzurüsten,</l>
+						<l>er war trotz all seiner Demut mit Offenbarungen Gottes begnadigt.</l>
+						<pb type="ocr" n="209" />
+						<pb type="book" n="189" />
+						<l>nicht gewachsen.</l>
+						<l>Wohl darf die Diözese Toul stolz sein auf dieſen ihren Bischof,</l>
+						<l>Geburtsstätte aber, die Dagsburg, trägt heute eine Wallfahrtskapelle,</l>
+						<l>Vatikane, unfern dem Altar des heiligen Gregor, gefunden hat.</l>
+					</p>
+				</div>
+				<div type="Sage" n="9">
+					<head>Der hlg. Richard und Kaiser Heinrich II.</head>
+					<p>
+						<pb type="ocr" n="210" />
+						<pb type="book" n="190" />
+						<l>Der hlg. Richard und Kaiser Heinrich II</l>
+						<l>Abtei von St. Vanne zu Verdun.</l>
+						<l>In der alten Stadt Verdun befand sich im elften Jah</l>
+						<l>heiliger Mann stand in jenen Tagen dem Kloster vor ; es war St.</l>
+						<pb type="ocr" n="211" />
+						<pb type="book" n="191" />
+						<l>geben, sich ganz von der Welt zurückzuziehen ; er hatte darauf zu St.</l>
+						<l>Vanne Profeß gethan.</l>
+						<l>Ordens im Kloster von St. Vanne wieder eine Stätte zu bereiten.</l>
+						<l>zu Mönchen herangebildet werden sollten. Sie fragte Bischof Heimon,</l>
+						<l>aufzuschieben. Da erschien ihm beim Einbruche der Nacht ein Engel,</l>
+						<pb type="ocr" n="212" />
+						<pb type="book" n="192" />
+						<l>die Strafe nicht etwa mit Härte abzumeſſen.</l>
+						<l>das folgende Gesicht. Es erſchien einer der acht vor ihm und sprach:</l>
+						<l>deinem Abte, er solle nicht an unſere Grabſtätten rühren; denn dort,</l>
+						<l>Auferstehung erwarten. Des zum Zeichen werdet ihr morgen finden,</l>
+						<l>rechte, mit einem weißen Handschuh bedeckte Hand auf die Bruſt hält. “</l>
+						<l>nächsten Morgen den Augen der Kapitelherren leibhaftig dar.</l>
+						<l>heiligen Märtyrers Pantaleon. Das aber geschah auf folgende Weise:</l>
+						<l>win, Kenntnis von dem geborgenen Schatze; es wurde ihm leicht,</l>
+						<l>für eine Mark Silbers denselben von dem Krieger zu erwerben.</l>
+						<pb type="ocr" n="213" />
+						<pb type="book" n="193" />
+						<l>St. Vanne aber waren zwei große Kronen von edlem Metalle, welche,</l>
+						<l>kommen auf dieſe Heimsuchung zurück.</l>
+						<l>nun strahlte sie im hellsten Glanze durch das lothringische Land,</l>
+						<l>berühmt durch die Gelehrsamkeit und Frömmigkeit ihrer Mönche,</l>
+						<l>Nun ist es zwar hier nicht unsere Absicht, weitläufig zu beſchreiben,</l>
+						<l>wie teuer dies schöne Grenzland einst unsern Königen gewesen ist,</l>
+						<l>beiden benachbarten Nationen, die Deutſchen und die Franzosen.</l>
+						<l>Stadt Verdun war an einem hellen Sommertage jener entlegenen Zeit,</l>
+						<l>Reiches blühende Hoffnung, war in die Thore Verduns eingezogen,</l>
+						<pb type="ocr" n="214" />
+						<pb type="book" n="194" />
+						<l>ernährte, einige volle Hände Goldes an der Klosterpforte hingestreut.</l>
+						<l>„König Huffeholz“ oder „ den Hinkenden“nannte, viel mehr ein Mönch,</l>
+						<l>denn ein Kriegsmann ſei.</l>
+						<l>klirren und von Schilderklingen durchtönten, mordenden Schlacht.</l>
+						<l>Der Tag war dem Könige in emsigen Geschäften vergangen ;</l>
+						<l>daher bei ihm und führte ihn zur Kirche.</l>
+						<l>Mit hohen Erwartungen betrat König Heinrich das Heiligtum.</l>
+						<l>Pforte.</l>
+						<l>der Abt fort:</l>
+						<l>recht gehabt, wenn er einst sagte:</l>
+						<pb type="ocr" n="215" />
+						<pb type="book" n="195" />
+						<l>in Nachdenken versunken, ſeine Ruhestatt auf.</l>
+						<l>Mönche eine Palme und einen Epheukranz in die Rechte;</l>
+						<l>der Frauen mit den halbgelösten Gewändern verlosch eben so schnell,</l>
+						<pb type="ocr" n="216" />
+						<pb type="book" n="196" />
+						<l>beiwohnen.</l>
+						<l>St. Danne von Verdun noch einmal den Eid der Treue schwören,</l>
+						<l>wenn das Hochamt geschlossen sein wird. "</l>
+						<pb type="ocr" n="217" />
+						<pb type="book" n="197" />
+						<l>lichen Würdenträgern geleitet, zum Klosterhofe hinunterſchritt.</l>
+						<l>Er hatte die Rechte erhoben, wie um seine Vasallen zu segnen.</l>
+						<l>er ihnen und sprach abwehrend das Wort:</l>
+						<l>der Abtei-Kirche das Knie und betete laut vor allem Volke:</l>
+						<pb type="ocr" n="218" />
+						<pb type="book" n="198" />
+						<pb type="ocr" n="219" />
+						<pb type="book" n="199" />
+						<l>gekommen, welchen er unverzüglich auszuführen beſchloſſen hatte.</l>
+						<l>zubieten, um dem Herrscher die folgen seiner Verzichtleistung vor.</l>
+						<l>zuführen:</l>
+						<l>er dann. " Gott hat bereits ein Amt auf deine Schultern gelegt ;</l>
+						<l>entgegnete der König.</l>
+						<l>fügte er dann hinzu :</l>
+						<pb type="ocr" n="220" />
+						<pb type="book" n="200" />
+						<l>gezeigt worden war.</l>
+						<l>der lettere ermannte sich wiederum:</l>
+						<l>Mund gebeut. "</l>
+						<l>Lande von der Mosel bis zur Oder hatten keinen König mehr.</l>
+						<l>verharrte eine längere Zeit mit dem betenden König an dem Altare;</l>
+						<l>dann aber erhob sich gebieterisch seine hohe Gestalt.</l>
+						<pb type="ocr" n="221" />
+						<pb type="book" n="201" />
+						<l>ihm schwer ward, jetzt augenblicklich dem Abte Richard zu gehorchen,</l>
+						<l>bei seiner Anwesenheit im Münster den Bischof Werner gebeten haben,</l>
+						<l>„des Chores König“</l>
+						<l>Bischof von Verdun. Er war ein begeisterter Anhänger des Kaisers.</l>
+						<pb type="ocr" n="222" />
+						<pb type="book" n="202" />
+						<l>bare ist noch zu erzählen vom Abte Richard zu St. Vanne.</l>
+						<l>wurde mehrfach damit beauftragt, die verfallene Klosterzucht wieder.</l>
+						<l>Thoren von Arras.</l>
+						<l>Hier war allerdings die klösterliche Sitte völlig zerfallen;</l>
+						<l>der Abtei.</l>
+						<l>der Mönche verschworen sich sogar gegen das Leben des Abtes.</l>
+						<l>freitage sollte Richard für seinen Eifer mit dem Tode büßen;</l>
+						<l>so hatten zwei Frevler die grauenvolle That mit einander verabredet.</l>
+						<l>sich die beiden. Der eine von ihnen schlich sich dem Heiligen nach,</l>
+						<pb type="ocr" n="223" />
+						<pb type="book" n="203" />
+						<l>baren Macht festgehalten.</l>
+						<l>später die Abtei St. Vast übertrug.</l>
+						<l>Kirche zum heiligen Grabe abhielt :</l>
+						<pb type="ocr" n="224" />
+						<pb type="book" n="204" />
+						<l>Tempel niedermeßzeln."</l>
+						<l>Es waren furchtbare, qualvolle Stunden des bängſten Harrens,</l>
+						<l>Bewegung sprach da der Abt Richard :</l>
+						<l>erſchien auf der Lampe des heiligen Grabes.</l>
+						<l>worden ist, darüber berichtet Hugo von Flavigny nichts.</l>
+						<l>Leib des Herrn einſt im Todesschlummer geruht hatte.</l>
+						<pb type="ocr" n="225" />
+						<pb type="book" n="205" />
+						<l>zu bessern vor. Kaum aber hatte er diese Berufspflichten erledigt,</l>
+						<l>auch über das Land Lothringen. Es soll damals wirklich und wahr.</l>
+						<l>haftig geschehen sein, daß Menschenfleisch feil gehalten wurde,</l>
+						<l>ihm zu der Grube, in welcher die Toten vergraben worden waren,</l>
+						<l>und zog die entsetzliche Speise hervor, um seinen Hunger zu stillen.</l>
+						<l>der Armen verkauft worden sind.</l>
+						<l>heiligen Vitonus oder Videnus, welche man soeben aufgefunden hatte,</l>
+						<l>zugleich das Wort aus:</l>
+						<l>selben Jahres folgte ihm der Biſchof Richard nach.</l>
+						<pb type="ocr" n="226" />
+						<pb type="book" n="206" />
+						<l>des lothringischen Volkes.</l>
+					</p>
+				</div>
+				<div type="Sage" n="10">
+					<head>Die Sagen der Herzöge von Lothringen</head>
+					<p>
+						<pb type="ocr" n="227" />
+						<pb type="book" n="207" />
+						<l>Die Sagen der Herzöge von Lothringen.</l>
+						<l>des Hauses Cothringen verborgen.</l>
+						<l>erster jener Regingar mit dem langen Halse" gilt,</l>
+						<l>zu Stenay begraben.</l>
+						<l>Herzöge an der Mosel, die Grafen von Bar und von Pierrepont,</l>
+						<l>direkt oder durch Verschwägerung ab.</l>
+						<l>Die Sage hat nichts mit ihm, nichts mit seinen Schick.</l>
+						<pb type="ocr" n="228" />
+						<pb type="book" n="208" />
+						<l>Inhalt dieser alten Gesänge hier in kurzem wiederzugeben.</l>
+						<l>Empörung gereicht. Der wilde Kampf war losgebrochen.</l>
+						<l>kehren. Allein ein schwerer Fehler der Unvorsichtigkeit wurde begangen:</l>
+						<l>die Herzöge sich verraten; alle Bitten des Boten waren vergebens:</l>
+						<l>aus seines Herzens Grunde:</l>
+						<l>"Herr Gott, der du aller Dinge Urheber und Walter bist,</l>
+						<pb type="ocr" n="229" />
+						<pb type="book" n="209" />
+						<l>Sieg gewonnen, und der Empörer Heinrich, der schöne, hochgesinnte,</l>
+						<l>aber charakterloſe Sohn Mathildens, hätte unfehlbar hier sein Ende.</l>
+						<l>gewesen, von welchem die Lanzen ohnmächtig abprallten.</l>
+						<l>war durch die Schlacht noch keineswegs entſchieden. Noch galt es,</l>
+						<l>Eberhard, den Unstifter alles Übels, in Fesseln zu schlagen. Und,</l>
+						<l>entsetzlichste Not: scharenweiſe flohen die Krieger aus seinem Lager,</l>
+						<l>König heran und rief:</l>
+						<l>zum Eigentum gibst samt seinen Einkünften. “</l>
+						<l>Doch stolzen und drohenden Blickes entgegnete König Otto:</l>
+						<l>dir offen. "</l>
+						<l>Da warf der Graf ſich reumütig vor dem Könige zu füßen.</l>
+						<l>und Herzog Hermann von Schwaben, die drei Vielgetreuen Ottos,</l>
+						<pb type="ocr" n="230" />
+						<pb type="book" n="210" />
+						<l>Begleitern Ruhe und fragte den Priester :</l>
+						<l>bert hausen?"</l>
+						<l>Rasenfläche gelagert und aufs eifrigſte mit dem Brettspiele beschäftigt ;</l>
+						<l>Lothringen ertrank.</l>
+						<l>Kein Zweifel: wir vernehmen hier nicht die Geschichte allein,</l>
+						<l>sondern auch die Klänge alter, eherner Volkssagen.</l>
+						<l>Der erste der Fürsten dieses Stammes ist Gerhard vom Elſaſſe,</l>
+						<l>siastique et civile, weiß die Vorfahren Gerhards vom Elſaſſe geſchicht.</l>
+						<l>Gertrud, einer Tochter Pipins von Landen, vermählt war. St.</l>
+						<pb type="ocr" n="231" />
+						<pb type="book" n="211" />
+						<l>steht daher eine von der Sage verklärte frau.</l>
+						<l>Sage ist sein Leben selbst in keiner Weise ausgeschmückt worden.</l>
+						<l>schreiber Fredegarius erwähnt.</l>
+						<l>über die Anfänge des Hauses Lothringen verbreitet. Die abenteuer.</l>
+						<l>lichste derselben ist wohl die folgende :</l>
+						<l>Hunibald, dieſe Mär aufgezeichnet, herrschte einst ein mächtiger König,</l>
+						<l>Gottfried geheißen. Derselbe besaß einen Sohn, Karl Ynach genannt;</l>
+						<l>Spur von sich zu hinterlassen, wählten sie die Pfade des Meeres.</l>
+						<l>Tongern. Nach vielen Tagefahrten trafen sie dort ein.</l>
+						<l>Überlieferung.</l>
+						<pb type="ocr" n="232" />
+						<pb type="book" n="212" />
+						<l>Luft und suchte dann Schutz in dem Schoße der schönen Germana.</l>
+						<l>Schwan ist ein Vogel glücklicher Vorbedeutung.</l>
+						<l>Julius Cäsar verbunden.</l>
+						<l>der Burg zu Kleve. Beständig befand sich bei ihr jener Schwan,</l>
+						<l>Schoß geflogen war.</l>
+						<l>Burg zu Kleve.</l>
+						<l>verſchieden berichtet, wie er die Schweſter ſeines Fürsten erkannt hat.</l>
+						<l>Die einfachste dieser Erzählungen aber ist die folgende :</l>
+						<l>er dem Ritter ; der aber suchte ihn und fand ihn im Burggraben,</l>
+						<pb type="ocr" n="233" />
+						<pb type="book" n="213" />
+						<l>die Fürstin in den Lauten der lateinischen Sprache an:</l>
+						<l>jeht fürchtete die Fürstin die Rache ihres Bruders nicht mehr ; ja,</l>
+						<l>gestanden hatte.</l>
+						<l>ihn der große Cäsar mit dem Reiche Brabant.</l>
+						<l>Aber auch an Oktavian und Lothar, die Söhne seiner Schwester,</l>
+						<l>genannt wurde.</l>
+						<l>in der Welt; ―――――――――― warum nicht auch die Herzöge von Lothringen?</l>
+						<pb type="ocr" n="234" />
+						<pb type="book" n="214" />
+						<l>von ihr, und noch sehr späte lothringische Historiker wie Jean d' Aury,</l>
+						<l>fahren dachten sich jeden Helden, der an eines Volkes Spitze steht,</l>
+						<l>heißt den Schutz der Göttermutter Freia.</l>
+						<l>ist ein Held der kerlingischen Hausmeierzeit der Ahnherr des Geschlechtes:</l>
+						<l>zur Charakteristik nur der Schluß:</l>
+						<l>„Das ist die Geschichte des Lothringers Garin,</l>
+						<l>Und Begons, der im Walde getötet wurde,</l>
+						<l>Und Rigants, des guten, kühnen Vasallen,</l>
+						<l>Und Dernais' von Joffroy, des Anjouvins,</l>
+						<l>Und Huons, der aus Cambrésis war,</l>
+						<l>Und des guten Herzogs, der Aubry hieß,</l>
+						<l>Und des Bauern der Hervi hieß, ,</l>
+						<l>Sowie seiner Söhne Tyon und Morandin,</l>
+						<l>Und des Deutschen, der Oury hieß,</l>
+						<l>Und Douens, der zu Bordeaux erzogen ward,.</l>
+						<l>Und Walters, der Orphanius hieß,</l>
+						<l>Und Garins, des guten, kühnen Vasallen,</l>
+						<l>Und Rammons welchen, die Sarazenen töteten,</l>
+						<l>Unter welchem die Heiden Gibert beistanden,</l>
+						<l>Und Frodons, der Jesu verließ,</l>
+						<l>Und des stolzen Ginall von Mouclin,</l>
+						<l>Und Fros, der im Walde getötet wurde,</l>
+						<l>Dort, wo unser Heiland dienen mußte,</l>
+						<pb type="ocr" n="235" />
+						<pb type="book" n="215" />
+						<l>Von den Lothringern ist nun zu Ende.</l>
+						<l>Es gibt nichts mehr zu hören,</l>
+						<l>Man müßte denn erfinden oder lügen. "</l>
+						<l>seinen Helden aber breitet er den vollen Glanz chriſtlichen Rittertums,</l>
+						<l>Kämpfer des Kreuzes, abstammen zu laſſen.</l>
+						<l>es durchaus nur historische Züge, welche von ihnen aufbehalten sind.</l>
+						<pb type="ocr" n="236" />
+						<pb type="book" n="216" />
+						<l>Herzog hatte sich mit Kaiser Otto IV. gegen Friedrich II. empört,</l>
+						<l>war aber bei Amance geschlagen worden und ſah sich gezwungen,</l>
+						<l>fußfällig die Verzeihung des Kaisers zu erflehen. „ Sie sei dir gewährt,"</l>
+						<l>dahin; im nächsten Jahre starb er.</l>
+						<l>wieder unter Ferry III.</l>
+						<l>Es war ein schöner Ruhm dieſer alten Herzöge von Cothringen,</l>
+						<l>gar langer Zeit war dann gewöhnlich auch der Ungerechte bestraft,</l>
+						<l>getroffen hatte.</l>
+						<l>banden sich unter Führung und Befehl des Sire von Mayéville,</l>
+						<l>welcher dicht vor den Thoren der Stadt Nancy ein festes , gleich.</l>
+						<l>namiges Schloß besaß, und lauerten nun auf jeden Schritt des Herzogs,</l>
+						<l>Anschlages nur ja nicht zu verpaſſen.</l>
+						<pb type="ocr" n="237" />
+						<pb type="book" n="217" />
+						<l>Da, eines Tages, kam ihnen günstige Kunde. „Der Herzog,“</l>
+						<l>verteilten sich die Reiter.</l>
+						<l>Tönen der Abschiedsgruß des Fürſten dem ſtiller werdenden Forſte zu;</l>
+						<l>jetzt vernahmen die Aufständischen den Klang der Hufe seines Roffes.</l>
+						<l>blicke war die kleine Schar der Begleiter des Herzogs überwältigt ;</l>
+						<l>einen der festesten Türme des Landes gefangen.</l>
+						<l>lang in den Feſſeln seiner Edelleute befunden. Er selber wußte nicht,</l>
+						<l>ſchändliches Mittel gebraucht, um den Unglücklichen zu verwirren.</l>
+						<pb type="ocr" n="238" />
+						<pb type="book" n="218" />
+						<l>ihm von unsichtbarer Hand in das Verlies hinabgelaſſen. Die Diener,</l>
+						<l>den Verrätern ermordet worden Herzog: ferry war ein Verschollener.</l>
+						<l>Lothringen und durch die umliegenden Lande gesendet, ――――― einmal,</l>
+						<l>zweimal; aber es war keine Spur von ihrem Gemahl aufzu=</l>
+						<l>lange erfreuen.</l>
+						<l>nur an der Wärme und der Kälte merkte er's in seinem Verlieſe,</l>
+						<l>wie di Je ahre kamen und gingen. Wie stand es nun um ſei Ln and,</l>
+						<l>und Dohlen unter der Turmhaube über ihm waren seine Genossen.</l>
+						<l>aller Unglücklichen, die Hoffnung, verließ den Herzog endlich.</l>
+						<l>die Welt stand gewiß wiederum in voller Blütenpracht d ,a ver:</l>
+						<pb type="ocr" n="239" />
+						<pb type="book" n="219" />
+						<l>man sich an, den Gefangenen zu befreien, oder beabsichtigte man,</l>
+						<l>Kopf blickte neugierig durch das Fenster des Turmes in die tiefe,</l>
+						<l>dämmernde Höhlung hinab.</l>
+						<l>wieder.</l>
+						<l>lich, gefangener Mann?"</l>
+						<l>verdienen für Zeit und Ewigkeit ?"</l>
+						<l>„Nicht wahr, ―――― ich soll dich befreien?" fragte der Dachdecker.</l>
+						<l>Maréville? Bin ich denn im Verliese der Burg Maréville ?"</l>
+						<l>Lande? Lebt die Herzogin, Frau Margarete von Navarra, noch?"</l>
+						<l>hier seit Jahren schmachte ?"</l>
+						<pb type="ocr" n="240" />
+						<pb type="book" n="220" />
+						<l>wähnt?"</l>
+						<l>Da sprach der weidliche Gesell :</l>
+						<l>mes reicht ?"</l>
+						<l>Schlosse zu Maréville die Qualen der härtesten Gefangenſchaft erdulde.</l>
+						<l>ring des Gemahls erhielt. Aber sie war nicht allein eine starke,</l>
+						<l>getroffen, wenn das Geheimnis ausgekommen wäre.</l>
+						<l>bereitungen. Die Vasallen des Herzogs wurden entboten; eines schönen,</l>
+						<l>hoffen. So wurde Schloß Maréville wohl einen Monat lang belagert;</l>
+						<l>da ſtellten Not und Hunger ſich im Burghofe ein.</l>
+						<l>Frau Margarete befand sich während deſſen in tötlicher Angſt.</l>
+						<l>töten ließ? Zum Glücke aber liebte auch der Schloßherr sein Leben,</l>
+						<l>schwenkend.</l>
+						<pb type="ocr" n="241" />
+						<pb type="book" n="221" />
+						<l>leitete, ritt näher ans Schloß heran.</l>
+						<l>Habe zusagt. "</l>
+						<l>Ritters eingehen. Der Sire von Maréville verließ sein Schloß.</l>
+						<l>Ferry seinem Kerker.</l>
+						<l>Herzog aus:</l>
+						<l>Jehan le Borgne ?"</l>
+						<l>Der Gerufene trat vor.</l>
+						<l>Die Sage fügt hinzu:</l>
+						<l>bestanden. "</l>
+						<l>Ferry III. erscheint Jahr für Jahr in den Urkunden seines Landes;</l>
+						<pb type="ocr" n="242" />
+						<pb type="book" n="222" />
+						<l>dankbar gegen Gott und seinen Retter hatte der Fürst bestimmt :</l>
+						<l>„Für künftige Zeiten soll mein Gefängnis erhalten bleiben,</l>
+						<l>Jahrhundert, um dann noch einmal glänzend sich zu entfalten.</l>
+						<l>die Kreuzzüge bereits zu erlöschen drohte, war Herzog Matthieu II.,</l>
+						<l>donné, und Karl II., welcher mit Recht den Zunamen le Hardi führt.</l>
+						<l>deutschen Landen in dieser Zeit sich noch ritterlichen Glanz bewahrt. “</l>
+						<l>lang das schwarze Kreuz. Auch Könige rechneten sich's zu Ehre,</l>
+						<l>wenn der Orden ſie aufnahm unter seine Halbbrüder, und kein höheres &lt;</l>
+						<l>als dieses:</l>
+						<pb type="ocr" n="243" />
+						<pb type="book" n="223" />
+						<l>ward ihnen und der Maget tugendlich zu Ehren,</l>
+						<l>„die Gottes Mutter wird genannt, “</l>
+						<l>in der Wild geheeret,</l>
+						<l>„Haid ein, Busch ein und unverzagt,</l>
+						<l>Recht als der Fuchs die Haſen jagt, “</l>
+						<l>alle Habe fört nach den Grundſahe :</l>
+						<l>mächtigen Verhauen, welche das Land der Barbaren durchschnitten.“</l>
+						<l>ländern, sowie aus der Mannschaft der Stifter Trier, Köln, Mainz,</l>
+						<l>Haufen befehligte Gottfried von Salles und der Herr von Saintré;</l>
+						<l>des Königs Kasimir von Polen.</l>
+						<pb type="ocr" n="244" />
+						<pb type="book" n="224" />
+						<l>Mit hoher Begeisterung erfolgte der Angriff der Christen.</l>
+						<l>Gemehel; denn dicht miſchten sich im Gedränge Chriſten und Heiden.</l>
+						<l>den Feinden in die Flanken zu fallen. Der Kaiser von Karthago,</l>
+						<l>heidnischen Lagers lieferte den Christen reiche Schäße in die Hände.</l>
+						<l>statt, welchem Herzog Johann, die oben genannten Ritter und Könige,</l>
+						<l>sich hohen Ruhm erwarb. Vielleicht ist bei der Schlachtbeschreibung,</l>
+						<pb type="ocr" n="245" />
+						<pb type="book" n="225" />
+						<l>Christ ist erstanden"</l>
+						<l>zu sein.</l>
+						<l>der Nachricht, Herzog Johann I. habe selber einen Ritterorden gestiftet.</l>
+						<l>Es soll dies der der Herren vom weißen Ärmel" gewesen sein.</l>
+						<l>die Rüstung oder das festgewand herabfallenden Ärmel zu tragen,</l>
+						<l>auf welchem Symbole, Wappenfiguren und Deviſen eingestickt waren.</l>
+						<l>Freunde vermochten nichts über diese Adelsgesellschaft aufzufinden.</l>
+						<l>Lothringen berichten; aber wir konnten zu unserer Freude bezeugen,</l>
+						<l>lothringischen Landesfürſten gewunden hat.</l>
+					</p>
+				</div>
+				<div type="Sage" n="11">
+					<head>Wappen, Fahnen, Schlachtrufe u. Devisen der Herzöge von Lothringen</head>
+					<p>
+						<pb type="ocr" n="246" />
+						<pb type="book" n="226" />
+						<l>Wappen, Fahnen, Schlachtrufe u. Devisen der Herzöge von Lothringen</l>
+						<l>Die Alten haben viel gefabelt in ihren Werken von de</l>
+						<l>löblichen und ritterlichen Heroldskunst" ; sie haben di</l>
+						<l>Zeit des Ursprunges der mittelalterlichen Wappenzeichen,</l>
+						<l>Beinamen „florus" hat nach bestimmten Berichten sich dieses Schild.</l>
+						<pb type="ocr" n="247" />
+						<pb type="book" n="227" />
+						<l>runden, römischen Schildes hineinzublicken vermögen.</l>
+						<l>Hochinteressant aber ist das Reitersiegel Simons I., des Dicken,</l>
+						<l>dasselbe uns die altritterliche Tracht der Lothringer Herzöge dar,</l>
+						<l>Herzog trägt den Kettenpanzer und das lange Waffenhemd darüber;</l>
+						<l>ſpik zulaufenden, oben abgerundeten Schild schmücken vier Buckel,</l>
+						<l>ausgeht.</l>
+						<l>Es ist dies die von den Heraldikern fälschlich als „ Lilienhaſpel“</l>
+						<l>dieſer Schildbeſchlag über den ſchwarzen Löwen des Wappens hin.</l>
+						<pb type="ocr" n="248" />
+						<pb type="book" n="228" />
+						<l>nannte „Lilienhaspel“ zu bezeichnen.</l>
+						<l>auch durch die Farbe unterschieden waren.</l>
+						<l>zu betrachten.</l>
+						<l>diesen stolzen Raubvögeln „verstümmelte Adler, " jene „ lérions"</l>
+						<l>ſalem und Bar, auch die von Geldern und Jülich.</l>
+						<l>feldes, auf welchem der Reiter erscheint.</l>
+						<l>lothringischen Sagenbuche?“ ――― So wird der Leser sich fragen.</l>
+						<pb type="ocr" n="249" />
+						<pb type="book" n="229" />
+						<l>begann, fanden dieſe Adler Aufnahme in den Schild der Herzöge.</l>
+						<l>Man hatte eine Sage von diesen drei weißen Raubvögeln. Gottfried,</l>
+						<l>so heißt es, lag vor der heiligen Stadt und konnte ſie nicht einnehmen.</l>
+						<l>auf. Der Streiter Christi spannte den Bogen und sprach bei sich :</l>
+						<l>Stadt Jerusalem und wurde Schuhherr des heiligen Grabes.</l>
+						<l>umging, stützte sich überhaupt nicht mehr auf das Thatsächliche.</l>
+						<l>Hirsch mit goldenem Geweihe ist ein Tier der deutſchen Mythologie,</l>
+						<l>hörniges Geweih iſt ein dichteriſches Symbol für die blizenden weit.</l>
+						<l>win, das Bild des Sonnenhirsches auf seinem Schilde geführt hat.</l>
+						<l>konnte nach dem herrlichen Psalme:</l>
+						<l>auch als Symbol der Sehnsucht nach Gott aufgefaßt werden.</l>
+						<pb type="ocr" n="250" />
+						<pb type="book" n="230" />
+						<l>trug dasselbe später gleich einem Ordenszeichen an einer Krone.</l>
+						<l>als Bild die Verkündigung Mariä trug, befanden sich drei Wimpel,</l>
+						<l>ſtellung der lothringiſchen Farben: ſie ist gelb, rot, weiß.</l>
+						<pb type="ocr" n="251" />
+						<pb type="book" n="231" />
+						<l>L'Enseigne au Duc Ferry,</l>
+						<l>Marchis entre les trois Royaumes."</l>
+						<l>einſt befunden haben.</l>
+						<l>Jean d'Anjou et de Calabre,</l>
+						<l>diese Wahlsprüche.</l>
+						<l>Orden schuf, ſo bildete man auch in Cothringen, wie wir gesehen haben,</l>
+						<l>auch auf den Fahnen, die Verkündigung Mariä mit Vorliebe ab.</l>
+						<l>zunehmenden Mondes (du Croissant).</l>
+						<pb type="ocr" n="252" />
+						<pb type="book" n="232" />
+						<l>im wesentlichen das folgende :</l>
+						<l>entweder das Mittags oder das Abendessen überschlagen werden.</l>
+						<l>Gegen die Brüder war die Pflicht der Liebe und der Friedfertigkeit,</l>
+						<l>gegen den Landesherrn zu ergreifen, war aufs strengste verboten.</l>
+						<l>Worte prangten:</l>
+						<l>an dem Kapitelstage den langen, hermelinbesetzten Purpurmantel;</l>
+						<l>Pelzwerk (menu vair), die Knappen durch Purpurſeide mit Pelzbesatz.</l>
+						<l>getragen. Die Kopfbedeckung bestand aus schwarzen Samthütchen,</l>
+						<l>des Ordens, silberne Borten hatte. Der Ordenschef führte den merk,</l>
+						<pb type="ocr" n="253" />
+						<pb type="book" n="233" />
+						<l>Titel Sénateur", ihm folgten im Range der Aumônier oder Kaplan,</l>
+						<l>ein Geistlicher, der Kanzler, der Bittſchriftenempfänger, Schatzmeister,</l>
+						<l>auch der Schlachtruf der Ritter.</l>
+						<l>von Finstingen. Über den Ausgang und das Absterben des Ordens,</l>
+						<l>du Croissant. Um dasselbe legt sich nämlich ein schmaler Gürtel,</l>
+						<l>zwei einander zugekehrten Halbmonden, zwiſchen welchen sich vier-,</l>
+						<l>Lothringens einführen.</l>
+						<l>alten Herzöge nur die schlichten Worte:</l>
+						<l>„Adjuva nos, deus salutaris noster, "</l>
+						<pb type="ocr" n="254" />
+						<pb type="book" n="234" />
+						<l>die Worte gewählt :</l>
+						<l>Ihr Gemahl aber bezieht stolz die biblischen Worte auf sich:</l>
+						<l>„Neutra sequar medius“,</l>
+						<l>Wagen ein Jüngling einher; die Umschrift lautet :</l>
+						<l>„ Super basiliscum ambulabis et conculcabis. "</l>
+						<l>aus den Wolken herabhängende, gerade stehende Wage erscheint;</l>
+						<l>die Umschrift lautet:</l>
+						<l>die Worte:</l>
+						<l>„Fidei victrici“,</l>
+						<l>bezeichnet das Stück als eine Hochzeitsmedaille.</l>
+						<l>„Et adhuc spes durat avorum,</l>
+						<pb type="ocr" n="255" />
+						<pb type="book" n="235" />
+						<l>die Inschrift:</l>
+						<l>selben die feste Säule der Religion zwischen zwei Füllhörnern; Hände,</l>
+						<l>lothringische Kreuze umgeben sie. Die Umschrift lautet :</l>
+						<l>die alten Traditionen des Ordens vom Halbmonde, wie es scheint,</l>
+						<l>Kreuz, auf einem Halbmonde ſtehen; die Legende lautet:</l>
+						<l>Viktoria. Die einfache Inschrift enthält nur die Worte:</l>
+						<l>" Ipsa sibi pretium virtus. "</l>
+						<l>machen begann. Das Wappenzeichen von Nancy aber ist eine Distel;</l>
+						<l>deshalb die auf das „judicium Paridis“ sehr zutreffende Inſchrift:</l>
+						<l>e , leich auf die Distel paßt.</l>
+						<pb type="ocr" n="256" />
+						<pb type="book" n="236" />
+						<l>Umschrift lautet: „Bene fundata est (amicitia) super firmam petram. “</l>
+						<l>ringischen Fürsten tragen die leicht verſtändlichen Inſchriften:</l>
+						<l>eifriger Vorkämpfer des katholischen Bekenntniſſes.</l>
+						<l>verkündet:</l>
+						<l>verkündete durch die Umſchrift:</l>
+						<l>Quaesita artibus utraque nostris",</l>
+						<l>und Palmen umzogen sind. Einfach ist ihre Deviſe:</l>
+						<l>welcher ein aus dem Meere hervorragender fels dargestellt ist. Stürme,</l>
+						<l>durch pausbäckige Knabengesichter dargestellt, umſauſen ihn wild.</l>
+						<l>lakonische :</l>
+						<pb type="ocr" n="257" />
+						<pb type="book" n="237" />
+						<l>Umschrift verkündet:</l>
+						<l>Er kehrte aber auch wieder zu dem alten:</l>
+						<l>„Sit nomen domini benedictum"</l>
+						<l>„Fugiant, qui oderunt eum, a facie ejus"</l>
+						<l>an, und spricht als gläubiger Christ:</l>
+						<l>„Quis laboranti potuit succurrere lunac ?"</l>
+						<l>Ungarn verkündet:</l>
+						<l>jenes Zeichen um, welches die Vorfahren des heldenmütigen Karl V.</l>
+						<l>geweſen, auf dieſe Altertümer Lothringens einzugehen. Alte Herolds.</l>
+						<pb type="ocr" n="258" />
+						<pb type="book" n="238" />
+						<l>Wie eine Sage ſelbſt aber wird es den Lothringern von heut erſcheinen,</l>
+						<l>Gesellschaft einführen wollte. Und drum für heut und immer:</l>
+					</p>
+				</div>
+				<div type="Sage" n="12">
+					<head>Templer- und Adelssagen</head>
+					<p>
+						<pb type="ocr" n="259" />
+						<pb type="book" n="239" />
+						<l>auszeichnete, wie es dieses Buch an vielen Stellen bezeugt,</l>
+						<l>den edelsten in Deutschland um die Palme des Verdienstes streiten.</l>
+						<l>fahrt" nicht so begeistert aufgenommen worden, wie in Lothringen.</l>
+						<pb type="ocr" n="260" />
+						<pb type="book" n="240" />
+						<l>auf kurze Zeit in die Gefangenschaft der Muselmänner geraten ſein.</l>
+						<l>Es sind dies freilich nur sagenhafte Angaben; aber sie beweisen,</l>
+						<l>erfreuen hatten.</l>
+						<l>diesem frommen Sinne des Cothringer Adels infolge milder Schen.</l>
+						<l>kungen und Vermächtnisse einſt reiches Grundeigentum im Lande.</l>
+						<l>Die Ritter vom Spitale hatten zu Meß eine Kommende gestiftet ;</l>
+						<l>Saarburg bestand bis zur Zeit der Revolution die Komturei St.</l>
+						<l>Abteien St. Pierre und St. Marie, ein Ordenshaus und eine Kirche.</l>
+						<pb type="ocr" n="261" />
+						<pb type="book" n="241" />
+						<l>Seiten der Herzöge erfuhren die Templer vielfache Begünstigungen.</l>
+						<l>Ritterorden aufgehoben hatte.</l>
+						<l>sächlichsten der hierher gehörigen Überlieferungen an.</l>
+						<l>ihrer Baue, als Seitenflügel eines ehemaligen Templerhauses, bezeichnet.</l>
+						<l>Auch zu Scy weiß man auf ein altes Templerhaus hinzuweisen;</l>
+						<l>Ritter einst zu Steinbiedersdorf eine Niederlassung besessen haben.</l>
+						<l>Neuve-Ville zu, stand einſt der Volkssage nach ein festes Tempelhaus,</l>
+						<pb type="ocr" n="262" />
+						<pb type="book" n="242" />
+						<l>schlosses. Hier wird die sonst so eintönige Überlieferung farbenreicher.</l>
+						<l>Dorfe Xanrey auf.</l>
+						<l>gezeichnet worden sind.</l>
+						<pb type="ocr" n="263" />
+						<pb type="book" n="243" />
+						<l>bald einen Brackenkopf, bald einen Schwanenhals zum Helmschmucke?</l>
+						<l>Nach bloßer Willkür wurden diese Zeichen nicht angenommen;</l>
+						<l>durchbraust; -wer als Krieger aber den Schwanenhals erwählte,</l>
+						<l>der empfahl sich dem Schutze der Töchter Wodans, der Walkyren,</l>
+						<l>Schwanenfittigen emportragend zur ewigen Freude des Himmels.</l>
+						<l>den späten Enkeln anzeigte, daß es Zeit war, ihr Haus zu beſtellen.</l>
+						<l>Sohn König Belas II., des Blinden, vermählte sich der Geschlechts.</l>
+						<l>und Rot achtmal quer geteilt: es ist dies das Landeswappen Ungarns.</l>
+						<pb type="ocr" n="264" />
+						<pb type="book" n="244" />
+						<l>talismane überkommen haben. Auch die Gorcey oder Gourcy,</l>
+						<l>Erde herstammen; sie leiten sich von dem irländischen Hauſe Kinsale ab.</l>
+						<l>erscheinen; der andere Teil des Schildes ist von Hermelin überdeckt.</l>
+						<l>laſſe; sei aber dies letztere dennoch geschehen, so suche es den Tod.</l>
+						<l>Kriechingen gefochten haben und von den Türken gefangen worden sein.</l>
+						<l>Nibelungenſage iſt auf altlothringiſchem Boden, imMoselherzogtume,</l>
+						<l>folgende an:</l>
+						<pb type="ocr" n="265" />
+						<pb type="book" n="245" />
+						<l>Hunolds Schwert gefällt. “</l>
+						<l>mörders Otto von Wittelsbach also:</l>
+						<l>des Klosters Oberndorf in ihre Gruft aufgenommen.</l>
+						<l>Also die Geschichte. Die Sage der Wildgrafen aber behauptete:</l>
+						<l>seiner Statt getötet worden. Er ſelbſt hat ſich in die Ardennen geflüchtet.</l>
+						<l>Dort hat er ein Heim und ein Weib gefunden und ist der Wild:</l>
+						<pb type="ocr" n="266" />
+						<pb type="book" n="246" />
+						<l>fließt. Das alles aber erscheint uns als ein späterer, künstlicher Mythus;</l>
+						<l>Kirburg mit einer Schwester Ottos vermählt war. Die Salm aber,</l>
+						<l>bezeichnung erwählt haben, sind recht eigentlich daheim an den fiſchreichen,</l>
+						<l>Auch auf die Salm ist, wie wir weiter unten sehen werden,</l>
+						<l>zeichnete die Söhne dieses Hauses, welches seinen Namen „Leiningen“</l>
+						<l>heut wogen Linden über den Trümmern ihrer pfälzischen Burgen;</l>
+						<l>alte Kirche des Grafenhauses stand.</l>
+						<pb type="ocr" n="267" />
+						<pb type="book" n="247" />
+						<l>dem Kreuzfahrer :</l>
+						<l>empfahl sich der Graf im Gebete dem heiligen Nikolaus vom Porte,</l>
+						<l>Versuch an der Wachsamkeit der griechischen Mönche gescheitert,</l>
+						<l>walt besetzten sie das Kloster des Heiligen auf der Burg zu Myra,</l>
+						<l>überwältigt hatten, bemächtigten sie sich der Gebeine St. Nikolaus'</l>
+						<l>und führten sie im Triumphe auf schnellem Schiffe nach Bari hin.</l>
+						<pb type="ocr" n="268" />
+						<pb type="book" n="248" />
+						<l>Stadt Bari zu.</l>
+						<l>stehen konnte.</l>
+						<l>zu eigen gegeben, und St. Nikolaus verließ ihn nicht in seiner Not.</l>
+						<l>wars ihm, als umfinge ihn wieder der heimische Wald ; imMonden.</l>
+						<l>und von dem gewissen Tode errettet worden.</l>
+						<l>die Pforte nicht, sondern sprach:</l>
+						<l>dringen will. "</l>
+						<l>Mönch den Abt herbeirief.</l>
+						<l>geworden war :</l>
+						<pb type="ocr" n="269" />
+						<pb type="book" n="249" />
+						<l>nisse des Wunders eine feierliche Prozeſſion in der Abtei statt.</l>
+						<l>Bewaffnet erschienen zu ihr die Unterthanen der Grafen von Riringen;</l>
+						<l>Nikolaus, ob.</l>
+						<l>Es ist nicht unsere Absicht, hier auszuführen, wie dieſe Sage,</l>
+						<l>Ufer der Donau und auf den Basalthöhen der Eifel wiederfindet.</l>
+						<l>Abenteuer verstummt.</l>
+					</p>
+				</div>
+				<div type="Sage" n="13">
+					<head>Der Graf von Engelweiler und die Waldfrau</head>
+					<p>
+						<pb type="ocr" n="270" />
+						<pb type="book" n="250" />
+						<l>Der Graf von Engelweiler und die Waldfrau</l>
+						<l>im lothringer Lande einst Grafen von Engelweiler,</l>
+						<l>eine alte Sage das folgende:</l>
+						<l>seines alten, ruhmreichen Geschlechtes geschenkt war. Aber freilich;</l>
+						<pb type="ocr" n="271" />
+						<pb type="book" n="251" />
+						<l>und mit den bestimmten Kräutern geschmückt, die Scheiterhaufen,</l>
+						<l>lächeln, Erquickung und Genesung ihm bietend in der heilkräftigen Flut.</l>
+						<l>aber wissen oft nicht, wie sie dieselben satt machen sollen, und doch,</l>
+						<l>wird man dereinst meinen Helm und meinen Schild zerbrechen.</l>
+						<l>Mädchen im zarten Kindesalter, dem Schloßherrn. Die vier waren.</l>
+						<pb type="ocr" n="272" />
+						<pb type="book" n="252" />
+						<l>bot sie dem Grafen den edlen Wein dar, auf welchem zarte duftige,</l>
+						<l>Rosenblätter schwammen.</l>
+						<l>redete die Gräfin den Gatten an.</l>
+						<l>lehnend und ihn mit den strahlenden Augen lange und innig anblickend,</l>
+						<l>wurde sein Antlih beim Blicke auf die holde Frau und ſeine Kinder;</l>
+						<l>zu sehen, und hart, sehr hart klang es, was er jetzt ausrief:</l>
+						<l>roſenduftenden, welchen ich unten im Kirchlein habe weihen laſſen,</l>
+						<l>Gatten wiedersehen, wann die Hölzftöße auf den Höhen aufflammen,</l>
+						<l>um Sankt Johannis Abend glühend zu durchleuchten.“</l>
+						<pb type="ocr" n="273" />
+						<pb type="book" n="253" />
+						<l>Der Graf riß sich los; er küßte sein Weih und seine Kinder;</l>
+						<l>Knecht zu ihm, welcher ihm das edle Roß vorführte, selbst aber bereit,</l>
+						<l>den Herrn zu geleiten.</l>
+						<l>zurücklassend, welche der Diener an der Jagdleine bereit gehalten hatte.</l>
+						<l>blinkenden Blumen, welche sich spielend gegen die Sonne neigten;</l>
+						<l>nicht die über den moosigen Waldesteppich ſtreifenden, goldenen Lichter,</l>
+						<l>feierliche Stille, welche duftdurchzogen in dem Waldesdome herrschte.</l>
+						<l>gürtel gleich umschlang die Hüfte das jungfräuliche Cingulum.</l>
+						<pb type="ocr" n="274" />
+						<pb type="book" n="254" />
+						<l>er einer Fürstin gegenüber ſtände und sprach ſie dann freundlich an.</l>
+						<l>erwarten. Die Vöglein aber über den beiden, sie schwiegen ;</l>
+						<l>er, „und ſage mir, wer du biſt und warum du meiner gewartet hast?"</l>
+						<l>Treue: Ich liebe dich ſeit jener Zeit, da du zuerst ein Roß beſtiegeſt;</l>
+						<l>allüberall in Kampf und Streit, auf Wegen und auf Straßen, hab'</l>
+						<l>ich dich gehütet mit meiner weißen Hand, daß dir kein Leid geschah. "</l>
+						<l>rief er:</l>
+						<l>bare Weib. Dann erhob sie sich und reichte dem Ritter die Hand. „Ja“,</l>
+						<pb type="ocr" n="275" />
+						<pb type="book" n="255" />
+						<l>muß ich dich, Geliebter, für immer verlassen."</l>
+						<l>bringe Segen; ich erwecke jeden edlen und hohen Gedanken in dir,</l>
+						<l>die alte Burg umwogte, wie fröhlich auch die Feuer zur Mitter.</l>
+						<l>zur guten Nacht, wallte sein Herz in feuriger Liebe gegen sie auf.</l>
+						<l>in dem Zimmer über dem Schloßthore, einem verlassenen Gemache,</l>
+						<l>statt der Ahnfrau des Hauſes Engelweiler befand.</l>
+						<pb type="ocr" n="276" />
+						<pb type="book" n="256" />
+						<l>lieben oder hassen sollte, stand er auf, ein gefolterter Mann jetzt nur.</l>
+						<l>geber und Helfer zugleich. Die Sorgen schwanden von seiner Stirn ;</l>
+						<l>dieser Seite des Schlosses. Jetzt aber war der Graf oft sein Genoß.</l>
+						<l>diese auf der entgegengesetzten Seite des Schlosses befanden.</l>
+						<pb type="ocr" n="277" />
+						<pb type="book" n="257" />
+						<l>die Lichter und warf sich auf das Bett der Stammmutter seines Hauses.</l>
+						<l>andern Welt sich zu befinden.</l>
+						<l>Denn das war nicht mehr das alte, verfallene Turmgemach,</l>
+						<l>Zimmers stiegen Büsche und Bäume von wunderseltsamer Art empor,</l>
+						<l>geschmückter Vögel ein grünes, kühles Obdach bietend.</l>
+						<l>Leben und Weben der Gewalt überirdischer Mächte dahingegeben?</l>
+						<l>Site an des Baches Rand angetroffen hatte des Mittags an St.</l>
+						<l>Lebens, die Schicksalsfrau seines Geschlechtes genannt hatte.</l>
+						<pb type="ocr" n="278" />
+						<pb type="book" n="258" />
+						<l>Frau vom Walde zurück. „Glaubst du, " so tönte es ihm entgegen,</l>
+						<l>unauflöslich zu verbinden. Ich bin der Schußgeiſt deines Geſchlechtes,</l>
+						<l>dich entflammen. Jeden Montag will ich an dieſem Ort dich sehen,</l>
+						<l>uns auf dieſem Lager stets ein blihendes Schwert. "</l>
+						<l>und küßte ihr die weiße, mit einem goldenen Reife geſchmückte Stirn.</l>
+						<l>behüte dir das Haus, die Ehre und das Leben."</l>
+						<pb type="ocr" n="279" />
+						<pb type="book" n="259" />
+						<l>lich und vernehmlich dieselbe Stimme, welche ihm Valet gesagt hatte,</l>
+						<l>ihm noch folgendes zurufen:</l>
+						<l>schreckt nicht Kruzifir noch Bibel. Behüte Gott dich, teurer Held,</l>
+						<l>der hervorragendste Mann seiner Heimat, ein Held ohne Gleichen,,</l>
+						<l>Engelweiler klaren Auges auf die brandende Welt unter ihm herab.</l>
+						<l>Macht in Lothringen fast gleich kam. Höher trug er das Haupt,</l>
+						<l>er ſchien verjüngt jetzt, und voller rollten die Locken, die braunen,</l>
+						<l>der Burg Engelweiler selbst herrschte Glanz und frohes höfifches.</l>
+						<l>milde Hand besaß. ――― So schwanden lange Jahre des Glückes dahin.</l>
+						<pb type="ocr" n="280" />
+						<pb type="book" n="260" />
+						<l>gut und ersprießlich ist," sagte der andere. „Es ist eine Gewohn=</l>
+						<l>fragen, wagte es anfangs auch nicht, diesem Geheimnis nachzuforschen.</l>
+						<l>begrüßen. Das Glück des Hauses schien für alle Zeiten gesichert.</l>
+						<l>endlich die Gräfin: „ Ich will den Schleier des Geheimniſſes lüften,</l>
+						<l>im Hage die Frau vom Walde zuerst erblickt hatte.</l>
+						<l>man die funkenſprühende, kniſternde Lohe erweckte in den Kaminen.</l>
+						<l>sites zu Thale.</l>
+						<pb type="ocr" n="281" />
+						<pb type="book" n="261" />
+						<l>weiteres Landgebiet heraus zu finden.</l>
+						<l>von Croy, der Graf von Salm und der Sire von Bassompierre.</l>
+						<l>der Halle vernehmlich geklopft.</l>
+						<l>Wetter und unangemeldet vom Burgvogte? Wer mag es sein?"</l>
+						<l>fragte die Gräfin und ging ſelbſt, um die Thüre zu öffnen.</l>
+						<l>Engelweiler; denn oft pflegte er die gräfliche Familie zu besuchen,</l>
+						<l>um ihr Belehrung und Segnung zu erteilen.</l>
+						<l>Die Frauen drängten sich, den Gruß des Mönchs zu empfangen.</l>
+						<l>sogleich nach dem Schloßherrn,</l>
+						<pb type="ocr" n="282" />
+						<pb type="book" n="262" />
+						<l>" Ehrwürdiger Vater, du weißt," entgegnete ihm die Gräfin,</l>
+						<l>es ist Montag; mein Herr ist schon im Gemache über dem Thore;</l>
+						<l>sich jetzt das Auge der Schloßherrin zu dem geistlichen Freunde auf,</l>
+						<l>ihn vernommen, frommer Vater?"</l>
+						<l>Der Mönch zog die Gräfin in eine Ecke des Nebengemaches.</l>
+						<l>teuer ist meinem Herzen das Wohl der Bewohner dieser Burg.</l>
+						<l>Denn von meinen Händen wird Gott dereinst eure Seelen fordern;</l>
+						<l>ermessen, teure Tochter, wie sehr es mich betrübt hat, ein dunkles,</l>
+						<l>gemache sich verſchließt?“</l>
+						<l>".... "So hast du also keinen Anteil an dem bösen Werke?"</l>
+						<pb type="ocr" n="283" />
+						<pb type="book" n="263" />
+						<l>Bündnis mit bösen Geistern erkauft. Gar vieles spricht das Volf;</l>
+						<l>und die bunten Panzerhemden bereitet haben soll, dort, edle Gräfin,</l>
+						<l>Wahrheit allezeit.</l>
+						<l>Mönche Mitleid einflößen; denn in mildem, leiſem Tone fuhr er fort:</l>
+						<l>„Ich hätte, fromme Tochter, dir das Geheimnis nicht enthüllt,</l>
+						<l>ganzem Herzen. Furchtlos begib dich daher zur Mitternachtsstunde,</l>
+						<l>Stunde der Errettung gekommen ist. “</l>
+						<pb type="ocr" n="284" />
+						<pb type="book" n="264" />
+						<l>wiederum, und Bruder Euſtachius trat in Sturm und Regen hinaus,</l>
+						<l>gewünscht hatte.</l>
+						<l>Gemahl bösen Geistern verfallen war. „Aber mag es auch sein,“</l>
+						<l>Was kann mir da selbst der üble Teufel thun?"</l>
+						<l>durch die stillen, dunklen Korridore des Schloſſes an.</l>
+						<l>tot, vielleicht ein Opfer seines Verkehrs mit der Geisterwelt geworden;</l>
+						<l>geräuſchlos sprang die metallene Platte vor ihr auf.</l>
+						<pb type="ocr" n="285" />
+						<pb type="book" n="265" />
+						<l>hielt sie die mild leuchtende, silberne Campe.</l>
+						<l>Fremden und fielen in feinen Ringeln auch auf des Grafen Gewand.</l>
+						<l>Symbol die Reinheit des Umganges zwischen den Ruhenden bedeutete.</l>
+						<l>wecken, sondern trat nur hinzu und blickte gramvoll auf sie hin.</l>
+						<l>sich zu ihrem einsamen Schlafgemache zurück.</l>
+						<l>Der Morgen graute. Der Sturm der Nacht hatte sich gelegt;</l>
+						<l>über dem Thore und erweckte den Grafen und die Frau vom Walde.</l>
+						<pb type="ocr" n="286" />
+						<pb type="book" n="266" />
+						<l>ich mich dir zum erstenmale gezeigt habe."</l>
+						<l>Schleiers; sie neigte sich zu dem Grafen, wie um ihn zu umarmen,</l>
+						<l>und war im nächſten Augenblicke verschwunden.</l>
+						<l>Gedanken in ihm auftauchen.</l>
+						<pb type="ocr" n="287" />
+						<pb type="book" n="267" />
+						<l>Hochzeitstage; doch mahne sie, des kleinen Geschenkes ja zu achten.</l>
+						<l>ihre holde Gestalt in der ſonnendurchwirkten Waldesluft.</l>
+						<l>befanden sich in seiner Hand; sie selbst hat er nimmer wieder gesehen.</l>
+						<l>Grafen selber wußte man, daß er in Glück und Ehren gelebt habe,</l>
+						<l>Zeit fehlte seinen Nachkommen auch nimmer der Segen des Himmels.</l>
+						<l>zubewahren, wurden dieſelben später in drei Abteien niedergelegt.</l>
+						<l>den Ring und die Abtei Epinal die Schöpfkelle.</l>
+						<pb type="ocr" n="288" />
+						<pb type="book" n="268" />
+						<l>gar viel erzählt hatte, dem Schlafenden vom finger.</l>
+						<l>des Ringes vor Gram.</l>
+						<l>zoge von Bassompierre.</l>
+						<pb type="ocr" n="289" />
+						<pb type="book" n="269" />
+						<l>sehrt besitzen, so will ich doch wenigstens ſeine Trümmer aufbewahren. “</l>
+						<l>iſt und daß die Sproffen des edlen Geſchlechtes ſie pietätsvoll hüten,</l>
+						<l>fahren walten nicht mehr hienieden, und wir ſelbſt ſind keine Sonn.</l>
+						<l>tagskinder, wie der Graf von Engelweiler einst eins gewesen ist.</l>
+					</p>
+				</div>
+				<div type="Sage" n="14">
+					<head>Auf Feld und Flur</head>
+					<p>
+						<pb type="ocr" n="290" />
+						<pb type="book" n="270" />
+						<l>Auf Feld und Flu</l>
+						<l>pflegen und haben es nicht der Mühe wert erachtet, zu sammeln ;</l>
+						<l>sprache. So ist denn nur eine Anzahl von , Coutumes' übrig geblieben,</l>
+						<l>bemerkt dagegen für das „ Bitscher Ländchen:"</l>
+						<pb type="ocr" n="291" />
+						<pb type="book" n="271" />
+						<l>ein und halten uns vorzugsweise nur an die Sage.</l>
+						<l>streut; zahlreiche Römerstraßen ziehen sich durch Cothringen hindurch.</l>
+						<l>waren die folgenden:</l>
+						<l>Vic, Marsal, Tarquimpol und Saarburg. "</l>
+						<l>Zu diesen Resten gesellen sich die Trümmer römischer Warten,</l>
+						<l>steine und zerstörte Skulpturen ohne Zahl; -――――― wir begreifen daher,</l>
+						<pb type="ocr" n="292" />
+						<pb type="book" n="272" />
+						<l>„Heidenbrunnen“.</l>
+						<l>Ottendorf. Bei filsdorf im Kreis Bolchen liegt ferner ein Hof St.</l>
+						<pb type="ocr" n="293" />
+						<pb type="book" n="273" />
+						<l>bekannt. So glaubt man wohl auch heute noch zu Abreschweiler,</l>
+						<l>der Einkehr der Himmlischen bei den Menschen, welche zur Weih.</l>
+						<l>die altheidnische Göttermutter nicht, in Haus und Hof zu helfen.</l>
+						<l>Lothringen als Kirchengründerinnen. So in Teterchen, Kreis Bolchen.</l>
+						<l>und Boden der Abtei Gorze begegneten wir diesen drei Schwestern.</l>
+						<l>allein schon die oben erwähnte Überlieferung von der „ Teufelsbrücke“,</l>
+						<l>d. h. von der römiſchen Waſſerleitung bei Jouy. Riesen und Zwerge,</l>
+						<l>Bänder, tanzen und jubeln :</l>
+						<l>also ein lothringiſches:</l>
+						<pb type="ocr" n="294" />
+						<pb type="book" n="274" />
+						<l>Erdenfläche dahinſchimmernden Himmelssaal der Seligen.</l>
+						<l>ist noch nicht aufgezeichnet.</l>
+						<l>Herenprozessen. Wenn wir irgendwo indeſſen der Zerstörung alt=</l>
+						<l>geisterhafte Klosterfrau aus demselben in die Nacht hinausschaute.</l>
+						<pb type="ocr" n="295" />
+						<pb type="book" n="275" />
+						<l>Domes zu St. Vincent in Breslau aussprechen:</l>
+						<l>" Es kommt der To ,d doch wo und wie und wann,</l>
+						<l>Weiß niemand ; aber Gott gibt oft ein Zeichen,</l>
+						<l>Napoléon I. Dennoch laſſen ſich noch einige, zum großen Teile.</l>
+						<l>historische Sagen aus feld und flur des Lothringer Landes ſammeln.</l>
+						<l>pflegt das Wunder sich auch zu rechter Stunde zu ereignen.</l>
+						<pb type="ocr" n="296" />
+						<pb type="book" n="276" />
+						<l>wußte man noch nicht.</l>
+						<l>dieſe merkwürdigen Daten entnommen sind, fährt folgendermaßen fort :</l>
+						<l>andere, Petit Jean, ein Knappe, nach der Stadt. Auch sie glaubten,</l>
+						<l>es zu ihrer rechten Schwester an. “</l>
+						<l>Meh. Vermutlich unterzog sie sich einer Prüfung Seitens des Rates.</l>
+						<l>sie vor dem St. Johannistage keine Macht beſäße.</l>
+						<pb type="ocr" n="297" />
+						<pb type="book" n="277" />
+						<l>und blieb dort längere Zeit bei der Herzogin dieſes Landes.</l>
+						<l>Haus des Sire Robert Desarmoises des Ülteren zog, seines Vaters.</l>
+						<l>dünkte."</l>
+						<l>in ein Kloster begab.</l>
+						<l>eine Tr rierer Geſchichtsquelle, aus Johann Nide ,r noch das folgende:</l>
+						<l>eis ,en den Inquisitor von Köln, wurde der Betrug sehr bald entdeckt.</l>
+						<l>entfliehen zu laſſen. “</l>
+						<pb type="ocr" n="298" />
+						<pb type="book" n="278" />
+						<l>mont, übrigens wirklich zustande gekommen ist, leidet keinen Zweifel.</l>
+						<l>Desarmoiſes, Ritter und Herr zu Tichiémont, ſowie Jeanne du Lis,</l>
+						<l>frau, den vierten Teil vom Dorfe Haraucourt und zehn Last Salz,</l>
+						<l>„Einst der Schwede im Lande thät' hauſen.“</l>
+						<l>Greuelthaten, sondern stets als Denkmal schwedischer Grausamkeit.</l>
+						<l>anderen Reſten der Feudalzeit; dies gilt, wie wir oben geſehen haben,</l>
+						<pb type="ocr" n="299" />
+						<pb type="book" n="279" />
+						<l>Teile schonungslos niedergeworfen. So die Schlöſſer der Türkſtein,</l>
+						<l>orten, zu welchen seine Ahnen einſt in ihrer Kriegesnot geflohen find.</l>
+						<l>So befindet sich bei Hommert, Kreis Saarburg, ein dreieckiger Anger,</l>
+						<l>Menge ausgegrabener Waffenstücke ein beredtes Zeugnis ablegt.</l>
+						<l>burger Albrecht Alcibiades von Kulmbach; wieder anderswo,</l>
+						<l>falkenberg und gegen deren Verbündete eine Schlacht geſchlagen haben.</l>
+						<l>Gewährsmann Huhn.</l>
+						<pb type="ocr" n="300" />
+						<pb type="book" n="280" />
+						<l>es steht unverstanden, mit seltsamen, verwitterten Zeichen geschmückt,</l>
+						<l>die Landleute in langem, feierlichen Zuge zu solch einem Borne hin,</l>
+						<l>die Auffindungsolcher Quellen und Borne zu erzählen; —das kühle Naß,</l>
+						<pb type="ocr" n="301" />
+						<pb type="book" n="281" />
+						<l>burg besser. Ihnen sind die lustigen Kumpane nicht gestorben; nein,</l>
+						<l>und lautet in neuerem Deutsch also:</l>
+						<pb type="ocr" n="302" />
+						<pb type="book" n="282" />
+						<l>der Gefangene weit hinweg gebracht worden sei.</l>
+						<l>lang in dem Turm, und nie kam er hinaus und er wußte auch nicht,</l>
+						<l>ſtunde, hat der gefangene Herr zu Zeiten ein groß Horn hören blaſen.</l>
+						<l>Darum ließ er sich bedünken, er hätte desgleichen zuvor mehr gehöret,</l>
+						<l>gegeben worden.</l>
+						<l>vor die Pforte zu Hohen-Geroldseck.</l>
+						<l>Dieser Herr hatte vier Söhne; die wohnten auf dem Schloſſe.</l>
+						<l>die Söhne zu ihrem Vater vor die Porten kamen, eröffnete er ihnen,</l>
+						<pb type="ocr" n="303" />
+						<pb type="book" n="283" />
+						<l>Jahren in dem Gefängnis so gar ungeſtaltet und verändert worden,</l>
+						<l>ihre Mutter, seine Gemahlin, zu ihm käme, wie denn auch geschahe.</l>
+						<l>Burgstatt, so die Herren von Geroldseck innehaben, sehen kann. "</l>
+						<l>Auch diese Sage bildet ein Blatt an jenem reichen Sagenkranze,</l>
+						<l>Volke mit größerem Glücke und unter günſtigeren Umständen ſammeln,</l>
+					</p>
+				</div>
+				<div type="Sage" n="15">
+					<head>Geflügelte Worte aus dem alten Metz</head>
+					<p>
+						<pb type="ocr" n="304" />
+						<pb type="book" n="284" />
+						<l>Geflügelte Worte aus dem alten Metz</l>
+						<l>und anschauliches Gemälde früherer Zustände entrollen.</l>
+						<l>Gnade zu einer führung ohne Gleichen gestaltet worden ist?</l>
+						<l>stattlicher Anzahl bereits oben kennen, als wir die Devisen und Wahl=</l>
+						<l>von Mehz fehlen sie nicht.</l>
+						<pb type="ocr" n="305" />
+						<pb type="book" n="285" />
+						<l>zwischen Metz und seinen Nachbarn nimmer friede sein konnte.</l>
+						<l>eingesetzt hatte, da war auch das alte Wort umseine Geltung gekommen:</l>
+						<l>dieselbe :</l>
+						<l>De nos armes, -c'est blanc et noir.</l>
+						<l>den Bösen. "</l>
+						<l>Nähe von St. Vincent einst ein Palais, welches die Inschrift trug:</l>
+						<l>est nommé cette maison,</l>
+						<l>se nommait le moulin Grangier. "</l>
+						<pb type="ocr" n="306" />
+						<pb type="book" n="286" />
+						<l>genannt. Vor alter Zeit aber hieß es zum Klostermüller",</l>
+						<l>damaligen bürgerlichen Kreiſe trefflich charakterisierende Inschrift.</l>
+						<l>Stätten nicht selten Gericht gehalten wurde.</l>
+						<l>neu zu gießen. Sie erhielt in jenem Jahre die Inschrift :</l>
+						<l>L'an quarante deux quatorze cent,</l>
+						<l>Fut faicte pour donner mon son,</l>
+						<l>Quand les offices se refont,</l>
+						<l>Pour les bans panre et pour les lire.</l>
+						<l>Si Metz les voulait esconduire,</l>
+						<l>Pour gens mettre ensemble et arriver.</l>
+						<l>Et qui voudrait sçavoir mon nom:</l>
+						<l>La Donigs hamalia me fecit."</l>
+						<pb type="ocr" n="307" />
+						<pb type="book" n="287" />
+						<l>selbe besagte:</l>
+						<l>Aux jours de grande solennité,</l>
+						<l>Et aussi pour crier justice,</l>
+						<l>Prendre ban et bonne police,</l>
+						<l>Les contredire, quand bon me semble,</l>
+						<l>alten Metz:</l>
+						<l>" Eher springt die Mutte,/ che sie eine Lüge verkündigt. “</l>
+						<l>nicht eben schmeichelhaft war. Dasselbe lautete:</l>
+						<l>„ Lorrain,</l>
+						<pb type="ocr" n="308" />
+						<pb type="book" n="288" />
+						<l>gerächt haben.</l>
+						<l>im Schild, als die Stadt Metz und ihr Gebiet unter sich zu teilen"</l>
+						<l>von fast epischer Kraft enthalten.</l>
+						<l>mächtigten an und ſprach in bitterm Hohne:</l>
+						<l>„Ich habe gehört: ihr habt eine Standarte aufrichten laſſen,</l>
+						<l>Kaltblütig aber erwiderte ihm einer der Abgeordneten von Meß:</l>
+						<l>und bezahlt, und die Schlächter haben ihre Meſſer ſcharf geſchliffen,</l>
+						<pb type="ocr" n="309" />
+						<pb type="book" n="289" />
+						<l>für ihre Tafel versehen. Das sahen die ritterlichen Abgeordneten ;</l>
+						<l>Meher um einige Heringe. Doch die Städter erwiderten :</l>
+						<l>edler und ernster Denkenden. Deshalb das Metzer Sprüchwort:</l>
+						<l>war wiederum einmal Fehde ausgebrochen; die Herren von Novéant,</l>
+						<l>Feinde in Marsal.</l>
+						<pb type="ocr" n="310" />
+						<pb type="book" n="290" />
+						<l>Stadt. Die städtischen Edelleute hielten nun ein furchtbares Gericht;</l>
+						<l>dies Ereignis:</l>
+						<l>Le cas ne sçurent rien renier,</l>
+						<l>Dont en furent tous noyés.</l>
+						<l>Tant de gens de grand parenté : "</l>
+						<l>Sprüchworte fort:</l>
+						<l>„Grand honneur est de grans seigneurs,</l>
+						<l>Grand proufit de bons gouverneurs,</l>
+						<l>Grand plaisir de femme et d'enfans,</l>
+						<l>Quand tout est régi par boin sens."</l>
+						<l>überrumpeln. Derselbe wird folgendermaßen erzählt :</l>
+						<l>Teile einer Maschine, welche unter dem Fallgatter des Chores auf.</l>
+						<l>gestellt werden sollte, um deffen Liederlassung zu verhindern. " Wahr.</l>
+						<l>ſcheinlich beſtand dieſe Maſchine nur aus einem zerlegbaren Blocke.</l>
+						<pb type="ocr" n="311" />
+						<pb type="book" n="291" />
+						<l>Chore. Wahrscheinlich in diesem Momente stieß Kranz den Thor,</l>
+						<l>aus den Fässern heraus und begannen, die Maschine aufzustellen.</l>
+						<l>forell. Der hörte den Ruf, von welchem er nur zu wohl wußte,</l>
+						<l>Freiheit und Selbſtſtändigkeit von Metz zu vernichten.</l>
+						<l>haut de Jurue", (Jupiterstraße), où l'on tenait la Bulette", d. h.</l>
+						<l>ſich gleichfalls zu einem geflügelten Worte gestaltet hat :</l>
+						<l>Nouveau doyen, neufve maison,</l>
+						<l>nouveau bourreau, neufve prison,</l>
+						<l>jeune larron, neufve cordelle,</l>
+						<pb type="ocr" n="312" />
+						<pb type="book" n="292" />
+						<l>drastischste durch jenes Wort repräſentiert :</l>
+						<l>Notizen über die Feſte der Stadt einzuſtreuen.</l>
+						<l>Abendluft der Klang des Liedes:</l>
+						<l>S'at lo maye, ô mi maye,</l>
+						<l>S'at lo oj li mois de maye,</l>
+						<l>von welchem die ganze Feier den noch unerklärten Namen „Trimazô“</l>
+						<l>erhalten hatte.</l>
+						<l>dem Münchener Schäfflertanz und Böttchersprung entsprochen zu haben;</l>
+						<l>Westphal beschreibt dasselbe in folgender Weise :</l>
+						<pb type="ocr" n="313" />
+						<pb type="book" n="293" />
+						<l>„Fournirue“, der „ Rue Taiſon“ und „ du Plat d'Etain. " Die Dienst.</l>
+						<l>mit den Worten entließ:</l>
+						<l>stieg der anwesende Stadtſergeant auf einen Schemel und fragte :</l>
+						<l>„Maistre tonnelier, a teu vesault ?"</l>
+						<l>„Herr Böttcherobermeiſter, hast du noch Durst?"</l>
+						<l>Leben hierselbst so gut gefallen haben, daß ein Sprüchwort entſtand :</l>
+						<l>behauptete. Es gehört hierher beſonders jenes höhniſche :</l>
+						<l>„Par Dieu, roy de Secille,</l>
+						<l>Anjou Cothringen, sowie das hellfreudige :</l>
+						<l>gleichfalls eine Verhöhnung der Lothringer,</l>
+						<l>gefertigten Feuerrohre die Gorgone" standen. Dieselben lauteten :</l>
+						<l>" Gergon suis serpent vénimeux,</l>
+						<l>Désirant par coups furieux,</l>
+						<l>Ennemis de nous esloigner.</l>
+						<l>Jehann le Noir, maistre cannonier,</l>
+						<l>Et Conrad Coin, Coadjuteur,</l>
+						<l>Eulx ensemble, maistres fondeurs,</l>
+						<l>Mil jj jjc septante si "x.</l>
+						<pb type="ocr" n="314" />
+						<pb type="book" n="294" />
+						<l>vor dem Kloster gehängt.</l>
+						<pb type="ocr" n="315" />
+						<pb type="book" n="295" />
+						<l>hinkenden Bruder, welche durch das Einſchreiten König Heinrichs IV.</l>
+						<l>ihn im Senatorenkleide und trägt die Umschrift „ Petrus Lepidus",</l>
+						<l>dem festen Ufer steht. Darum die Worte : „,Coelo tuta quies,"</l>
+						<l>der gesunde Sinn des Volkes ließ sich doch nicht für alle Zeit beugen.</l>
+						<l>traten; diese Verse lauteten:</l>
+						<l>„Avec l'or et l'argent chacum gagnoit amis,</l>
+						<l>Sa cause il emportoit tant de jour que de nuict. "</l>
+						<l>anderes, nun verschwundenes Denkmal des alten Metz.</l>
+						<l>Metz begann, um letzteres in eine furchtbare Festung zu verwandeln,</l>
+						<pb type="ocr" n="316" />
+						<pb type="book" n="296" />
+						<l>Wolf, das Emblem des berühmten Geschlechtes, an sich trugen.</l>
+						<l>en bonne paix et concorde et union et garder de ses adversaires. “</l>
+						<l>lande mit vollen Strömen von Heldenblut wieder errungen werden.</l>
+						<l>Inschrift:</l>
+					</p>
+				</div>
+			</div>
+		</body>
+		<back />
+	</text>
+</TEI>

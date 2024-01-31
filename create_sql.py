@@ -22,6 +22,8 @@ def create_dataframe_input(tales: list, tale_dict: dict):
         df_tale = []
         tale_str = ""
         for line in tale[1:]:
+            if "page_marker" in line:
+                continue
             tale_str += line
             # print(tale_str)
         df_tale.append(tale_dict[tale[0]][0])

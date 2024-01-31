@@ -131,7 +131,7 @@ def get_dict():
         # num_dict[xml_id] = dict[title]
         n_book += 1
         uid += 1
-    print(dict)
+    #print(dict)
     return dict
 
 
@@ -141,4 +141,4 @@ def get_sql():
     dict = get_dict()
     return name, book_title, dict
 
-get_dict()
+#get_dict()

@@ -13,8 +13,8 @@ def get_tei_header():
 
     return MainTitle, SubTitle, Author, PublicationYear, PublicationPlace, Publisher, Edition, Copyright, encoder
 
-def get_dict():
 
+def get_dict():
     dict = {"Das Bild der Stärke": "Die Porta nigra",
             "Arimaspes und Eptes": "Die Porta nigra",
             "Die Teufelskirche": "Die Porta nigra",
@@ -101,37 +101,44 @@ def get_dict():
             "Betheuerungen eines Liebhabers": "Verschiedenes",
             "Bemerkungen": "Verschiedenes"
             }
-    
-    n_book=1
-    n_universal=42  #Start Nummer für universelle Nummer
-    num_dict = {}  #ID/Nummern statt Sagennamen als key. Manche Sagen können die gleichen Titel haben, zb. einfach Nummern
 
-    for key, value in dict.items():
-        group = value                       
-        categorie = "noCategorie"               #if cat and group already in dict, replace with value[1]. Nested categories split using a symbol(f.ex. @)
-        placeID="noPlace"
-        xml_id = "Trier1." + str(n_book)
-        dict[key]=[key, categorie, group, placeID,n_book, n_book + n_universal, xml_id]     #je nach Werk anpassen {Name der Sage: Kategorie, Gruppe, Nummer im Werk, universelle Nummer, XML-ID}
-        
-        num_dict[xml_id] = dict[key]
-        n_book +=1
-    
+    ort = [["Euren", 49.74023, 6.60896], ["Zewen", 49.71985, 6.57681], ["Igel", 49.71033, 6.55498],
+           ["Konz", 49.69539, 6.57329], ["Castell an der Saar", 49.56513, 6.55942]]
+
+    n_book = 1
+    n_universal = 42  # Start Nummer für universelle Nummer
+    num_dict = {}  # ID/Nummern statt Sagennamen als key. Manche Sagen können die gleichen Titel haben, zb. einfach Nummern
+    uid = 1342
+    pid = 84
+    werkID = "Trier1"
+
+    for title, value in dict.items():
+        group = value
+        categorie = "noCategorie"  # if cat and group already in dict, replace with value[1]. Nested categories split using a symbol(f.ex. @)
+        for o in ort:
+            if value in o:
+                placeID = value
+                longitude = o[2]
+                latitude = o[1]
+            else:
+                placeID = "Trier"
+                latitude = 49.76917
+                longitude = 6.675
+        # xml_id = "Trier1." + str(n_book)
+        dict[title] = [uid, pid, uid, werkID, n_book, title, categorie, group, placeID, longitude,
+                       latitude]  # je nach Werk anpassen {Name der Sage: Kategorie, Gruppe, Nummer im Werk, universelle Nummer, XML-ID}
+
+        # num_dict[xml_id] = dict[title]
+        n_book += 1
+        uid += 1
     print(dict)
-    print(num_dict)
-
-    
-
     return dict
+
 
 def get_sql():
     name = "trier_umgebung_sagen"
     book_title = "Trier und seine Umgebung in Sagen und Liedern"
     dict = get_dict()
-    lang = "deutsch"
-    return name, book_title, dict, lang
-
+    return name, book_title, dict
 
 get_dict()
-
-
-

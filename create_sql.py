@@ -38,13 +38,14 @@ def create_dataframe_input(tales: list, tale_dict: dict):
         df_tale.append(tale_dict[tale[0]][9])
         df_tale.append(tale_dict[tale[0]][10])
         df_tale.append(tale_str)
+        df_tale.append(tale_dict[tale[0]][11])
         df_input.append(df_tale)
     return df_input
 
 
 def create_dataframe_output(df_input: list):
     df = pd.DataFrame(df_input, columns=["uid", "pid", "sagenid", "werkid", "sagennummerimwerk", "titel", "kategorie",
-                                         "sagengruppe", "ortschaft", "longitude", "latitude", "volltext"])
+                                         "sagengruppe", "ortschaft", "longitude", "latitude", "volltext", "sageaus"])
     return df
 
 

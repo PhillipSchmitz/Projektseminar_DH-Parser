@@ -1,4 +1,4 @@
-uid;pid;sagenid;werkid;sagennummerimwerk;titel;kategorie;sagengruppe;ortschaft;longitude;latitude;volltext
+uid;pid;sagenid;werkid;sagennummerimwerk;titel;kategorie;sagengruppe;ortschaft;longitude;latitude;volltext;sageaus
 1342;84;1342;Trier1;1;Das Bild der Stärke;noCategorie;Die Porta nigra;Trier;6.675;49.76917;"Das Bild der Stärke.
 Wie ragst du stolz und mächtig, du schwarzes Römerthor,
 Vor allen andern Bauten der Moselstadt hervor!
@@ -16,7 +16,7 @@ Hin sank da Roma's Herrschaft, so blühend einst und groß,
 Durch Gallien herrscht der Franke, gefallen war das Loos;
 Und du, v Römerpforte, du Preis der Römerwerke,
 Du bliebst für späte Zeiten ein Bild der Römerstärke!
-"
+";3
 1343;84;1343;Trier1;2;Arimaspes und Eptes;noCategorie;Die Porta nigra;Trier;6.675;49.76917;"Arimaspes und Eptes.
 Arimaspes, reich an Schäßen,
 Wohlbewährt in den Geseßen,
@@ -98,7 +98,7 @@ In dem festen Marsthor hier!
 Auf dem Grabmal soll man lesen,
 Was mir Trier einst gewesen,
 Zweite Heimath war es mir.
-"
+";3
 1344;84;1344;Trier1;3;Die Teufelskirche;noCategorie;Die Porta nigra;Trier;6.675;49.76917;"Die Teufelskirche.
 Zu Trier auf der Steipe im alten Rathhaussaal,
 Da saßen spät zusammen die Rathsherrn allzumal:
@@ -179,7 +179,7 @@ Und wenn zur Zeit der Pfingsten vom fernen Kölner Land
 Die frommen Pilger wallen nach unserm Moſelſtrand,
 Dann zeigt, bei Trier's Anblick im nahen Waldgebirge,
 Der Vater seinem Söhnlein schon gleich die Teufelskirche.
-"
+";3
 1345;84;1345;Trier1;4;St. Simeon;noCategorie;Die Porta nigra;Trier;6.675;49.76917;"St. Simeon.
 Wo Sinai's Gebirge am Rothen Meere ragen,
 Da stand ein einsam Kloster in guten alten Tagen.
@@ -238,7 +238,7 @@ Verschwand auch spät die Kirche durch wilder Zeiten Stürme,
 Steh'n öde auch die Hallen und ohne Helm die Thürme :
 Nicht Fürstenmacht, noch Waffen, nur die Religion.
 Bewahrte einst die Trümmer zum heil'gen Simeon.
-"
+";3
 1346;84;1346;Trier1;5;Betrachtung;noCategorie;Die Römischen Bäder;Trier;6.675;49.76917;"Betrachtung.
 (Standpunkt: außerhalb der Stadt.)
 Altes Denkmal, vieler Zeiten Wogen
@@ -277,7 +277,7 @@ Aber jenes Christendomes Hallen,
 Werden altern, altern mit der Welt,
 Seine Hallen werden nur zerfallen,
 Wenn einst stürzen wird das Sternenzelt.
-"
+";3
 1347;84;1347;Trier1;6;Das goldene Kalb;noCategorie;Die Römischen Bäder;Trier;6.675;49.76917;"Das goldene Kalb.
 In der Ruinen Mitte
 Steht eingebaut cin Thurm,
@@ -311,7 +311,7 @@ Das Kalb, Wer mag es haben!
 Kein Mensch gelangt dazu:
 Er müßte tiefer graben,
 Als siebenhundert Schuh.
-"
+";3
 1348;84;1348;Trier1;7;Die Arena;noCategorie;Das Amphitheater;Trier;6.675;49.76917;"Die Arena.
 (Vision.)
 Liegt nicht, beglänzt vom blassen Mondenschein
@@ -380,7 +380,7 @@ Er schlägt ihn ein und schleppt den Leichnam fort;
 Dem lautbeflatschten Sieger fliegt zum Lohne
 Vom Volke zu die bunte Palmenkrone.
 ·
-"
+";3
 1349;84;1349;Trier1;8;Der Frankenfürst;noCategorie;Das Amphitheater;Trier;6.675;49.76917;"Der Frankenfürst.
 Auf erhabnem Purpurpfühle,
 Unter goldnem Baldachin,
@@ -471,7 +471,7 @@ Da auch stürzt der grimme Löwe
 Auf den Jäger durch den Hain;
 In des Löwen offnen Nachen
 Drängt der Fürst sein Haupt hinein.
-"
+";3
 1350;84;1350;Trier1;9;Bestrafte Untreue;noCategorie;Das Amphitheater;Trier;6.675;49.76917;"Bestrafte Untreue.
 „Wer führt uns aus dem Nuwerthal
 wasserleitenden Kanal,
@@ -577,7 +577,7 @@ Zu des Amphitheaters Schwelle,
 Erklimmt die Zinnen, stürzt hinab
 Sich und sein Weib ins tiefe Grab:
 Katholdus-Chron hieß einst die Stelle.
-"
+";3
 1351;84;1351;Trier1;10;Katholdis;noCategorie;Das Amphitheater;Trier;6.675;49.76917;"Katholdis.
 In des Berges weiter Oeffnung
 Klafft ein tiefer Brunnenschacht;
@@ -611,7 +611,7 @@ Wirst die Kiste du gewinnen:
 Denn der Schaß ſteht dir bereit.
 :
 Der Constantinische Palaßt.
-"
+";3
 1352;84;1352;Trier1;11;Der gespenstige Kaiser;noCategorie;Der Constantinische Palast;Trier;6.675;49.76917;"Der gespenstige Kaiser.
 Nachts, wenn hoch am Pol die Sterne funkeln,
 Geht im Constantinischen Palast,
@@ -657,7 +657,7 @@ Und er geht zur Ruh,
 Seinem Grabe zu,
 Wo ihn sanfter Schlaf umfaßt.
 -
-"
+";3
 1353;84;1353;Trier1;12;Das Ungeheuer;noCategorie;Das Neuthor;Trier;6.675;49.76917;"Das Ungeheuer.
 Dicht an des Neuthers alten Mauern
 Lag, aufgethürmt von Quaderstein,
@@ -694,7 +694,7 @@ Er ließ sich öffnen Schloß und Riegel,
 Trat in die Schreckenshalle ein,
 Doch Keiner kehrte als Befreier,
 Sie alle fraß das Ungeheuer.
-"
+";3
 1354;84;1354;Trier1;13;St. Nicolas;noCategorie;Die Moselbrücke;Trier;6.675;49.76917;"St. Nicolas.
 Auf der Brücke zu Trier ist hoch in Stein
 Ein Kreuz mit dem Heiland zu schau'n,
@@ -720,7 +720,7 @@ Er sah die Brandung und nahe Gefahr,
 Laut rief er am Brückenriff:
 St. Niclas!.."" Da stepft ihm die Fluth den Mund,
 Das Schiff mit dem Schiffer versank in Grund.
-"
+";3
 1355;84;1355;Trier1;14;Das Verließ;noCategorie;Die Moselbrücke;Trier;6.675;49.76917;"Das Verließ.
 Mitten auf der Brücke
 Stand ein steinern Thor,
@@ -803,7 +803,7 @@ Oft in stillen Nächten
 Hallt ein dumpf Getön
 Aus dem hohlen Pfeiler,
 Fast wie Angstgestöhn.
-"
+";3
 1356;84;1356;Trier1;15;Constantius;noCategorie;Der Dom;Trier;6.675;49.76917;"Constantius.
 Es kam, erkoren von Marimian,
 Constantius in Trier's Mauern an;
@@ -855,7 +855,7 @@ nach Trier her,
 Mit Thränen ward die Urne reich beneßt
 Und glänzend auf dem Marsfeld beigefeßt.
 -
-"
+";3
 1357;84;1357;Trier1;16;Helena;noCategorie;Der Dom;Trier;6.675;49.76917;"Helena.
 Constantius' Tod erhob Helena's Sohn,
 Den schlauen Constantin, zu Galliens Thron;
@@ -906,7 +906,7 @@ Von da an prangte in dem zweiten Rom
 Zu Gottes Lob und Preis der prächt'ge Dom,
 Er prangt und ragt und wächst seit jener Zeit,
 Ein Denkmal von Helena's Frömmigkeit.
-"
+";3
 1358;84;1358;Trier1;17;Die Schwalben;noCategorie;Der Dom;Trier;6.675;49.76917;"Die Schwalben.
 Meßgebete, Lieder wallen,
 Durch des Domes weite Hallen
@@ -940,7 +940,7 @@ Jede Schwalbe, die noch heute
 Fliegt ins inn're Domgebäude,
 Fällt durch Egbert's Machtgebot
 Jezt noch gleich zu Boden todt.
-"
+";3
 1359;84;1359;Trier1;18;Der Krummelstuhl;noCategorie;Der Domkreuzgang;Trier;6.675;49.76917;"Der Krummelstuhl.
 Im Kreuzgang des Doms ist ein Seſſel von Stein,
 Er steht an der Mauer fast niedrig und klein,
@@ -990,7 +990,7 @@ Sie sinken auf's Pflaster, vom Schmerze durchkrampft:
 Da wurden die Stampfer denn selber gestampft.
 Wohl Mancher sprach damals mit herzlicher Lache:
 Wahrhaftig Das war eine Trierer Rache!
-"
+";3
 1360;84;1360;Trier1;19;Das alte Trier;noCategorie;Die Stadt Trier;Trier;6.675;49.76917;"Das alte Trier.
 O altes Trier, zweites Rom,
 Begränzt von Berg und Flur und Strom,
@@ -1088,7 +1088,7 @@ Ach hartes Schicksal, grausam Loos!
 Warst du, mein Trier, einst so groß,
 Nur um der späten Enkel Herzen
 Zu füllen mit der Wehmuth Schmerzen?
-"
+";3
 1361;84;1361;Trier1;20;Der Stadtgeist;noCategorie;Die Stadt Trier;Trier;6.675;49.76917;"Der Stadtgeist.
 In Trier herrschte Rictiovar
 Mit seiner wilden Römerschaar:
@@ -1127,7 +1127,7 @@ Als reicher Herr tritt er hinan,
 Schenkt Geld ihm, daß das Säcklein reißt:
 Durch Trier geht ein guter Geist.
 ·
-"
+";3
 1362;84;1362;Trier1;21;Trier's Wahrzeichen;noCategorie;Die Stadt Trier;Trier;6.675;49.76917;"Trier's Wahrzeichen.
 Gar Viele fingen euch und sagen
 Von Trier, einer alten Stadt,
@@ -1161,7 +1161,7 @@ Mag auch an Höhe jedes Zeichen
 Dem Wiener Stephansthurme weichen.
 L
 Einzelheiten der Stadt Crier.
-"
+";3
 1363;84;1363;Trier1;22;Das Trebeta-Bild auf dem Stadthause;noCategorie;Einzelheiten der Stadt Trier;Trier;6.675;49.76917;"Das Trebeta-Bild auf dem Stadthause.
 (In der Mitte des Gemäldes ist der Gründer der Stadt Trier,
 Trebeta, des Ninus Sohn, mit Turban und Königsmantel abgebildet;
@@ -1239,7 +1239,7 @@ Von Marmell ein Bild, Jupither genanth,
 Ein blatthenn hielt es in seiner Hanth,
 Das was vonn Lischteun gemacht so guet,
 Das Weirauch da in rauchet sunder Gluet.
-"
+";3
 1364;84;1364;Trier1;23;Der Engelberg;noCategorie;Einzelheiten der Stadt Trier;Trier;6.675;49.76917;"Der Engelberg.
 Wer sich zum Kreuz bekannte,
 Der kam da in Gefahr,
@@ -1309,7 +1309,7 @@ Die Mutter sprach mit Freuden
 Noch viel von Tod und Heil;
 Den Säugling und die Beiden
 Traf bald das Henkerbeil.
-"
+";3
 1365;84;1365;Trier1;24;Die Blume der Mägde;noCategorie;Einzelheiten der Stadt Trier;Trier;6.675;49.76917;"Die Blume der Mägde.
 (Krämeramtshaus.)
 Ein großer Schaß für Haus und Heerd
@@ -1395,7 +1395,7 @@ Und saß auf hohem Throne,
 Und trug von Gold und von Rubin
 Die schönste Strahlenkrone.
 Einzelheiten Crier's.
-"
+";3
 1366;84;1366;Trier1;25;Der mit der Elle gemessene Wein;noCategorie;Einzelheiten der Stadt Trier;Trier;6.675;49.76917;"Der mit der Elle gemessene Wein.
 (Schneideramtshaus.)
 Was Schneidermeister sich nennen mag,
@@ -1449,7 +1449,7 @@ So saßen denn die Brüder dort
 Beim St. Johannis - Essen,
 Und nähten wacker immer fort
 Und ließen Tuch sich messen.
-"
+";3
 1367;84;1367;Trier1;26;Das Marktkreuz;noCategorie;Einzelheiten der Stadt Trier;Trier;6.675;49.76917;"Das Marktkreuz.
 Hell schien die stille Nacht
 Mit sternenheller Pracht:
@@ -1473,7 +1473,7 @@ Die kreuzgekrönte Säule:
 Geheul und Angst zerstoben.
 Seitdem prangt hoch erhoben
 Der Kreuze Bild dort oben.
-"
+";3
 1368;84;1368;Trier1;27;Die Inschrift auf der Steipe;noCategorie;Einzelheiten der Stadt Trier;Trier;6.675;49.76917;"Die Inschrift auf der Steipe.
 Eintausend und dreihundert Jahr
 Stand Trier, ehe Roma war,
@@ -1481,7 +1481,7 @@ Fort soll's besteh'n, ein ew'ger Frieden
 Beglücke es: so sei's beschieden!
 Einzelheiten Trier's.
 ..
-"
+";3
 1369;84;1369;Trier1;28;Die Steine des Gymnasiums;noCategorie;Einzelheiten der Stadt Trier;Trier;6.675;49.76917;"Die Steine des Gymnasiums.
 Steine, ihr scheint mir vom Schicksal für ewige Zeiten erkoren,
 Seit das Gebirg ihr verließt, Diener der Künste zu ſein!
@@ -1496,7 +1496,7 @@ Welche mit claffischem Geist zarte Gemüther durchglüh'n!
 Steine, wenn ihr die Kraft des alten Zaubers bewahrt
 habt,
 Wahrlich den Tempel baut ihr als die würdigsten auf.
-"
+";3
 1370;84;1370;Trier1;29;Coder aureus;noCategorie;Einzelheiten der Stadt Trier;Trier;6.675;49.76917;"Coder aureus.
 Das ist das Buch des Lebens, Leser! merke:
 Vier Ströme hegt es, gleich dem Paradies,
@@ -1517,7 +1517,7 @@ Es war in dieses Buches Pergamente
 Ein Riß, fie flickte ihn mit eig❜ner Hand:
 Der kleine Dienst ist eine schön're Spende,
 Als all der Glanz, den um das Buch sie wand.
-"
+";3
 1371;84;1371;Trier1;30;Sendung Rictiovar's nach Trier;noCategorie;St. Paulin;Trier;6.675;49.76917;"Sendung Rictiovar's nach Trier.
 In Trier war vernichtet
 Das alte Heidenthum,
@@ -1535,7 +1535,7 @@ Er sandte als Präfecten
 Den Rictiovar hieher,
 Und Mord und Blut befleckten
 Bald Trier's Flur umher.
-"
+";3
 1372;84;1372;Trier1;31;Einzug der Thebaischen Legion;noCategorie;St. Paulin;Trier;6.675;49.76917;"Einzug der Thebaischen Legion.
 Des Aufruhrs Flammen glühten
 Jezt auf Britanniens Strand,
@@ -1627,7 +1627,7 @@ Und alle, alle knieen
 In enggeschlung’nem Chor,
 Die Festgebete ziehen.
 Vereint zu Gott empor.
-"
+";3
 1373;84;1373;Trier1;32;Das Kreuz;noCategorie;St. Paulin;Trier;6.675;49.76917;"Das Kreuz.
 Kaum hört vom Festempfange
 Der grauſe Nictiovar,
@@ -1737,7 +1737,7 @@ Dort Thyrsus' Haupt im Staub,
 Dort ward mit freudigem Hoffen
 Noch Mancher des Todes Raub.
 spanii väli Baba
-"
+";3
 1374;84;1374;Trier1;33;Die vier Steine;noCategorie;St. Paulin;Trier;6.675;49.76917;"Die vier Steine.
 Ein herbstlich trüber Abend
 Beschattet Trier's Thal,
@@ -1967,7 +1967,7 @@ Sie ſizen, in weiße Kleider
 Die Leiber eingehüllt:
 Als muthige Christusstreiter
 Schmückt fte der Unschuld Bild.
-"
+";3
 1375;84;1375;Trier1;34;Das Deckengemälde der St. Paulinskirche;noCategorie;St. Paulin;Trier;6.675;49.76917;"Das Deckengemälde der St. Paulinskirche.
 Ein herbstlich trüber Abend
 Beſchattet Trier's Thal,
@@ -2084,7 +2084,7 @@ Der ew'gen Seligkeit.
 Bayerische
 Staatsbi liothek
 München
-"
+";3
 1376;84;1376;Trier1;35;Der Engel mit dem hölzernen Beine;noCategorie;St. Paulin;Trier;6.675;49.76917;"Der Engel mit dem hölzernen Beine.
 An dem hohen Deckgewölbe
 In der Kirche zu Paulin
@@ -2163,7 +2163,7 @@ Unterscheiden fordert Fleiß:
 So wetteiferte der Schnißer
 Mit dem Maler um den Preis.
 ..
-"
+";3
 1377;84;1377;Trier1;36;Cunnet's Tod;noCategorie;St. Paulin;Trier;6.675;49.76917;"Cunnet's Tod.
 ,,Hochwürden, fertig seh'n Sie hier
 Sechs Bilder, die Sie gütigst mir
@@ -2262,7 +2262,7 @@ Dicht an der Kirche von Paulin
 Zieht ein umzäunter Plaß sich hin,
 Du siehst ein weißes Kreuz dort ragen,
 Es mag dir noch von Cunnet sagen.
-"
+";3
 1378;84;1378;Trier1;37;Der Mohr;noCategorie;Nells Ländchen;Trier;6.675;49.76917;"Der Mohr.
 Scheut nicht die bestaubte Straße!
 Fernher winket die Dase
@@ -2294,7 +2294,7 @@ Der vom nahen Ufer droht:
 Ei! ihr werd't doch nicht erschrecken ?
 Wißt, der Schwarze will nur necken
 Und noch keinen schoß er todt!
-"
+";3
 1379;84;1379;Trier1;38;Die Zauberstiefel;noCategorie;Pfalzel;Trier;6.675;49.76917;"Die Zauberstiefel.
 Dort in Pfalzel, weitbekannt,
 Stand ein Kloster, reich an Pfründen,
@@ -2392,7 +2392,7 @@ Poppo ließ die Schwestern all
 Andern Klöstern überweisen,
 Und sie mußten sich fortan
 Strenger Ordenszucht befleißen
-"
+";3
 1380;84;1380;Trier1;39;Unverhoffte Rettung;noCategorie;Biewer;Trier;6.675;49.76917;"Unverhoffte Rettung.
 Schon Mancher nahm sich Muth und Trost
 In der Kapelle von St. Jost,
@@ -2468,7 +2468,7 @@ Doch wund noch vom erlitt'nen Schmerz,
 Drückt Jeder heiß sein Kind an's Herz,
 Sie cilen zur Kapelle hin,
 Wo sie in Dankgebet erglüh'n.
-"
+";3
 1381;84;1381;Trier1;40;Die Hieronymus-Höhle;noCategorie;St. Marien;Trier;6.675;49.76917;"Die Hieronymus-Höhle.
 Gegenüber St. Marien
 Dehnt sich eine Felsenwand,
@@ -2531,7 +2531,7 @@ Wie von hehrem Geist umweht:
 Steig in Sommerabendstunden
 Zu der Grotte, und dein Herz
 Wird gehoben himmelwärts.
-"
+";3
 1382;84;1382;Trier1;41;Friedrich Spee;noCategorie;St. Marien;Trier;6.675;49.76917;"Friedrich Spee.
 Ein schöner Frühlingsmorgen lacht
 Mit wolkenloser Helle,
@@ -2664,7 +2664,7 @@ Truß-Nachtigall zu lehren;
 Die singt es nach
 Seit jenem Tag,
 Dem lieben Gott zu Ehren.
-"
+";3
 1383;84;1383;Trier1;42;Der eingemauerte Mönch;noCategorie;St. Marien;Trier;6.675;49.76917;"Der eingemauerte Mönch.
 Es gehet eine grauſe Mähre
 Aus alter Zeit durch unser Land:
@@ -2697,7 +2697,7 @@ In jener hohen Felsenwand!
 Ein weißes Kreuz ward dort-erblickt,
 In frischen Mörtel eingedrückt.
 Burlauben.
-"
+";3
 1384;84;1384;Trier1;43;Heiteres Leben;noCategorie;Zurlauben;Trier;6.675;49.76917;"Heiteres Leben.
 Nach Zurlauben müßt ihr wallen,
 Wollt ihr euch des Lebens freu'n,
@@ -2741,7 +2741,7 @@ Wenn die Abend - Lampen glimmen,
 Trinkt ein bestes Glas zuleßt,
 Denn die Fischlein wollen schwimmen,
 Die ihr euch zu Leib gefeßt.
-"
+";3
 1385;84;1385;Trier1;44;Die Blume des Thales;noCategorie;Pallien;Trier;6.675;49.76917;"Die Blume des Thales.
 Pallien, freundliches Dorf an dem Moselgestade!
 Schimmernd mahlst du dein Bild in der ſpiegelnden Fluth,
@@ -2800,7 +2800,7 @@ Mögen in anderen Flüſſen Paläſte ſich ſpiegeln,
 Stolze Ruinen aus alter verklungener Zeit,
 Deiner Mosella wird's leicht, die Ruhmſucht zu zügeln,
 Da sie sich deines Gemäldes, o Pallien, freut.
-"
+";3
 1386;84;1386;Trier1;45;Najaden-Tänze;noCategorie;Pallien;Trier;6.675;49.76917;"Najaden-Tänze.
 Einstens sang der Burdigalische Sänger,
 Moselbegeistert, sein Mosel feierndes Lied,
@@ -2842,7 +2842,7 @@ Sang der Ausonische Sänger die scherzenden Chöre,
 Die die Naïden und Satyrn getanzt im Verein:
 Nirgends am Strome mochte der göttlichen Ehre
 Werther ein Ufer, als deines, o Pallien, sein!
-"
+";3
 1387;84;1387;Trier1;46;Der Krondiamant;noCategorie;Das Weißhaus;Trier;6.675;49.76917;"Der Krondiamant.
 Herrlich strahlet der Siß, den sich der Genius
 Dieses Thales gebaut hier an Moſella's Strand:
@@ -2868,7 +2868,7 @@ Weißhaus, o Paradies einsamer Wanderer,
 Durch des Eigeners Huld wandelt ihr Fuß in dir:
 Nicht versperrt dich ein Cherub
 Mit dem zuckenden Flammenschwert!
-"
+";3
 1388;84;1388;Trier1;47;Hommerspläßchen;noCategorie;Der Kockelsberg;Trier;6.675;49.76917;"Hommerspläßchen.
 Will der Adler einen Raub erspähen,
 Schwingt er sich hinauf zu luft'gen Höhen,
@@ -2926,7 +2926,7 @@ Nie mehr kam der Bischof zu dem Orte,
 Aber an des Bischofs Segensworte
 Dachten Viele, die zur Stelle kamen:
 Hommerspläßchen blieb des Plages Namen.
-"
+";3
 1389;84;1389;Trier1;48;Ansicht;noCategorie;Der Wasserfall;Trier;6.675;49.76917;"Ansicht.
 Brausend stürzt der Bach von Klipp zu Klippe
 In die tiefe Felsenschlucht,
@@ -2970,7 +2970,7 @@ Und sie wandeln da als Schreckgestalten,
 Ihr Geschrei erfüllt die Luft.
 Kommt ein Wandrer Nachts an jene Orte,
 Schnell enteilend spricht er Segensworte.
-"
+";3
 1390;84;1390;Trier1;49;Der Fremde und das Sandmädchen;noCategorie;Der Wasserfall;Trier;6.675;49.76917;"Der Fremde und das Sandmädchen.
 Der Fremde.
 Mein Kind, du bist schon weit gegangen,
@@ -3021,7 +3021,7 @@ Das Sandmädchen
 Ja, Nichts als Sand! — Doch Arm und Reich,
 Der Sand im Grab macht alle gleich.
 sh
-"
+";3
 1391;84;1391;Trier1;50;Das Mühlenthal;noCategorie;Der Wasserfall;Trier;6.675;49.76917;"Das Mühlenthal.
 (Fragment.)
 Wenn in seiner Jugendpracht
@@ -3144,7 +3144,7 @@ Um sich mit kühnerm Schwunge wieder
 Zu stürzen in den Abgrund nieder.
 Still glänzt im hellen Mühlenbach
 Der Mühle weißbestäubtes Dach,
-"
+";3
 1392;84;1392;Trier1;51;Das Heinzemännchen;noCategorie;Der Wasserfall;Trier;6.675;49.76917;"Das Heinzemännchen.
 Im Sirzenicher Walde
 Klafft eine Felsenspalte,
@@ -3200,7 +3200,7 @@ Und weint die Aeuglein trüb,
 Es möcht so gern, so gern hinaus,
 Er hält es in dem festen Haus,
 Hat's wie ein Weiblein lieb.
-"
+";3
 1393;84;1393;Trier1;52;Schlürfen;noCategorie;Kaffee Wettendorf;Trier;6.675;49.76917;"Schlürfen.
 Trinken macht nicht halb so selig,
 Als ein Schlürfen mit Verstand,
@@ -3223,7 +3223,7 @@ Als ein Schlürfen mit Verstand,
 Trinken laß ich, Schlürfen wähl ich,
 Schlürfen ist ein süßer Tand.
 A
-"
+";3
 1394;84;1394;Trier1;53;Das Metzgerskreuzchen;noCategorie;Der Pulsberg;Trier;6.675;49.76917;"Das Metzgerskreuzchen.
 Am Moselstrand und auf der Brücke
 Drängt sich das Velf erwartungsvoll:
@@ -3297,7 +3297,7 @@ Sie laben das Herz bei dem festlichen Mahle,
 Sie fingen und schwingen die vollen Pokale,
 Und wäre der Wein in dem Faß nicht verfiegt,
 Sie hätten noch länger sich jubelnd vergnügt.
-"
+";3
 1395;84;1395;Trier1;54;Sonnenaufgang;noCategorie;Der Markusberg;Trier;6.675;49.76917;"Sonnenaufgang.
 Willkommen, schönes Markusfest!
 Du kündigst Lenz und Blüthen,
@@ -3331,7 +3331,7 @@ Im stolzen Sonnenaufgang weht
 So hehr der Unsichtbare,
 Das Kirchlein mahnt zum Frühgebet
 Am festlichen Altare.
-"
+";3
 1396;84;1396;Trier1;55;Die Octave;noCategorie;Der Markusberg;Trier;6.675;49.76917;"Die Octave.
 Freundlich grüßt vom heitern Himmel
 Jeßt die Frühlingssonne nieder,
@@ -3408,7 +3408,7 @@ Manche, denen aus den Mienen
 Güte und Begeist’rung schau'n,
 Rufen freudig:,,Hier im Grünen,
 Freunde, laßt uns Hütten bau'n!“
-"
+";3
 1397;84;1397;Trier1;56;Das Glöcklein;noCategorie;Der Markusberg;Trier;6.675;49.76917;"Das Glöcklein.
 Umhaucht von purpurnem Gefieder,
 Verschwimmt der Sonne lehter Strahl:
@@ -3450,7 +3450,7 @@ Wie Lerchensang,
 Entsteigt dein Klang,
 Entsteigt bei später Abendröthe
 Und tönt ermunternd zum Gebete!
-"
+";3
 1398;84;1398;Trier1;57;Der Wassersalamander;noCategorie;Balduinshäuschen;Trier;6.675;49.76917;"Der Wassersalamander.
 Bischof Balduin erbaute
 In der Bergschlucht sich ein Haus,
@@ -3503,7 +3503,7 @@ Aus einem reinen Brunnenquell,
 Wie er dem Fels entsprudle hell;
 Der Bischof kann die Kur nicht fassen,
 Doch spricht er stillgelassen:
-"
+";3
 1399;84;1399;Trier1;58;In nomine domini;noCategorie;Balduinshäuschen;Trier;6.675;49.76917;"In nomine domini.
 Der Bischof zog nach seinem Schloß,
 Wo eine kühle Quelle floß,
@@ -3534,7 +3534,7 @@ Er ward der Bischofsmacht beraubt.
 Oft sprach er in des Schlosses Stille
 Aus seines Herzens Fülle:
 In nomine domini.
-"
+";3
 1400;84;1400;Trier1;59;Der letzte Stuart;noCategorie;Balduinshäuschen;Trier;6.675;49.76917;"Der letzte Stuart.
 Dem fühlen Schoes der Bergschlucht entrieseln muntre
 Quellen,
@@ -3591,7 +3591,7 @@ Seitdem hallt auf der Wiese, in stillen Mitternächten,
 Ein helles Schwertgeflirre, ein heißentbranntes Fechten,
 Und zwischen Schmerzenslauten und zwischen Schwertgeklirr
 Ertönt der Todtenvögel erschreckendes Geschwirr.
-"
+";3
 1401;84;1401;Trier1;60;Der Helenabrunnen;noCategorie;Euren;Trier;6.675;49.76917;"Der Helenabrunnen.
 Im Wald von Euren sprudelt hell
 Aus kühlem Felsenschoos
@@ -3681,7 +3681,7 @@ Und bunten Blumenmatten.
 S
 #
 Bewen.
-"
+";3
 1402;84;1402;Trier1;61;Der Steinbruch der Liebfrauenkirche;noCategorie;Zewen;Trier;6.675;49.76917;"Der Steinbruch der Liebfrauenkirche.
 An das Felsgebirg geschmiegt,
 Birgt sich Zewen unter Bäumen,
@@ -3744,7 +3744,7 @@ Gott den Wink herabzusenden:
 Nie soll eines Menschen Hand
 Das Gestein der Felsenwand
 Noch zu anderm Bau verwenden.
-"
+";3
 1403;84;1403;Trier1;62;Das Abschiedsdenkmal;noCategorie;Igel;Trier;6.675;49.76917;"Das Abschiedsdenkmal.
 Helena's Eltern waren arm,
 Früh litt sie manchen Lebensharm,
@@ -3803,7 +3803,7 @@ Hoch auf dem Denkmal stellt sich dar
 Das Bild der Kaisermacht, ein Aar,
 Der krönt dort über'm Weltgetriebe
 Das Denkmal schwesterlicher Liebe.
-"
+";3
 1404;84;1404;Trier1;63;Der Todtenkopf-Mantel;noCategorie;Konz;Trier;6.675;49.76917;"Der Todtenkopf-Mantel.
 Die Mutter spinnt beim Lampenschein
 Im einsam stillen Kämmerlein,
@@ -3877,7 +3877,7 @@ Ein Zeichen, das der Geist ihm schlug:
 Auf seinem nackten Leibe waren
 Fünf braune Finger zu gewahren.
 Die Karthause.
-"
+";3
 1405;84;1405;Trier1;64;Der verborgene Keller;noCategorie;Karthaufe;Trier;6.675;49.76917;"Der verborgene Keller.
 Als mit den Klöstern ringsumher
 Auch die Karthause fiel,
@@ -3915,7 +3915,7 @@ Kommt Der einst an den rechten Ort,
 Gleich riecht er Weinesdunst,
 Er mag nur graben fort und fort,
 Ihn krönt des Glückes Gunst.
-"
+";3
 1406;84;1406;Trier1;65;Das gerettete Kind;noCategorie;St. Medard;Trier;6.675;49.76917;"Das gerettete Kind.
 Bei St. Medard mitten im Moſelfluß,
 Im Strome der rauschenden Wogen,
@@ -3984,7 +3984,7 @@ Er greift nach dem Stäblein und Kind zugleich,
 Das Kind umklammert ihn todesbleich,
 Er entträgt es gerettet den gierigen Wellen,
 Die zürnend am Ufer zerschellen.
-"
+";3
 1407;84;1407;Trier1;66;Medardin von Rottenfelt;noCategorie;St. Matheis;Trier;6.675;49.76917;"Medardin von Rottenfelt.
 Das Mahl im Klostersaale,
 Es schimmert Silber dort und Gold,
@@ -4077,7 +4077,7 @@ Vor Wehmuth weinen beide;
 Und staunend sehn's die Andern an,
 Und manche stille Thräne rann
 Im Mitgefühl der Freude.
-"
+";3
 1408;84;1408;Trier1;67;Alte Inschrift;noCategorie;St. Matheis;Trier;6.675;49.76917;"Alte Inschrift.
 (In der westlichen Ringmauer des Kirchhofs zu St. Matheis in
 Stein eingehauen. Der Inschrift zur Seite sind die drei Bischöfe Valerius,
@@ -4091,7 +4091,7 @@ Ich was geehret als ein Gott
 Jezt stehen ich hie der Welt zu Spot.
 Von Rom zu Trier komen.
 Euc. Val. Mat.
-"
+";3
 1409;84;1409;Trier1;68;Der Matheiser Sauerbrunnen;noCategorie;St. Matheis;Trier;6.675;49.76917;"Der Matheiser Sauerbrunnen.
 Lied.
 Ein Kranz von Steinen in der blum'gen Wiese
@@ -4142,7 +4142,7 @@ Sauer Waffer, sauer Wasser,
 Versäuernd Wasser, nicht vom rechten,
 Wär's noch gewesen von dem echten
 Sauerwaffer, Sauerwasser.
-"
+";3
 1410;84;1410;Trier1;69;Die Forsthütte;noCategorie;St. Matheis;Trier;6.675;49.76917;"Die Forsthütte.
 Da fist ein Jager, jagensmatt,
 In lichter grüner Laube,
@@ -4182,7 +4182,7 @@ Da! ziehe deine Straßen!""
 Der Jäger macht sich auf im Nu,
 Im Jagdsack seinen Hasen.
 ―――
-"
+";3
 1411;84;1411;Trier1;70;Siko;noCategorie;Heiligkreuz;Trier;6.675;49.76917;"Siko.
 Wo jezt auf jenem Berg erhöht
 Die Heiligkreuzkapelle steht,
@@ -4282,7 +4282,7 @@ Da prangte bald, den Augen hold,
 Der Wiesen Grün, der Saaten Gold,
 Und in der späten Enkel Munde
 Klang noch von Siko's List die Kunde.
-"
+";3
 1412;84;1412;Trier1;71;Spaziergang;noCategorie;Die Seufzerallee;Trier;6.675;49.76917;"Spaziergang.
 Da zieht sich ein Weg am Bache,
 Wo Pappeln und Weiden blüh'n:
@@ -4320,7 +4320,7 @@ Doch wandeln hieher auch Viele,
 Beladen mit Sorgen und Weh,
 Sie suchen, entfernt vom Gewühle,
 Sich Trest in der stillen Allee.
-"
+";3
 1413;84;1413;Trier1;72;Der Name Olewig;noCategorie;Die Olewig;Trier;6.675;49.76917;"Der Name Olewig.
 Eucharius kam zum Moselstrand,
 Vom heil'gen Petrus ausgesandt,
@@ -4367,7 +4367,7 @@ Olewig wird bis diese Stunde
 Der Bach und jenes Dorf genannt,
 Gelegen an des Baches Rand.
 ―
-"
+";3
 1414;84;1414;Trier1;73;Ländliche Bilder;noCategorie;Die Olewig;Trier;6.675;49.76917;"Ländliche Bilder.
 Wollt ihr entflieh'n dem Stadtgewühle,
 So zieht nach der Olewig hin,
@@ -4461,7 +4461,7 @@ Ein Landfiß, ruhig, klein, bescheiden,
 Ein Landſß im Olew’ger Thal,
 Wär mir ein Füllhorn aller Freuden
 In meines Lebens Abendstrahl.
-"
+";3
 1415;84;1415;Trier1;74;Sauere Milch;noCategorie;Die Olewig;Trier;6.675;49.76917;"Sauere Milch.
 In der Olewig auf blumiger Wiese,
 Wo Tisch an Tisch sich reiht,
@@ -4522,7 +4522,7 @@ Lachen und Sudeln
 Nehmt's ja nicht übel!
 Ist Dickmilchessens-Brauch.
 -----
-"
+";3
 1416;84;1416;Trier1;75;Trebeta's Grab;noCategorie;Das Franzenknöppchen;Trier;6.675;49.76917;"Trebeta's Grab.
 Semiramis beſtieg den Thron
 Im glänzendreichen Babylon,
@@ -4609,7 +4609,7 @@ Du siehst den Hügel aus dem Thale.
 Trebeta kam von Osten her,
 Noch malt des Ostens Purpurmeer
 Sein Grab bei jedem Morgenstrahle.
-"
+";3
 1417;84;1417;Trier1;76;Sickingens Kanonenkugel;noCategorie;Das Franzenknöppchen;Trier;6.675;49.76917;"Sickingens Kanonenkugel.
 Brausend kam, wie Meereswegen,
 Sickingen dahergezogen,
@@ -4665,7 +4665,7 @@ Bis auf diese jüngsten Stunden
 Ist das Zeichen nicht verschwunden,
 Das von Franzens Scheidegruß
 Später Nachwelt zeugen muß.
-"
+";3
 1418;84;1418;Trier1;77;Der Erdhügel;noCategorie;Das Franzenknöppchen;Trier;6.675;49.76917;"Der Erdhügel.
 Die Fahrt gen Trier war gescheitert,
 Die lehte Bombe war geschleudert,
@@ -4687,7 +4687,7 @@ Die Reiter ließen ihre Pferde,
 Sie füllten Helm und Hüte voll,
 Daß bald hochauf der Hügel schwoll,
 Noch jezt vom Thale aus zu schauen.
-"
+";3
 1419;84;1419;Trier1;78;Die Kreuzkapelle;noCategorie;Das Franzenknöppchen;Trier;6.675;49.76917;"Die Kreuzkapelle.
 Auf ihrem Rosenfige
 Steigt, schleudernd helle Bliße,
@@ -4732,7 +4732,7 @@ Nach jenen Bergeshöhen,
 Wo in bescheid'ner Majestät
 Helena's Kreuzkapelle steht.
 Caftell an der Saar.
-"
+";3
 1420;84;1420;Trier1;79;Das Marmorbett;noCategorie;Castell an der Saar;Castell an der Saar;6.55942;49.56513;"Das Marmorbett.
 An Saravus' wildem Ufer hebt sich eine Felsenwand,
 Oben schaut die stille Klause freundlich ſchimmernd in das
@@ -4779,7 +4779,7 @@ Und er stieg ins Bett von Marmor, freundlich rief es ihn
 zur Rast,
 Zu dem hohen Size stieg er aus des Thales niedern Gründen,
 Endlich sollt er hier die Ruhe, die so oft entbehrte, finden.
-"
+";3
 1421;84;1421;Trier1;80;Der Hirtenknabe;noCategorie;Fließem;Trier;6.675;49.76917;"Der Hirtenknabe.
 Gebückt auf seinem Stabe
 Im Abendsonnenſchein,
@@ -4840,7 +4840,7 @@ Er bringt den Eltern Kunde
 Von Allem, was geschah:
 Noch geht von Mund zu Munde,
 Was einst der Knabe sah.
-"
+";3
 1422;84;1422;Trier1;81;Der gekreuzigte Amor;noCategorie;Verschiedenes;Trier;6.675;49.76917;"Der gekreuzigte Amor.
 Cupido, Bändiger der Herzen,
 Ist das ein Ort zu deinen Scherzen?
@@ -4892,7 +4892,7 @@ Ein Trost ist's noch, den Tod, den herben,
 Von zarter Mädchenhand zu sterben:
 Stirb hin, stirb hin, du arger Wicht,
 Dein Tod betrübt die Mädchen nicht!
-"
+";3
 1423;84;1423;Trier1;82;Die drei Helden;noCategorie;Verschiedenes;Trier;6.675;49.76917;"Die drei Helden.
 Lied.
 Auf! Brüder, singt ein fröhlich Lied
@@ -4935,4 +4935,4 @@ Wären die drei Helden nicht gewesen,
 Wäre Trier nicht,
 Darum macht kein Federlesen,
 Preiset sie nach Pflicht!
-"
+";3

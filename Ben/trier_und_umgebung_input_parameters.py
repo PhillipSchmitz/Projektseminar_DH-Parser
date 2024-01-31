@@ -126,7 +126,7 @@ def get_dict():
                 longitude = 6.675
         # xml_id = "Trier1." + str(n_book)
         dict[title] = [uid, pid, uid, werkID, n_book, title, categorie, group, placeID, longitude,
-                       latitude]  # je nach Werk anpassen {Name der Sage: Kategorie, Gruppe, Nummer im Werk, universelle Nummer, XML-ID}
+                       latitude, 3]  # je nach Werk anpassen {Name der Sage: Kategorie, Gruppe, Nummer im Werk, universelle Nummer, XML-ID}
 
         # num_dict[xml_id] = dict[title]
         n_book += 1

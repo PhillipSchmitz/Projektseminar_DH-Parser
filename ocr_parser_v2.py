@@ -176,7 +176,7 @@ def parse_elsass(text: list, titles: list):
     for sage in text:
         add = True
         if titles[i] + ".\n" in sage or titles[i] + ". \n" in sage or titles[i] + "\n" in sage:
-            #print(sage)
+            print(sage)
             mem = False
             if "page_marker" in s[-1]:
                 page_memory = []
@@ -210,6 +210,7 @@ def parse_elsass(text: list, titles: list):
             s.append("page_marker_ocr" + str(page + 20) + "\n")
             s.append("page_marker_book" + str(page) + "\n")
             page += 1
+    print(len(sort_sagen))
     return sort_sagen
     # return ["!This is under construction!"]
 
@@ -257,12 +258,14 @@ def parse_geschichten_moseltal(text: list, titles: list):
             s.append("page_marker_ocr" + str(page + 20) + "\n")
             s.append("page_marker_book" + str(page) + "\n")
             page += 1
+    print(len(sort_sagen))
     return sort_sagen
 
     #return ["!This is under construction"]
 
 
 def write_tale(name: str, text_list: list):
+    print(len(text_list))
     with open("parsed_sagen/" + name + ".pkl", "wb") as f:
         pickle.dump(text_list, f)
 
@@ -350,6 +353,7 @@ def print_tale(book: list):
     """
     for tale in book:
         print(tale)
+    print(len(book))
 
 
 def parse():

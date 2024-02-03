@@ -6,13 +6,18 @@ def get_tei_header():
     PublicationPlace = "Trier, Germany"
     # PublicationCountry="Germany"
     Publisher = "Verlag der Fr. Lintz'schen Buchhandlung"
-    Edition = "first"
+    #Edition = "first"
+    Edition = None
+    source = "Sagen, die aus Trier selbst stammen oder dem nahen Umfeld"
 
     Copyright = "CC0"
     encoder = "Ben Conrad"
 
     return MainTitle, SubTitle, Author, PublicationYear, PublicationPlace, Publisher, Edition, Copyright, encoder
 
+def get_pkl():
+    pickle_filename = "trier_umgebung_sagen"
+    return pickle_filename
 
 def get_dict():
     dict = {"Das Bild der Stärke": "Die Porta nigra",
@@ -108,7 +113,7 @@ def get_dict():
     n_book = 1
     n_universal = 42  # Start Nummer für universelle Nummer
     num_dict = {}  # ID/Nummern statt Sagennamen als key. Manche Sagen können die gleichen Titel haben, zb. einfach Nummern
-    uid = 1342
+    uid = 1716
     pid = 84
     werkID = "Trier1"
 

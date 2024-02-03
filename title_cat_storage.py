@@ -395,9 +395,23 @@ def get_titles_unterelsass():
               'Der Werkmeister am Thurme', 'Der Kaiser und der Mönch', 'Das traurige, kreuztragende Christusbild',
               'Das Männlein oder Bäuerlein auf dem Geländer bei der Engelsäule', 'Das Uhrwerk im Münster',
               'Der singende Knabe auf der Uhr', 'Der fremde Kavalier und sein Hund', 'Die Johannisnacht im Münster',
-              "qwertz"]
+              "Quellen und Nachweisungen", "qwertz"]
 
     return titles
+
+
+def new_dict():
+    d = get_dict_unterelsass()
+    t = get_titles_unterelsass()
+    i = 0
+    dict = {}
+    for di in d:
+        key = (t[i])
+        value = d[di]
+        dict[key] = value
+        # print(di)
+        i += 1
+    print(dict)
 
 
 def get_dict_unterelsass():
@@ -633,87 +647,90 @@ def get_titles_oberelsass():
               'Die Gründung von Dreikirchen oder Dusenbach', 'Die gespenstige Herde', 'Das Dorf Tannenkirch',
               'Das Dorftier von Tannenkirch', 'Die Here von Tannenkirch', 'Das gelbe Fräulein auf der Hohkönigsburg',
               'Die silberne Rose', 'Warum die Markircher Silberminen Nichts mehr abwerfen',
-              'Der Jungfrauenplatz bei Markirch', 'Die Glocke von Leberau', 'Der Charlemont', 'qwertz']
+              'Der Jungfrauenplatz bei Markirch', 'Die Glocke von Leberau', 'Der Charlemont',
+              'Quellen und Nachweisungen', 'qwertz']
 
     return titles
 
 
 def get_dict_oberelsass():
-    dict = {'Die Schlange im Jura': 'Jura', 'St Morands Ruhe': 'Altkirch', 'Der Käpellegeist': 'Heimersdorf',
+    dict = {'Die Schlange im Jura': 'Jura', 'St. Morands Ruhe': 'Altkirch', 'Der Käpellegeist': 'Heimersdorf',
             'Die Zwerge in der Wolfshöhle': 'Pfirt', 'Des Teufels Recht auf Pfirt': '',
             'Die Todtenprozession zu Luppach': 'Luppach', 'Die Galgenplatte': 'Alt-Pfirt', 'Der Lachgeist im Haag': '',
-            'Der Geist Laxi im Biederthaler Schlosse': 'Biederthal', 'Junker Schnabel': 'Hagenthal',
+            'Der Geist "Laxi" im Biederthaler Schlosse': 'Biederthal', 'Junker Schnabel': 'Hagenthal',
             'Die Here von Köstlach': 'Köstlach', 'Das Herenschloß': 'Dürlinsdorf', 'Der Schmied im Berge': '',
             'Das versunkene Schloß Färis und der alte Graf': 'Mörnach', 'Die Herdwible von Mörnach': '',
-            'Die Erbauung von Liebenstein': 'Liebsdorf', 'Der schwarze Vogel von Liebenstein': '',
+            'Die Erbauung von Liebenstein': 'Liebsdorf', 'Der schwarze Vogel auf Liebenstein': '',
             'Das Hündlein aus der wilden Jagd': '', 'Der Hausgeist geht zur Kelte': 'Oberlarg',
-            'Die drei Spinnerinnen': '', 'Der Hexentanz auf der Kalmiser Weide': '',
-            'Das gefundene Silbergeld bei Mörsberg': '', 'Der Mann mit dem Lapphute zu Oberlarg': '',
-            'Die weiße Frau am Goldigberg': 'Langizen', 'DasTotenpferd un dd ie Totenprozession zu Moos': 'Moos',
+            'Die drei Spinnerinnen': '', 'Der Hexentanz auf der Kalmiser Waide': '',
+            'Das gefundene Silbergeld bei Mörsperg': '', 'Der Mann mit dem Lapphute zu Oberlarg': '',
+            'Die weiße Dame vom Goldigberg': 'Langizen', 'Das Totenpferd und die Totenprozession zu Moos': 'Moos',
             'Das Bildstöcklein bei Winkel': 'Winkel', 'Das Altschloß bei Winkel': 'Winkel',
-            'Der Dornstrauch bei Neun-Eich': 'Lüzel', 'Das Silberloch bei Lüzel': '',
-            'Die weiße Frau auf dem Küppele': 'Jufurt', 'Der Brißgyberg': '', 'Versenkte Glocken': 'Brubach, Didenheim',
-            'Das Weingeigerlein von Brunstatt': 'Brunstatt', 'Das schwarze Tier am Mühlbach': '',
-            'Die Gespensterheere im Nordfeld': 'Mülhausen', 'Kreuzregen': '', 'Himmelschweiß': '',
-            'Der Schapgräber am Davidsbrünnlein': '', 'Die weiße Frau in grünen Pantoffeln': '',
-            'Der verlorene Bräutigam': '', 'Der Milchsuppenacker': '',
-            'Die Henne mit den goldenen Eiern in der St. Marykapelle bei Riedesheim': 'Riedesheim',
+            'Der Dornstrauch bei Neun-Eich': 'Lüzel', 'Das Silberloch bei Lützel': '',
+            'Die weiße Frau auf dem Küppele': 'Jufurt', 'Der Britzgyberg': '',
+            'Versenkte Glocken': 'Brubach, Didenheim', 'Das Weingeigerlein auf Brunstatt': 'Brunstatt',
+            'Das schwarze Tier am Mühlbach': '', 'Die Gespensterheere im Nordfeld': 'Mülhausen', 'Kreuzregen': '',
+            'Himmelschweiß': '', 'Der Schatzgräber am Davidsbrünnlein': '', 'Die weiße Frau in grünen Pantoffeln': '',
+            'Der verlorene Bräutigam': '', 'Der Milchsuppen-Acker': '',
+            'Die Henne mit den goldenen Eiern in der Sankt-Marx-Kapelle bei Riedisheim': 'Riedesheim',
             'Das Dorftier zu Hegenheim': 'Hegenheim bei Hüningen', 'Die Geisterkirche auf dem Rhein': 'Kembs, Niffer',
-            'Der weiße Mann vom Julzacher Schlosse': 'Julzach', 'Die weiße Jungfrau am Weiher': '',
+            'Der weiße Mann vom Illzacher Schlosse': 'Julzach', 'Die weiße Jungfrau am Weiher': '',
             'Die weißen Mädchen an der Lindlache': '', 'Der schwarze Mann am Rain': '', 'Die Erscheinung am Rain': '',
             'Das weiße Pferd': '', 'Der Pferdeschatten am Rain': '', 'Der Nachtjäger': '',
-            'Das Tucherle am Viertelssteg': '', 'Das Doggele': '', 'Das Fronfastentier': '', 'Der Dorfejel': '',
+            'Das Tucherle am Viertelssteg': '', 'Das Doggele': '', 'Das Fronfastentier': '', 'Der Dorfesel': '',
             'Der Milchbrunnen': '', 'Maria in der Eich': 'Rülisheim', 'Masmünsters Entstehung': 'Masmünster',
             'Der Lachtelweiher': 'Kirchberg bei Masmünster', 'Das Muttergottesbild in Sewen': 'Sewen',
             'Das Dambürle im Masmünsterthale': 'Masmünsterthal',
             'Die weiße Dame von Rothenberg': 'Rothenberg (Rougemont)', 'Die Gründung von Neu-Thann': 'Thann',
-            'StTheobaldus rettet Thann im Schwedenkriege': 'Thann', 'Das Ex Voto in der Kirche zu Alt- Thann': '',
+            'St. Theobaldus rettet Thann im Schwedenkriege': 'Thann', 'Das Ex Voto von der Kirche Alt-Thann': '',
             'Die gebannten Kriegsheere': 'Sennheim', 'Kaiser Barbarossa unter dem Bibelstein': '',
             'Der Freier auf Freundstein': 'Weile br ei Thann', 'Die Feldmesser auf dem Belchen': 'Großer Belchen',
-            'Gespenstertiere im Belchensee': '', 'Wie Gebweiler gerettet wurde': 'Gebweiler',
-            'Des Fürsten zu Murbach jäher Tod': '', 'Der Teufel auf Hugstein': '', 'Kunigunde von Hungerstein': '',
-            'Der Schlangenkönig vom Heißenstein': '', 'Die schwarze Frau am Heißenstein': '',
-            'Die Alte auf der Barnabasbrücke': '', 'Der wundersame Käfer': 'Bühl bei Gebweiler',
-            'Die Glocke von Bühl': '', 'Die singende Jungfrau im Lauchthal': '',
-            'Die Erscheinung auf der Melkerei Hofrieth': '', 'Ritter Kurt und die Kapelle von Ungersheim': 'Ungersheim',
-            'St Maria im Schäferthal': 'Sulzmatt', 'Der Langenstein bei Sulzmatt': '',
-            'DieStiftung des Klosters St. Valentin zu Rufach': 'Rufach', 'St Landolins Gut zu Rufach': '',
-            'Die Weiber von Rufach': '', 'Das Hungertuch in der Kirche von Rufach': '', 'Der Rufacher Galgen': '',
-            'Dem Teufel zu': '', 'Der Bollenberg': '', 'Die Wallfahrt Schauenberg': 'Geberschweier',
+            'Die Gespenstertiere im Belchensee': '', 'Wie Gebweiler gerettet ward. 1448': 'Gebweiler',
+            'Des Fürsten zu Murbach jäher Tod. 1477': '', 'Der Teufel auf Hugstein': '',
+            'Kunigunde von Hungerstein. 1487': '', 'Der Schlangenkönig vom Heißenstein': '',
+            'Die Schwarze Frau am Heißenstein': '', 'Die Alte auf der Barnabasbrücke': '',
+            'Der wundersame Käfer': 'Bühl bei Gebweiler', 'Die Glocke von Bühl': '',
+            'Die singende Jungfrau im Lauchthal': '', 'Die Erscheinung auf der Melkerei Hofrieth': '',
+            'Ritter Kurt und die Kapelle von Ungersheim': 'Ungersheim', 'St. Maria im Schäferthal': 'Sulzmatt',
+            'Der Langenstein bei Sulzmatt': '', 'Die Stiftung des Klosters St. Valentin zu Rufach': 'Rufach',
+            'St. Landolins Gut zu Rufach': '', 'Die Weiber von Rufach': '',
+            'Das Hungertuch in der Kirche von Rufach': '', 'Der Rufacher Galgen': '', 'Dem Teufel zu! 1721': '',
+            'Der Bollenberg': '', 'Die Wallfahrt Schauenberg': 'Geberschweier',
             'Die Greifenklaue des heiligen Imerius': '', 'Bischof Friedrich von Zeringen': '',
-            'Stiftung des Klosters Marbach': '', 'Graf Hugos Buße': 'Egisheim', 'Bruno von Egisheim': '',
+            'Die Stiftung des Kloster Marbach': '', 'Graf Hugos Buße': 'Egisheim', 'Bruno von Egisheim': '',
             'Die Erscheinung in Pfeffels Garten': 'Colmar', 'Die Erscheinung im Waschhause': '',
-            'Die gespenstige Milchfrau': '', 'Das Nachtkalb': '', 'Warum die Colmarer Knöpfler heißen': '',
+            'Die gespenstische Milchfrau': '', 'Das Nachtkalb': '', 'Warum die Colmarer Knöpfler heißen': '',
             'Die Kornmutter': 'Heiligkreuz bei Colmar', 'Frau Faste': '',
-            'Die wilde Jagd bei Heiligkreuz': 'Heiligkreuz bei Colmar',
+            'Die wilde Jagd bei Heilig-Kreuz': 'Heiligkreuz bei Colmar',
             'Der Hexenzug in der Hardt': 'Hettenschlag bei Neubreisach',
             'Das Bruderhäuschen bei Widensolen': 'Widensolen bei Neubreisach', 'Der Riese im Kastenwald': 'Andolsheim',
             'Warum der Logelbach zur Gemeinde Winzenheim gehört': 'Logelbach bei Colmar',
             'Die weiße Frau von Pflixburg': 'Winzenheim',
             'Die Wallfahrt zum Waldbruderkreuz am Grabe des heiligen Ignatius': 'Zimmerbach',
-            'Die Entstehung des Bades Sulzbach 84B': 'Sulzbach', 'Die Zwerge auf dem Kerbholz': 'Sulzern',
-            'Die Schrägmännel': '', 'Der grüne See im Münsterthale': '', 'Der Soldatenschlatten am Hoheneck': '',
+            'Die Entstehung des Bades Sulzbach': 'Sulzbach', 'Die Zwerge auf dem Kerbholz': 'Sulzern',
+            'Die Schrätzmännel': '', 'Der Grüne See im Münsterthale': '', 'Der Soldatenschlatten am Hoheneck': '',
             'Der goldene Wagen': 'Mezeral', 'Der Alte vom Berge': 'Weier im Thale',
-            'Die Wallfahrt Dreien Aehren': 'Drei Aehren', 'Das Muttergottesbild zu Dreien Aehren': '',
+            'Die Wallfahrt Dreien-Aehren': 'Drei Aehren', 'Das Muttergottesbild zu Dreien-Aehren': '',
             'Das Riesengrab auf dem Hohnack': '', 'Das weiße Mädchen an der Fecht': 'Ingersheim',
             'Der Geist im Ingersheimer Schlosse': '', 'Die Wöchnerin': '', 'Der Hungerbrunnen': '',
-            'St Deodat': 'Ammerschweier',
+            'St. Deodat': 'Ammerschweier',
             'Die Bilder der Muttergottes und des Evangelisten St. Johannes vergießen Thränen': 'Kienzheim',
             'Kaiser Friedrich Barbarossa in Kaysersberg': 'Kaysersberg',
             'Die riesenmäßigen Holzschuhe auf dem Rathause zu Kaysersberg': '', 'Der Flieger': '',
             'Die Teufelskutsche': '', 'Die Tschäpläre': '', 'Das Pestkreuz bei Kaysersberg': '',
-            'Der feurige Kreis im Kaysersberger Wald': '', 'Der Einsiedler von Alspach': 'Alspach bei Kaysersberg',
+            'Der feurige Kreis bei Rappoltsweiler': '', 'Der Einsiedler von Alspach': 'Alspach bei Kaysersberg',
             'Der weiße See': 'Urbeis (Orbey)', 'Der Zellenberger Burgersmann': 'Reichenweier',
-            'Die heilige Huna': 'Hunaweier', 'Das Wappen der Grafen von Rappoltstein': 'Rappoltsweiler',
-            'Die Brüder von Rappoltstein': '', 'Die Jungfrau auf St. Ulric h': 'Rappoltsweiler',
+            'Die heilige Hunna': 'Hunaweier', 'Das Wappen des Grafen von Rappoltstein': 'Rappoltsweiler',
+            'Die Brüder von Rappoltstein': '', 'Die Jungfrau auf St. Ulrich': 'Rappoltsweiler',
             'Die drei Schwestern von Rappoltstein': '', "Herni's Kreuz": '',
-            'Das Silberglöcklein und die Schloßhunde': '', 'Die Gespensterkutsche von Hoh- Rappoltstein': '',
+            'Das Silberglöcklein und die Schloßhunde': '', 'Die Gespensterkutsche von Hoh-Rappoltstein': '',
             'Der Höllenhaken bei Rappoltsweiler': '', 'Der Hirzsprung': '',
             'Die Gründung von Dreikirchen oder Dusenbach': '', 'Die gespenstige Herde': 'Elsenheim u Jllhäusern',
             'Das Dorf Tannenkirch': 'Lanneukirch', 'Das Dorftier von Tannenkirch': '', 'Die Here von Tannenkirch': '',
             'Das gelbe Fräulein auf der Hohkönigsburg': 'Hohlönigsburg bei Tannenkirch',
             'Die silberne Rose': 'Markirch', 'Warum die Markircher Silberminen Nichts mehr abwerfen': '',
-            'Der Jungfrauenplaß bei Markirch': '', 'Die Glocke von Leberau': 'Leberau', 'Der Charlemont': ''}
+            'Der Jungfrauenplatz bei Markirch': '', 'Die Glocke von Leberau': 'Leberau', 'Der Charlemont': ''}
+
     return dict
 
 
@@ -781,7 +798,7 @@ def get_titles_moseltal():
               "Die St. Florinskirche zu Koblenz", "Die Moselbrücke", "Adelshöfe in Koblenz",
               "Altertümliche Häuser in Koblenz", "Koblenz als französische Stadt", "Der Korporal Spohn",
               "Zwei Wahrzeichen von Koblenz", "Koblenz als preußische Stadt", "Berühmte Koblenzer",
-              "Göthe in Koblenz", "qwertz"]
+              "Göthe in Koblenz", "Quellennachweis", "qwertz"]
 
     return titles
 
@@ -795,9 +812,9 @@ def get_titles_geschichten_moseltal():
               "Die heilige Helena", "Die Porta nigra oder das Römerthor zu Trier", "Der heilige Einsiedler Simeon",
               "Die Teufelskirche zu Trier", "Die Moselbrücke zu Trier", "St. Maximin und St. Paulin",
               "Das Ende des römischen Triers", "Moselreise des Frankenkönigs Siegebert, 570 n. Chr",
-              "Adalbero und Poppo", "Der heilige Rock zu Trier", "König Drendel und der graue ungenähte Rock Christi",
+              "Adalbero und Poppo", "Der heilige Rock zu Trier", "König Orendel und der graue ungenähte Rock Christi",
               "Der Stadtgeist zu Trier", "Die Vorstadt Löwenbrücken bei Trier", "Erzbischof Balduin von Trier",
-              "Moselreise des Kaisers Maximilian, 1512 n. Chr", "Markgraf Albrecht von Brandenburg in Trier",
+              "Moselreise des Kaisers Maximilian 1512 n. Chr", "Markgraf Albrecht von Brandenburg in Trier",
               "Erzbischof Philipp Christoph von Sötern", "More Trevirensi", "Der Krummelstuhl im Trierer Dom",
               "Ein seltsames Volksfest zu Trier", "Das Reffelstattische Majorat", "Pfalzel", "Ruwer",
               "Die drei Schwestern zu Auw an der Kyll", "Die Quint. Zwei Eberjagden im Meilenwalde",
@@ -851,3 +868,9 @@ def get_titles_geschichten_moseltal():
               "Zwei Wahrzeichen von Koblenz", "Roblenz als preußische Stadt", "Berühmte Koblenzer",
               "Göthe in Koblenz"]
     return titles
+
+t = get_titles_geschichten_moseltal()
+print(len(t))
+
+
+#new_dict()

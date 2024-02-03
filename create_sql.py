@@ -1,9 +1,6 @@
 """Hier entstehen die SQL Dateien der Sagen, mit denen die Datenbank gefüttert wird"""
 import pandas as pd
-from pandas.io.sql import get_schema
-import initiate
 import pickle
-from random import randint
 import re
 from Ben import input
 
@@ -16,14 +13,15 @@ def retrieve_list(name: str):
 
 def create_dataframe_input(tales: list, tale_dict: dict):
     df_input = []
+    print(len(tales))
     i = 1
     for tale in tales:
-        # print(tale_dict[tale[0]][10])
         df_tale = []
         tale_str = ""
         for line in tale[1:]:
             if "page_marker" in line:
                 continue
+            line = re.sub(r"\n", " ", line)
             tale_str += line
             # print(tale_str)
         df_tale.append(tale_dict[tale[0]][0])
@@ -54,7 +52,7 @@ def write_csv(df_output: pd.DataFrame, name: str):
 
 
 def main():
-    name, booktitle, data = input.get_trier_und_umgebung_parameters()
+    name, data = input.get_moseltal_parameters()
     # print(data)
     tale_list = retrieve_list(name)
     df_input = create_dataframe_input(tale_list, data)

@@ -40,31 +40,84 @@ def retrieve_coordinates(name: str):
     return data.values.tolist()
 
 
-def matching(uni_loc: list, coord: list):
+def most_frequent(List: list):
+    return max(set(List), key=List.count)
+
+
+def locify(locs: list):
+    loc_out_fr = []
+    loc_out_first = []
+    for loc in locs:
+        if loc:
+            loc_out_fr.append(most_frequent(loc))
+            loc_out_first.append(loc[0])
+        else:
+            loc_out_fr.append("")
+            loc_out_first.append("")
+    return loc_out_fr, loc_out_first
+
+
+def matching(loc: list, coord: list):
     loco = []
-    for loc in uni_loc:
+    for l in loc:
         loc_mem = []
-        for l in loc:
-            for co in coord:
-                if l in co[0]:
-                    loc_mem = [l, co[1], co[2]]
-                    break
+        for co in coord:
+            if l in co[0]:
+                # print(l)
+                loc_mem = [l, co[1], co[2]]
+                break
+        if not loc_mem:
+            loc_mem = [l, "NaN"]
+        if l == "":
+            print("Yay")
+            loc_mem = ["NaN", "NaN"]
         loco.append(loc_mem)
     return loco
 
 
-def main():
-    name = "trier_umgebung_sagen"
+def match_el(locs: list, coord: list):
+    loco = []
+    for loc in locs:
+        loc_mem = []
+        for co in coord:
+            if loc in co[0]:
+                # print(l)
+                loc_mem = [loc, co[1], co[2]]
+                break
+        loco.append(loc_mem)
+    return loco
+
+
+def main_de():
+    name = "moseltal_sagen"
     locs = retrieve_list(name)
-    # print(locs)
-    uni_loc = setify_tale(locs)
-    # print(uni_loc)
-    # reconcile_data(uni_loc)
+    print(locs)
+    freq, first = locify(locs)
+    print(freq)
+    # print(first)
     coord = retrieve_coordinates("DE-txt.csv")
     # print(coord)
-    t = matching(uni_loc, coord)
+    t = matching(freq, coord)
     print(t)
     print(len(t))
 
 
-main()
+def main_el():
+    name = "unterelsass_sagen"
+    locs = retrieve_list(name)
+    print(locs)
+    coord = retrieve_coordinates("elsass-orte.csv")
+    # print(coord)
+    # coord = floatify(coord)
+    print(coord)
+    t = match_el(locs, coord)
+    print(t)
+    print(len(t))
+    c = 0
+    for i in t:
+        if i:
+            c += 1
+    print(c)
+
+
+main_de()

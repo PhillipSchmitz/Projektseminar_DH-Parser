@@ -65,3 +65,12 @@ def geschichten_moseltal():
     name = "geschichten_moseltal_sagen"
     titles = tcs.get_titles_geschichten_moseltal()
     return name, titles
+
+
+def pfalz():
+    name = ["pfalz_1_sagen", "pfalz_2_sagen", "pfalz_3_sagen"]
+    titles = tcs.get_pfalz_titles()
+    cat = tcs.get_pfalz_cat()
+    group = tcs.get_pfalz_group()
+    num = [130, 225]
+    return name, titles, cat, group, num

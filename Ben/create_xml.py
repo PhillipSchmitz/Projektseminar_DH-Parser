@@ -100,16 +100,16 @@ def create_book(body: ET, book: list, dictionary: dict):
     tale_nodes = []
     cat_memory = ""
     # dictionary = dictionary[0]
-    print(dictionary)
+    #print(dictionary)
     for tale in book:
         # for index in dictionary:
-        print(tale[0])
+        #print(tale[0])
         title = tale[0]
         # print(title)
         category = dictionary[title][6]
-        print(category)
+        #print(category)
         group = dictionary[title][7]
-        print(group)
+        #print(group)
         tale_cat = create_category(body, category, i_cat)
         i_cat += 1
         tale_group = create_group(tale_cat, group, i_group)
@@ -129,6 +129,7 @@ def main():
     dict = input.get_dict()
     name = input.get_pkl()
     meta = input.get_tei_header()
+    print(meta)
     sagen = retrieve_list(name)
     tei_header, body, tree = create_xml_tree()
     create_tei_header(tei_header, meta)

@@ -13,7 +13,7 @@ def get_tei_header():
     Copyright = "CC0"
     encoder = "Ben Conrad"
 
-    return MainTitle, SubTitle, Author, PublicationYear, PublicationPlace, Publisher, Edition, Copyright, encoder
+    return MainTitle, SubTitle, Author, PublicationYear, PublicationPlace, Publisher, Edition,source, Copyright, encoder
 
 def get_pkl():
     pickle_filename = "trier_umgebung_sagen"

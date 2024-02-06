@@ -33,16 +33,14 @@ def create_dataframe_input(tales: list, tale_dict: dict):
         df_tale.append(tale_dict[tale[0]][6])
         df_tale.append(tale_dict[tale[0]][7])
         df_tale.append(tale_dict[tale[0]][8])
-        df_tale.append(tale_dict[tale[0]][9])
-        df_tale.append(tale_dict[tale[0]][10])
         df_tale.append(tale_str)
-        df_tale.append(tale_dict[tale[0]][11])
+        df_tale.append(tale_dict[tale[0]][9])
         df_input.append(df_tale)
     return df_input
 
 
 def create_dataframe_output(df_input: list):
-    df = pd.DataFrame(df_input, columns=["uid", "pid", "sagenid", "werkid", "sagennummerimwerk", "titel", "kategorie",
+    df = pd.DataFrame(df_input, columns=["sagenid", "werkid", "sagennummerimwerk", "titel", "kategorie",
                                          "sagengruppe", "ortschaft", "longitude", "latitude", "volltext", "sageaus"])
     return df
 
@@ -52,7 +50,7 @@ def write_csv(df_output: pd.DataFrame, name: str):
 
 
 def main():
-    name, data = input.get_moseltal_parameters()
+    name, data = input.get_pfalz_parameters()
     # print(data)
     tale_list = retrieve_list(name)
     df_input = create_dataframe_input(tale_list, data)

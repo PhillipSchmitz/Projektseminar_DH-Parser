@@ -11,7 +11,7 @@ def retrieve_list(name: str):
     return tale_list
 
 
-def create_dataframe_input(tales: list, tale_dict: dict):
+def create_dataframe_input(tales: list, tale_dict: dict, book_title: str):
     df_input = []
     print(len(tales))
     i = 1
@@ -34,14 +34,14 @@ def create_dataframe_input(tales: list, tale_dict: dict):
         df_tale.append(tale_dict[tale[0]][7])
         df_tale.append(tale_dict[tale[0]][8])
         df_tale.append(tale_str)
-        df_tale.append(tale_dict[tale[0]][9])
+        df_tale.append(book_title)
         df_input.append(df_tale)
     return df_input
 
 
 def create_dataframe_output(df_input: list):
-    df = pd.DataFrame(df_input, columns=["sagenid", "werkid", "sagennummerimwerk", "titel", "kategorie",
-                                         "sagengruppe", "ortschaft", "longitude", "latitude", "volltext", "sageaus"])
+    df = pd.DataFrame(df_input, columns=["sagenid", "werkid", "sagennummerimwerk", "titel", "sagebkategorie",
+                                         "sagengruppe", "ortschaft", "longitude", "latitude", "volltext", "buchtitel"])
     return df
 
 
@@ -50,10 +50,10 @@ def write_csv(df_output: pd.DataFrame, name: str):
 
 
 def main():
-    name, data = input.get_pfalz_parameters()
+    name, book_title, data = input.get_trier_und_umgebung_parameters()
     # print(data)
     tale_list = retrieve_list(name)
-    df_input = create_dataframe_input(tale_list, data)
+    df_input = create_dataframe_input(tale_list, data, book_title)
     df_output = create_dataframe_output(df_input)
     print(df_output)
     write_csv(df_output, name)

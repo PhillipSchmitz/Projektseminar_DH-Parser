@@ -113,9 +113,9 @@ def get_dict():
     n_book = 1
     n_universal = 42  # Start Nummer für universelle Nummer
     num_dict = {}  # ID/Nummern statt Sagennamen als key. Manche Sagen können die gleichen Titel haben, zb. einfach Nummern
-    uid = 1716
+    uid = 1
     pid = 84
-    werkID = "Trier1"
+    werkID = 1
 
     for title, value in dict.items():
         group = value
@@ -130,8 +130,8 @@ def get_dict():
                 latitude = 49.76917
                 longitude = 6.675
         # xml_id = "Trier1." + str(n_book)
-        dict[title] = [uid, pid, uid, werkID, n_book, title, categorie, group, placeID, longitude,
-                       latitude, 3]  # je nach Werk anpassen {Name der Sage: Kategorie, Gruppe, Nummer im Werk, universelle Nummer, XML-ID}
+        dict[title] = [uid, werkID, n_book, title, categorie, group, placeID, longitude,
+                       latitude]  # je nach Werk anpassen {Name der Sage: Kategorie, Gruppe, Nummer im Werk, universelle Nummer, XML-ID}
 
         # num_dict[xml_id] = dict[title]
         n_book += 1

@@ -40,7 +40,7 @@ def create_dataframe_input(tales: list, tale_dict: dict, book_title: str):
 
 
 def create_dataframe_output(df_input: list):
-    df = pd.DataFrame(df_input, columns=["sagenid", "werkid", "sagennummerimwerk", "titel", "sagebkategorie",
+    df = pd.DataFrame(df_input, columns=["sagenid", "werkid", "sagennummerimwerk", "titel", "sagenkategorie",
                                          "sagengruppe", "ortschaft", "longitude", "latitude", "volltext", "buchtitel"])
     return df
 
@@ -50,7 +50,7 @@ def write_csv(df_output: pd.DataFrame, name: str):
 
 
 def main():
-    name, book_title, data = input.get_moseltal_parameters()
+    name, book_title, data = input.get_unterelsass_parameters()
     # print(data)
     tale_list = retrieve_list(name)
     df_input = create_dataframe_input(tale_list, data, book_title)

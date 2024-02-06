@@ -136,7 +136,7 @@ def get_dict():
     # je nach Werk anpassen {Name der Sage: Kategorie, Gruppe, Ort, Nummer im Werk, universelle Nummer, XML-ID}
     for title in titles:
         group = "NoGroup"
-        categorie = "NoCategorie"  # if cat and group already in dict, replace with value[1]. Nested categories split using a symbol(f.ex. @)
+        categorie = "NoCategory"  # if cat and group already in dict, replace with value[1]. Nested categories split using a symbol(f.ex. @)
         placeID = loc[i][0]
         if loc[i][1] != "NaN":
             c += 1

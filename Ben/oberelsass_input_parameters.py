@@ -168,7 +168,7 @@ def get_dict():
     # je nach Werk anpassen {Name der Sage: Kategorie, Gruppe, Ort, Nummer im Werk, universelle Nummer, XML-ID}
     for key, value in dict.items():
         group = "NoGroup"
-        categorie = "NoCategorie"  # if cat and group already in dict, replace with value[1]. Nested categories split using a symbol(f.ex. @)
+        categorie = "NoCategory"  # if cat and group already in dict, replace with value[1]. Nested categories split using a symbol(f.ex. @)
         placeID = value
         if loc[i]:
             longitude = loc[i][2]

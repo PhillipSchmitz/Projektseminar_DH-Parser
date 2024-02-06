@@ -119,7 +119,7 @@ def get_dict():
 
     for title, value in dict.items():
         group = value
-        categorie = "noCategorie"  # if cat and group already in dict, replace with value[1]. Nested categories split using a symbol(f.ex. @)
+        categorie = "NoCategory"  # if cat and group already in dict, replace with value[1]. Nested categories split using a symbol(f.ex. @)
         for o in ort:
             if value in o:
                 placeID = value

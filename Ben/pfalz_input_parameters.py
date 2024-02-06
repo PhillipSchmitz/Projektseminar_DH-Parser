@@ -1,5 +1,5 @@
 def get_pkl():
-    pickle_filename = "unterelsass_sagen"
+    pickle_filename = "pfalz_sagen"
     return pickle_filename
 
 
@@ -671,8 +671,8 @@ def get_dict():
     n_universal = 42  # Start Nummer für universelle Nummer
     num_dict = {}  # ID/Nummern statt Sagennamen als key. Manche Sagen können die gleichen Titel haben, zb. einfach Nummern
     i = 0
-    uid = 2442
-    werkID = "Pfalz1"
+    uid = 250
+    werkID = 3
     dict = {}
     for title in titles:
         group = titles[title][1]
@@ -687,7 +687,7 @@ def get_dict():
             latitude = 0
         # xml_id = "Elsass2." + str(n_book)
         dict[title] = [uid, werkID, n_book, title, categorie, group, placeID, longitude,
-                       latitude, 7]
+                       latitude]
         # num_dict[xml_id] = dict[key]
         n_book += 1
         i += 1
@@ -700,10 +700,10 @@ def get_dict():
 
 def get_sql():
     name = "pfalz_sagen"
-    # book_title = "Trier und seine Umgebung in Sagen und Liedern"
+    book_title = "Pfälzisches Sagenbuch"
     dict = get_dict()
     # lang = "deutsch"
-    return name, dict
+    return name, book_title, dict
 
 
 get_dict()

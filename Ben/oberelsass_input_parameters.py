@@ -162,9 +162,8 @@ def get_dict():
     n_universal = 42  # Start Nummer für universelle Nummer
     num_dict = {}  # ID/Nummern statt Sagennamen als key. Manche Sagen können die gleichen Titel haben, zb. einfach Nummern
     i = 0
-    uid = 1798
-    pid = 84
-    werkID = "Elsass1"
+    uid = 533
+    werkID = 4
 
     # je nach Werk anpassen {Name der Sage: Kategorie, Gruppe, Ort, Nummer im Werk, universelle Nummer, XML-ID}
     for key, value in dict.items():
@@ -178,8 +177,8 @@ def get_dict():
             longitude = 0
             latitude = 0
         xml_id = "Elsass1." + str(n_book)
-        dict[key] = [uid, pid, uid, werkID, n_book, key, categorie, group, placeID, longitude,
-                     latitude, 4]
+        dict[key] = [uid, werkID, n_book, key, categorie, group, placeID, longitude,
+                     latitude]
         # num_dict[xml_id] = dict[key]
         n_book += 1
         i += 1
@@ -192,10 +191,10 @@ def get_dict():
 
 def get_sql():
     name = "oberelsass_sagen"
-    # book_title = "Die Sagen des Elsasses. Erster Teil. Die Sagen des Ober-Elsass"
+    book_title = "Die Sagen des Elsasses. Erster Teil. Die Sagen des Ober-Elsass"
     dict = get_dict()
     # lang = "deutsch"
-    return name, dict
+    return name, book_title, dict
 
 
 # get_dict()

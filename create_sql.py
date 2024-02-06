@@ -50,7 +50,7 @@ def write_csv(df_output: pd.DataFrame, name: str):
 
 
 def main():
-    name, book_title, data = input.get_trier_und_umgebung_parameters()
+    name, book_title, data = input.get_moseltal_parameters()
     # print(data)
     tale_list = retrieve_list(name)
     df_input = create_dataframe_input(tale_list, data, book_title)

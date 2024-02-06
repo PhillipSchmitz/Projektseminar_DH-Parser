@@ -11,20 +11,20 @@ def get_trier_und_umgebung_parameters():
 
 
 def get_oberelsass_parameter():
-    name, data = oe_sql()
-    return name, data
+    name, book_title, data = oe_sql()
+    return name, book_title, data
 
 
 def get_unterelsass_parameters():
-    name, data = ue_sql()
-    return name, data
+    name, book_title, data = ue_sql()
+    return name, book_title, data
 
 
 def get_moseltal_parameters():
-    name, data = mo_sql()
-    return name, data
+    name, book_title, data = mo_sql()
+    return name, book_title, data
 
 
 def get_pfalz_parameters():
-    name, data = pf_sql()
-    return name, data
+    name, book_title, data = pf_sql()
+    return name, book_title, data

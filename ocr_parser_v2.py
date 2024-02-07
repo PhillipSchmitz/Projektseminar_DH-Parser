@@ -492,6 +492,62 @@ def parse_pfalz_full():
     write_tale("pfalz_sagen", sep_text)
 
 
+
+def parse_erzählungen_moselthal(text, titles):
+    sort_sagen = []
+    i = 0
+    s = [[]]
+    page = 1
+    page_memory = []
+    for sage in text:
+        add = True
+        #print(sage)
+        if titles[i] in sage:
+            print(sage)
+            mem = False
+            if "page_marker" in s[-1]:
+                page_memory = []
+                page_memory.append(s[-2])
+                page_memory.append(s[-1])
+                del s[-2:]
+                mem = True
+            sort_sagen.append(s)
+            s = []
+            s.append(titles[i])
+            if mem:
+                s.append(page_memory[0])
+                s.append(page_memory[1])
+            i += 1
+            # print(i + 1)
+            # print(titles[i])
+        if not re.search(r"Page \d+", sage):
+            if not re.search(r"-*\d+-*", sage):
+                if not re.search(r"-+\s\n*", sage):
+                    if not re.search(r"―+\s*\n", sage):
+                        if not re.search(r"!+", sage):
+                            if not re.search(r"^\w\s\n$", sage):
+                                if not re.search(r"", sage):
+                                    if not re.search(r"\*", sage):
+                                        if not re.search(r"•\s*\n", sage):
+                                            if not re.search(r"—\s*\n", sage):
+                                                if not re.search(r"[-—―\d]+\s*\n", sage):
+                                                    if add:
+                                                        s.append(sage[:-1])
+        else:
+            print(page)
+            s.append("page_marker_ocr" + str(page + 20) + "\n")
+            s.append("page_marker_book" + str(page) + "\n")
+            page += 1
+    print(len(sort_sagen))
+    return sort_sagen
+    # return ["!This is under construction!"]
+
+def parse_erzählungen_moseltal_full():
+    name, titles = initiate.erzählungen_moseltal()
+    text = read_text(name)
+    #print(text)
+    sep_text = parse_erzählungen_moselthal(text, titles)
+
 def print_tale(book: list):
     """
     Prints list of lists in readable format
@@ -509,8 +565,8 @@ def parse():
     :return: None
     """
     book_names = {1: "Trier und Umgebung", 2: "Lothringen", 3: "Oberelsass", 4: "Unterelsass", 5: "Moseltal",
-                  6: "Geschichten Moseltal", 7: "Pfalz"}
-    book = book_names[7]
+                  6: "Geschichten Moseltal", 7: "Pfalz", 8: "Erzählungen Moselthal"}
+    book = book_names[8]
     if book == "Trier und Umgebung":
         print("Parsing Trier und Umgebung")
         parse_trier_umgebung_full()
@@ -530,6 +586,7 @@ def parse():
         parse_geschichten_moseltal_full()
     elif book == "Pfalz":
         parse_pfalz_full()
-
+    elif book == "Erzählungen Moselthal":
+        parse_erzählungen_moseltal_full()
 
 parse()

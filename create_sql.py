@@ -27,6 +27,7 @@ def create_dataframe_input(tales: list, tale_dict: dict, book_title: str):
         df_tale.append(tale_dict[tale[0]][0])
         df_tale.append(tale_dict[tale[0]][1])
         df_tale.append(tale_dict[tale[0]][2])
+        df_tale.append(tale_dict[tale[0]][2])
         df_tale.append(tale_dict[tale[0]][3])
         df_tale.append(tale_dict[tale[0]][4])
         df_tale.append(tale_dict[tale[0]][5])
@@ -40,7 +41,7 @@ def create_dataframe_input(tales: list, tale_dict: dict, book_title: str):
 
 
 def create_dataframe_output(df_input: list):
-    df = pd.DataFrame(df_input, columns=["sagenid", "werkid", "sagennummerimwerk", "titel", "sagenkategorie",
+    df = pd.DataFrame(df_input, columns=["sagenid", "werkid", "sagenidautor", "sagenidimwerk", "titel", "sagenkategorie",
                                          "sagengruppe", "ortschaft", "longitude", "latitude", "volltext", "buchtitel"])
     return df
 
@@ -50,18 +51,20 @@ def write_csv(df_output: pd.DataFrame, name: str):
 
 
 def main():
-    name, book_title, data = input.get_unterelsass_parameters()
-    # print(data)
-    tale_list = retrieve_list(name)
-    df_input = create_dataframe_input(tale_list, data, book_title)
-    df_output = create_dataframe_output(df_input)
-    print(df_output)
-    write_csv(df_output, name)
-    """df_output = df_output.copy().assign()
-    columns = ", ".join(df_output.columns)
-    tuples = map(str, df_output.itertuples(index=False, name=None))
-    values = re.sub(r"(?<=\W)(nan|None)(?=\W)", "NULL", (",\n" + " " * 7).join(tuples))
-    print(f"INSERT INTO {test_schema} ({columns})\nVALUES {values};")"""
+    f_list = [input.get_trier_und_umgebung_parameters, input.get_moseltal_parameters, input.get_pfalz_parameters, input.get_oberelsass_parameter, input.get_unterelsass_parameters]
+    for func in f_list:
+        name, book_title, data = func()
+        # print(data)
+        tale_list = retrieve_list(name)
+        df_input = create_dataframe_input(tale_list, data, book_title)
+        df_output = create_dataframe_output(df_input)
+        print(df_output)
+        write_csv(df_output, name)
+        """df_output = df_output.copy().assign()
+        columns = ", ".join(df_output.columns)
+        tuples = map(str, df_output.itertuples(index=False, name=None))
+        values = re.sub(r"(?<=\W)(nan|None)(?=\W)", "NULL", (",\n" + " " * 7).join(tuples))
+        print(f"INSERT INTO {test_schema} ({columns})\nVALUES {values};")"""
 
 
 main()

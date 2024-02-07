@@ -242,6 +242,7 @@ def get_titles_lothringen():
               "Auf Feld und Flur",
               "Geflügelte Worte aus dem alten Metz",
               "Der reiche Bürger von Verdun",
+              "Nachweis der Quellen",
               "qwertz"]
     return titles
 
@@ -999,4 +1000,17 @@ def get_pfalz_cat():
            'D. Von Schalkheit und Torheit. (Humoristische Sagen.)']
     return cat
 
-# new_dict()
+
+def get_erzählungen_moseltal_titles():
+    titles = ["Treue Liebe", "Der Kindesräuber, oder: Die Falschmünzer aus der Kautenbach", "Der Goldgräber",
+              "Die ehemalige Grafschaft Veldenz", "Bernkastel in seiner historischen und landschaftlichen Bedeutung",
+              "Die muthige Starkenburgerin", "Der Einsiedler auf St. Paul",
+              "Die Urley bei Uerzig a. d. Mosel, oder: Erzbischof Kuno's Tod im Jahre 1066",
+              '"Durch dieses Zeichen wirst du siegen!", oder: Constantin der Große an den Ufern der Mosel',
+              "Johannes Trithemius. Ein Lebensbild aus der mittelalterischen Geschichte des Moselthales",
+              "Die vormalige französische Festung Montroyal bei Traben a. d. Mosel",
+              "Die Jüdin",
+              "Meine Begegnung mit Göthe", "Auf einer Eisscholle", "Decimus Magnus Ausonius",
+              "Eine Moselreise des Kaisers Maximilian I. im Jahre 1512", "Dichterklänge aus dem Moselthale"]
+
+    return titles

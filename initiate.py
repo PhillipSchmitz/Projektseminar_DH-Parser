@@ -74,3 +74,8 @@ def pfalz():
     group = tcs.get_pfalz_group()
     num = [130, 225]
     return name, titles, cat, group, num
+
+def erzählungen_moseltal():
+    name = "erzählungen_moseltal"
+    titles = tcs.get_erzählungen_moseltal_titles()
+    return name, titles

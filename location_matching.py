@@ -69,7 +69,7 @@ def matching(loc: list, coord: list):
         if not loc_mem:
             loc_mem = [l, "NaN"]
         if l == "":
-            print("Yay")
+            #print("Yay")
             loc_mem = ["NaN", "NaN"]
         loco.append(loc_mem)
     return loco
@@ -89,15 +89,20 @@ def match_el(locs: list, coord: list):
 
 
 def main_de():
-    name = "pfalz_sagen"
+    name = "moseltal_sagen"
     locs = retrieve_list(name)
     print(locs)
-    #freq, first = locify(locs)
-    #print(freq)
-    # print(first)
+    freq, first = locify(locs)
+    print(freq)
+    print(first)
     coord = retrieve_coordinates("DE-txt.csv")
     # print(coord)
-    t = matching(locs, coord)
+    t = matching(first, coord)
+    i = 0
+    for l in t:
+        if l[1] == ("NaN"):
+            i += 1
+    print(i)
     print(t)
     print(len(t))
 

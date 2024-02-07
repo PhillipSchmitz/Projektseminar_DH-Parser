@@ -97,7 +97,7 @@ def main_de():
     print(first)
     coord = retrieve_coordinates("DE-txt.csv")
     # print(coord)
-    t = matching(first, coord)
+    t = matching(freq, coord)
     i = 0
     for l in t:
         if l[1] == ("NaN"):

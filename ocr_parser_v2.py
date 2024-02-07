@@ -194,7 +194,7 @@ def parse_elsass(text: list, titles: list):
             # print(i + 1)
             # print(titles[i])
         if not re.search(r"-+ Page \d+-+", sage):
-            if not re.search(r"-*\d+-*", sage):
+            if not re.search(r"^-*\d+-*", sage):
                 if not re.search(r"-+\s\n*", sage):
                     if not re.search(r"―+\s*\n", sage):
                         if not re.search(r"!+", sage):
@@ -566,7 +566,7 @@ def parse():
     """
     book_names = {1: "Trier und Umgebung", 2: "Lothringen", 3: "Oberelsass", 4: "Unterelsass", 5: "Moseltal",
                   6: "Geschichten Moseltal", 7: "Pfalz", 8: "Erzählungen Moselthal"}
-    book = book_names[8]
+    book = book_names[5]
     if book == "Trier und Umgebung":
         print("Parsing Trier und Umgebung")
         parse_trier_umgebung_full()

@@ -51,7 +51,7 @@ def write_csv(df_output: pd.DataFrame, name: str):
 
 
 def main():
-    f_list = [input.get_trier_und_umgebung_parameters, input.get_moseltal_parameters, input.get_pfalz_parameters, input.get_oberelsass_parameter, input.get_unterelsass_parameters]
+    f_list = [input.get_trier_und_umgebung_parameters, input.get_moseltal_parameters, input.get_pfalz_parameters, input.get_oberelsass_parameter, input.get_unterelsass_parameters, input.get_lothringen_parameters]
     for func in f_list:
         name, book_title, data = func()
         # print(data)

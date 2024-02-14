@@ -846,3 +846,49 @@ def nahetal():
     for title in titles:
         title = re.sub(r"·*\s*•*\d+", "", title)
 
+
+def trier_back():
+    with open("trier_nachwort.txt", "r", encoding="utf-8") as f:
+        titles = f.readlines()
+        titles_final =[]
+        for t in titles:
+            if not re.search(r"----- \d+ / \d+ -----", t):
+                if not re.search(r"^\d+$", t):
+                    if not re.search(r"^Bemerkungen\.", t):
+                        titles_final.append(t)
+    with open("trier_nachwort_clean.txt", "w", encoding="utf-8") as f:
+        f.writelines(titles_final)
+
+def oberelsass_back():
+    with open("unterelsass_nachwort.txt", "r", encoding="utf-8") as f:
+        titles = f.readlines()
+        titles_final = []
+        for sage in titles:
+            if not re.search(r"-+ Page \d+-+", sage):
+                if not re.search(r"^-*\d+-*", sage):
+                    if not re.search(r"-+\s\n*", sage):
+                        if not re.search(r"―+\s*\n", sage):
+                            if not re.search(r"!+", sage):
+                                if not re.search(r"^\w\s\n$", sage):
+                                    if not re.search(r"@", sage):
+                                        if not re.search(r"\*", sage):
+                                            if not re.search(r"•\s*\n", sage):
+                                                if not re.search(r"—\s*\n", sage):
+                                                    if not re.search(r"[-—―\d]+\s*\n", sage):
+                                                        titles_final.append(sage)
+        with open("unterelsass_nachwort_clean.txt", "w", encoding="utf-8") as f:
+            f.writelines(titles_final)
+
+
+def pfalz_nachwort():
+    with open("pfalz_nachwort.txt", "r", encoding="utf-8") as f:
+        titles = f.readlines()
+        titles_final = []
+        for t in titles:
+            t = re.sub(r"^-\s\d\d\d", "", t)
+            t = re.sub(r"^\d\d\d\s-", "", t)
+            titles_final.append(t)
+    with open("pfalz_nachwort_clean.txt", "w", encoding="utf-8") as f:
+        f.writelines(titles_final)
+
+pfalz_nachwort()

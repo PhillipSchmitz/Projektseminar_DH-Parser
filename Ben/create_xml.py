@@ -4,8 +4,14 @@ from os.path import join
 # import initiate
 
 # ====Parameters====
-import lothringen_input_parametrs as input  # change to desired input file
+import trier_und_umgebung_input_parameters as input1  # change to desired input file
+import oberelsass_input_parameters as input2
+import unterelsass_input_parameters as input3
+import moseltal_input_parametrs as input4
+import lothringen_input_parametrs as input5
+import pfalz_input_parameters as input6
 
+PAGE = 1
 
 def retrieve_list(name):
     # with open("/parsed_sagen/" + name + ".pkl", "rb") as f:
@@ -58,19 +64,19 @@ def create_tei_header(tei_header: ET, meta: list):
 
 def create_category(body: ET, cat: str, number: int):
     category = ET.SubElement(body, "div", {"type": "category", "n": str(number)})
-    create_head(category, cat)
+    cat_head = create_head(category, cat)
     return category
 
 
 def create_group(body: ET, group_name: str, number: int):
     group = ET.SubElement(body, "div", {"type": "group", "n": str(number)})
-    create_head(group, group_name)
+    gr_head = create_head(group, group_name)
     return group
 
 def create_head(div: ET, name: str):
     head = ET.SubElement(div, "head")
     head.text = name
-    #return head
+    return head
 
 def create_sage(category: ET, sage: str, number: int):
     """
@@ -80,23 +86,24 @@ def create_sage(category: ET, sage: str, number: int):
     :param number:
     :return:
     """
-    title = ET.SubElement(category, "head", {"type": "sage", "n": str(number)})
+    div3 = ET.SubElement(category, "div", {"type": "tale"})
+    title = ET.SubElement(div3, "head", {"n": str(number)})
     title.text = sage
-    return title
+    return div3
 
 
 def create_text(tale: ET, text: list):
+    global PAGE
     content = ET.SubElement(tale, "p")
-    page = 1
     for tale_line in text:
         if "page_marker_book" in tale_line:
-            p = ET.SubElement(content, "pb", {"n": str(page)})
+            p = ET.SubElement(content, "pb", {"n": str(PAGE)})
+            PAGE += 1
         elif "page_marker_ocr" in tale_line:
             continue
         else:
             l = ET.SubElement(content, "l")
             l.text = tale_line[:-1]
-        page += 1
 
 
 def create_book(body: ET, book: list, dictionary: dict):
@@ -127,7 +134,7 @@ def create_book(body: ET, book: list, dictionary: dict):
             i_group += 1
             group_memory = group
         sage = create_sage(tale_group, title, i_tale)
-        create_text(tale_group, tale[1:])
+        create_text(sage, tale[1:])
         i_tale += 1
 
 
@@ -138,15 +145,17 @@ def write_xml(tree: ET, name: str):
 
 
 def main():
-    dict = input.get_dict()
-    name = input.get_pkl()
-    meta = input.get_tei_header()
-    print(meta)
-    sagen = retrieve_list(name)
-    tei_header, body, tree = create_xml_tree()
-    create_tei_header(tei_header, meta)
-    create_book(body, sagen, dict)
-    write_xml(tree, name)
+    func_list = [input1, input2, input3, input4, input5, input6]
+    for input in func_list:
+        dict = input.get_dict()
+        name = input.get_pkl()
+        meta = input.get_tei_header()
+        print(meta)
+        sagen = retrieve_list(name)
+        tei_header, body, tree = create_xml_tree()
+        create_tei_header(tei_header, meta)
+        create_book(body, sagen, dict)
+        write_xml(tree, name)
 
 
 main()

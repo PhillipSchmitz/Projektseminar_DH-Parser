@@ -159,7 +159,7 @@ def parse_lothringen(text: list, titles: list):
                                         if not re.search(r"•\s*\n", sage):
                                             if not re.search(r"—\s*\n", sage):
                                                 if add:
-                                                    s.append(sage[:-1])
+                                                    s.append(sage)
         else:
             s.append("page_marker_ocr" + str(page + 20) + "\n")
             s.append("page_marker_book" + str(page) + "\n")
@@ -205,7 +205,7 @@ def parse_elsass(text: list, titles: list):
                                             if not re.search(r"—\s*\n", sage):
                                                 if not re.search(r"[-—―\d]+\s*\n", sage):
                                                     if add:
-                                                        s.append(sage[:-1])
+                                                        s.append(sage)
         else:
             s.append("page_marker_ocr" + str(page + 20) + "\n")
             s.append("page_marker_book" + str(page) + "\n")
@@ -253,7 +253,7 @@ def parse_geschichten_moseltal(text: list, titles: list):
                                             if not re.search(r"—\s*\n", sage):
                                                 if not re.search(r"[-—―\d]+\s*\n", sage):
                                                     if add:
-                                                        s.append(sage[:-1])
+                                                        s.append(sage)
         else:
             s.append("page_marker_ocr" + str(page + 20) + "\n")
             s.append("page_marker_book" + str(page) + "\n")
@@ -373,7 +373,7 @@ def parse_pfalz_1(text: list, titles: list, cat: list, group: list):
             if not re.search(r"^\d+$", sage):
                 if not re.search(r"^$", sage):
                     if add:
-                        s.append(sage[:-1])
+                        s.append(sage)
         else:
             # print("Y")
             s.append("page_marker_ocr" + str(page + 30) + "\n")
@@ -413,7 +413,7 @@ def parse_pfalz_2(text: list, titles: list, cat: list, group: list):
             # print(titles[i])
         if not re.search(r"^\d\d\d$", sage):
             if not re.search(r"^$", sage):
-                s.append(sage[:-1])
+                s.append(sage)
         else:
             # print("Y")
             s.append("page_marker_ocr" + str(int(sage) + 31) + "\n")
@@ -457,7 +457,7 @@ def parse_pfalz_3(text: list, titles: list, cat: list, group: list):
         if not re.search(r"^(-\s?\d\d\d)|^(\d\d\d\s?-)|^(-\s?\d\d\d\s?-)", sage):
             if not re.search(r"^\?", sage):
                 if not re.search(r"^$", sage):
-                    s.append(sage[:-1])
+                    s.append(sage)
         else:
             #print(sage)
             #print(page)
@@ -532,7 +532,7 @@ def parse_erzählungen_moselthal(text, titles):
                                             if not re.search(r"—\s*\n", sage):
                                                 if not re.search(r"[-—―\d]+\s*\n", sage):
                                                     if add:
-                                                        s.append(sage[:-1])
+                                                        s.append(sage)
         else:
             print(page)
             s.append("page_marker_ocr" + str(page + 20) + "\n")
@@ -566,7 +566,7 @@ def parse():
     """
     book_names = {1: "Trier und Umgebung", 2: "Lothringen", 3: "Oberelsass", 4: "Unterelsass", 5: "Moseltal",
                   6: "Geschichten Moseltal", 7: "Pfalz", 8: "Erzählungen Moselthal"}
-    book = book_names[2]
+    book = book_names[7]
     if book == "Trier und Umgebung":
         print("Parsing Trier und Umgebung")
         parse_trier_umgebung_full()

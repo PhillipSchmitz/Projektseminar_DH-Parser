@@ -87,9 +87,16 @@ def create_sage(category: ET, sage: str, number: int):
 
 def create_text(tale: ET, text: list):
     content = ET.SubElement(tale, "p")
+    page = 1
     for tale_line in text:
-        l = ET.SubElement(content, "l")
-        l.text = tale_line[:-1]
+        if "page_marker_book" in tale_line:
+            p = ET.SubElement(content, "pb", {"n": str(page)})
+        elif "page_marker_ocr" in tale_line:
+            continue
+        else:
+            l = ET.SubElement(content, "l")
+            l.text = tale_line[:-1]
+        page += 1
 
 
 def create_book(body: ET, book: list, dictionary: dict):
@@ -99,6 +106,7 @@ def create_book(body: ET, book: list, dictionary: dict):
     book_tale = i_tale - 1
     tale_nodes = []
     cat_memory = ""
+    group_memory = ""
     # dictionary = dictionary[0]
     #print(dictionary)
     for tale in book:
@@ -106,14 +114,18 @@ def create_book(body: ET, book: list, dictionary: dict):
         #print(tale[0])
         title = tale[0]
         # print(title)
-        category = dictionary[title][6]
+        category = dictionary[title][4]
         #print(category)
-        group = dictionary[title][7]
+        group = dictionary[title][5]
         #print(group)
-        tale_cat = create_category(body, category, i_cat)
-        i_cat += 1
-        tale_group = create_group(tale_cat, group, i_group)
-        i_group += 1
+        if not category == cat_memory:
+            tale_cat = create_category(body, category, i_cat)
+            i_cat += 1
+            cat_memory = category
+        if not group == group_memory:
+            tale_group = create_group(tale_cat, group, i_group)
+            i_group += 1
+            group_memory = group
         sage = create_sage(tale_group, title, i_tale)
         create_text(tale_group, tale[1:])
         i_tale += 1

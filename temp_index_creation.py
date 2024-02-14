@@ -840,4 +840,9 @@ def locs_pfalz():
     print(loc_full)
 
 
-pfalz()
+def nahetal():
+    with open("temp_nahetal.txt", "r", encoding="utf-8") as f:
+        titles = f.readlines()
+    for title in titles:
+        title = re.sub(r"·*\s*•*\d+", "", title)
+

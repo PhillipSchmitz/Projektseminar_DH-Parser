@@ -1,3 +1,21 @@
+def get_tei_header():
+    MainTitle = "Trier und seine Umgebung in Sagen und Liedern."
+    SubTitle = "Mit Bemerkungen über die Quellen dieser Sagen."
+    Author = "Ph. Laven"
+    PublicationYear = "1851"
+    PublicationPlace = "Trier, Germany"
+    # PublicationCountry="Germany"
+    Publisher = "Verlag der Fr. Lintz'schen Buchhandlung"
+    #Edition = "first"
+    Edition = None
+    source = "Sagen, die aus Trier selbst stammen oder dem nahen Umfeld"
+
+    Copyright = "CC0"
+    encoder = "Ben Conrad"
+
+    return MainTitle, SubTitle, Author, PublicationYear, PublicationPlace, Publisher, Edition,source, Copyright, encoder
+
+
 def get_dict():
     titles = ["Frau Florentina die Getreue",
               "Die Bischöfe von Metz und ihre Legenden",
@@ -21,7 +39,7 @@ def get_dict():
             ['Gorze', 49.053889, 5.998889], ['Metz', 49.119722, 6.176944], ['Bouillon', 49.795556, 5.068111],
             ['Clugny', 46.434444, 4.659167], ['Verdun', 49.159722, 5.382778], ['Maréville', 49.452778, 5.456667],
             ['Lothringen', 0, 0], ['Lothringen', 0, 0], ['Engelweiler', 0, 0], ['Lothringen', 0, 0],
-            ['Metz', 49.119722, 6.176944], "Lothringen", 0, 0]
+            ['Metz', 49.119722, 6.176944], "Verdun", 49.159722, 5.382778]
 
     n_book = 1
     n_universal = 42  # Start Nummer für universelle Nummer

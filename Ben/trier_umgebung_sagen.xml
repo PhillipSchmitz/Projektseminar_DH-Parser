@@ -23,41 +23,33 @@
 	<text>
 		<body>
 			<div type="category" n="1">
-				<head>noCategorie</head>
+				<head>NoCategory</head>
 				<div type="group" n="1">
 					<head>Die Porta nigra</head>
 					<head type="sage" n="1">Das Bild der Stärke</head>
 					<p>
-						<l>page_marker_ocr29</l>
-						<l>page_marker_book1</l>
+						<pb n="1" />
 						<l>Das Bild der Stärke.</l>
 						<l>Wie ragst du stolz und mächtig, du schwarzes Römerthor,</l>
 						<l>Vor allen andern Bauten der Moselstadt hervor!</l>
 						<l>Wer thürmte deine Quadern auf festen Fundamenten,</l>
-						<l>Biſt du ein Werk von Menſchen, ein Werk von Götterhänden?</l>
+						<l>Bist du ein Werk von Menschen, ein Werk von Götterhänden?</l>
 						<l>Vermöchten hohe Burgen, gebaut von Erz und Stein,</l>
-						<l>Den Staaten, die verfallen, ein Schuß und Damm zu ſein:</l>
+						<l>Den Staaten, die verfallen, ein Schuß und Damm zu sein:</l>
 						<l>Mit Recht warst du erkoren, vor stürmenden Barbaren</l>
 						<l>Die todesmatte Roma durch deine Kraft zu wahren.</l>
-						<l>Doch schritt umsonst der Römer, umſtarrt von blanker Wehr,</l>
-						<l>Durch deine festen Gänge, umſonſt klang Schild und Speer,</l>
-						<l>Umsonst bargst du die Krieger, die ſpähend ſah'n nach Norden:</l>
+						<l>Doch schritt umsonst der Römer, umstarrt von blanker Wehr,</l>
+						<l>Durch deine festen Gänge, umsonst klang Schild und Speer,</l>
+						<l>Umsonst bargst du die Krieger, die spähend sah'n nach Norden:</l>
 						<l>Wie Wetterwolfen nahten der Franken wilde Horden.</l>
 						<l>Hin sank da Roma's Herrschaft, so blühend einst und groß,</l>
 						<l>Durch Gallien herrscht der Franke, gefallen war das Loos;</l>
 						<l>Und du, v Römerpforte, du Preis der Römerwerke,</l>
 						<l>Du bliebst für späte Zeiten ein Bild der Römerstärke!</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="2">
-				<head>noCategorie</head>
-				<div type="group" n="2">
-					<head>Die Porta nigra</head>
 					<head type="sage" n="2">Arimaspes und Eptes</head>
 					<p>
-						<l>page_marker_ocr30</l>
-						<l>page_marker_book2</l>
+						<pb n="1" />
 						<l>Arimaspes und Eptes.</l>
 						<l>Arimaspes, reich an Schäßen,</l>
 						<l>Wohlbewährt in den Geseßen,</l>
@@ -73,12 +65,11 @@
 						<l>An den schönen Moselstrom.</l>
 						<l>Herzlich wird er aufgenommen,</l>
 						<l>Alle heißen ihn willkommen</l>
-						<l>In der alten Moſelſtadt,</l>
+						<l>In der alten Moselstadt,</l>
 						<l>Eifern hier ihm zu vergüten,</l>
 						<l>Was ihm Roma's Reize bieten,</l>
 						<l>Was die Weltstadt Schönes hat.</l>
-						<l>page_marker_ocr31</l>
-						<l>page_marker_book3</l>
+						<pb n="21" />
 						<l>Fern in Roma's Kerkermauern,</l>
 						<l>Wo gefesselt Mörder kauern,</l>
 						<l>Liegt des Arimaspes Feind,</l>
@@ -94,7 +85,7 @@
 						<l>Eptes lag im stillen Kerker</l>
 						<l>An dem kleinen Fenstererker,</l>
 						<l>Rachebrütend, wutherfüllt;</l>
-						<l>Lange finnt er, ſich zu retten</l>
+						<l>Lange finnt er, sich zu retten</l>
 						<l>Aus des Kerkers starren Ketten,</l>
 						<l>Endlich glückt es, er entflieht.</l>
 						<l>Angst beflügelt seine Schritte,</l>
@@ -103,8 +94,7 @@
 						<l>Landete gar fern und irrte</l>
 						<l>Bald als Kaufmann, bald als Hirte</l>
 						<l>Ohne Rast durch Stadt und Land.</l>
-						<l>page_marker_ocr32</l>
-						<l>page_marker_book4</l>
+						<pb n="46" />
 						<l>Nur an Galliens fernen Marken</l>
 						<l>Will die Hoffnung ihm erstarken,</l>
 						<l>Daß er lebenssicher sei,</l>
@@ -130,8 +120,7 @@
 						<l>Aber eh' er sich erkundet,</l>
 						<l>Hat ihn Eptes' Schwert verwundet,</l>
 						<l>Arimaspes liegt im Blut.</l>
-						<l>page_marker_ocr33</l>
-						<l>page_marker_book5</l>
+						<pb n="72" />
 						<l>Willst du nach dem Mörder fragen:</l>
 						<l>Eptes' Hand hat dich erschlagen,</l>
 						<l>Hauch die schwarze Seele aus!</l>
@@ -146,12 +135,6 @@
 						<l>Was mir Trier einst gewesen,</l>
 						<l>Zweite Heimath war es mir.</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="3">
-				<head>noCategorie</head>
-				<div type="group" n="3">
-					<head>Die Porta nigra</head>
 					<head type="sage" n="3">Die Teufelskirche</head>
 					<p>
 						<l>Die Teufelskirche.</l>
@@ -160,13 +143,12 @@
 						<l>Still war's im weiten Saale, leis knisterten die Lichter,</l>
 						<l>Die Herren wandten erwartend nach der Thüre die Gesichter.</l>
 						<l>Es hüpft herein ein Bursche, vom Büttel angesagt,</l>
-						<l>Er schreitet durch die Räume gar raſch und unverzagt,</l>
+						<l>Er schreitet durch die Räume gar rasch und unverzagt,</l>
 						<l>Er hinkt beim raschen Gange plump mit dem einen Fuße,</l>
 						<l>Er bückt sich vor den Herren mit kurzgefaßtem Gruße.</l>
-						<l>page_marker_ocr34</l>
-						<l>page_marker_book6</l>
-						<l>,,Hochweiser Rath von Trier!" so frächzt er jegt ſein Wort,</l>
-						<l>Ihr sandtet weiten Aufruf an die Meiſter von Ort zu Ort,</l>
+						<pb n="10" />
+						<l>,,Hochweiser Rath von Trier!" so frächzt er jegt sein Wort,</l>
+						<l>Ihr sandtet weiten Aufruf an die Meister von Ort zu Ort,</l>
 						<l>Ihr wollt eine Kirche bauen in euren heil'gen Mauern,</l>
 						<l>Ihr wollt sie hoch und vrächtig, auch soll sie ewig dauern.</l>
 						<l>Bei Himmel und bei Hölle! baut Einer sie euch so,</l>
@@ -178,19 +160,18 @@
 						<l>Die beiden Pfortenflügel des Kapitols zu Rem</l>
 						<l>Versprech' ich für die Kirche, die ich euch hier erbaue,</l>
 						<l>Daß man an ihren Thoren auch noch ein Wunder schaue.</l>
-						<l>Und was will ich zum Preise für alle Müh und Kunſt?</l>
-						<l>Gewährt mir, hohe Herren, nur diese kleine Gunſt :</l>
+						<l>Und was will ich zum Preise für alle Müh und Kunst?</l>
+						<l>Gewährt mir, hohe Herren, nur diese kleine Gunst :</l>
 						<l>Wer in der neuen Kirche zuerst sein Knie wird beugen,</l>
 						<l>Der sei mit Leib und Seele, von Kopf zu Fuß mein eigen.“</l>
 						<l>So frächzend hüpft der Bursche behend zum Tisch hinan,</l>
 						<l>Ein Pergament entfaltend, der neuen Kirche Plan:</l>
 						<l>welch ein Riß erschien hier in Linien scharf gezogen,</l>
 						<l>Wie ragten hehr die Thürme, die Thore, Pfeiler, Bogen!</l>
-						<l>page_marker_ocr35</l>
-						<l>page_marker_book7</l>
+						<pb n="32" />
 						<l>Das war ein Gottestempel, des alten Trier werth!</l>
 						<l>Es ward der Vakt geschlossen, wie Jener ihn begehrt.</l>
-						<l>Da fuhren viel die Kärrner, die Räder ſprühten Funken,</l>
+						<l>Da fuhren viel die Kärrner, die Räder sprühten Funken,</l>
 						<l>Es ward da bei der Arbeit manch Mäßlein Wein getrunken.</l>
 						<l>Schon ist gekommen Weihnacht, vollendet steht der Bau,</l>
 						<l>Die Thürme ragen riesig bis in des Himmels Blau,</l>
@@ -204,12 +185,11 @@
 						<l>Die Pfortenflügel drücken den grimmen Meister sehr,</l>
 						<l>Es treibt ihn flücht'ge Eile, den Baulohn zu gewinnen,</l>
 						<l>Doch ruht er aus einwenig hoch auf des Montblanc's Zinnen.</l>
-						<l>Da tritt im Mondenſcheine, holdſelig, himmliſchwild,</l>
+						<l>Da tritt im Mondenscheine, holdselig, himmlischwild,</l>
 						<l>Eine Jungfrau ihm entgegen, der reinsten Schönheit Bild,</l>
-						<l>Sie ſpricht so füße Worte, sie weiß so viel zu fragen,</l>
+						<l>Sie spricht so füße Worte, sie weiß so viel zu fragen,</l>
 						<l>Er kann bei solchem Zauber sein Wort ihr nicht versagen.</l>
-						<l>page_marker_ocr36</l>
-						<l>page_marker_book8</l>
+						<pb n="53" />
 						<l>Stets spinnt sie neue Rede, die holde Schmeichlerin,</l>
 						<l>Sie hält sein Ohr und Auge gebannt so lange hin,</l>
 						<l>Bis auf den Kirchenthürmen die Glocken alle schweigen,</l>
@@ -230,25 +210,18 @@
 						<l>Hat mit dem heil'gen Kreuze der Hölle Macht gebrochen.</l>
 						<l>Da wirst der schwarze Meister hochher mit lautem Krach</l>
 						<l>Die Pfortenflügel wüthend hin auf der Kirche Dach,</l>
-						<l>Die Pfortenflügel fallen, die Schiefer und Balken ſplittern,</l>
+						<l>Die Pfortenflügel fallen, die Schiefer und Balken splittern,</l>
 						<l>Ge stürzen die Gewölbe, die Fundamente zittern.</l>
-						<l>page_marker_ocr37</l>
-						<l>page_marker_book9</l>
+						<pb n="76" />
 						<l>Bestürzung jagt die Menge, die Kirche steht geleert,</l>
 						<l>Doch Gott im Himmel wachte, und Keiner ist versehrt.</l>
 						<l>Seitdem klafft eine Oeffnung dort an dem Kirchendache:</l>
 						<l>Für ew'ge Zeit ein Denkmal von des Erbauers Nache.</l>
 						<l>Und wenn zur Zeit der Pfingsten vom fernen Kölner Land</l>
-						<l>Die frommen Pilger wallen nach unserm Moſelſtrand,</l>
+						<l>Die frommen Pilger wallen nach unserm Moselstrand,</l>
 						<l>Dann zeigt, bei Trier's Anblick im nahen Waldgebirge,</l>
 						<l>Der Vater seinem Söhnlein schon gleich die Teufelskirche.</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="4">
-				<head>noCategorie</head>
-				<div type="group" n="4">
-					<head>Die Porta nigra</head>
 					<head type="sage" n="4">St. Simeon</head>
 					<p>
 						<l>St. Simeon.</l>
@@ -258,14 +231,13 @@
 						<l>In Buß und Andacht war ihm schon mancher Tag entfloh'n.</l>
 						<l>Da sandte ihn sein Kloster, um auf entlegnem Strande</l>
 						<l>Almosen einzusammeln, zum schönen Frankenlande;</l>
-						<l>So kam er denn auch wandernd ins grüne Moſelthal:</l>
+						<l>So kam er denn auch wandernd ins grüne Moselthal:</l>
 						<l>Als Bischof saß in Trier Herr Poppo dazumal.</l>
 						<l>Und Simeon ward gaftlich in Trier aufgenommen,</l>
 						<l>Vor Allen hieß ihn Poppo mit Herzlichkeit willkommen ;</l>
 						<l>Im St. Martinus-Kloster da kehrt der Fremdling ein,</l>
 						<l>Doch sollt' er hier nicht lange der Einsamkeit sich weih'n.</l>
-						<l>page_marker_ocr38</l>
-						<l>page_marker_book10</l>
+						<pb n="14" />
 						<l>Gar Viele griffen damal zum schweren Pilgerstabe,</l>
 						<l>Sie trieb ein heiß Verlangen nach des Erlösers Grabe,</l>
 						<l>Auch Poppo fühlt die Sehnsucht nach rem gelobten Land,</l>
@@ -277,7 +249,7 @@
 						<l>Und als die beiden Pilger die Fahrten all vollendet,</l>
 						<l>Da schwammen sie zu Schiffe, nach Westen hingewendet;</l>
 						<l>Den wilden Meeresstürmen entrannen sie mit Glück,</l>
-						<l>Der Himmel bracht sie schüßend ins Moſelthal zurück.</l>
+						<l>Der Himmel bracht sie schüßend ins Moselthal zurück.</l>
 						<l>Herr Bischof, sprach der Klausner, zu Meer bin ich gefahren,</l>
 						<l>Sah vieler Menschen Städte in meinen Wanderjahren ;</l>
 						<l>Bei allen ihren Reizen, mir scheint die Welt so leer,</l>
@@ -286,8 +258,7 @@
 						<l>Da will ich fürder beten, entfernt vom Weltensturme,</l>
 						<l>Da fleh ich Gottes Segen auf eure Stadt herab,</l>
 						<l>Und will mich vorbereiten auf Ewigkeit und Grab.</l>
-						<l>page_marker_ocr39</l>
-						<l>page_marker_book11</l>
+						<pb n="35" />
 						<l>rabe,</l>
 						<l>Land,</l>
 						<l>ilden</l>
@@ -298,7 +269,7 @@
 						<l>hren,</l>
 						<l>rme,</l>
 						<l>Der Bischof nickt Gewährung, der Mönch steigt zu dem Orte,</l>
-						<l>Er wählt sich seine Klauſe hoch auf der Römerpforte,</l>
+						<l>Er wählt sich seine Klause hoch auf der Römerpforte,</l>
 						<l>Er, der einst weit gezogen in Land und Meer hinaus,</l>
 						<l>Jeßt lebt er still und einsam in einem engen Haus.</l>
 						<l>Und sieben Jahre weilt er, gestärkt durch milde Gaben,</l>
@@ -315,15 +286,11 @@
 						<l>Bewahrte einst die Trümmer zum heil'gen Simeon.</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="5">
-				<head>noCategorie</head>
-				<div type="group" n="5">
+				<div type="group" n="2">
 					<head>Die Römischen Bäder</head>
 					<head type="sage" n="5">Betrachtung</head>
 					<p>
-						<l>page_marker_ocr40</l>
-						<l>page_marker_book12</l>
+						<pb n="1" />
 						<l>Betrachtung.</l>
 						<l>(Standpunkt: außerhalb der Stadt.)</l>
 						<l>Altes Denkmal, vieler Zeiten Wogen</l>
@@ -333,7 +300,7 @@
 						<l>Und ich sehe dort die Thürme ragen,</l>
 						<l>Die der Dom zum hohen Himmel schickt,</l>
 						<l>Jener Dom, wo schon seit grauen Tagen</l>
-						<l>Sich der Bischof mit der Mitra ſchmückt.</l>
+						<l>Sich der Bischof mit der Mitra schmückt.</l>
 						<l>Heidnisch Denkmal, deine Fensterbogen</l>
 						<l>Zeigen mir des Domes ragend Haus!</l>
 						<l>Welch ein Anblick! Von ihm angezogen,</l>
@@ -342,8 +309,7 @@
 						<l>Dehnt sich mir der hohe Christendom!</l>
 						<l>Du gibst von der alten Roma Kunde,</l>
 						<l>Jener Dom mahnt an das neue Rom.</l>
-						<l>page_marker_ocr41</l>
-						<l>page_marker_book13</l>
+						<pb n="20" />
 						<l>Sieht man mitten in dem Heidenthume</l>
 						<l>Nicht auch so des Christenthumes Ruhm?</l>
 						<l>Socrates, des Heidenthumes Blume,</l>
@@ -365,26 +331,19 @@
 						<l>Seine Hallen werden nur zerfallen,</l>
 						<l>Wenn einst stürzen wird das Sternenzelt.</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="6">
-				<head>noCategorie</head>
-				<div type="group" n="6">
-					<head>Die Römischen Bäder</head>
 					<head type="sage" n="6">Das goldene Kalb</head>
 					<p>
-						<l>page_marker_ocr42</l>
-						<l>page_marker_book14</l>
+						<pb n="1" />
 						<l>Das goldene Kalb.</l>
 						<l>In der Ruinen Mitte</l>
 						<l>Steht eingebaut cin Thurm,</l>
 						<l>Drin hallen dumpfe Tritte,</l>
-						<l>Hauſ't in der Nacht der Sturm.</l>
+						<l>Haus't in der Nacht der Sturm.</l>
 						<l>Am Thurme klafft ein Fenster</l>
 						<l>Mit sieben Fensterlein,</l>
 						<l>Dort kehren drei Gespenster</l>
 						<l>Gar oft zusammen ein.</l>
-						<l>Durch's Fenster ſieht man blizen</l>
+						<l>Durch's Fenster sieht man blizen</l>
 						<l>Ein Lichtchen roth und graus,</l>
 						<l>Die drei Gespenster sigen</l>
 						<l>Bei einem frohen Schmaus.</l>
@@ -396,8 +355,7 @@
 						<l>Man hört es halb und halb,</l>
 						<l>Vor ihnen steht, welch Wunder!</l>
 						<l>Ein großes goldnes Kalb.</l>
-						<l>page_marker_ocr43</l>
-						<l>page_marker_book15</l>
+						<pb n="23" />
 						<l>Das fehlt beim Mahle nimmer,</l>
 						<l>Es prangt dort für und für,</l>
 						<l>Erglänzt in rothem Schimmer,</l>
@@ -412,15 +370,11 @@
 						<l>Als siebenhundert Schuh.</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="7">
-				<head>noCategorie</head>
-				<div type="group" n="7">
+				<div type="group" n="3">
 					<head>Das Amphitheater</head>
 					<head type="sage" n="7">Die Arena</head>
 					<p>
-						<l>page_marker_ocr44</l>
-						<l>page_marker_book16</l>
+						<pb n="1" />
 						<l>Die Arena.</l>
 						<l>(Vision.)</l>
 						<l>Liegt nicht, beglänzt vom blassen Mondenschein</l>
@@ -428,11 +382,11 @@
 						<l>In weiter Rundung heben sich die Size,</l>
 						<l>Das Volk erfüllt sie bis zur höchsten Spize.</l>
 						<l>-</l>
-						<l>Es harrt dem Kampf entgegen schauluſtheiß,</l>
+						<l>Es harrt dem Kampf entgegen schaulustheiß,</l>
 						<l>Es starrt auf der Arena sand'gen Kreis:</l>
 						<l>Da schmettern grell Trompeten in die Ohren,</l>
 						<l>Auf tritt der lange Zug der Gladiatoren.</l>
-						<l>Welch reicher Anblick ftellt dem Volk ſich dar?</l>
+						<l>Welch reicher Anblick ftellt dem Volk sich dar?</l>
 						<l>In tausend Farben schillert bunt die Schaar,</l>
 						<l>Die Schilde glänzen weit mit hellen Rändern,</l>
 						<l>Die Helme sind umrauscht von bunten Bändern.</l>
@@ -440,8 +394,7 @@
 						<l>Die Andern tragen Helm und Schild und Schwert,</l>
 						<l>Zwei Schwerter blizen Jenen in den Händen,</l>
 						<l>Auf Rossen werden Andre Lanzen senden.</l>
-						<l>page_marker_ocr45</l>
-						<l>page_marker_book17</l>
+						<pb n="21" />
 						<l>Jezt schmettert wieder der Trompete Ton,</l>
 						<l>Und alle scharfen Waffen sind entfloh'n.</l>
 						<l>Sie faffen Schwerter nur von Holz zum Spiele,</l>
@@ -450,7 +403,7 @@
 						<l>Ein einzig Paar nur bietet sich dem Blick,</l>
 						<l>Der Herold ruft der beiden Kämpfer Namen,</l>
 						<l>Sagt laut dem Volk, aus welchem Land sie kamen.</l>
-						<l>Der Eine heißt Sacruna, Gallien iſt</l>
+						<l>Der Eine heißt Sacruna, Gallien ist</l>
 						<l>Sein Heimathland, er strahlt im Kampf durch List;</l>
 						<l>Aus Bruttium ist Thrar, ein wilder Krieger,</l>
 						<l>Oft trat er aus dem Kampfspiel schon als Sieger.</l>
@@ -462,8 +415,7 @@
 						<l>Die Rechte hält ein Neß zum Wurf bereit,</l>
 						<l>In seiner todesschwangern Linken blißen.</l>
 						<l>Des hellen Dreizacks scharfgeschliffne Spigen.</l>
-						<l>page_marker_ocr46</l>
-						<l>page_marker_book18</l>
+						<pb n="42" />
 						<l>Die beiden Gegner heßen sich im Kreis,</l>
 						<l>Der Fisch berennt den Neßenträger heiß,</l>
 						<l>Der Fischer weichend ruft mit Wuthverlangen</l>
@@ -475,17 +427,16 @@
 						<l>Sacruna schäumt vor Wuth, er weicht im Nu,</l>
 						<l>Kehrt um, wirft hoch sein Neß dem Fischhelm zu,</l>
 						<l>Gefangen hat's, schon kollert Thrar am Boden;</l>
-						<l>Ein grauſes Schauſpiel wird dem Volk geboten.</l>
-						<l>Am strammen Neßſeil schleift des Galliers Hand</l>
+						<l>Ein grauses Schauspiel wird dem Volk geboten.</l>
+						<l>Am strammen Neßseil schleift des Galliers Hand</l>
 						<l>Den hingezerrten Bruttier durch den Sand,</l>
 						<l>Der hingeschleppte Schild bahnt lange Streifen,</l>
 						<l>Ausjubelnd klatscht das Volk dem wilden Schleifen.</l>
 						<l>Und in der Mitte hält der Gallier jeßt;</l>
-						<l>Den Fuß auf seines Gegners Bruſt geſeßt,</l>
+						<l>Den Fuß auf seines Gegners Brust geseßt,</l>
 						<l>Forscht er umher nach des Gefangnen Loose,</l>
 						<l>Ob er den Dreizack in die Brust ihm stoße.</l>
-						<l>page_marker_ocr47</l>
-						<l>page_marker_book19</l>
+						<pb n="63" />
 						<l>Den Daumen hebt das Volk in blut'ger Luft,</l>
 						<l>Stracks fährt der Dreizack in des Bruttiers Brust,</l>
 						<l>Das Blut sprigt auf, färbt sein Gesicht das bleiche,</l>
@@ -496,12 +447,6 @@
 						<l>Vom Volke zu die bunte Palmenkrone.</l>
 						<l>·</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="8">
-				<head>noCategorie</head>
-				<div type="group" n="8">
-					<head>Das Amphitheater</head>
 					<head type="sage" n="8">Der Frankenfürst</head>
 					<p>
 						<l>Der Frankenfürst.</l>
@@ -513,8 +458,7 @@
 						<l>Alles glänzt in heitrer Pracht,</l>
 						<l>Denn der Kaiser feiert heute</l>
 						<l>Die gewonn'ne Frankenschlacht.</l>
-						<l>page_marker_ocr48</l>
-						<l>page_marker_book20</l>
+						<pb n="10" />
 						<l>Von des Meers entlegnen Ufern,</l>
 						<l>Von der Donau und dem Rhein,</l>
 						<l>Trafen zu dem hohen Feste</l>
@@ -525,7 +469,7 @@
 						<l>Wird die Menge oft besprengt.</l>
 						<l>Ueber aller Size Stufen</l>
 						<l>Schwebt die Decke, goldgestickt,</l>
-						<l>Und die Götterbilderniſchen</l>
+						<l>Und die Götterbildernischen</l>
 						<l>Sind mit grünem Laub geschmückt.</l>
 						<l>Heute prangt auch die Arena</l>
 						<l>In der reizendsten Gestalt:</l>
@@ -539,8 +483,7 @@
 						<l>Eben fünfzehn Doggen an,</l>
 						<l>Alle schlug sein Rüffel nieder,</l>
 						<l>Daß das Blut in Strömen rann.</l>
-						<l>page_marker_ocr49</l>
-						<l>page_marker_book21</l>
+						<pb n="35" />
 						<l>Kurze Weile, und der Sieger</l>
 						<l>Brüllt im Berge eingesperrt;</l>
 						<l>Die erschlagnen Hunde werden</l>
@@ -554,24 +497,23 @@
 						<l>Und zur Strafe seinen Muthes</l>
 						<l>Schloß ihn ein des Kerkers Nacht;</l>
 						<l>Heute soll im Thiergefechte</l>
-						<l>Er den Todeskampf beſtehn</l>
+						<l>Er den Todeskampf bestehn</l>
 						<l>Und dem Kaiser und dem Volke</l>
 						<l>Schlachttriumph und Spiel erhöhn.</l>
 						<l>In der dichtgedrängten Menge</l>
 						<l>Klopst vor Sehnsucht jede Brust,</l>
-						<l>Eines Fürsten Kampf zu ſehen,</l>
+						<l>Eines Fürsten Kampf zu sehen,</l>
 						<l>Welches Schauspiel, welche Lust!</l>
 						<l>Wohl nach langem schwerem Streite</l>
 						<l>Gibt der Fürst sein Leben preis,</l>
 						<l>Hei! wie wird er fechten, wüthen,</l>
 						<l>Hei! wie wird er ringen heiß.</l>
-						<l>page_marker_ocr50</l>
-						<l>page_marker_book22</l>
-						<l>Knurrend stürzt ſich jezt ein Löwe</l>
+						<pb n="60" />
+						<l>Knurrend stürzt sich jezt ein Löwe</l>
 						<l>Durch das Waldgebüsch daher:</l>
 						<l>Seit zwei Tagen, seit zwei Nächten</l>
 						<l>Gab man ihm kein Futter mehr.</l>
-						<l>Feurig schaut er um im Kreiſe,</l>
+						<l>Feurig schaut er um im Kreise,</l>
 						<l>Vom Geruch der Menschen wild,</l>
 						<l>Schwingt den Schweif in schnellen Reifen,</l>
 						<l>Beitscht mit ihm das Sandgefild.</l>
@@ -592,8 +534,7 @@
 						<l>Ihm die Brust als Jagdgewand,</l>
 						<l>Einen leichten Jagdspieß gab man</l>
 						<l>Ihm als Waffe in die Hand.</l>
-						<l>page_marker_ocr51</l>
-						<l>page_marker_book23</l>
+						<pb n="86" />
 						<l>Ragais erspäht den Kaiser</l>
 						<l>Droben in dem Zelt von Gold,</l>
 						<l>Wirft den Spieß, daß er dem Kaiser</l>
@@ -603,12 +544,6 @@
 						<l>In des Löwen offnen Nachen</l>
 						<l>Drängt der Fürst sein Haupt hinein.</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="9">
-				<head>noCategorie</head>
-				<div type="group" n="9">
-					<head>Das Amphitheater</head>
 					<head type="sage" n="9">Bestrafte Untreue</head>
 					<p>
 						<l>Bestrafte Untreue.</l>
@@ -624,8 +559,7 @@
 						<l>Auch bilden Trier's Berge bunt</l>
 						<l>Ein groß Amphitheater- Rund:</l>
 						<l>Wer viel hat, will oft mehr noch haben.</l>
-						<l>page_marker_ocr52</l>
-						<l>page_marker_book24</l>
+						<pb n="14" />
 						<l>Da trat der Prinz Katholdus auf</l>
 						<l>Und ließ der Zunge freien Lauf:</l>
 						<l>,, Bürger, wollt ihr Bäche leiten,</l>
@@ -633,7 +567,7 @@
 						<l>Um Thier- und Fechterkampf zu schau'n:</l>
 						<l>So zahlt die Kosten auch bescheiden!</l>
 						<l>Auf! spendet freudig mir das Geld,</l>
-						<l>Ich bin's, der euch zufrieden ſtellt:</l>
+						<l>Ich bin's, der euch zufrieden stellt:</l>
 						<l>Ich will die Wasserleitung graben,</l>
 						<l>Will des Amphitheaters Bau</l>
 						<l>Erhöh'n bis in des Himmels Blau,</l>
@@ -652,8 +586,7 @@
 						<l>Und fragt und forscht mit arger Lift,</l>
 						<l>Was seines Herren Kummer ist:</l>
 						<l>Katholdus sprach:,,Ich kann nicht heucheln.</l>
-						<l>page_marker_ocr53</l>
-						<l>page_marker_book25</l>
+						<pb n="41" />
 						<l>Ein Ehrenwort füllt mich mit Grau'n,</l>
 						<l>Da soll ich ein Theater bau'n;</l>
 						<l>Doch schreckt mich mehr noch das Versprechen:</l>
@@ -666,7 +599,7 @@
 						<l>Zu Stande zu derselben Frist,</l>
 						<l>Wann dein Theater fertig ist:</l>
 						<l>Mein Leben seg' ich dir zum Pfande.</l>
-						<l>Doch wenn hieher das Waſſer dringt,</l>
+						<l>Doch wenn hieher das Wasser dringt,</l>
 						<l>Eh dir dein eigner Bau gelingt,</l>
 						<l>Dann zahlst du selber mit dem Leben!"</l>
 						<l>Katholdus willigt freudig ein,</l>
@@ -678,14 +611,13 @@
 						<l>Sie war's, die den Vertrag ersann,</l>
 						<l>Sie spornt auch jezt den Buhlen an,</l>
 						<l>Daß heiß sein Baubetrieb entbrannte.</l>
-						<l>page_marker_ocr54</l>
-						<l>page_marker_book26</l>
+						<pb n="66" />
 						<l>Stolz hob sich in des Himmels Blau</l>
 						<l>Schon des Amphitheaters Bau,</l>
 						<l>Vom höchsten Säulenkranz umschloffen ;</l>
 						<l>Vollendet läuft auch der Kanal</l>
 						<l>Bis Trier aus dem Ruwerthal,</l>
-						<l>Doch steh! kein Waffer kommt gefloſſen.</l>
+						<l>Doch steh! kein Waffer kommt geflossen.</l>
 						<l>Der Sclave klagt's der Buhlerin,</l>
 						<l>Sie führt ihn bei der Nacht Beginn</l>
 						<l>Zu ihres Ehherrn Schlafgemache,</l>
@@ -700,21 +632,20 @@
 						<l>Den Stolzen trifft mit Recht die Strafe!"</l>
 						<l>,,Was Wunder!" äußert der Gemahl,</l>
 						<l>,,Luftlöcher fehlen dem Kanal,</l>
-						<l>Jezt kann darin kein Waſſer fließen,</l>
-						<l>Der Luftzug nur läßt Waſſer zu:</l>
+						<l>Jezt kann darin kein Wasser fließen,</l>
+						<l>Der Luftzug nur läßt Wasser zu:</l>
 						<l>Für Zug gesorgt, dann wird im Nu</l>
 						<l>Das Wasser den Kanal durchschießen.</l>
-						<l>page_marker_ocr55</l>
-						<l>page_marker_book27</l>
+						<pb n="91" />
 						<l>Der Sclave lauscht, der Herr schläft ein,</l>
-						<l>Und aus dem düſtern Kämmerlein</l>
+						<l>Und aus dem düstern Kämmerlein</l>
 						<l>Schleicht rasch der Sclav' in aller Stille.</l>
 						<l>Er weckt der Werkner große Zahl,</l>
-						<l>Durchsticht mit Eiſen den Kanal,</l>
+						<l>Durchsticht mit Eisen den Kanal,</l>
 						<l>Und steh! das Wasser strömt in Fülle.</l>
 						<l>Der Sclave jauchzt und schon von fern</l>
 						<l>Ruft er, nach Haus gekehrt, dem Herrn:</l>
-						<l>„Komm, ſieh das schöne Waſſer wallen!"</l>
+						<l>„Komm, sieh das schöne Wasser wallen!"</l>
 						<l>Katholdus ras'te, schaurig trat</l>
 						<l>Ihm vor den Geist der Frau Verrath:</l>
 						<l>Soll er von Sclavenhänden fallen?</l>
@@ -725,16 +656,9 @@
 						<l>Sich und sein Weib ins tiefe Grab:</l>
 						<l>Katholdus-Chron hieß einst die Stelle.</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="10">
-				<head>noCategorie</head>
-				<div type="group" n="10">
-					<head>Das Amphitheater</head>
 					<head type="sage" n="10">Katholdis</head>
 					<p>
-						<l>page_marker_ocr56</l>
-						<l>page_marker_book28</l>
+						<pb n="1" />
 						<l>Katholdis.</l>
 						<l>In des Berges weiter Oeffnung</l>
 						<l>Klafft ein tiefer Brunnenschacht;</l>
@@ -755,29 +679,24 @@
 						<l>Hell ein goldnes Schlüffelein:</l>
 						<l>Wer das zu rauben wüßte!</l>
 						<l>Deffnen könnt' er jene Kiste,</l>
-						<l>Die die Schäße ſchließet ein.</l>
-						<l>page_marker_ocr57</l>
-						<l>page_marker_book29</l>
+						<l>Die die Schäße schließet ein.</l>
+						<pb n="23" />
 						<l>Geh und nimm dir Muth zusammen,</l>
 						<l>Stürz Katholdis in den Schacht:</l>
 						<l>Von dem Zauberbann, dem bösen,</l>
-						<l>Wirst du dann die Frau erlöſen</l>
+						<l>Wirst du dann die Frau erlösen</l>
 						<l>Und den Drachen, der da wacht.</l>
 						<l>Zu erwirken die Erlösung,</l>
 						<l>Glückt dir nur zur Neumondzeit;</l>
 						<l>Durch dein muthiges Beginnen</l>
 						<l>Wirst die Kiste du gewinnen:</l>
-						<l>Denn der Schaß ſteht dir bereit.</l>
-						<l>page_marker_ocr58</l>
-						<l>page_marker_book30</l>
+						<l>Denn der Schaß steht dir bereit.</l>
+						<pb n="34" />
 						<l>:</l>
 						<l>Der Constantinische Palaßt.</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="11">
-				<head>noCategorie</head>
-				<div type="group" n="11">
+				<div type="group" n="4">
 					<head>Der Constantinische Palast</head>
 					<head type="sage" n="11">Der gespenstige Kaiser</head>
 					<p>
@@ -785,10 +704,10 @@
 						<l>Nachts, wenn hoch am Pol die Sterne funkeln,</l>
 						<l>Geht im Constantinischen Palast,</l>
 						<l>Bald im Lampenscheine, bald im Dunkeln,</l>
-						<l>Ein gespenstig Wesen sonder Raſt:</l>
+						<l>Ein gespenstig Wesen sonder Rast:</l>
 						<l>Kaiser Constantin</l>
 						<l>Selber geht darin,</l>
-						<l>Als jahrhundertjähr’ger Gaſt.</l>
+						<l>Als jahrhundertjähr’ger Gast.</l>
 						<l>Dem gespenst'gen Kaiser deckt die Lenden</l>
 						<l>Goldgestickt, ein langer Prachttalar,</l>
 						<l>Schild und Scepter trägt er in den Händen,</l>
@@ -798,13 +717,12 @@
 						<l>Auf des Kaisers greisem Haar.</l>
 						<l>Dunkler glüh'n der Lampen helle Flammen,</l>
 						<l>Schleppt er durch die Säle seinen Gang,</l>
-						<l>Schild und Scepter schlägt er grell zuſammen;</l>
+						<l>Schild und Scepter schlägt er grell zusammen;</l>
 						<l>Thüren knarren auf in dumpfem Klang;</l>
 						<l>Wenn der Haushahn kräht,</l>
 						<l>Kehret er und geht</l>
 						<l>Langsam dem Balkon entlang.</l>
-						<l>page_marker_ocr59</l>
-						<l>page_marker_book31</l>
+						<pb n="23" />
 						<l>Constantinischer Palast.</l>
 						<l>Dann erscheint er auf den Wendelstiegen,</l>
 						<l>Schreitet durch der Höfe weiten Plan:</l>
@@ -830,21 +748,17 @@
 						<l>-</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="12">
-				<head>noCategorie</head>
-				<div type="group" n="12">
+				<div type="group" n="5">
 					<head>Das Neuthor</head>
 					<head type="sage" n="12">Das Ungeheuer</head>
 					<p>
-						<l>page_marker_ocr60</l>
-						<l>page_marker_book32</l>
+						<pb n="1" />
 						<l>Das Ungeheuer.</l>
 						<l>Dicht an des Neuthers alten Mauern</l>
 						<l>Lag, aufgethürmt von Quaderstein,</l>
 						<l>Ein finstrer Bau, mit Schreck und Schauern</l>
 						<l>Geflohen einst von Groß und Klein,</l>
-						<l>Dort ſtand in dunkelem Gemache</l>
+						<l>Dort stand in dunkelem Gemache</l>
 						<l>Ein Ungethüm, halb Hahn hulb Drache.</l>
 						<l>Ein struppiges Gefieder deckte.</l>
 						<l>Kohlrabenschwarz den Riesenhahn;</l>
@@ -858,12 +772,11 @@
 						<l>Des Feuerschnabels Flammenhauch.</l>
 						<l>Der Schwanz, gekrümmt in hohem Reise,</l>
 						<l>Glich einem langen Drachenschweife.</l>
-						<l>page_marker_ocr61</l>
-						<l>page_marker_book33</l>
-						<l>Auf seine Federbruſt entwallte</l>
-						<l>Ein Ziegenbart, giftſchaumbeneßt,</l>
+						<pb n="21" />
+						<l>Auf seine Federbrust entwallte</l>
+						<l>Ein Ziegenbart, giftschaumbeneßt,</l>
 						<l>An jeder seiner Fersen hallte</l>
-						<l>Ein Sporn, beschuppt und hornbeſeßt;</l>
+						<l>Ein Sporn, beschuppt und hornbeseßt;</l>
 						<l>An seinen Zehen starrten Klauen</l>
 						<l>Aus einem Hahnenei geboren,</l>
 						<l>War gut der Drachenhahn bewehrt,</l>
@@ -872,22 +785,18 @@
 						<l>Nur Eines brachte ihm Verderben:</l>
 						<l>Sah er sein Bild, so mußt' er sterben.</l>
 						<l>Gar Mancher griff nach Schild und Spiegel,</l>
-						<l>Die Stadt vom Scheuſal zu befrei'n,</l>
+						<l>Die Stadt vom Scheusal zu befrei'n,</l>
 						<l>Er ließ sich öffnen Schloß und Riegel,</l>
 						<l>Trat in die Schreckenshalle ein,</l>
 						<l>Doch Keiner kehrte als Befreier,</l>
 						<l>Sie alle fraß das Ungeheuer.</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="13">
-				<head>noCategorie</head>
-				<div type="group" n="13">
+				<div type="group" n="6">
 					<head>Die Moselbrücke</head>
 					<head type="sage" n="13">St. Nicolas</head>
 					<p>
-						<l>page_marker_ocr62</l>
-						<l>page_marker_book34</l>
+						<pb n="1" />
 						<l>St. Nicolas.</l>
 						<l>Auf der Brücke zu Trier ist hoch in Stein</l>
 						<l>Ein Kreuz mit dem Heiland zu schau'n,</l>
@@ -900,15 +809,14 @@
 						<l>Er war von der Trierer Brücke nicht weit,</l>
 						<l>Sein Schiff war in großer Gefahr:</l>
 						<l>,,St. Niclas!" rief er in Angst ohne Rast,</l>
-						<l>„Ich versprech' dir 'ne Kerze, so groß wie der Maſt.“</l>
+						<l>„Ich versprech' dir 'ne Kerze, so groß wie der Mast.“</l>
 						<l>Das Schiff braus't glücklich ohne Leck</l>
 						<l>Durch der Brücke Wogengewühl;</l>
 						<l>Der Schiffer schlug ein Schnippchen keck:</l>
 						<l>,,St. Niclas! du kriegst nicht so viel!"</l>
 						<l>Wer die Kerze nicht gab, war der Schiffersmann,</l>
 						<l>St. Niclas sah es geduldig an.</l>
-						<l>page_marker_ocr63</l>
-						<l>page_marker_book35</l>
+						<pb n="21" />
 						<l>Der Schiffer fam wieder über's Jahr</l>
 						<l>Mit schwerbeladenem Schiff,</l>
 						<l>Er sah die Brandung und nahe Gefahr,</l>
@@ -916,12 +824,6 @@
 						<l>St. Niclas!.." Da stepft ihm die Fluth den Mund,</l>
 						<l>Das Schiff mit dem Schiffer versank in Grund.</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="14">
-				<head>noCategorie</head>
-				<div type="group" n="14">
-					<head>Die Moselbrücke</head>
 					<head type="sage" n="14">Das Verließ</head>
 					<p>
 						<l>Das Verließ.</l>
@@ -941,8 +843,7 @@
 						<l>In dem Erkerstein</l>
 						<l>Blickte überm Flusse</l>
 						<l>Matt der Tag hinein.</l>
-						<l>page_marker_ocr64</l>
-						<l>page_marker_book36</l>
+						<pb n="18" />
 						<l>Wehe Dem, der schmachtend</l>
 						<l>Dort im Kerker lag,</l>
 						<l>Wo sich am Gemäuer</l>
@@ -967,8 +868,7 @@
 						<l>Einst der Fluß sich wand,</l>
 						<l>Starrte jest des Eises</l>
 						<l>Erzgepanzert Band.</l>
-						<l>page_marker_ocr65</l>
-						<l>page_marker_book37</l>
+						<pb n="43" />
 						<l>Mofelbrücke.</l>
 						<l>Laue Lüfte wehten</l>
 						<l>Wieder durch das Thal,</l>
@@ -994,8 +894,7 @@
 						<l>In der bösen Nacht,</l>
 						<l>Wurde des Gefangnen</l>
 						<l>Ach! zu spät gedacht!</l>
-						<l>page_marker_ocr66</l>
-						<l>page_marker_book38</l>
+						<pb n="69" />
 						<l>Als die Wasser diangen</l>
 						<l>In des Pfeilers Schors,</l>
 						<l>Riß sich dort der Arme</l>
@@ -1014,15 +913,11 @@
 						<l>Fast wie Angstgestöhn.</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="15">
-				<head>noCategorie</head>
-				<div type="group" n="15">
+				<div type="group" n="7">
 					<head>Der Dom</head>
 					<head type="sage" n="15">Constantius</head>
 					<p>
-						<l>page_marker_ocr67</l>
-						<l>page_marker_book39</l>
+						<pb n="1" />
 						<l>Constantius.</l>
 						<l>Es kam, erkoren von Marimian,</l>
 						<l>Constantius in Trier's Mauern an;</l>
@@ -1040,8 +935,7 @@
 						<l>In Trier zog der hohe Sieger ein:</l>
 						<l>Da traf sein Herz der Liebe gold'ner Strahl,</l>
 						<l>Aus Trier's Töchtern trifft er seine Wahl.</l>
-						<l>page_marker_ocr68</l>
-						<l>page_marker_book40</l>
+						<pb n="19" />
 						<l>In Trier war ein Fräulein, schön und reich,</l>
 						<l>An Reiz und Anmuth war ihr Keine gleich,</l>
 						<l>Sie glänzte durch Geburt und Ahnenruhm,</l>
@@ -1055,15 +949,14 @@
 						<l>Sie pflegt den Sohn mit Mutterzärtlichkeit,</l>
 						<l>Der Sohn vergilt's ihr wohl zu seiner Zeit.</l>
 						<l>Hold lacht dem Gatten seines Heerdes Glück;</l>
-						<l>Ihn ruft Britannien, mit naſſem Blick</l>
+						<l>Ihn ruft Britannien, mit nassem Blick</l>
 						<l>Erdrückt er seines Herzens schweren Harm,</l>
 						<l>Er reißt sich los aus seiner Gattin Arm.</l>
 						<l>Was freut Helena, die nun einsam lebt?</l>
 						<l>Der Knabe ist's, der ihren Geist erhebt;</l>
 						<l>Er wächst zum Jüngling hochbeherzt heran,</l>
 						<l>Gebt Acht! aus ihm wird einst ein großer Mann.</l>
-						<l>page_marker_ocr69</l>
-						<l>page_marker_book41</l>
+						<pb n="40" />
 						<l>Helena schwindet manche Jahresfrist,</l>
 						<l>Seitdem ihr Gatte in Britannien ist,</l>
 						<l>Was nüßt es ihr, daß er sich Lorbeern bricht,</l>
@@ -1079,12 +972,6 @@
 						<l>Und glänzend auf dem Marsfeld beigefeßt.</l>
 						<l>-</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="16">
-				<head>noCategorie</head>
-				<div type="group" n="16">
-					<head>Der Dom</head>
 					<head type="sage" n="16">Helena</head>
 					<p>
 						<l>Helena.</l>
@@ -1092,8 +979,7 @@
 						<l>Den schlauen Constantin, zu Galliens Thron;</l>
 						<l>Die Christussahne schwingend kämpft der Held,</l>
 						<l>Zu seinen Füßen sinkt die Römerwelt.</l>
-						<l>page_marker_ocr70</l>
-						<l>page_marker_book42</l>
+						<pb n="6" />
 						<l>Er ist es, der den Kreuzesstamm erhöht,</l>
 						<l>In dessen Schuß die Christenkirche steht,</l>
 						<l>Er selbst bekennt sich ja zum Christenthum,</l>
@@ -1102,20 +988,19 @@
 						<l>Er krönt fie feierlichst zur Kaiserin,</l>
 						<l>Auch wenn er Niemand auf der Erde ehrt,</l>
 						<l>Sein Herz zur Mutter bleibt ihm unversehrt.</l>
-						<l>Helena, die sich jezt auch Chriſtin nennt</l>
+						<l>Helena, die sich jezt auch Christin nennt</l>
 						<l>Und ganz in Liebe zu dem Heiland brennt,</l>
 						<l>Freigebig fördert sie mit reicher Hand</l>
 						<l>Des Christenthumes Segen durch das Land.</l>
 						<l>Umstrahlt von hoher kaiserlicher Vracht,</l>
 						<l>Befiht sie, wie es scheint, nur Gold und Macht,</l>
 						<l>Um, wie ein Engel in verklärtem Schein,</l>
-						<l>Den Nothgebeugten Trösterin zu ſein.</l>
+						<l>Den Nothgebeugten Trösterin zu sein.</l>
 						<l>Sie selber, die erhab'ne Kaiserin,</l>
 						<l>Sie wandelt zu den niedern Hütten hin,</l>
 						<l>Sie selbst erquickt der Armen Mund und Herz,</l>
 						<l>Sie selbst, sie heilt verlaß'ner Kinder Schmerz.</l>
-						<l>page_marker_ocr71</l>
-						<l>page_marker_book43</l>
+						<pb n="27" />
 						<l>Sie spricht, entblößt von aller Majestät,</l>
 						<l>Im Tempel gern beim Volke ihr Gebet,</l>
 						<l>Sie leuchtet dort als Andachtmusterbild,</l>
@@ -1137,19 +1022,12 @@
 						<l>Helena ließ der Kaiser stimmte ein</l>
 						<l>Ließ den Palast zu Trier's Dome weih'n.</l>
 						<l>-</l>
-						<l>page_marker_ocr72</l>
-						<l>page_marker_book44</l>
+						<pb n="49" />
 						<l>Von da an prangte in dem zweiten Rom</l>
 						<l>Zu Gottes Lob und Preis der prächt'ge Dom,</l>
 						<l>Er prangt und ragt und wächst seit jener Zeit,</l>
 						<l>Ein Denkmal von Helena's Frömmigkeit.</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="17">
-				<head>noCategorie</head>
-				<div type="group" n="17">
-					<head>Der Dom</head>
 					<head type="sage" n="17">Die Schwalben</head>
 					<p>
 						<l>Die Schwalben.</l>
@@ -1165,13 +1043,12 @@
 						<l>Daß der arme Messendiener</l>
 						<l>Nicht des Bischofs Worte hört,</l>
 						<l>Daß der Lärm den Bischof stört.</l>
-						<l>page_marker_ocr73</l>
-						<l>page_marker_book45</l>
+						<pb n="14" />
 						<l>Kaum kann er die Messe enden</l>
 						<l>Und den letzten Segen spenden:</l>
 						<l>Horch! am Hochaltare dort</l>
 						<l>Ruft der Bischof nun das Wort:</l>
-						<l>„Schwalben! weil ihr hier mich ſtöret</l>
+						<l>„Schwalben! weil ihr hier mich störet</l>
 						<l>Und das Beten mir verwehret,</l>
 						<l>Kommt noch eine je von euch</l>
 						<l>In den Dom, sie sterbe gleich!</l>
@@ -1189,17 +1066,13 @@
 						<l>Jezt noch gleich zu Boden todt.</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="18">
-				<head>noCategorie</head>
-				<div type="group" n="18">
+				<div type="group" n="8">
 					<head>Der Domkreuzgang</head>
 					<head type="sage" n="18">Der Krummelstuhl</head>
 					<p>
-						<l>page_marker_ocr74</l>
-						<l>page_marker_book46</l>
+						<pb n="1" />
 						<l>Der Krummelstuhl.</l>
-						<l>Im Kreuzgang des Doms ist ein Seſſel von Stein,</l>
+						<l>Im Kreuzgang des Doms ist ein Sessel von Stein,</l>
 						<l>Er steht an der Mauer fast niedrig und klein,</l>
 						<l>Der Name des Sessels ist männlich bekannt,</l>
 						<l>Der Krummelstuhl wird er in Trier genannt.</l>
@@ -1212,13 +1085,12 @@
 						<l>Am Tage der Kreuzeserhöhung erschienen</l>
 						<l>Die Diener dort jährlich mit drohenden Mienen.</l>
 						<l>Sie standen im Kreuzgang versammelt zu Hauf</l>
-						<l>Und ſprachen und lachten und lauerten auf,</l>
+						<l>Und sprachen und lachten und lauerten auf,</l>
 						<l>Und kam dann ein harmloser Bürger daher,</l>
 						<l>So griff ihn gewaltig das dienende Heer</l>
 						<l>Und stampfte den Mann auf den Krummelstuhl nieder,</l>
 						<l>Und stampfte das Sißfleisch ihm wieder und wieder.</l>
-						<l>page_marker_ocr75</l>
-						<l>page_marker_book47</l>
+						<pb n="21" />
 						<l>Bezahlt er ein Lösgeld, so ward ihm die Fahrt,</l>
 						<l>Das Prallen und Springen in Gnaden erspart;</l>
 						<l>Da griff man wohl gern in die Tasche hinein,</l>
@@ -1243,8 +1115,7 @@
 						<l>Und spendete reichlich das perlende Gold.</l>
 						<l>Sie saßen und tranken mit heißer Begierde,</l>
 						<l>Bis jeder des Kopfes Umnebelung spürte.</l>
-						<l>page_marker_ocr76</l>
-						<l>page_marker_book48</l>
+						<pb n="46" />
 						<l>Es düstert der Abend, er ruft sie nach Haus,</l>
 						<l>Sie wanken und schwanken zur Thüre hinaus,</l>
 						<l>Sie sinken auf's Pflaster, vom Schmerze durchkrampft:</l>
@@ -1253,15 +1124,11 @@
 						<l>Wahrhaftig Das war eine Trierer Rache!</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="19">
-				<head>noCategorie</head>
-				<div type="group" n="19">
+				<div type="group" n="9">
 					<head>Die Stadt Trier</head>
 					<head type="sage" n="19">Das alte Trier</head>
 					<p>
-						<l>page_marker_ocr77</l>
-						<l>page_marker_book49</l>
+						<pb n="1" />
 						<l>Das alte Trier.</l>
 						<l>O altes Trier, zweites Rom,</l>
 						<l>Begränzt von Berg und Flur und Strom,</l>
@@ -1279,8 +1146,7 @@
 						<l>Den tapfern Vater und den Sohn,</l>
 						<l>Die beid in schlachtenreichen Tagen</l>
 						<l>Der Alamannen Heer geschlagen.</l>
-						<l>page_marker_ocr78</l>
-						<l>page_marker_book50</l>
+						<pb n="19" />
 						<l>Am Moseluser strahlte hold</l>
 						<l>Ein Ther mit manchem Stern von Gold,</l>
 						<l>Als Leuchtthurm flammt' es durch die Nächte,</l>
@@ -1293,8 +1159,8 @@
 						<l>Mit goldner Schale in der Hand,</l>
 						<l>War von besiegter Völker Steuern</l>
 						<l>Errichtet, Trier's Ruhm zu feiern.</l>
-						<l>Die Schale war ein Werk voll Kunſt:</l>
-						<l>Man fühlte sich von Weihrauch - Dunſt</l>
+						<l>Die Schale war ein Werk voll Kunst:</l>
+						<l>Man fühlte sich von Weihrauch - Dunst</l>
 						<l>(Kein Feuer sah man) süß umflossen,</l>
 						<l>Ward Räucherwerk darauf gegossen.</l>
 						<l>Dies Alles ward der Zeit zum Raub,</l>
@@ -1305,8 +1171,7 @@
 						<l>Die Felder decken ringsumher,</l>
 						<l>Wo einst die hohen Size waren</l>
 						<l>Der weltbeherischenden Gäsaren.</l>
-						<l>page_marker_ocr79</l>
-						<l>page_marker_book51</l>
+						<pb n="44" />
 						<l>Wer zählt die Röm'schen Villen all,</l>
 						<l>Die, wie ein buntgeschmückter Wall,</l>
 						<l>Die Moselufer einst bekränzten</l>
@@ -1321,7 +1186,7 @@
 						<l>Der Strom, sanftplätschernd wie zum Gruße.</l>
 						<l>Auf flachem Uferstrande lag</l>
 						<l>Die and're, nah am Wellenschlag,</l>
-						<l>Umlacht von üppiggrünen Wieſen,</l>
+						<l>Umlacht von üppiggrünen Wiesen,</l>
 						<l>Von Fluren, die den Eigner priesen.</l>
 						<l>Noch and're Villen floh'n den Blick</l>
 						<l>Und wichen von dem Strom zurück,</l>
@@ -1331,8 +1196,7 @@
 						<l>Sich auch der Fernsicht zu erfreu’n,</l>
 						<l>Erhob man Thürme dort und Zinnen,</l>
 						<l>Des Thales Anblick zu gewinnen.</l>
-						<l>page_marker_ocr80</l>
-						<l>page_marker_book52</l>
+						<pb n="69" />
 						<l>Noch andern Villen war's verlieh'n,</l>
 						<l>Den Fluß in ihren Schoos zu zieh'n,</l>
 						<l>In Teichen, wohlverschloß'nen, fangen,</l>
@@ -1357,8 +1221,7 @@
 						<l>Verbildlichten der Ahnen Kreis ;</l>
 						<l>Was der Verstorb'ne trieb im Leben,</l>
 						<l>Der Grabstein mußt' es wiedergeben.</l>
-						<l>page_marker_ocr81</l>
-						<l>page_marker_book53</l>
+						<pb n="94" />
 						<l>Römer - Trier, zweites Rom,</l>
 						<l>Du liegt jezt selbst an deinem Strom</l>
 						<l>Ein Grabstein jener großen Zeiten,</l>
@@ -1368,12 +1231,6 @@
 						<l>Nur um der späten Enkel Herzen</l>
 						<l>Zu füllen mit der Wehmuth Schmerzen?</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="20">
-				<head>noCategorie</head>
-				<div type="group" n="20">
-					<head>Die Stadt Trier</head>
 					<head type="sage" n="20">Der Stadtgeist</head>
 					<p>
 						<l>Der Stadtgeist.</l>
@@ -1389,8 +1246,7 @@
 						<l>Als Geist in Trier immerdar,</l>
 						<l>Ihn drückt die schwere Sündenlast,</l>
 						<l>Im Grabe hat er feine Rast.</l>
-						<l>page_marker_ocr82</l>
-						<l>page_marker_book54</l>
+						<pb n="14" />
 						<l>Er herrschte lebend einst mit Wuth,</l>
 						<l>Als Stadtgeist ist er sanft und gut,</l>
 						<l>Denn freilich: Wer nie Ruhe hat,</l>
@@ -1406,25 +1262,18 @@
 						<l>Auch zeigt er sich am lichten Tag,</l>
 						<l>Springt andern Kühen schäfernd nach</l>
 						<l>Als Rind, das weder stößt noch beißt:</l>
-						<l>In Trier spukt kein böser Geiſt.</l>
+						<l>In Trier spukt kein böser Geist.</l>
 						<l>Schwärmt Einer Nachts daher im Saus,</l>
 						<l>So führt er freundlich ihn nach Haus,</l>
 						<l>Schellt selber an und fordert Licht:</l>
 						<l>Der Stadtgeist ist so schlimm noch nicht.</l>
-						<l>page_marker_ocr83</l>
-						<l>page_marker_book55</l>
+						<pb n="35" />
 						<l>Und trifft er einen armen Mann,</l>
 						<l>Als reicher Herr tritt er hinan,</l>
 						<l>Schenkt Geld ihm, daß das Säcklein reißt:</l>
 						<l>Durch Trier geht ein guter Geist.</l>
 						<l>·</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="21">
-				<head>noCategorie</head>
-				<div type="group" n="21">
-					<head>Die Stadt Trier</head>
 					<head type="sage" n="21">Trier's Wahrzeichen</head>
 					<p>
 						<l>Trier's Wahrzeichen.</l>
@@ -1440,8 +1289,7 @@
 						<l>Und hält das Jesuskind empor;</l>
 						<l>Er trägt fünf gold'ne Knöpf' am Rocke,</l>
 						<l>Ihm dient der wilde Baum zum Stocke.</l>
-						<l>page_marker_ocr84</l>
-						<l>page_marker_book56</l>
+						<pb n="14" />
 						<l>Das zweite ist der Eulenspiegel:</l>
 						<l>Zur Marktfontaine wand're hin,</l>
 						<l>Er läßt auch dort dem Scherz die Zügel:</l>
@@ -1461,26 +1309,22 @@
 						<l>Mag auch an Höhe jedes Zeichen</l>
 						<l>Dem Wiener Stephansthurme weichen.</l>
 						<l>L</l>
-						<l>page_marker_ocr85</l>
-						<l>page_marker_book57</l>
+						<pb n="34" />
 						<l>Einzelheiten der Stadt Crier.</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="22">
-				<head>noCategorie</head>
-				<div type="group" n="22">
+				<div type="group" n="10">
 					<head>Einzelheiten der Stadt Trier</head>
 					<head type="sage" n="22">Das Trebeta-Bild auf dem Stadthause</head>
 					<p>
 						<l>Das Trebeta-Bild auf dem Stadthause.</l>
 						<l>(In der Mitte des Gemäldes ist der Gründer der Stadt Trier,</l>
 						<l>Trebeta, des Ninus Sohn, mit Turban und Königsmantel abgebildet;</l>
-						<l>Trebeta trägt auf dem Schooſe und auf jeder Hand ein Gebäude mit</l>
+						<l>Trebeta trägt auf dem Schoose und auf jeder Hand ein Gebäude mit</l>
 						<l>Thürmen. Interhalb Trebeta befindet sich Ninus, auf dem Haupte eine</l>
 						<l>Königskrone tragend, worin die Worte zu lesen find: Ninus Rex.</l>
 						<l>Links und rechts von diesen Hauptgegenständen zeigen sich noch folgende</l>
-						<l>Darstellungen: links ein Merkurbild, das zwiſchen zwei Magnetsteinen</l>
+						<l>Darstellungen: links ein Merkurbild, das zwischen zwei Magnetsteinen</l>
 						<l>schwebt; rechts ein Jupiter, welcher eine Schale mit emporlodernder</l>
 						<l>Flamme hält. Außerdem befindet sich hinter Trebeta's Haupte und in</l>
 						<l>jeder der beiden untern Ecken ein Thürme tragendes Gebäude, so daß im</l>
@@ -1493,8 +1337,7 @@
 						<l>Unterhalb Trebeta und Ninus:</l>
 						<l>Semiramis, ein Kinigin</l>
 						<l>Des Reichs von Afsirien,</l>
-						<l>page_marker_ocr86</l>
-						<l>page_marker_book58</l>
+						<pb n="21" />
 						<l>Einzelheiten Crier's.</l>
 						<l>Nini des Kinigs eliche Gemachel,</l>
 						<l>Jer genuegiht nit die grosse Sahl,</l>
@@ -1522,8 +1365,7 @@
 						<l>Nach der Statt und Rom Sitt,</l>
 						<l>Der sy sich gleichet an Ars und Regiment,</l>
 						<l>So das sy darnach wart genent</l>
-						<l>page_marker_ocr87</l>
-						<l>page_marker_book59</l>
+						<pb n="49" />
 						<l>Einzelheiten Trier's.</l>
 						<l>Der ander steten ein Bloem,</l>
 						<l>Das ander und dis zweith Rom.</l>
@@ -1545,8 +1387,7 @@
 						<l>Man listh von Noe, dem ser althen Mann,</l>
 						<l>Also wie er drey jungerr Suin gewann:</l>
 						<l>Cham, Sem, Japheth warden sy genanth,</l>
-						<l>page_marker_ocr88</l>
-						<l>page_marker_book60</l>
+						<pb n="71" />
 						<l>Einzelheiten Crier's.</l>
 						<l>Der erst Affricam, der zweit Afiam erfult hath,</l>
 						<l>Japheth, der drith, Europam er alain besas,</l>
@@ -1557,30 +1398,23 @@
 						<l>Das was vonn Lischteun gemacht so guet,</l>
 						<l>Das Weirauch da in rauchet sunder Gluet.</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="23">
-				<head>noCategorie</head>
-				<div type="group" n="23">
-					<head>Einzelheiten der Stadt Trier</head>
 					<head type="sage" n="23">Der Engelberg</head>
 					<p>
 						<l>Der Engelberg.</l>
 						<l>Wer sich zum Kreuz bekannte,</l>
 						<l>Der kam da in Gefahr,</l>
 						<l>Ihm drohte Tod und Bande</l>
-						<l>Der grauſe Rictiovar.</l>
+						<l>Der grause Rictiovar.</l>
 						<l>,,Die Götter angebetet!"</l>
 						<l>So fodert er mit Wuth;</l>
 						<l>Die Mosel ward geröthet</l>
 						<l>Von der Erwürgten Blut.</l>
-						<l>page_marker_ocr89</l>
-						<l>page_marker_book61</l>
+						<pb n="10" />
 						<l>Cinzelheiten Crier's.</l>
 						<l>Es währte viele Tage</l>
 						<l>Der Christen Blutgericht,</l>
 						<l>Sie litten ohne Klage,</l>
-						<l>Der Tod erschreckt ſie nicht.</l>
+						<l>Der Tod erschreckt sie nicht.</l>
 						<l>Ein immer neu Gedränge</l>
 						<l>Strömt zu den Henkern hin,</l>
 						<l>Die mit gewohnter Strenge</l>
@@ -1601,8 +1435,7 @@
 						<l>Wohnt an entlegnem Ort,</l>
 						<l>Gar leicht kann sie verhindern</l>
 						<l>Den ihr gedrohten Mord.</l>
-						<l>page_marker_ocr90</l>
-						<l>page_marker_book62</l>
+						<pb n="36" />
 						<l>Einzelheiten Crier's.</l>
 						<l>Ihr winkt im Himmel drüben</l>
 						<l>Der Marterpalme Strauß,</l>
@@ -1626,11 +1459,10 @@
 						<l>Auf unsrer Siegesbahn." -</l>
 						<l>Der Jüngling wird ein Engel,</l>
 						<l>Er sprach: „Ich werd' euch seh'n</l>
-						<l>Mit einem Palmenſtengel</l>
+						<l>Mit einem Palmenstengel</l>
 						<l>Bald in des Himmels Höh❜n.“</l>
 						<l>I</l>
-						<l>page_marker_ocr91</l>
-						<l>page_marker_book63</l>
+						<pb n="63" />
 						<l>Einzelheiten Trier's.</l>
 						<l>Umglänzt von Sonnenhelle,</l>
 						<l>Schwebt er vom Erdenrand:</l>
@@ -1641,25 +1473,18 @@
 						<l>Den Säugling und die Beiden</l>
 						<l>Traf bald das Henkerbeil.</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="24">
-				<head>noCategorie</head>
-				<div type="group" n="24">
-					<head>Einzelheiten der Stadt Trier</head>
 					<head type="sage" n="24">Die Blume der Mägde</head>
 					<p>
 						<l>Die Blume der Mägde.</l>
 						<l>(Krämeramtshaus.)</l>
 						<l>Ein großer Schaß für Haus und Heerd</l>
-						<l>Das Haus, das dieſen Schaß entbehrt,</l>
+						<l>Das Haus, das diesen Schaß entbehrt,</l>
 						<l>Mit Recht wird es beklagt.</l>
 						<l>Das Krämeramt zu Trier war</l>
 						<l>Darum nicht zu beklagen,</l>
 						<l>Dort dient ein Mägdlein wunderbar</l>
 						<l>Vor vielen, vielen Tagen.</l>
-						<l>page_marker_ocr92</l>
-						<l>page_marker_book64</l>
+						<pb n="10" />
 						<l>Einzelheiten Crier's.</l>
 						<l>Helena hieß die Wundermagd,</l>
 						<l>Sie trug an sich kein Gold,</l>
@@ -1685,8 +1510,7 @@
 						<l>Und sie geht Wäsche bleichen,</l>
 						<l>Gleich fängt die Sonne an zu glüh'n,</l>
 						<l>Die trüben Wolken weichen.</l>
-						<l>page_marker_ocr93</l>
-						<l>page_marker_book65</l>
+						<pb n="36" />
 						<l>Einzelheiten Crier's.</l>
 						<l>Die Gänse, die Helena pflegt,</l>
 						<l>Bald find fie fett und schwer;</l>
@@ -1705,18 +1529,17 @@
 						<l>Die kamen ellenlang beinah</l>
 						<l>Als Prachtgericht zu Tische.</l>
 						<l>Einst fanden sich im Krämerhaus</l>
-						<l>Wohl mehr der Gäſte ein,</l>
+						<l>Wohl mehr der Gäste ein,</l>
 						<l>Als zu dem angesagten Schmaus</l>
 						<l>Gemeldet mochten sein:</l>
 						<l>Da wußte sich des Hauses Wirth</l>
-						<l>Vor Schrecken nicht zu faſſen,</l>
+						<l>Vor Schrecken nicht zu fassen,</l>
 						<l>Helena sprach ganz unbeirrt:</l>
 						<l>Gott muß man walten lassen.</l>
-						<l>page_marker_ocr94</l>
-						<l>page_marker_book66</l>
+						<pb n="62" />
 						<l>Einzelheiten Crier's.</l>
 						<l>Es reichten, als das Mahl begann,</l>
-						<l>Die Speisen sattſam aus;</l>
+						<l>Die Speisen sattsam aus;</l>
 						<l>Und nach dem Mahl rief Mann für Mann:</l>
 						<l>Das war ein voller Schmaus!</l>
 						<l>Und schmeichelnd sprach der Wirth zur Magd</l>
@@ -1735,20 +1558,13 @@
 						<l>Er sah die schöne Maid,</l>
 						<l>Er wünschte ihr Gemahl zu sein:</l>
 						<l>Helena war bereit.</l>
-						<l>Da ward die Dienstmagd Kaiſerin</l>
+						<l>Da ward die Dienstmagd Kaiserin</l>
 						<l>Und saß auf hohem Throne,</l>
 						<l>Und trug von Gold und von Rubin</l>
 						<l>Die schönste Strahlenkrone.</l>
-						<l>page_marker_ocr95</l>
-						<l>page_marker_book67</l>
+						<pb n="88" />
 						<l>Einzelheiten Crier's.</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="25">
-				<head>noCategorie</head>
-				<div type="group" n="25">
-					<head>Einzelheiten der Stadt Trier</head>
 					<head type="sage" n="25">Der mit der Elle gemessene Wein</head>
 					<p>
 						<l>Der mit der Elle gemessene Wein.</l>
@@ -1769,8 +1585,7 @@
 						<l>Laut schmettern die Trompeten,</l>
 						<l>Man seht sich nieder in langen Reih'n</l>
 						<l>Und fängt still an zu beten.</l>
-						<l>page_marker_ocr96</l>
-						<l>page_marker_book68</l>
+						<pb n="19" />
 						<l>Einzelheiten Crier's.</l>
 						<l>Die Tafel steht in vollem Prunk,</l>
 						<l>Die Schüsseln in der Mitten,</l>
@@ -1778,7 +1593,7 @@
 						<l>Mit Förmlichkeit geschritten.</l>
 						<l>Es tritt ein blonder Junge ein,</l>
 						<l>Ein schmucker Schneidergeselle,</l>
-						<l>Auf seidenem Küffen bringt er ſein ·</l>
+						<l>Auf seidenem Küffen bringt er sein ·</l>
 						<l>Eine hohle silberne Elle.</l>
 						<l>Ein Schenke füllt die Elle an</l>
 						<l>Mit dem besten Wein vom alten,</l>
@@ -1793,8 +1608,7 @@
 						<l>Er reicht sie seinem Nebenmann,</l>
 						<l>Der Inhalt wird noch seichter.</l>
 						<l>I</l>
-						<l>page_marker_ocr97</l>
-						<l>page_marker_book69</l>
+						<pb n="42" />
 						<l>Einzelheiten Trier's.</l>
 						<l>So geht die Elle um im Kreis;</l>
 						<l>Und ist sie leer geworden,</l>
@@ -1809,12 +1623,6 @@
 						<l>Und nähten wacker immer fort</l>
 						<l>Und ließen Tuch sich messen.</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="26">
-				<head>noCategorie</head>
-				<div type="group" n="26">
-					<head>Einzelheiten der Stadt Trier</head>
 					<head type="sage" n="26">Das Marktkreuz</head>
 					<p>
 						<l>Das Marktkreuz.</l>
@@ -1825,8 +1633,7 @@
 						<l>Von goldnen Kreuzeszeichen,</l>
 						<l>Die kaum die Erd erreichen,</l>
 						<l>Verschwinden und erbleichen.</l>
-						<l>page_marker_ocr98</l>
-						<l>page_marker_book70</l>
+						<pb n="9" />
 						<l>Einzelheiten Trier's.</l>
 						<l>Die Menschen, angsterfüllt,</l>
 						<l>Beschauten starr das Bild,</l>
@@ -1843,12 +1650,6 @@
 						<l>Seitdem prangt hoch erhoben</l>
 						<l>Der Kreuze Bild dort oben.</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="27">
-				<head>noCategorie</head>
-				<div type="group" n="27">
-					<head>Einzelheiten der Stadt Trier</head>
 					<head type="sage" n="27">Die Inschrift auf der Steipe</head>
 					<p>
 						<l>Die Inschrift auf der Steipe.</l>
@@ -1856,40 +1657,27 @@
 						<l>Stand Trier, ehe Roma war,</l>
 						<l>Fort soll's besteh'n, ein ew'ger Frieden</l>
 						<l>Beglücke es: so sei's beschieden!</l>
-						<l>page_marker_ocr99</l>
-						<l>page_marker_book71</l>
+						<pb n="6" />
 						<l>Einzelheiten Trier's.</l>
 						<l>..</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="28">
-				<head>noCategorie</head>
-				<div type="group" n="28">
-					<head>Einzelheiten der Stadt Trier</head>
 					<head type="sage" n="28">Die Steine des Gymnasiums</head>
 					<p>
 						<l>Die Steine des Gymnasiums.</l>
 						<l>Steine, ihr scheint mir vom Schicksal für ewige Zeiten erkoren,</l>
-						<l>Seit das Gebirg ihr verließt, Diener der Künste zu ſein!</l>
+						<l>Seit das Gebirg ihr verließt, Diener der Künste zu sein!</l>
 						<l>Einstmals thürmtet ihr hoch den Siegesbogen der Kaiser,</l>
 						<l>Welche in blutiger Schlacht die Alamannen besiegt,</l>
 						<l>Jener Kaiser, die auch mit ruhmvoll strebender Sorgfalt</l>
 						<l>Classische Schulen gepflegt hier in der Trevirer Stadt.</l>
 						<l>Herrlich prangte der Bogen mit steingehauenen Bildern,</l>
-						<l>Bildern, der kundigen Hand Römischer Künstler entſproßt.</l>
-						<l>Jeßt, o Steine, erbaut ihr den ragenden Tempel der Künſte,</l>
+						<l>Bildern, der kundigen Hand Römischer Künstler entsproßt.</l>
+						<l>Jeßt, o Steine, erbaut ihr den ragenden Tempel der Künste,</l>
 						<l>Welche mit claffischem Geist zarte Gemüther durchglüh'n!</l>
 						<l>Steine, wenn ihr die Kraft des alten Zaubers bewahrt</l>
 						<l>habt,</l>
 						<l>Wahrlich den Tempel baut ihr als die würdigsten auf.</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="29">
-				<head>noCategorie</head>
-				<div type="group" n="29">
-					<head>Einzelheiten der Stadt Trier</head>
 					<head type="sage" n="29">Coder aureus</head>
 					<p>
 						<l>Coder aureus.</l>
@@ -1898,8 +1686,7 @@
 						<l>Enthält des Heilands hohe Wunderwerke,</l>
 						<l>Die er zum Heil der Menschen leuchten ließ.</l>
 						<l>-</l>
-						<l>page_marker_ocr100</l>
-						<l>page_marker_book72</l>
+						<pb n="7" />
 						<l>Einzelheiten Trier's.</l>
 						<l>Die Schwester Ad a ließ dies Prachtwerk schreiben,</l>
 						<l>Mit Gold verzieren und mit Glanzgestein,</l>
@@ -1907,7 +1694,7 @@
 						<l>Du schließ in dein Gebet sie gerne ein.</l>
 						<l>Ob auch ihr Bruder Karl der Große heiße,</l>
 						<l>Die Kaiserschwester wünscht sich fremd Gebet:</l>
-						<l>War sie gewesen eine arme Waiſe,</l>
+						<l>War sie gewesen eine arme Waise,</l>
 						<l>Sie hätte nie so warm darum gefleht.</l>
 						<l>-</l>
 						<l>Es war in dieses Buches Pergamente</l>
@@ -1916,15 +1703,11 @@
 						<l>Als all der Glanz, den um das Buch sie wand.</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="30">
-				<head>noCategorie</head>
-				<div type="group" n="30">
+				<div type="group" n="11">
 					<head>St. Paulin</head>
 					<head type="sage" n="30">Sendung Rictiovar's nach Trier</head>
 					<p>
-						<l>page_marker_ocr101</l>
-						<l>page_marker_book73</l>
+						<pb n="1" />
 						<l>Sendung Rictiovar's nach Trier.</l>
 						<l>In Trier war vernichtet</l>
 						<l>Das alte Heidenthum,</l>
@@ -1943,21 +1726,14 @@
 						<l>Und Mord und Blut befleckten</l>
 						<l>Bald Trier's Flur umher.</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="31">
-				<head>noCategorie</head>
-				<div type="group" n="31">
-					<head>St. Paulin</head>
 					<head type="sage" n="31">Einzug der Thebaischen Legion</head>
 					<p>
-						<l>page_marker_ocr102</l>
-						<l>page_marker_book74</l>
+						<pb n="1" />
 						<l>Einzug der Thebaischen Legion.</l>
 						<l>Des Aufruhrs Flammen glühten</l>
 						<l>Jezt auf Britanniens Strand,</l>
 						<l>Ein Kriegsheer ward beschieden</l>
-						<l>Nach jenem Inſelland.</l>
+						<l>Nach jenem Inselland.</l>
 						<l>Da zogen Rom's Kohorten</l>
 						<l>Von Oft und Süd daher,</l>
 						<l>Sie zogen nach dem Norden</l>
@@ -1970,8 +1746,7 @@
 						<l>Die Thebaïsche Legion,</l>
 						<l>Für lange Weges - Lasten</l>
 						<l>Ein wohlverdienter Lohn.</l>
-						<l>page_marker_ocr103</l>
-						<l>page_marker_book75</l>
+						<pb n="19" />
 						<l>Sie focht im Morgenlande</l>
 						<l>Schon oft mit Siegesruhm,</l>
 						<l>Die Legion bekannte</l>
@@ -1992,18 +1767,17 @@
 						<l>Die Krieger der Legion,</l>
 						<l>Sie stüßten fromm und bieder</l>
 						<l>Den kaiserlichen Thron;</l>
-						<l>Doch ihren Chriſtenglauben</l>
+						<l>Doch ihren Christenglauben</l>
 						<l>Bewahrten sie auch treu,</l>
 						<l>Ihn oder ihr Leben rauben,</l>
 						<l>Galt ihnen einerlei.</l>
-						<l>page_marker_ocr104</l>
-						<l>page_marker_book76</l>
+						<pb n="44" />
 						<l>Als nun sich Trier's Thoren</l>
 						<l>Die Thebaïschen Krieger nah'n,</l>
 						<l>Da eilen die Senatoren</l>
 						<l>Die Kommenden zu empfah'n.</l>
 						<l>Vier Bürgermeister zogen</l>
-						<l>Hinaus zum Moſelfluß,</l>
+						<l>Hinaus zum Moselfluß,</l>
 						<l>Die Krieger grüßte gewogen</l>
 						<l>Bürgermeister Palmatius.</l>
 						<l>,,Seid herzlich uns willkommen!"</l>
@@ -2024,8 +1798,7 @@
 						<l>Und tausend Blumen freuen</l>
 						<l>Die süßesten Düfte aus.</l>
 						<l>"</l>
-						<l>page_marker_ocr105</l>
-						<l>page_marker_book77</l>
+						<pb n="71" />
 						<l>Als wären Trier's Straßen</l>
 						<l>Ein langes Blumenbeet,</l>
 						<l>So war mit Blumen und Rasen</l>
@@ -2051,24 +1824,17 @@
 						<l>Die Festgebete ziehen.</l>
 						<l>Vereint zu Gott empor.</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="32">
-				<head>noCategorie</head>
-				<div type="group" n="32">
-					<head>St. Paulin</head>
 					<head type="sage" n="32">Das Kreuz</head>
 					<p>
-						<l>page_marker_ocr106</l>
-						<l>page_marker_book78</l>
+						<pb n="1" />
 						<l>Das Kreuz.</l>
 						<l>Kaum hört vom Festempfange</l>
-						<l>Der grauſe Nictiovar,</l>
+						<l>Der grause Nictiovar,</l>
 						<l>Da sträubt des Zornmuths Schlange</l>
 						<l>Ihm wild sein schwarzes Haar.</l>
-						<l>„Was wollen dieſe Chriſter?“</l>
+						<l>„Was wollen diese Christer?“</l>
 						<l>So ruft er wüthend aus,</l>
-						<l>,,Für meines Kaiſers Büsten</l>
+						<l>,,Für meines Kaisers Büsten</l>
 						<l>Blüht hier kein Blumenstrauß!</l>
 						<l>Für Rom's uralte Götter</l>
 						<l>Sind diese Christen taub:</l>
@@ -2079,8 +1845,7 @@
 						<l>Zu rufen ohne Weilen</l>
 						<l>Vor des Präfecten Thron.</l>
 						<l>-</l>
-						<l>page_marker_ocr107</l>
-						<l>page_marker_book79</l>
+						<pb n="20" />
 						<l>Es stand, nach Römersitte</l>
 						<l>Ein Siß der Richtermacht,</l>
 						<l>Frei auf des Marktes Mitte,</l>
@@ -2095,7 +1860,7 @@
 						<l>Prangt er da, reich geziert.</l>
 						<l>Die Schäße, die ihn schmücken,</l>
 						<l>Erglänzen sie noch so reich,</l>
-						<l>Er ſigt mit stieren Blicken,</l>
+						<l>Er sigt mit stieren Blicken,</l>
 						<l>Vor Rachsucht todtenbleich.</l>
 						<l>Und vor dem Throne stehen</l>
 						<l>Jeßt Thyrsus und die Schaar:</l>
@@ -2105,8 +1870,7 @@
 						<l>Sie brachten euch hieher,</l>
 						<l>Als schüßende Erretter,</l>
 						<l>Weit über Land und Meer!</l>
-						<l>page_marker_ocr108</l>
-						<l>page_marker_book80</l>
+						<pb n="45" />
 						<l>Und von den Opfergaben,</l>
 						<l>Ihr werdet davon auch</l>
 						<l>In Heiterkeit euch laben:</l>
@@ -2132,8 +1896,7 @@
 						<l>Vor den Präfecten rollte</l>
 						<l>Sein abgeschlagenes Haupt.</l>
 						<l>-</l>
-						<l>page_marker_ocr109</l>
-						<l>page_marker_book81</l>
+						<pb n="71" />
 						<l>Und über die Führer alle</l>
 						<l>Ergeht das Blutgericht,</l>
 						<l>Gepackt von des Tigers Kralle,</l>
@@ -2156,11 +1919,10 @@
 						<l>Der Thebaïschen Legion.</l>
 						<l>Nicht auf Britanniens Strande</l>
 						<l>Bestehen sie Schlacht und Noth,</l>
-						<l>Im blühenden Moſellande</l>
+						<l>Im blühenden Mosellande</l>
 						<l>Creilt sie der Martyrtod.</l>
 						<l>――</l>
-						<l>page_marker_ocr110</l>
-						<l>page_marker_book82</l>
+						<pb n="97" />
 						<l>Nußbäume streuen Schatten</l>
 						<l>Vor der Kirche von St. Paulin,</l>
 						<l>Da breiten sich grüne Matten</l>
@@ -2179,16 +1941,9 @@
 						<l>Noch Mancher des Todes Raub.</l>
 						<l>spanii väli Baba</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="33">
-				<head>noCategorie</head>
-				<div type="group" n="33">
-					<head>St. Paulin</head>
 					<head type="sage" n="33">Die vier Steine</head>
 					<p>
-						<l>page_marker_ocr111</l>
-						<l>page_marker_book83</l>
+						<pb n="1" />
 						<l>Die vier Steine.</l>
 						<l>Ein herbstlich trüber Abend</l>
 						<l>Beschattet Trier's Thal,</l>
@@ -2206,8 +1961,7 @@
 						<l>Beklagt er Anderer Loos,</l>
 						<l>Er sieht das Beil erheben,</l>
 						<l>Sieht schon die Schwerter bloß.</l>
-						<l>page_marker_ocr112</l>
-						<l>page_marker_book84</l>
+						<pb n="19" />
 						<l>Ihm blüht in voller Jugend</l>
 						<l>Ein theures Töchterlein,</l>
 						<l>Ein Musterbild von Tugend,</l>
@@ -2234,15 +1988,14 @@
 						<l>Werd ich dich wiederseh'n!</l>
 						<l>I</l>
 						<l>---</l>
-						<l>page_marker_ocr113</l>
-						<l>page_marker_book85</l>
+						<pb n="46" />
 						<l>Mein Vater, stirb gelassen!</l>
 						<l>Ich lebte christlich hier,</l>
-						<l>Ich werde mich christlich faſſen</l>
+						<l>Ich werde mich christlich fassen</l>
 						<l>Und christlich sterben mit dir.“</l>
 						<l>Sie folgt von fern den Beiden</l>
 						<l>Zu des Präfecten Thron,</l>
-						<l>Sie will von dort nicht ſcheiden,</l>
+						<l>Sie will von dort nicht scheiden,</l>
 						<l>Verachtend Tod und Hohn.</l>
 						<l>Dort nahe an dem Throne</l>
 						<l>Ragt kunstbelebt und hehr,</l>
@@ -2254,14 +2007,13 @@
 						<l>In hochgehobener Hand.</l>
 						<l>Und vor der Säule unten</l>
 						<l>Prangt festlich ein Altar,</l>
-						<l>Mit Kränzen friſchumwunden,</l>
+						<l>Mit Kränzen frischumwunden,</l>
 						<l>Dabei ein Priesterpaar.</l>
 						<l>Auf dem Altare glühte</l>
 						<l>Ein gold'ner Räucherheerd,</l>
 						<l>Der leichte Wölkchen sprühte,</l>
 						<l>Mit Weihrauchduft genährt.</l>
-						<l>page_marker_ocr114</l>
-						<l>page_marker_book86</l>
+						<pb n="71" />
 						<l>Auf seinem Throne tagend</l>
 						<l>Saß wieder Rictiovar,</l>
 						<l>Und um ihn, Beile tragend,</l>
@@ -2278,7 +2030,7 @@
 						<l>(Er droht mit seinem Zorn)</l>
 						<l>Dem Gett der Götter spenden</l>
 						<l>Des Weihrauchs duftend Kern.</l>
-						<l>Doch furchtlos widerſeßen</l>
+						<l>Doch furchtlos widerseßen</l>
 						<l>Die Vier sich dem Befehl;</l>
 						<l>Mag er die Schwerter wezen,</l>
 						<l>Sie halten's ihm nicht hehl:</l>
@@ -2286,8 +2038,7 @@
 						<l>Dünkt ihnen höchster Preis,</l>
 						<l>Sie wollen ihm erfüllen</l>
 						<l>Jed' anderes Geheiß.</l>
-						<l>page_marker_ocr115</l>
-						<l>page_marker_book87</l>
+						<pb n="96" />
 						<l>Nach dem Altare zeigend</l>
 						<l>Dreht nochmals der Tyrann,</l>
 						<l>Sie aber hören schweigend</l>
@@ -2312,8 +2063,7 @@
 						<l>Dem grausen Throne nah,</l>
 						<l>Vier scharfe Beile finken,</l>
 						<l>Vier Leichen liegen da.</l>
-						<l>page_marker_ocr116</l>
-						<l>page_marker_book88</l>
+						<pb n="121" />
 						<l>Wie blißen diese Beile</l>
 						<l>. Die arme Jungfrau an,</l>
 						<l>Die starr, wie eine Säule,</l>
@@ -2339,8 +2089,7 @@
 						<l>Er hat für mich gestritten,</l>
 						<l>Er ruft mich weg bereits!</l>
 						<l>¦</l>
-						<l>page_marker_ocr117</l>
-						<l>page_marker_book89</l>
+						<pb n="147" />
 						<l>Ich seh' in deinen Göttern</l>
 						<l>Nur eitel Trug und Stein,</l>
 						<l>Ein Bliß mag sie zerschmettern,</l>
@@ -2365,12 +2114,11 @@
 						<l>Nach einem Leichnam hin,</l>
 						<l>Und wie zum leßten Gruße</l>
 						<l>Umarmt sie knieend ihn.</l>
-						<l>page_marker_ocr118</l>
-						<l>page_marker_book90</l>
+						<pb n="172" />
 						<l>Und ihre Finger umfangen</l>
 						<l>Ein abgeschlagenes Haupt:</l>
 						<l>Wie sind die theuern Wangen</l>
-						<l>Blutrünstig und beſtaubt!</l>
+						<l>Blutrünstig und bestaubt!</l>
 						<l>Sie heftet die heißen Augen</l>
 						<l>In's starre Angesicht,</l>
 						<l>O könnte sie Leben hauchen,</l>
@@ -2392,8 +2140,7 @@
 						<l>Drum mag sie wohl noch leben</l>
 						<l>In tiefer Kerfernoth!</l>
 						<l>-</l>
-						<l>page_marker_ocr119</l>
-						<l>page_marker_book91</l>
+						<pb n="198" />
 						<l>Die Schergen ohn' Erbarmen</l>
 						<l>Vollziehen schnell das Wort,</l>
 						<l>Sie reißen mit starken Armen</l>
@@ -2409,7 +2156,7 @@
 						<l>Sie trägt ihr Haupt erhaben</l>
 						<l>Bum Himmelssonnenlicht.</l>
 						<l>Im Kerker selbst begraben,</l>
-						<l>Verzagt die Chriſtin nicht.</l>
+						<l>Verzagt die Christin nicht.</l>
 						<l>Nußbäume breiten Schatten</l>
 						<l>Vor der Kirche von St. Paulin,</l>
 						<l>Da ziehen sich grüne Matten</l>
@@ -2418,38 +2165,30 @@
 						<l>Vier Steine, rundbehau'n,</l>
 						<l>Nach Trier's alten Sagen</l>
 						<l>Als Male anzuschau'n.</l>
-						<l>page_marker_ocr120</l>
-						<l>page_marker_book92</l>
+						<pb n="223" />
 						<l>Du siehst sie nah der Säule,</l>
 						<l>Wo jener Thron einst stand;</l>
 						<l>Dort sanken die vier Beile</l>
 						<l>In der Lictoren Hand,</l>
 						<l>Dort starben die Bürgermeister</l>
 						<l>In christlichem Verein,</l>
-						<l>Dort ſizen ſie Nachts als Geiſter,</l>
+						<l>Dort sizen sie Nachts als Geister,</l>
 						<l>Ein jeder auf seinem Stein;</l>
 						<l>Sie fihen in heiligen Nächten,</l>
 						<l>Vom Nußbaumdach umlaubt,</l>
 						<l>Ein jeder hält in der Rechten</l>
 						<l>Sein abgeschlagenes Haupt;</l>
-						<l>Sie ſizen, in weiße Kleider</l>
+						<l>Sie sizen, in weiße Kleider</l>
 						<l>Die Leiber eingehüllt:</l>
 						<l>Als muthige Christusstreiter</l>
 						<l>Schmückt fte der Unschuld Bild.</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="34">
-				<head>noCategorie</head>
-				<div type="group" n="34">
-					<head>St. Paulin</head>
 					<head type="sage" n="34">Das Deckengemälde der St. Paulinskirche</head>
 					<p>
-						<l>page_marker_ocr121</l>
-						<l>page_marker_book93</l>
+						<pb n="1" />
 						<l>Das Deckengemälde der St. Paulinskirche.</l>
 						<l>Ein herbstlich trüber Abend</l>
-						<l>Beſchattet Trier's Thal,</l>
+						<l>Beschattet Trier's Thal,</l>
 						<l>In dunkle Nacht begrabend</l>
 						<l>Der Bürger Angst und Qual.</l>
 						<l>Die Sonne hat sich geborgen</l>
@@ -2457,15 +2196,14 @@
 						<l>Um an dem andern Morgen</l>
 						<l>Noch blutiger aufzugeh'n.</l>
 						<l>Die Ersten sind gefallen</l>
-						<l>Der Trierer Bürgerſchaft,</l>
+						<l>Der Trierer Bürgerschaft,</l>
 						<l>Die Jungfrau sah man wallen</l>
 						<l>Zu ihrer dunklen Haft:</l>
-						<l>Sturmvögel fliegen und ſtöhnen,</l>
+						<l>Sturmvögel fliegen und stöhnen,</l>
 						<l>Wenn Meeresstürme nah'n:</l>
 						<l>Es kündeten jene Szenen</l>
-						<l>Noch größere Drangſal an.</l>
-						<l>page_marker_ocr122</l>
-						<l>page_marker_book94</l>
+						<l>Noch größere Drangsal an.</l>
+						<pb n="19" />
 						<l>Herolde kamen eilig,</l>
 						<l>Von Rictiovar gesandt,</l>
 						<l>Sie machten laut und treulich</l>
@@ -2490,8 +2228,7 @@
 						<l>In ängstlichbanger Flucht,</l>
 						<l>Ein Theil birgt sich in Wälder,</l>
 						<l>In Berg und Thal und Schlucht.</l>
-						<l>page_marker_ocr123</l>
-						<l>page_marker_book95</l>
+						<pb n="44" />
 						<l>Die Meisten ohne Beben</l>
 						<l>Verbleiben bei Haus und Heerd,</l>
 						<l>Und harren gottergeben</l>
@@ -2516,8 +2253,7 @@
 						<l>Verschonen die Mörder jeßt,</l>
 						<l>Sie sparen sie zu den Hieben</l>
 						<l>Der Schwerter auf zuleßt.</l>
-						<l>page_marker_ocr124</l>
-						<l>page_marker_book96</l>
+						<pb n="69" />
 						<l>Doch in der Stadt die Brüder,</l>
 						<l>Sie schreckt nicht Angst noch Noth,</l>
 						<l>Sie beten, fingen Lieder</l>
@@ -2542,8 +2278,7 @@
 						<l>In mannigfachem Tod!</l>
 						<l>In langem blut'gem Streifen</l>
 						<l>Färbt sich die Mosel roth.</l>
-						<l>page_marker_ocr125</l>
-						<l>page_marker_book97</l>
+						<pb n="94" />
 						<l>Die Märtyrer-Kapelle</l>
 						<l>Bei Neumagen bezeugt,</l>
 						<l>Wie weit in grüner Welle</l>
@@ -2572,16 +2307,9 @@
 						<l>Staatsbi liothek</l>
 						<l>München</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="35">
-				<head>noCategorie</head>
-				<div type="group" n="35">
-					<head>St. Paulin</head>
 					<head type="sage" n="35">Der Engel mit dem hölzernen Beine</head>
 					<p>
-						<l>page_marker_ocr126</l>
-						<l>page_marker_book98</l>
+						<pb n="1" />
 						<l>Der Engel mit dem hölzernen Beine.</l>
 						<l>An dem hohen Deckgewölbe</l>
 						<l>In der Kirche zu Paulin</l>
@@ -2599,8 +2327,7 @@
 						<l>Alles Schöne, was da blüht,</l>
 						<l>Ist der böse Höllenkönig</l>
 						<l>Zu vernichten stets bemüht.</l>
-						<l>page_marker_ocr127</l>
-						<l>page_marker_book99</l>
+						<pb n="19" />
 						<l>Diese hehre Farbenschöpfung</l>
 						<l>Stach den Teufel wie ein Dorn,</l>
 						<l>Auf den guten, frommen Meister</l>
@@ -2621,10 +2348,9 @@
 						<l>Freundlich glänzt auch sein Gesicht,</l>
 						<l>Alles hat es, Leib und Flügel,</l>
 						<l>Nur das linke Beinlein nicht.</l>
-						<l>page_marker_ocr128</l>
-						<l>page_marker_book100</l>
+						<pb n="40" />
 						<l>In die hellen Kirchenfenster</l>
-						<l>Schien der Sonne ſpäter Strahl,</l>
+						<l>Schien der Sonne später Strahl,</l>
 						<l>Und der Künstler im Gerüste</l>
 						<l>Schwebte hoch zum leßten Mal.</l>
 						<l>Von der Hoffnung der Vollendung</l>
@@ -2638,13 +2364,12 @@
 						<l>Und es tritt der kühne Meister</l>
 						<l>An die schwanke Bretterwand,</l>
 						<l>Spähend neigt er sich hernieder</l>
-						<l>Neber des Gerüſtes Rand,</l>
+						<l>Neber des Gerüstes Rand,</l>
 						<l>Neigt sich immer tiefer, tiefer,</l>
 						<l>Da erhebt ihn eine Faust,</l>
 						<l>Ungesehen, aber fühlbar,</l>
 						<l>Daß er fallend niedersaus't.</l>
-						<l>page_marker_ocr129</l>
-						<l>page_marker_book101</l>
+						<pb n="61" />
 						<l>Und ein wicherndes Gelächter</l>
 						<l>Schallt von dem Gerüste her,</l>
 						<l>Gleich als wenn die Kirche oben</l>
@@ -2665,16 +2390,9 @@
 						<l>Unterscheiden fordert Fleiß:</l>
 						<l>So wetteiferte der Schnißer</l>
 						<l>Mit dem Maler um den Preis.</l>
-						<l>page_marker_ocr130</l>
-						<l>page_marker_book102</l>
+						<pb n="82" />
 						<l>..</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="36">
-				<head>noCategorie</head>
-				<div type="group" n="36">
-					<head>St. Paulin</head>
 					<head type="sage" n="36">Cunnet's Tod</head>
 					<p>
 						<l>Cunnet's Tod.</l>
@@ -2682,7 +2400,7 @@
 						<l>Sechs Bilder, die Sie gütigst mir</l>
 						<l>In Auftrag gaben, Fleiß und Beit</l>
 						<l>Hab ich der Arbeit gern geweiht;</l>
-						<l>Ich würde mich ganz glücklich preiſen,</l>
+						<l>Ich würde mich ganz glücklich preisen,</l>
 						<l>Wenn Sie mein Werk gelungen heißen.</l>
 						<l>,,Dies erste Bild stellt Thyrsus dar</l>
 						<l>Mit seiner todesmuth'gen Schaar;</l>
@@ -2696,8 +2414,7 @@
 						<l>Das Mailänder Concilium dar:</l>
 						<l>Paulinus wehrt als ernster Mahner</l>
 						<l>Dem Keperthum der Arianer.</l>
-						<l>page_marker_ocr131</l>
-						<l>page_marker_book103</l>
+						<pb n="20" />
 						<l>,,Da ward vom Kaiser er verbannt</l>
 						<l>Er lehrte frommen Muthes dort</l>
 						<l>Die Phryger das lebend’ge Wort:</l>
@@ -2713,7 +2430,7 @@
 						<l>Trat, also sprechend, Cunnet hin,</l>
 						<l>Indem er froh die Stirn erhellt,</l>
 						<l>Die sechs Gemälde vor ihn stellt.</l>
-						<l>Der Stiftsherr ſpäht mit scharfen Blicken,</l>
+						<l>Der Stiftsherr späht mit scharfen Blicken,</l>
 						<l>Ob sie sich auch zur Kirche schicken.</l>
 						<l>Dann spricht er:,,Meister, mit Bedacht</l>
 						<l>Habt ihr das schöne Werk vollbracht;</l>
@@ -2721,9 +2438,8 @@
 						<l>Wie sich's für unsre Kirche paßt,</l>
 						<l>Sie werden, prangend an den Wänden,</l>
 						<l>Der Kirche würd'gen Bierath spenden.</l>
-						<l>page_marker_ocr132</l>
-						<l>page_marker_book104</l>
-						<l>,,Wißt! ohne Geld iſt jezt das Stiſt,</l>
+						<pb n="44" />
+						<l>,,Wißt! ohne Geld ist jezt das Stist,</l>
 						<l>Ihr nehmt getrost nur diese Schrift,</l>
 						<l>Zeigt sie dem Abt von Marimin,</l>
 						<l>Er zahlt viertausend Gulden hin:</l>
@@ -2749,14 +2465,13 @@
 						<l>Sie quaffen lieblich ohne Gleichen.</l>
 						<l>+</l>
 						<l>R</l>
-						<l>page_marker_ocr133</l>
-						<l>page_marker_book105</l>
+						<pb n="71" />
 						<l>Der Frühling weht durch die Natur,</l>
 						<l>Schnell wandelt Cunnet durch die Flur,</l>
 						<l>Sein Herz ist leicht, sein Auge sprüht,</l>
 						<l>Im Gehen trillert er ein Lied:</l>
 						<l>Da stürzen plöglich auf den Meister</l>
-						<l>Zwei Räuber los, wie Höllengeiſter.</l>
+						<l>Zwei Räuber los, wie Höllengeister.</l>
 						<l>Sie packen ihn mit starker Faust,</l>
 						<l>Daß es dem armen Meister grauf't,</l>
 						<l>Sein Athem stockt, die Keule droht,</l>
@@ -2770,13 +2485,12 @@
 						<l>Dort hatte still das Paar gekauert</l>
 						<l>Und unserm Meister aufgelauert.</l>
 						<l>Nah an der Hecke Dorngerank,</l>
-						<l>Wo der Erschlag'ne niederſank,</l>
+						<l>Wo der Erschlag'ne niedersank,</l>
 						<l>Erhob sich bald ein Kreuz von Stein</l>
 						<l>Und glänzte in das Feld hineinz</l>
 						<l>Und Jahre kamen, Jahre schwanden,</l>
-						<l>Das Kreuz hat alle überſtanden.</l>
-						<l>page_marker_ocr134</l>
-						<l>page_marker_book106</l>
+						<l>Das Kreuz hat alle überstanden.</l>
+						<pb n="96" />
 						<l>Das Kreuz besteht noch fort und fort,</l>
 						<l>Nur mußt es andern seinen Ort:</l>
 						<l>Dicht an der Kirche von Paulin</l>
@@ -2785,15 +2499,11 @@
 						<l>Es mag dir noch von Cunnet sagen.</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="37">
-				<head>noCategorie</head>
-				<div type="group" n="37">
+				<div type="group" n="12">
 					<head>Nells Ländchen</head>
 					<head type="sage" n="37">Der Mohr</head>
 					<p>
-						<l>page_marker_ocr135</l>
-						<l>page_marker_book107</l>
+						<pb n="1" />
 						<l>Der Mohr.</l>
 						<l>Scheut nicht die bestaubte Straße!</l>
 						<l>Fernher winket die Dase</l>
@@ -2803,7 +2513,7 @@
 						<l>Ein gemüthbegeisternd Bild.</l>
 						<l>Labt euch in dem kleinen Eden</l>
 						<l>An den duft'gen Blumenbeeten,</l>
-						<l>An dem funkelnden Gemiſch;</l>
+						<l>An dem funkelnden Gemisch;</l>
 						<l>Wandelt in den Schattengängen</l>
 						<l>Unter Nachtigallgefängen,</l>
 						<l>Ruht im fühlen Waldgebüsch!</l>
@@ -2813,8 +2523,7 @@
 						<l>Steigt in die bemalten Kähne,</l>
 						<l>Rudert sanft dahin, wie Schwäne,</l>
 						<l>Von dem dichten Wald umkränzt!</l>
-						<l>page_marker_ocr136</l>
-						<l>page_marker_book108</l>
+						<pb n="21" />
 						<l>Laßt die bunten Gondeln gleiten</l>
 						<l>An Gesträuch und Trauerweiden,</l>
 						<l>An bemoos'ten Ufern hin!</l>
@@ -2829,15 +2538,11 @@
 						<l>Und noch keinen schoß er todt!</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="38">
-				<head>noCategorie</head>
-				<div type="group" n="38">
+				<div type="group" n="13">
 					<head>Pfalzel</head>
 					<head type="sage" n="38">Die Zauberstiefel</head>
 					<p>
-						<l>page_marker_ocr137</l>
-						<l>page_marker_book109</l>
+						<pb n="1" />
 						<l>Die Zauberstiefel.</l>
 						<l>Dort in Pfalzel, weitbekannt,</l>
 						<l>Stand ein Kloster, reich an Pfründen,</l>
@@ -2854,8 +2559,7 @@
 						<l>Zu dem Kloster seine Schritte,</l>
 						<l>An die fund'ge Näherin,</l>
 						<l>Ida, stellt er eine Bitte.</l>
-						<l>page_marker_ocr138</l>
-						<l>page_marker_book110</l>
+						<pb n="18" />
 						<l>Einen Mantel bringt er mit,</l>
 						<l>Reichbesezt mit Pelz und Seide,</l>
 						<l>Ida bittend, daß sie ihm</l>
@@ -2876,8 +2580,7 @@
 						<l>Wunderniedlich anzusehen:</l>
 						<l>Ower möcht in solchen nicht</l>
 						<l>Immerfort bestiefelt gehen!</l>
-						<l>page_marker_ocr139</l>
-						<l>page_marker_book111</l>
+						<pb n="39" />
 						<l>Bei dem Bischof fanden sich</l>
 						<l>Damals manche hohe Gäste:</l>
 						<l>Ritter waren eingekehrt</l>
@@ -2898,8 +2601,7 @@
 						<l>Reicht sie eiligst einem Andern,</l>
 						<l>Ueberall dieselbe Pein!</l>
 						<l>Hei! wie da die Stieflein wandern!</l>
-						<l>page_marker_ocr140</l>
-						<l>page_marker_book112</l>
+						<pb n="60" />
 						<l>Durch die hohe Geistlichkeit</l>
 						<l>Haben sie den Kreis vollendet,</l>
 						<l>Endlich einem Rittersmann</l>
@@ -2920,8 +2622,7 @@
 						<l>Wer treibt solche Höllenkünfte?</l>
 						<l>Wahrlich! diese Zauberei</l>
 						<l>Schlag ihr nimmer zum Gewinnste!</l>
-						<l>page_marker_ocr141</l>
-						<l>page_marker_book113</l>
+						<pb n="81" />
 						<l>Diese Schuldige, sie steht</l>
 						<l>Mit dem Höllengeist im Bunde!"</l>
 						<l>,,Wer ist jene Schuldige?"</l>
@@ -2945,15 +2646,11 @@
 						<l>Strenger Ordenszucht befleißen</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="39">
-				<head>noCategorie</head>
-				<div type="group" n="39">
+				<div type="group" n="14">
 					<head>Biewer</head>
 					<head type="sage" n="39">Unverhoffte Rettung</head>
 					<p>
-						<l>page_marker_ocr142</l>
-						<l>page_marker_book114</l>
+						<pb n="1" />
 						<l>Unverhoffte Rettung.</l>
 						<l>Schon Mancher nahm sich Muth und Trost</l>
 						<l>In der Kapelle von St. Jost,</l>
@@ -2962,17 +2659,16 @@
 						<l>Es war in schöner Sommerzeit,</l>
 						<l>Die Wiesen prangten weit und breit,</l>
 						<l>Durch die Gefilde Biewer's drang</l>
-						<l>Der Hämmer Schlag, der Senſen Klang.</l>
+						<l>Der Hämmer Schlag, der Sensen Klang.</l>
 						<l>Bei der St. Jost-Kapelle war</l>
 						<l>Vereint der Dorfbewohner Schaar,</l>
-						<l>Sie mähten in den nahen Wieſen</l>
-						<l>Die Gräfer, die dort reichlich ſprießen.</l>
+						<l>Sie mähten in den nahen Wiesen</l>
+						<l>Die Gräfer, die dort reichlich sprießen.</l>
 						<l>Die schwere Arbeit neßte heiß</l>
 						<l>Der Eltern Angesicht mit Schweiß,</l>
 						<l>Indeß die Kinder sorgenleer</l>
 						<l>Mit Blumen spielten um sie her.</l>
-						<l>page_marker_ocr143</l>
-						<l>page_marker_book115</l>
+						<pb n="19" />
 						<l>Nicht ferne der Kapelle stand</l>
 						<l>Ein Fels, der hoch empor sich wand,</l>
 						<l>Von grünem Mocse dicht umwoben;</l>
@@ -2984,7 +2680,7 @@
 						<l>Auch heute rief ein Knabe laut</l>
 						<l>Zu den Gespielen: „Kommt und baut</l>
 						<l>Ein Feuer, daß die hellen Flammen</l>
-						<l>Hoch schlagen an dem Fels zuſammen!"</l>
+						<l>Hoch schlagen an dem Fels zusammen!"</l>
 						<l>Der Ruf erscholl, es lief im Nu</l>
 						<l>Der Kinderschwarm dem Knaven zu,</l>
 						<l>Und jauchzend zog das kleine Heer</l>
@@ -2992,19 +2688,18 @@
 						<l>Der Kinder Lust, der Kinder Scherz</l>
 						<l>Durchbebte froh der Eltern Herz:</l>
 						<l>Wenn rustig fie die Sense führen,</l>
-						<l>So mag der Schwarm ein Feuer ſchüren.</l>
+						<l>So mag der Schwarm ein Feuer schüren.</l>
 						<l>Es währt nicht lange, da erhob</l>
-						<l>Ein Säufeln sich, die Straße ſtob;</l>
+						<l>Ein Säufeln sich, die Straße stob;</l>
 						<l>Den Himmel, der so heiter lacht,</l>
 						<l>Umflort ein schwarz Gewölk mit Nacht.</l>
-						<l>page_marker_ocr144</l>
-						<l>page_marker_book116</l>
+						<pb n="44" />
 						<l>"</l>
 						<l>Der Regen fällt in vollem Schwall,</l>
 						<l>Es folgt ein Bliß, ein Donnerhall;</l>
 						<l>Vom Blig getroffen stürzt der Felsen,</l>
 						<l>Daß splitterud weit sich Stücke wälzen.</l>
-						<l>,, Gott im Himmel!" gellt Geſchrei,</l>
+						<l>,, Gott im Himmel!" gellt Geschrei,</l>
 						<l>Man stürmt in Angst zum Fels herbei,</l>
 						<l>Man forscht am Fels und auf der Flur,</l>
 						<l>Von allen Kindern keine Spur!</l>
@@ -3022,11 +2717,10 @@
 						<l>Jezt hört an deutlich Kinderstimmen.</l>
 						<l>Und sieh! da naht der ganze Schwarm,</l>
 						<l>Mit Reisigbündlein in dem Arm.</l>
-						<l>O Gott, ſie ſind's! und keines fehlt!</l>
+						<l>O Gott, sie sind's! und keines fehlt!</l>
 						<l>Das Auge hat sie schnell gezählt.</l>
 						<l>-</l>
-						<l>page_marker_ocr145</l>
-						<l>page_marker_book117</l>
+						<pb n="71" />
 						<l>,,Der dichte Wald hat uns geschüßt,</l>
 						<l>Als es gedonnert und geblißt,</l>
 						<l>Seht! Holz genug zum Feuermachen!"</l>
@@ -3037,15 +2731,11 @@
 						<l>Wo sie in Dankgebet erglüh'n.</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="40">
-				<head>noCategorie</head>
-				<div type="group" n="40">
+				<div type="group" n="15">
 					<head>St. Marien</head>
 					<head type="sage" n="40">Die Hieronymus-Höhle</head>
 					<p>
-						<l>page_marker_ocr146</l>
-						<l>page_marker_book118</l>
+						<pb n="1" />
 						<l>Die Hieronymus-Höhle.</l>
 						<l>Gegenüber St. Marien</l>
 						<l>Dehnt sich eine Felsenwand,</l>
@@ -3065,9 +2755,8 @@
 						<l>Auch für Bücher ein Gestelle,</l>
 						<l>Fächerartig eingehau'n,</l>
 						<l>Ist am Höhlenrand zu schau’n.</l>
-						<l>page_marker_ocr147</l>
-						<l>page_marker_book119</l>
-						<l>Ueber Thal und Moſelſpiegel</l>
+						<pb n="21" />
+						<l>Ueber Thal und Moselspiegel</l>
 						<l>Fliegt aus dem gehöhlten Haus</l>
 						<l>Ungehemmt der Blick hinaus,</l>
 						<l>Unten an dem grünen Hügel</l>
@@ -3084,7 +2773,7 @@
 						<l>Kam er her zum Moselstrom</l>
 						<l>Aus dem weltberühmten Nom:</l>
 						<l>Sie, die gleiches Streben einte,</l>
-						<l>Wußten hier in hoher Gunſt</l>
+						<l>Wußten hier in hoher Gunst</l>
 						<l>Latium's und Hellas' Kunst.</l>
 						<l>Was die Dichter einst gesungen,</l>
 						<l>Was gesprochen Rednermund,</l>
@@ -3092,8 +2781,7 @@
 						<l>Beid' erglühten, herzumschlungen,</l>
 						<l>Hier für die Religion,</l>
 						<l>Für den wahren Gottessohn.</l>
-						<l>page_marker_ocr148</l>
-						<l>page_marker_book120</l>
+						<pb n="47" />
 						<l>Und der Eine von den beiden,</l>
 						<l>Nach den Sagen alter Zeit,</l>
 						<l>Suchte hier die Einsamkeit,</l>
@@ -3113,16 +2801,9 @@
 						<l>Zu der Grotte, und dein Herz</l>
 						<l>Wird gehoben himmelwärts.</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="41">
-				<head>noCategorie</head>
-				<div type="group" n="41">
-					<head>St. Marien</head>
 					<head type="sage" n="41">Friedrich Spee</head>
 					<p>
-						<l>page_marker_ocr149</l>
-						<l>page_marker_book121</l>
+						<pb n="1" />
 						<l>Friedrich Spee.</l>
 						<l>Ein schöner Frühlingsmorgen lacht</l>
 						<l>Mit wolkenloser Helle,</l>
@@ -3144,8 +2825,7 @@
 						<l>Voll heil'ger Gluth</l>
 						<l>Tritt wohlgemuth</l>
 						<l>Er jezt zur Kirchenthüre.</l>
-						<l>page_marker_ocr150</l>
-						<l>page_marker_book122</l>
+						<pb n="23" />
 						<l>Gr tritt in Gottes Welt hinaus,</l>
 						<l>Umweht von Frühlingslüften,</l>
 						<l>Die Welt ist ihm ein Gotteshaus</l>
@@ -3166,12 +2846,11 @@
 						<l>Das klingt so hehr,</l>
 						<l>Und immer mehr</l>
 						<l>Wird seine Sehnsucht rege.</l>
-						<l>page_marker_ocr151</l>
-						<l>page_marker_book123</l>
+						<pb n="44" />
 						<l>St Marien.</l>
 						<l>Spee tritt vor's Thor, der Frühling webt</l>
 						<l>In Hecken und Alleen,</l>
-						<l>Die Vöglein ſingen neubelebt</l>
+						<l>Die Vöglein singen neubelebt</l>
 						<l>Im Thale und auf Höhen.</l>
 						<l>Und Dichterlust</l>
 						<l>Schwellt ihm die Brust,</l>
@@ -3189,9 +2868,8 @@
 						<l>Hier ist er gern,</l>
 						<l>Der Welt gar fern,</l>
 						<l>Kein Pläßchen ist ihm lieber.</l>
-						<l>page_marker_ocr152</l>
-						<l>page_marker_book124</l>
-						<l>Dort rauscht vorbei der Moſelfluß</l>
+						<pb n="66" />
+						<l>Dort rauscht vorbei der Moselfluß</l>
 						<l>In lieblichem Gebrause,</l>
 						<l>Einst wohnte Hieronymus</l>
 						<l>Jenseits in einer Klause.</l>
@@ -3211,12 +2889,11 @@
 						<l>Sein Herz erglüht,</l>
 						<l>Sein Auge sprüht,</l>
 						<l>Schon fängt er an zu schreiben:</l>
-						<l>page_marker_ocr153</l>
-						<l>page_marker_book125</l>
+						<pb n="87" />
 						<l>,,In grünem Wald ich newlich saß,</l>
 						<l>Gen einer steinen klaufen;</l>
 						<l>Da kam durch zartes laub, und Graß</l>
-						<l>Ein ſanſtes Windlein ſauſen.</l>
+						<l>Ein sanstes Windlein sausen.</l>
 						<l>Ein Brünnlein klar</l>
 						<l>Beyseiten war,</l>
 						<l>So frisch, und fröhlich spriget;</l>
@@ -3233,8 +2910,7 @@
 						<l>Da gund es bald,</l>
 						<l>Auch auß dem Wald</l>
 						<l>Ach JESU deutlich sager.</l>
-						<l>page_marker_ocr154</l>
-						<l>page_marker_book126</l>
+						<pb n="108" />
 						<l>,,Gar laut es mir zun Ohren kam,</l>
 						<l>Dacht iemand war im Walde:</l>
 						<l>Michs drum nitt also wunder Nahm,</l>
@@ -3245,7 +2921,7 @@
 						<l>Alßbald in eyll,</l>
 						<l>Wie schneller pfeil</l>
 						<l>Ach JESU rieff es eben.</l>
-						<l>„Ich dacht es wurd auch iemand ſein,</l>
+						<l>„Ich dacht es wurd auch iemand sein,</l>
 						<l>Den JESU Lieb mögt brennen:</l>
 						<l>Und sprach: nun bin ichs nitt allein,</l>
 						<l>Ach mögt ich ihn dan kennen!</l>
@@ -3255,8 +2931,7 @@
 						<l>Da thats Hola?</l>
 						<l>Und schnell Werda?</l>
 						<l>Im selben ton erklingen.“</l>
-						<l>page_marker_ocr155</l>
-						<l>page_marker_book127</l>
+						<pb n="129" />
 						<l>So schreibt er zwanzig Strophen ein</l>
 						<l>In seines Täfleins Blätter,</l>
 						<l>Umlacht vom hellsten Sonnenschein,</l>
@@ -3268,24 +2943,17 @@
 						<l>Seit jenem Tag,</l>
 						<l>Dem lieben Gott zu Ehren.</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="42">
-				<head>noCategorie</head>
-				<div type="group" n="42">
-					<head>St. Marien</head>
 					<head type="sage" n="42">Der eingemauerte Mönch</head>
 					<p>
 						<l>Der eingemauerte Mönch.</l>
-						<l>Es gehet eine grauſe Mähre</l>
+						<l>Es gehet eine grause Mähre</l>
 						<l>Aus alter Zeit durch unser Land:</l>
 						<l>Bei St. Marien an der Fähre,</l>
 						<l>Wo hochgethürmt das Kloster stand,</l>
 						<l>Trat einstens aus dem Klosterther</l>
 						<l>Um Mitternacht ein Mönch hervor.</l>
-						<l>page_marker_ocr156</l>
-						<l>page_marker_book128</l>
-						<l>Ein andrer Mönch war ſein Begleiter,</l>
+						<pb n="8" />
+						<l>Ein andrer Mönch war sein Begleiter,</l>
 						<l>Der trug ein Kreuz mit schwarzem Flor;</l>
 						<l>Zwei Knechte schleppten eine Leiter,</l>
 						<l>Ein dritter hielt ein Licht empor,</l>
@@ -3309,15 +2977,11 @@
 						<l>In jener hohen Felsenwand!</l>
 						<l>Ein weißes Kreuz ward dort-erblickt,</l>
 						<l>In frischen Mörtel eingedrückt.</l>
-						<l>page_marker_ocr157</l>
-						<l>page_marker_book129</l>
+						<pb n="33" />
 						<l>Burlauben.</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="43">
-				<head>noCategorie</head>
-				<div type="group" n="43">
+				<div type="group" n="16">
 					<head>Zurlauben</head>
 					<head type="sage" n="43">Heiteres Leben</head>
 					<p>
@@ -3338,14 +3002,13 @@
 						<l>Mädchen reichen euch den Wein,</l>
 						<l>&gt; Mischt mir alle Seligkeiten</l>
 						<l>In des Moslers Gluth hinein!</l>
-						<l>page_marker_ocr158</l>
-						<l>page_marker_book130</l>
+						<pb n="18" />
 						<l>Burlauben.</l>
 						<l>Erst den Wein ins Glas gegoffen!</l>
 						<l>Ei, wie glänzt er goldig hell!</l>
 						<l>Gießt zum Weine unverdroffen</l>
 						<l>Nun den Birresborner Quell!</l>
-						<l>Wein und kühle Fluth im Glaſe!</l>
+						<l>Wein und kühle Fluth im Glase!</l>
 						<l>Zucker rührt jezt auch hinzu:</l>
 						<l>Welches Sprühen in der Nase,</l>
 						<l>Wie Das schäumt und braus't im Nu!</l>
@@ -3357,12 +3020,11 @@
 						<l>Schmecken Fische gar zu gut!</l>
 						<l>Wählt euch Karpien, Hecht, Forelle,</l>
 						<l>Wählt der Krebse rethe Brut!</l>
-						<l>Taucht die Fisch in Oel und Eſſig,</l>
+						<l>Taucht die Fisch in Oel und Essig,</l>
 						<l>Auch geback'ne schlagt nicht aus,</l>
 						<l>Schlürft mir ja den Krebs nicht lässig</l>
 						<l>Aus dem harten Schalenhaus!</l>
-						<l>page_marker_ocr159</l>
-						<l>page_marker_book131</l>
+						<pb n="40" />
 						<l>Burlauben.</l>
 						<l>Wenn die Abend - Lampen glimmen,</l>
 						<l>Trinkt ein bestes Glas zuleßt,</l>
@@ -3370,23 +3032,19 @@
 						<l>Die ihr euch zu Leib gefeßt.</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="44">
-				<head>noCategorie</head>
-				<div type="group" n="44">
+				<div type="group" n="17">
 					<head>Pallien</head>
 					<head type="sage" n="44">Die Blume des Thales</head>
 					<p>
-						<l>page_marker_ocr160</l>
-						<l>page_marker_book132</l>
+						<pb n="1" />
 						<l>Die Blume des Thales.</l>
 						<l>Pallien, freundliches Dorf an dem Moselgestade!</l>
-						<l>Schimmernd mahlst du dein Bild in der ſpiegelnden Fluth,</l>
+						<l>Schimmernd mahlst du dein Bild in der spiegelnden Fluth,</l>
 						<l>Deine Nähe te zieret die flüssigen Pfade,</l>
 						<l>Zieret die Landschaft umher, die am Herzen dir ruht.</l>
 						<l>Wie du da liegst mit deinen weißlichen Häusern,</l>
 						<l>Mit der beschieferten Dächer dunkelem Blau,</l>
-						<l>So auch lachtest du wohl der Römiſchen Kaiſern, ·</l>
+						<l>So auch lachtest du wohl der Römischen Kaisern, ·</l>
 						<l>Hingeschmiegt an den Berg in der lieblichen Au.</l>
 						<l>Nicht in des einsamen Thales ländliche Stille,</l>
 						<l>Nicht in das Dunkel der Waldschlucht bist du entrückt,</l>
@@ -3395,9 +3053,8 @@
 						<l>Zwei Heerwege beleben dich, wechselnde Szenen,</l>
 						<l>Wie sie das bunte Getriebe der Menschen erzeugt,</l>
 						<l>Fügen den Reiz der Bewegung zum Zauber des Schönen,</l>
-						<l>Den die Natur und die Kunſt freigebig dir reicht.</l>
-						<l>page_marker_ocr161</l>
-						<l>page_marker_book133</l>
+						<l>Den die Natur und die Kunst freigebig dir reicht.</l>
+						<pb n="19" />
 						<l>Bald knarrt an dir vorbei ein befrachteter Wagen,</l>
 						<l>Bald erblickst du der Schnellpost flüchtig Gespann,</l>
 						<l>Oder es schwimmt, von der schaukelnden Fähre getragen,</l>
@@ -3407,19 +3064,18 @@
 						<l>Dich begrüßen der Stromfurt rauschende Wogen,</l>
 						<l>Dich begrüßet das Eiland, weidenbepflanzt.</l>
 						<l>Fernher fesselt ein Wald von Masten die Blicke,</l>
-						<l>Neben dir mündet die ragende Eſchenallee,</l>
+						<l>Neben dir mündet die ragende Eschenallee,</l>
 						<l>Weiterhin winkt dir des Stroms achtbogige Brücke,</l>
 						<l>Unten erscheinet der Fluß ein gewundener See.</l>
 						<l>Stadt und thürmende Kirchen und Berg' und Gefilde,</l>
 						<l>Buschige Höhen und Dörfchen lachen dir zu,</l>
-						<l>Und verschmelzen mit dir zum romantiſchen Bilde:</l>
+						<l>Und verschmelzen mit dir zum romantischen Bilde:</l>
 						<l>Pallien, Blume des Trierer Thales bist du!</l>
 						<l>Sieh, wie die schroffen Sandsteinwände dich krönen,</l>
 						<l>Grüne Gefträuche behangen dein rothes Gestein,</l>
 						<l>Frösche quaken; Nachtigalllieder ertönen</l>
 						<l>Aus den Gebüschen in deine Zimmer hinein!</l>
-						<l>page_marker_ocr162</l>
-						<l>page_marker_book134</l>
+						<pb n="40" />
 						<l>Pallien</l>
 						<l>Hecken duften, Flora's blühende Kinder</l>
 						<l>Springen aus Rißen und Felsen und Bächlein heivor;</l>
@@ -3437,27 +3093,20 @@
 						<l>Prangt dir das Weißhaus mitten in üppigem Grün,</l>
 						<l>Traun! eine schönere, herrlicher duftende Krone</l>
 						<l>Könnt auf dem Haupte, o Pallien, nimmer dir blüh’n.</l>
-						<l>Mögen in anderen Flüſſen Paläſte ſich ſpiegeln,</l>
+						<l>Mögen in anderen Flüssen Paläste sich spiegeln,</l>
 						<l>Stolze Ruinen aus alter verklungener Zeit,</l>
-						<l>Deiner Mosella wird's leicht, die Ruhmſucht zu zügeln,</l>
+						<l>Deiner Mosella wird's leicht, die Ruhmsucht zu zügeln,</l>
 						<l>Da sie sich deines Gemäldes, o Pallien, freut.</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="45">
-				<head>noCategorie</head>
-				<div type="group" n="45">
-					<head>Pallien</head>
 					<head type="sage" n="45">Najaden-Tänze</head>
 					<p>
-						<l>page_marker_ocr163</l>
-						<l>page_marker_book135</l>
+						<pb n="1" />
 						<l>Najaden-Tänze.</l>
 						<l>Einstens sang der Burdigalische Sänger,</l>
 						<l>Moselbegeistert, sein Mosel feierndes Lied,</l>
 						<l>Schildernd die Reize des Stromes bald kürzer bald länger,</l>
-						<l>Wie ihm ſein fühlendes Herz bei dem Liede erglüht.</l>
-						<l>Klangvoll ſagt ſein Gesang: „Dein holdes Gestade</l>
+						<l>Wie ihm sein fühlendes Herz bei dem Liede erglüht.</l>
+						<l>Klangvoll sagt sein Gesang: „Dein holdes Gestade</l>
 						<l>Freut, o Mosella, nicht sterbliche Menschen allein,</l>
 						<l>Nein, auch Satyrn nah'n dir auf einsamem Pfade,</l>
 						<l>Nah'n dir aus Fluth und Gebirg und Wiese und Hain;</l>
@@ -3469,8 +3118,7 @@
 						<l>Niederbrennt und die Menschen vom Flusse verscheucht,</l>
 						<l>Tanzt wohl am Ufer der Satyrn und Nymphen Gewimmel</l>
 						<l>Ungesehen den Reigen flüchtig und leicht.</l>
-						<l>page_marker_ocr164</l>
-						<l>page_marker_book136</l>
+						<pb n="19" />
 						<l>,,Keck dann hüpfen die Nymphen ins Wasser hernieder,</l>
 						<l>Reißen die kunstlosen Schwimmer mit sich in die Fluth,</l>
 						<l>Diese, vor Lust zu umpfah'n der Entschlüpfenden Glieder,</l>
@@ -3487,30 +3135,25 @@
 						<l>Deckten dir damals, o Pallien, anmuthig den Strand,</l>
 						<l>Murmelnb ergoß sich im Schatten der hangenden Zweige</l>
 						<l>Stromwärts dein Gießbach, blumenumfangen den Rand.</l>
-						<l>Hier gab's kühlende Grotten, einſame Pfade</l>
+						<l>Hier gab's kühlende Grotten, einsame Pfade</l>
 						<l>Wanden sich durch das Gebüsch bis zum Fluffe hinan,</l>
 						<l>Friedliche Stille umwob dein belaubtes Gestade,</l>
 						<l>Auf den Gebüschen lag's wie ein heiliger Bann.</l>
-						<l>page_marker_ocr165</l>
-						<l>page_marker_book137</l>
+						<pb n="40" />
 						<l>Sang der Ausonische Sänger die scherzenden Chöre,</l>
 						<l>Die die Naïden und Satyrn getanzt im Verein:</l>
 						<l>Nirgends am Strome mochte der göttlichen Ehre</l>
 						<l>Werther ein Ufer, als deines, o Pallien, sein!</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="46">
-				<head>noCategorie</head>
-				<div type="group" n="46">
+				<div type="group" n="18">
 					<head>Das Weißhaus</head>
 					<head type="sage" n="46">Der Krondiamant</head>
 					<p>
-						<l>page_marker_ocr166</l>
-						<l>page_marker_book138</l>
+						<pb n="1" />
 						<l>Der Krondiamant.</l>
 						<l>Herrlich strahlet der Siß, den sich der Genius</l>
-						<l>Dieses Thales gebaut hier an Moſella's Strand:</l>
+						<l>Dieses Thales gebaut hier an Mosella's Strand:</l>
 						<l>Felsen bilden die Stufen</l>
 						<l>Seines ragenden Herrscherthrons.</l>
 						<l>Alle Blumen des Thals breiten dem Genius</l>
@@ -3522,11 +3165,10 @@
 						<l>Wo die Wälder der Verge</l>
 						<l>Wie Schmaragde fich spiegeln, wo</l>
 						<l>Rothe Felsen erglüh'n, Feuerrubinen gleich;</l>
-						<l>Weißhaus, doch du bestegst, blißend in Demantſchein</l>
+						<l>Weißhaus, doch du bestegst, blißend in Demantschein</l>
 						<l>An des Genius' Krone</l>
 						<l>All das andere Glanzgestein.</l>
-						<l>page_marker_ocr167</l>
-						<l>page_marker_book139</l>
+						<pb n="19" />
 						<l>In des schattigen Hains kühlen Umarmungen</l>
 						<l>Jauchzt die Nachtigall dir, tönt dir der Amsel Schlag;</l>
 						<l>Flora windet die schönsten,</l>
@@ -3537,15 +3179,11 @@
 						<l>Mit dem zuckenden Flammenschwert!</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="47">
-				<head>noCategorie</head>
-				<div type="group" n="47">
+				<div type="group" n="19">
 					<head>Der Kockelsberg</head>
 					<head type="sage" n="47">Hommerspläßchen</head>
 					<p>
-						<l>page_marker_ocr168</l>
-						<l>page_marker_book140</l>
+						<pb n="1" />
 						<l>Hommerspläßchen.</l>
 						<l>Will der Adler einen Raub erspähen,</l>
 						<l>Schwingt er sich hinauf zu luft'gen Höhen,</l>
@@ -3563,21 +3201,20 @@
 						<l>Wics und Gärten prangen dir entgegen.</l>
 						<l>Römerreste neben Pappelbäumen</l>
 						<l>Steigen mächtig zu des Himmels Räumen.</l>
-						<l>page_marker_ocr169</l>
-						<l>page_marker_book141</l>
+						<pb n="19" />
 						<l>Ju dem weiten Meer der Herrlichkeiten</l>
 						<l>Laß den Blick zum hohen Dome gleiten:</l>
 						<l>Wie ein Eiland ragt er dort hervor,</l>
-						<l>Grüßt mit seinen Thürmen ſtolz empor.</l>
-						<l>Aus Helena's Prachtpalast entſprungen,</l>
+						<l>Grüßt mit seinen Thürmen stolz empor.</l>
+						<l>Aus Helena's Prachtpalast entsprungen,</l>
 						<l>Steht der Dom, von altem Glanz umklungen,</l>
 						<l>Heil'ge Männer haben ihn gegründet,</l>
 						<l>Jhn, der Zeit mit Zeit harmonisch bindet.</l>
 						<l>Oben auf des Kockelsberges Spite</l>
-						<l>Locken kühle Schatten, Raſenſiße,</l>
+						<l>Locken kühle Schatten, Rasensiße,</l>
 						<l>Blumen blühen dir um Bank und Tisch,</l>
 						<l>Süße Düfte streut das Waldgebüsch.</l>
-						<l>Wandle, von der Waldesnacht umdüſtert,</l>
+						<l>Wandle, von der Waldesnacht umdüstert,</l>
 						<l>Wandle, von der Bäume Laub umflüstert,</l>
 						<l>Lenke unverweilt, so ist es Sitte,</l>
 						<l>Nach dem Hommerspläßchen deine Schritte!</l>
@@ -3589,11 +3226,10 @@
 						<l>Kam einst Bischof Hommer mit Begleitern ;</l>
 						<l>Noch war keine Bank an jenem Orte,</l>
 						<l>Stehend sprach der Greis die frommen Worte:</l>
-						<l>page_marker_ocr170</l>
-						<l>page_marker_book142</l>
+						<pb n="44" />
 						<l>,,Gott, sei gnädig diesen schönen Landen!</l>
-						<l>Seht, wir steh'n hier hoch, doch höher ſtanden</l>
-						<l>Jene, die in dieſem zweiten Rom</l>
+						<l>Seht, wir steh'n hier hoch, doch höher standen</l>
+						<l>Jene, die in diesem zweiten Rom</l>
 						<l>Einst gegründet meinen hohen Dom."</l>
 						<l>Kreuzend mit der Hand dem Thal entgegen,</l>
 						<l>Sprach er über Stadt und Land den Segen:</l>
@@ -3609,21 +3245,17 @@
 						<l>Hommerspläßchen blieb des Plages Namen.</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="48">
-				<head>noCategorie</head>
-				<div type="group" n="48">
+				<div type="group" n="20">
 					<head>Der Wasserfall</head>
 					<head type="sage" n="48">Ansicht</head>
 					<p>
-						<l>page_marker_ocr171</l>
-						<l>page_marker_book143</l>
+						<pb n="1" />
 						<l>Ansicht.</l>
 						<l>Brausend stürzt der Bach von Klipp zu Klippe</l>
 						<l>In die tiefe Felsenschlucht,</l>
 						<l>Und es schwankt das nahe Berggeftrüppe</l>
 						<l>Von des Wasserfalles Wucht.</l>
-						<l>Wie der Sturzbach unten schäumt und kreiſelt</l>
+						<l>Wie der Sturzbach unten schäumt und kreiselt</l>
 						<l>In dem See, vom Wogendrang gegeißelt!</l>
 						<l>An den Wänden ragen Felsgestalten,</l>
 						<l>Groß, wie Riesen, anzuschau'n,</l>
@@ -3637,8 +3269,7 @@
 						<l>Sich der Bach dem Ausgang naht.</l>
 						<l>Hier beneßt die Fluth mit flarem Spiegel</l>
 						<l>Sanft die grünbemoos'ten Sandsteinhügel.</l>
-						<l>page_marker_ocr172</l>
-						<l>page_marker_book144</l>
+						<pb n="21" />
 						<l>Aber in der Bergschlucht tiefstem Grunde</l>
 						<l>Rauscht der Strom mit wilder Kraft,</l>
 						<l>Es verklingt der Laut aus deinem Munde,</l>
@@ -3655,7 +3286,7 @@
 						<l>Und er fand sein frühes Grab,</l>
 						<l>Denn ein Felsstück sollte ihn entseelen,</l>
 						<l>Schmetternd brach's auf ihn herab.</l>
-						<l>Ach, ihm ward kein Grab bei ſeinen Lieben!</l>
+						<l>Ach, ihm ward kein Grab bei seinen Lieben!</l>
 						<l>Seine Leiche ist dem Berg verblieben.</l>
 						<l>Und die Geister dieser Todten halten</l>
 						<l>Nachts die Runde in der Kluft,</l>
@@ -3664,16 +3295,9 @@
 						<l>Kommt ein Wandrer Nachts an jene Orte,</l>
 						<l>Schnell enteilend spricht er Segensworte.</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="49">
-				<head>noCategorie</head>
-				<div type="group" n="49">
-					<head>Der Wasserfall</head>
 					<head type="sage" n="49">Der Fremde und das Sandmädchen</head>
 					<p>
-						<l>page_marker_ocr173</l>
-						<l>page_marker_book145</l>
+						<pb n="1" />
 						<l>Der Fremde und das Sandmädchen.</l>
 						<l>Der Fremde.</l>
 						<l>Mein Kind, du bist schon weit gegangen,</l>
@@ -3689,9 +3313,8 @@
 						<l>Und trugst ihn heim in diesem Sacke,</l>
 						<l>Beim Graben half dir jene Hacke?</l>
 						<l>Gut, wenn du bei der schweren Last</l>
-						<l>Nicht weit nach Haus zu gehen haſt.</l>
-						<l>page_marker_ocr174</l>
-						<l>page_marker_book146</l>
+						<l>Nicht weit nach Haus zu gehen hast.</l>
+						<pb n="18" />
 						<l>Das Sandmädchen.</l>
 						<l>Wir wohnen nahe, bei den Reben,</l>
 						<l>Die dort am Felsen sich erheben,</l>
@@ -3710,10 +3333,9 @@
 						<l>Der Fremde.</l>
 						<l>Du bist ein armes Kind, nur Sorgen</l>
 						<l>Beschert dir jeder neue Morgen,</l>
-						<l>Sag an, wer ſchüßt dich denn vor Noth,</l>
+						<l>Sag an, wer schüßt dich denn vor Noth,</l>
 						<l>Wie sindest du dein täglich Brod?</l>
-						<l>page_marker_ocr175</l>
-						<l>page_marker_book147</l>
+						<pb n="39" />
 						<l>Das Sandmädchen.</l>
 						<l>Ich hole Sand am Wasserfalle,</l>
 						<l>Der nährt uns sieben Kinder alle,</l>
@@ -3729,16 +3351,9 @@
 						<l>Der Sand im Grab macht alle gleich.</l>
 						<l>sh</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="50">
-				<head>noCategorie</head>
-				<div type="group" n="50">
-					<head>Der Wasserfall</head>
 					<head type="sage" n="50">Das Mühlenthal</head>
 					<p>
-						<l>page_marker_ocr176</l>
-						<l>page_marker_book148</l>
+						<pb n="1" />
 						<l>Das Mühlenthal.</l>
 						<l>(Fragment.)</l>
 						<l>Wenn in seiner Jugendpracht</l>
@@ -3751,16 +3366,15 @@
 						<l>Und Thäler hallen von Wafferfällen;</l>
 						<l>Versteckt in dichten Bäumen liegt</l>
 						<l>Manch Dörschen, an den Berg geschmiegt;</l>
-						<l>Und längs der Moſel hin, der blauen,</l>
-						<l>Sind bunte Wieſenteppiche zu schauen;</l>
+						<l>Und längs der Mosel hin, der blauen,</l>
+						<l>Sind bunte Wiesenteppiche zu schauen;</l>
 						<l>Auch malt sich in der Mosel Spiegel</l>
 						<l>So mancher grüne Rebenhügel.</l>
 						<l>Sind diese Bilder noch so anmuthreich,</l>
 						<l>Dir, o Thal, ist keines gleich</l>
 						<l>An wildem Zauber, malerischem Reiz,</l>
 						<l>Du schenkst der Landschaft eine Schweiz.</l>
-						<l>page_marker_ocr177</l>
-						<l>page_marker_book149</l>
+						<pb n="22" />
 						<l>Der Brückenbogen wölbt sich kühn</l>
 						<l>Weit über starre Felsen hin,</l>
 						<l>Von ihm herab, das Thal hinauf,</l>
@@ -3769,7 +3383,7 @@
 						<l>Gemüthbezaubernd, wie dies auserwählte?</l>
 						<l>Ein Rundbild tritt euch hier entgegen</l>
 						<l>Mit Büschen, Bäumen, Felsenwegen,</l>
-						<l>Mit Bach und Brückenſteg und Mühlen,</l>
+						<l>Mit Bach und Brückensteg und Mühlen,</l>
 						<l>Mit Rasenpläßchen, schattigfühlen,</l>
 						<l>Mit all dem bunten Blumenleben,</l>
 						<l>Mit all dem lieben Thun und Weben,</l>
@@ -3787,8 +3401,7 @@
 						<l>Die Pappel und der Nußbaum, grünbelaubt.</l>
 						<l>Hambutten, Eichen, Birken wehen</l>
 						<l>Umher auf buschbehangenen Höhen.</l>
-						<l>page_marker_ocr178</l>
-						<l>page_marker_book150</l>
+						<pb n="49" />
 						<l>Am Fuß der Felswand duftet frisch</l>
 						<l>Der Brombeern rankendes Gebüsch,</l>
 						<l>Indeß der Epheu, buntbeblättert,</l>
@@ -3799,7 +3412,7 @@
 						<l>Am sonn'gen Hügelrand empor.</l>
 						<l>Da blühet zu des Thales Preis</l>
 						<l>Der äft'ge Steinbrech, blüthenweiß;</l>
-						<l>Da pflegt das Habichtskraut beſcheiden</l>
+						<l>Da pflegt das Habichtskraut bescheiden</l>
 						<l>Sich in sein helles Gelb zu kleiden;</l>
 						<l>Die blauen Glockenblumen prangen,</l>
 						<l>Mit ihren Glöcklein reichbehangen;</l>
@@ -3815,14 +3428,13 @@
 						<l>Die dust'gen Erdbeern, reif zum Pflücken.</l>
 						<l>Am Bache trägt sein herrlich Blau</l>
 						<l>Der saft'ge Ehrenpreis zur Schau,</l>
-						<l>page_marker_ocr179</l>
-						<l>page_marker_book151</l>
+						<pb n="76" />
 						<l>Dort schwimmt im schimmernden Fluthgefunkel</l>
 						<l>Die weißgelbblüthige Ranunkel.</l>
 						<l>Den Wand'rer, der vom fernen Lande</l>
 						<l>Daherkommt zu dem Moselstrande,</l>
 						<l>Grüßt hier ein Blümlein, farbenlicht,</l>
-						<l>Es ſpricht zu ihm: „Vergiß mein nicht,</l>
+						<l>Es spricht zu ihm: „Vergiß mein nicht,</l>
 						<l>Vergiß des Thales nicht, das mich gevar,</l>
 						<l>Leb wohl und kehre über's Jahr!"</l>
 						<l>So grünt dies Thal in seiner Stille,</l>
@@ -3842,17 +3454,16 @@
 						<l>Bald legt ihn Moos an seinem Rande,</l>
 						<l>Bald Blumen in schmaragd'ne Bande,</l>
 						<l>Hier engt ihn sand'ges Felsgestein,</l>
-						<l>page_marker_ocr180</l>
-						<l>page_marker_book152</l>
+						<pb n="102" />
 						<l>Dort dämmt der Menschen Hand ihn ein.</l>
 						<l>Hier hüpfen seine muntern Wellen</l>
-						<l>Hinab in kleinen Waſſerfällen;</l>
+						<l>Hinab in kleinen Wasserfällen;</l>
 						<l>Dort wandelt er mit stillem Mund:</l>
 						<l>Vom reinsten Sande glänzt sein Grund.</l>
 						<l>Doch wo er sich der Mühle naht,</l>
-						<l>Da brauſ't er hin auf raſchem Vfað,</l>
+						<l>Da braus't er hin auf raschem Vfað,</l>
 						<l>Er stürzt lautrauschend, schäumendweiß</l>
-						<l>Sich auf der Waſſerſchaufeln Kreis;</l>
+						<l>Sich auf der Wasserschaufeln Kreis;</l>
 						<l>Der Wellbaum wälzt sich Tag und Nacht,</l>
 						<l>Gegriffen von des Schwunges Macht;</l>
 						<l>Die Räder geh'n, es schlägt das Sieb,</l>
@@ -3870,16 +3481,9 @@
 						<l>Still glänzt im hellen Mühlenbach</l>
 						<l>Der Mühle weißbestäubtes Dach,</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="51">
-				<head>noCategorie</head>
-				<div type="group" n="51">
-					<head>Der Wasserfall</head>
 					<head type="sage" n="51">Das Heinzemännchen</head>
 					<p>
-						<l>page_marker_ocr181</l>
-						<l>page_marker_book153</l>
+						<pb n="1" />
 						<l>Das Heinzemännchen.</l>
 						<l>Im Sirzenicher Walde</l>
 						<l>Klafft eine Felsenspalte,</l>
@@ -3899,8 +3503,7 @@
 						<l>Macht Sprünge grad und schief und frumm</l>
 						<l>Und plätschert in dem Bach herum,</l>
 						<l>Pflückt Erdbeern sich zum Strauß.</l>
-						<l>page_marker_ocr182</l>
-						<l>page_marker_book154</l>
+						<pb n="21" />
 						<l>Und wenn bei Sprung und Naschen</l>
 						<l>Ihn Menschen überraschen,</l>
 						<l>Entflieht er wie der Wind,</l>
@@ -3925,8 +3528,7 @@
 						<l>Das Kind gefiel dem kleinen Mann,</l>
 						<l>Er zog's mit schönen Gaben an,</l>
 						<l>Mit Silber und mit Gold.</l>
-						<l>page_marker_ocr183</l>
-						<l>page_marker_book155</l>
+						<pb n="46" />
 						<l>Einst kam das Kind alleine</l>
 						<l>Beim hellen Mondenscheine</l>
 						<l>Kuhweidend in den Hain,</l>
@@ -3941,21 +3543,17 @@
 						<l>Hat's wie ein Weiblein lieb.</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="52">
-				<head>noCategorie</head>
-				<div type="group" n="52">
+				<div type="group" n="21">
 					<head>Kaffee Wettendorf</head>
 					<head type="sage" n="52">Schlürfen</head>
 					<p>
-						<l>page_marker_ocr184</l>
-						<l>page_marker_book156</l>
+						<pb n="1" />
 						<l>Schlürfen.</l>
 						<l>Trinken macht nicht halb so selig,</l>
 						<l>Als ein Schlürfen mit Verstand,</l>
 						<l>Trinken laß ich, Schlürfen wähl ich,</l>
 						<l>Schlürfen ist ein süßer Land.</l>
-						<l>Steigt nach Wettendorfs Terraſſen,</l>
+						<l>Steigt nach Wettendorfs Terrassen,</l>
 						<l>Lacht der Lenz auf unsern Fluß,</l>
 						<l>Schlürft den Kaffe aus den Tassen</l>
 						<l>Mit Verstand und mit Genuß!</l>
@@ -3967,8 +3565,7 @@
 						<l>Mädchen, nehmt euch dort in Acht,</l>
 						<l>Schmeichler werden Weihrauch spenden,</l>
 						<l>Schlürft, o schlürft ihn mit Bedacht!</l>
-						<l>page_marker_ocr185</l>
-						<l>page_marker_book157</l>
+						<pb n="19" />
 						<l>Trinken macht nicht halb so selig,</l>
 						<l>Als ein Schlürfen mit Verstand,</l>
 						<l>Trinken laß ich, Schlürfen wähl ich,</l>
@@ -3976,15 +3573,11 @@
 						<l>A</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="53">
-				<head>noCategorie</head>
-				<div type="group" n="53">
+				<div type="group" n="22">
 					<head>Der Pulsberg</head>
 					<head type="sage" n="53">Das Metzgerskreuzchen</head>
 					<p>
-						<l>page_marker_ocr186</l>
-						<l>page_marker_book158</l>
+						<pb n="1" />
 						<l>Das Metzgerskreuzchen.</l>
 						<l>Am Moselstrand und auf der Brücke</l>
 						<l>Drängt sich das Velf erwartungsvoll:</l>
@@ -4002,17 +3595,16 @@
 						<l>Die Meßger-Dragoner in faufendem Zuge,</l>
 						<l>Sie stürmen auf stäubender Straße davon,</l>
 						<l>Bald find sie den Augen der Menge entfloh'n.</l>
-						<l>page_marker_ocr187</l>
-						<l>page_marker_book159</l>
+						<pb n="19" />
 						<l>Hoch auf des Pulsbergs Felsenhöhen</l>
 						<l>Ragt steingehau'n ein altes Kreuz,</l>
-						<l>Dort ſieht man eine Birke wehen,</l>
+						<l>Dort sieht man eine Birke wehen,</l>
 						<l>Drei Tage weht sie dort bereits.</l>
 						<l>Jezt halten die Meßger mit dampfenden Pferden</l>
 						<l>Am Fuße des Bergs, die pistolenbewehrten,</l>
 						<l>Sie grüßen das Kreuz, das von oben her winkt,</l>
 						<l>Beschießen die Birke, die neben ihm blinkt.</l>
-						<l>Und neben Kreuz und Birke ſchimmert</l>
+						<l>Und neben Kreuz und Birke schimmert</l>
 						<l>Schwarz auf dem Berg ein Wagenrad,</l>
 						<l>Aus pechgetränktem Holz gezimmert,</l>
 						<l>Schnell zündend, wenn ihm Feuer naht.</l>
@@ -4028,13 +3620,12 @@
 						<l>Die Hörner der Weber mit schmetternden Tönen,</l>
 						<l>Da schwenken die Meßger die Roffe im Kreis</l>
 						<l>Und schießen in brausendem Ritt um den Preis.</l>
-						<l>page_marker_ocr188</l>
-						<l>page_marker_book160</l>
+						<pb n="44" />
 						<l>Jest strahlt auf ein Kanonenzeichen</l>
 						<l>Das lichte Rad in Flammen auf,</l>
 						<l>Ein zweiter Schuß – die Reiter weichen,</l>
 						<l>Die Menge flieht in vollem Lauf:</l>
-						<l>Die Birke entstürzt mit des Laubes Geraſſel,</l>
+						<l>Die Birke entstürzt mit des Laubes Gerassel,</l>
 						<l>Und hinter ihr schwingt sich mit Flammengepraffel</l>
 						<l>Das Rad von den Felsen in kollerndem Foll,</l>
 						<l>Die Reiter beschießen's mit donnerndem Knall.</l>
@@ -4054,8 +3645,7 @@
 						<l>Durchziehen die Straßen im Kriegergepränge,</l>
 						<l>Sie stellen sich grüßend beim Kurfürsten ein,</l>
 						<l>Er spendet ein Fuder vom köstlichsten Wein.</l>
-						<l>page_marker_ocr189</l>
-						<l>page_marker_book161</l>
+						<pb n="69" />
 						<l>Der Lust des Tages hingegeben,</l>
 						<l>Schmaus't man im Freien ungestört,</l>
 						<l>Und auf des Fürsten langes Leben</l>
@@ -4066,15 +3656,11 @@
 						<l>Sie hätten noch länger sich jubelnd vergnügt.</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="54">
-				<head>noCategorie</head>
-				<div type="group" n="54">
+				<div type="group" n="23">
 					<head>Der Markusberg</head>
 					<head type="sage" n="54">Sonnenaufgang</head>
 					<p>
-						<l>page_marker_ocr190</l>
-						<l>page_marker_book162</l>
+						<pb n="1" />
 						<l>Sonnenaufgang.</l>
 						<l>Willkommen, schönes Markusfest!</l>
 						<l>Du kündigst Lenz und Blüthen,</l>
@@ -4083,7 +3669,7 @@
 						<l>Die Frühlingssenne wirft ihr Gold</l>
 						<l>Weit über Thal und Hügel,</l>
 						<l>Sie mahlt ihr leuchtend Antlig hold</l>
-						<l>Im blauen Moſelſpiegel.</l>
+						<l>Im blauen Moselspiegel.</l>
 						<l>Hinaus ins Freie, eh es tagt,</l>
 						<l>Hinauf zu der Kapelle,</l>
 						<l>Die auf dem Markusberge ragt</l>
@@ -4091,9 +3677,8 @@
 						<l>Hier staunt der Sonne Aufgang an,</l>
 						<l>Sie steigt, wie eine Rose,</l>
 						<l>Mit Feuerfarben angethan,</l>
-						<l>Frisch aus Aurora's Schooſe.</l>
-						<l>page_marker_ocr191</l>
-						<l>page_marker_book163</l>
+						<l>Frisch aus Aurora's Schoose.</l>
+						<pb n="19" />
 						<l>Ihr erster Strahlenbüschel trifft</l>
 						<l>Das Markus-Kirchlein oben,</l>
 						<l>Vergoldet liegt da Berg und Trift,</l>
@@ -4111,16 +3696,9 @@
 						<l>Das Kirchlein mahnt zum Frühgebet</l>
 						<l>Am festlichen Altare.</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="55">
-				<head>noCategorie</head>
-				<div type="group" n="55">
-					<head>Der Markusberg</head>
 					<head type="sage" n="55">Die Octave</head>
 					<p>
-						<l>page_marker_ocr192</l>
-						<l>page_marker_book164</l>
+						<pb n="1" />
 						<l>Die Octave.</l>
 						<l>Freundlich grüßt vom heitern Himmel</l>
 						<l>Jeßt die Frühlingssonne nieder,</l>
@@ -4138,8 +3716,7 @@
 						<l>Auf dem schmalen Bergespfad!</l>
 						<l>Immer vorwärts strebt die Menge,</l>
 						<l>Bis sie sich dem Kirchlein naht.</l>
-						<l>page_marker_ocr193</l>
-						<l>page_marker_book165</l>
+						<pb n="19" />
 						<l>Manche wandeln auf dem Gange</l>
 						<l>Betend mit dem Rosenkranze;</l>
 						<l>Knaben währt der Weg zu lange</l>
@@ -4167,8 +3744,7 @@
 						<l>"</l>
 						<l>鲞</l>
 						<l>M</l>
-						<l>page_marker_ocr194</l>
-						<l>page_marker_book166</l>
+						<pb n="47" />
 						<l>Ird'ne Töpflein, Guckguckschreier</l>
 						<l>Blinken hier und dort zum Kaufen,</l>
 						<l>Schöngestreifte Ostereier</l>
@@ -4193,8 +3769,7 @@
 						<l>Durch das duftende Gebüsch,</l>
 						<l>Korb und Tasche liefern Speise,</l>
 						<l>Und der Rasen wird zum Tisch.</l>
-						<l>page_marker_ocr195</l>
-						<l>page_marker_book167</l>
+						<pb n="72" />
 						<l>Sprudelnd fällt in die Pokale</l>
 						<l>Dort der gold'ne Maiwein nieder,</l>
 						<l>Und es schallen bei dem Mahle</l>
@@ -4204,12 +3779,6 @@
 						<l>Rufen freudig:,,Hier im Grünen,</l>
 						<l>Freunde, laßt uns Hütten bau'n!“</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="56">
-				<head>noCategorie</head>
-				<div type="group" n="56">
-					<head>Der Markusberg</head>
 					<head type="sage" n="56">Das Glöcklein</head>
 					<p>
 						<l>Das Glöcklein.</l>
@@ -4219,10 +3788,9 @@
 						<l>In Trier's grünbelaubtes Thal?</l>
 						<l>Ein Glöcklein hallt</l>
 						<l>Durch Flur und Wald,</l>
-						<l>Es hallt, wie liebliches Geſchelle,</l>
+						<l>Es hallt, wie liebliches Geschelle,</l>
 						<l>Von der St. Markusbergkapelle.</l>
-						<l>page_marker_ocr196</l>
-						<l>page_marker_book168</l>
+						<pb n="10" />
 						<l>Das Glöcklein hallt, am seil'nen Strange</l>
 						<l>Gezogen von des Klausners Hand,</l>
 						<l>Es füllt mit stillandächt'gem Klange</l>
@@ -4230,7 +3798,7 @@
 						<l>Auch nach der Stadt</l>
 						<l>Verhallt es matt:</l>
 						<l>Es mahnt mit seinen fernen Schlägen</l>
-						<l>Die Gläub'gen an den Abendſegen.</l>
+						<l>Die Gläub'gen an den Abendsegen.</l>
 						<l>Der Landmann ruht auf Flur und Wiese,</l>
 						<l>Wenn er das Abendglöcklein hört,</l>
 						<l>Der Jungfrau bringt er seine Grüße,</l>
@@ -4247,8 +3815,7 @@
 						<l>und frischen Muth</l>
 						<l>Empfängt der Mann auf seinen Wegen,</l>
 						<l>Getrost fährt er der Nacht entgegen.</l>
-						<l>page_marker_ocr197</l>
-						<l>page_marker_book169</l>
+						<pb n="35" />
 						<l>O eh'rnes Glöcklein, Himmels - Sprache,</l>
 						<l>Wie schlägst du an das fromme Herz!</l>
 						<l>Du trägst mit hohem Flügelschlage</l>
@@ -4259,15 +3826,11 @@
 						<l>Und tönt ermunternd zum Gebete!</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="57">
-				<head>noCategorie</head>
-				<div type="group" n="57">
+				<div type="group" n="24">
 					<head>Balduinshäuschen</head>
 					<head type="sage" n="57">Der Wassersalamander</head>
 					<p>
-						<l>page_marker_ocr198</l>
-						<l>page_marker_book170</l>
+						<pb n="1" />
 						<l>Der Wassersalamander.</l>
 						<l>Bischof Balduin erbaute</l>
 						<l>In der Bergschlucht sich ein Haus,</l>
@@ -4277,12 +3840,11 @@
 						<l>Gern in heit'rer Sommerzeit,</l>
 						<l>Ruhte von des Amtes Bürde</l>
 						<l>In des Berges Einsamkeit.</l>
-						<l>Manche Luſt hat er empfunden</l>
+						<l>Manche Lust hat er empfunden</l>
 						<l>Dort in lauer Lüfte Spiel,</l>
 						<l>Doch es nahten schwere Stunden,</l>
 						<l>Als der Aussaß ihn befiel.</l>
-						<l>page_marker_ocr199</l>
-						<l>page_marker_book171</l>
+						<pb n="15" />
 						<l>Sieben lange Lebensjahre</l>
 						<l>Lag er auf dem Landsiz krank,</l>
 						<l>Leiden bleichten seine Haare,</l>
@@ -4303,8 +3865,7 @@
 						<l>Ward gesund und lebensfroh;</l>
 						<l>Staunend fing er an zu fragen,</l>
 						<l>Wie so schnell die Krankheit floh.</l>
-						<l>page_marker_ocr200</l>
-						<l>page_marker_book172</l>
+						<pb n="36" />
 						<l>Und nach langem Suchen fand er,</l>
 						<l>Zu dem Kruge hingeleckt,</l>
 						<l>Einen Wassersalamander,</l>
@@ -4317,8 +3878,7 @@
 						<l>Hat der Molch in sich hinein,</l>
 						<l>Muß wohl aus des Bornes Wogen</l>
 						<l>In den Krug geschwommen sein.</l>
-						<l>page_marker_ocr201</l>
-						<l>page_marker_book173</l>
+						<pb n="49" />
 						<l>In nomine domini*)</l>
 						<l>Der Bischof Balduin war krank,</l>
 						<l>Der Leibarzt räth ihm frischen Trank</l>
@@ -4327,12 +3887,6 @@
 						<l>Der Bischof kann die Kur nicht fassen,</l>
 						<l>Doch spricht er stillgelassen:</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="58">
-				<head>noCategorie</head>
-				<div type="group" n="58">
-					<head>Balduinshäuschen</head>
 					<head type="sage" n="58">In nomine domini</head>
 					<p>
 						<l>In nomine domini.</l>
@@ -4344,8 +3898,7 @@
 						<l>Er sagte gottergeben:</l>
 						<l>In nomine domini.</l>
 						<l>*) Das heißt: In Gottes Namen.</l>
-						<l>page_marker_ocr202</l>
-						<l>page_marker_book174</l>
+						<pb n="10" />
 						<l>Ginst sigt er, wo die Quelle fließt,</l>
 						<l>Und eine gift'ge Schlange schießt.</l>
 						<l>Mit Feueraugen auf ihn hin,</l>
@@ -4362,32 +3915,25 @@
 						<l>In nomine domini.</l>
 						<l>Und endlich wirkt die Brunnenkur,</l>
 						<l>Es flieht der Krankheit leßte Spur;</l>
-						<l>Doch auch das Unglück traf ſein Haupt,</l>
+						<l>Doch auch das Unglück traf sein Haupt,</l>
 						<l>Er ward der Bischofsmacht beraubt.</l>
 						<l>Oft sprach er in des Schlosses Stille</l>
 						<l>Aus seines Herzens Fülle:</l>
 						<l>In nomine domini.</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="59">
-				<head>noCategorie</head>
-				<div type="group" n="59">
-					<head>Balduinshäuschen</head>
 					<head type="sage" n="59">Der letzte Stuart</head>
 					<p>
-						<l>page_marker_ocr203</l>
-						<l>page_marker_book175</l>
+						<pb n="1" />
 						<l>Der letzte Stuart.</l>
 						<l>Dem fühlen Schoes der Bergschlucht entrieseln muntre</l>
 						<l>Quellen,</l>
-						<l>Sie bilden traut ein Bächlein mit kleinen Waſſerfällen ;</l>
-						<l>Wo an des Verges Fuße das Waſſer niederfließt,</l>
+						<l>Sie bilden traut ein Bächlein mit kleinen Wasserfällen ;</l>
+						<l>Wo an des Verges Fuße das Wasser niederfließt,</l>
 						<l>Da wird von grünen Pappeln der laute Bach begrüßt.</l>
 						<l>Bei jenen Pappelbäumen, beim niedern Brückenstege,</l>
 						<l>Dort theilen sich des Verges, der Fluren sand'ge Wege,</l>
 						<l>Dort nahe liegt die Wiese, wo Blut die Erde trank,</l>
-						<l>We einst der leßte Stuart vom Schwert getroffen ſank.</l>
+						<l>We einst der leßte Stuart vom Schwert getroffen sank.</l>
 						<l>In jenen Schreckenstagen entflohen die Verbannten</l>
 						<l>Aus den Gefilden Frankreichs nach allen Nachbarlanden,</l>
 						<l>Auch in den Mauern Trier's fand Mancher damals Schuß,</l>
@@ -4397,9 +3943,8 @@
 						<l>Hier sahen sie der Rückkehr ins Vaterland entgegen;</l>
 						<l>Auch dessen Ahnen einstens geherrscht auf Englands Thron,</l>
 						<l>Graf Stuart war nach Trier aus Frankenland entfloh’n.</l>
-						<l>page_marker_ocr204</l>
-						<l>page_marker_book176</l>
-						<l>Einst ritten beide Prinzen, beim ſpäten Sonnenstrahle,</l>
+						<pb n="21" />
+						<l>Einst ritten beide Prinzen, beim späten Sonnenstrahle,</l>
 						<l>Umringt von trauten Freunden, nach Palliens</l>
 						<l>Mühlenthale,</l>
 						<l>Dort in dem Felsgebirge, wo wild der Gießbach floß,</l>
@@ -4416,18 +3961,17 @@
 						<l>Ich hasse die Verräther und all ihr sträflich Streben,</l>
 						<l>Ich war dem rechten Herren, dem König, stets ergeben;</l>
 						<l>Das Schwert darf ich nicht führen, mich bindet Eidespflicht,</l>
-						<l>Doch Vaudemont, mein Bruder, verſchmäht den</l>
+						<l>Doch Vaudemont, mein Bruder, verschmäht den</l>
 						<l>Zweikampf nicht."</l>
-						<l>So rufend trennten beide ſich schnell auf ihren Roſſen,</l>
-						<l>Und von den beiden Gegnern ist bald der Kampf beſchloſſen.</l>
+						<l>So rufend trennten beide sich schnell auf ihren Rossen,</l>
+						<l>Und von den beiden Gegnern ist bald der Kampf beschlossen.</l>
 						<l>Dort auf der stillen Wiese, wo sich die Bergschlucht hebt,</l>
 						<l>Dort ist's, wo Tod und Leben auf Degenspißen schwebt.</l>
 						<l>t</l>
-						<l>page_marker_ocr205</l>
-						<l>page_marker_book177</l>
-						<l>Scharfblickend, flink im Kampfe und muthig ſind ſie beide,</l>
+						<pb n="46" />
+						<l>Scharfblickend, flink im Kampfe und muthig sind sie beide,</l>
 						<l>Graf Stuart rennt dem Prinzen die Klinge in die Seite,</l>
-						<l>Daß an die blanke Pfrieme das Blut helltröpflend ſprigt,</l>
+						<l>Daß an die blanke Pfrieme das Blut helltröpflend sprigt,</l>
 						<l>Doch leicht ist nur die Wunde, die Rippe hat geschüßt.</l>
 						<l>Prinz Baudemont, verwundet, erglüht in Zorneshiße,</l>
 						<l>Stößt in den Leib des Grafen die kühngeschwung'ne Spiße,</l>
@@ -4440,15 +3984,11 @@
 						<l>Ertönt der Todtenvögel erschreckendes Geschwirr.</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="60">
-				<head>noCategorie</head>
-				<div type="group" n="60">
+				<div type="group" n="25">
 					<head>Euren</head>
 					<head type="sage" n="60">Der Helenabrunnen</head>
 					<p>
-						<l>page_marker_ocr206</l>
-						<l>page_marker_book178</l>
+						<pb n="1" />
 						<l>Der Helenabrunnen.</l>
 						<l>Im Wald von Euren sprudelt hell</l>
 						<l>Aus kühlem Felsenschoos</l>
@@ -4467,8 +4007,7 @@
 						<l>Und eine Krone hell von Gold</l>
 						<l>Ihr auf dem Haupte blißen.</l>
 						<l>་</l>
-						<l>page_marker_ocr207</l>
-						<l>page_marker_book179</l>
+						<pb n="20" />
 						<l>Curen.</l>
 						<l>Gar freundlich grüßt das schöne Bild</l>
 						<l>Und lacht den Kindern zuz</l>
@@ -4489,16 +4028,15 @@
 						<l>Vom Heil'genschein ist sie umküßt,</l>
 						<l>Hell blinkt die Krone hin,</l>
 						<l>Sie seh'n, daß es Helena ist,</l>
-						<l>Die heil'ge Kaiſerin.</l>
+						<l>Die heil'ge Kaiserin.</l>
 						<l>Neugierig eilt aus Flur und Wald</l>
 						<l>Das ganze Dorf zur Stelle,</l>
 						<l>Zu schau'n die heilige Gestalt</l>
 						<l>Im reinen Wunderquelle.</l>
-						<l>page_marker_ocr208</l>
-						<l>page_marker_book180</l>
+						<pb n="46" />
 						<l>Curen.</l>
 						<l>Und Alles will in schönerm Glanz</l>
-						<l>Die Quellumſaſſung ſchau'n</l>
+						<l>Die Quellumsassung schau'n</l>
 						<l>Und einen neuen Brunnenkranz,</l>
 						<l>Entfernt vom alten, bau'n;</l>
 						<l>Nach diesem neuen Kranze soll</l>
@@ -4507,7 +4045,7 @@
 						<l>Ein Wasserstrahl ergießen.</l>
 						<l>Bald hebt sich vor des Waldes Saum</l>
 						<l>Der neue Kranz empor,</l>
-						<l>Bald, hofft man, ſtürzt mit Silberſchaum</l>
+						<l>Bald, hofft man, stürzt mit Silberschaum</l>
 						<l>Der Wasserstrahl hervor.</l>
 						<l>Jezt leitet man zum neuen Kranz</l>
 						<l>Des alten Bornes Welle,</l>
@@ -4522,8 +4060,7 @@
 						<l>Zum Brunnenkranze betend hin,</l>
 						<l>Daß Gott das Werk beschüße.</l>
 						<l>I</l>
-						<l>page_marker_ocr209</l>
-						<l>page_marker_book181</l>
+						<pb n="73" />
 						<l>Und dreimal pilgerne im Kreis</l>
 						<l>Rund um das Kranzgestein,</l>
 						<l>Den Kranz weiht zu Helena's Preis</l>
@@ -4543,15 +4080,11 @@
 						<l>#</l>
 						<l>S</l>
 						<l>#</l>
-						<l>page_marker_ocr210</l>
-						<l>page_marker_book182</l>
+						<pb n="93" />
 						<l>Bewen.</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="61">
-				<head>noCategorie</head>
-				<div type="group" n="61">
+				<div type="group" n="26">
 					<head>Zewen</head>
 					<head type="sage" n="61">Der Steinbruch der Liebfrauenkirche</head>
 					<p>
@@ -4571,8 +4104,7 @@
 						<l>Jenes Steinbruchs Felsen auf:</l>
 						<l>Pfeiler, Mauern, Säulenknauf</l>
 						<l>Sind aus jenem Bruch gehauen.</l>
-						<l>page_marker_ocr211</l>
-						<l>page_marker_book183</l>
+						<pb n="17" />
 						<l>Bewen.</l>
 						<l>bfrauenfit</l>
 						<l>gt,</l>
@@ -4598,8 +4130,7 @@
 						<l>Der der Kirche dienen soll,</l>
 						<l>Als ein dumpf Getös' erfcholl:</l>
 						<l>Alle Werkner flieh'n mit Grauen.</l>
-						<l>page_marker_ocr212</l>
-						<l>page_marker_book184</l>
+						<pb n="43" />
 						<l>Bewen.</l>
 						<l>Vor der Felswand gähnt ein Schlund,</l>
 						<l>Aus dem Schlunde fahren Flammen z</l>
@@ -4623,15 +4154,11 @@
 						<l>Noch zu anderm Bau verwenden.</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="62">
-				<head>noCategorie</head>
-				<div type="group" n="62">
+				<div type="group" n="27">
 					<head>Igel</head>
 					<head type="sage" n="62">Das Abschiedsdenkmal</head>
 					<p>
-						<l>page_marker_ocr213</l>
-						<l>page_marker_book185</l>
+						<pb n="1" />
 						<l>Das Abschiedsdenkmal.</l>
 						<l>Helena's Eltern waren arm,</l>
 						<l>Früh litt sie manchen Lebensharm,</l>
@@ -4649,15 +4176,14 @@
 						<l>Zur kaiserlichen Majestät;</l>
 						<l>Sie, aller Kaiserinnen Blume,</l>
 						<l>Entsagte jegt dem Heidenthume.</l>
-						<l>page_marker_ocr214</l>
-						<l>page_marker_book186</l>
+						<pb n="19" />
 						<l>Sie zog mit einem großen Heer</l>
 						<l>Von Trier über Land und Meer,</l>
 						<l>Sie zog zu Schiff auf nafsen Pfaden</l>
 						<l>Hin nach Jerusalem's Gestaden.</l>
 						<l>Doch ehe sie von dannen zog</l>
 						<l>Zu fernen Landen, da bewog</l>
-						<l>Die Schwesterliebe ſie, zu rufen</l>
+						<l>Die Schwesterliebe sie, zu rufen</l>
 						<l>Die Brüder vor des Thrones Stufen.</l>
 						<l>Sie reichte Beiden Gold und Geld,</l>
 						<l>Sie sprach: „Ich ziehe in die Welt,</l>
@@ -4669,11 +4195,10 @@
 						<l>Zu Land und Meer die Waaren senden.</l>
 						<l>Und ehe sie von dannen zog</l>
 						<l>Zu fernen Landen, da bewog</l>
-						<l>Die Schwesterliebe ſie, zu bauen</l>
+						<l>Die Schwesterliebe sie, zu bauen</l>
 						<l>Den Thurm,</l>
-						<l>in Igel noch zu ſchauen.</l>
-						<l>page_marker_ocr215</l>
-						<l>page_marker_book187</l>
+						<l>in Igel noch zu schauen.</l>
+						<pb n="41" />
 						<l>Sie ließ den bilderreichen Stein</l>
 						<l>Sich und den beiden Brüdern weih'n:</l>
 						<l>Wenn sie sich nimmer wiedersehen,</l>
@@ -4696,15 +4221,11 @@
 						<l>Das Denkmal schwesterlicher Liebe.</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="63">
-				<head>noCategorie</head>
-				<div type="group" n="63">
+				<div type="group" n="28">
 					<head>Konz</head>
 					<head type="sage" n="63">Der Todtenkopf-Mantel</head>
 					<p>
-						<l>page_marker_ocr216</l>
-						<l>page_marker_book188</l>
+						<pb n="1" />
 						<l>Der Todtenkopf-Mantel.</l>
 						<l>Die Mutter spinnt beim Lampenschein</l>
 						<l>Im einsam stillen Kämmerlein,</l>
@@ -4726,8 +4247,7 @@
 						<l>Daß ich euch später Meldung thue!"</l>
 						<l>――――</l>
 						<l>屠</l>
-						<l>page_marker_ocr217</l>
-						<l>page_marker_book189</l>
+						<pb n="23" />
 						<l>Die Mutter trocknet ihm den Schweiß,</l>
 						<l>Er rinnt ihm vom Gesichte heiß,</l>
 						<l>Und an der Zimmerthüre Rand</l>
@@ -4753,8 +4273,7 @@
 						<l>Ich kam hinein nach vielem Streben:</l>
 						<l>Was ist so theuer, wie das Leben?</l>
 						<l>wax</l>
-						<l>page_marker_ocr218</l>
-						<l>page_marker_book190</l>
+						<pb n="49" />
 						<l>Im Baume denk ich ängstlich nach,</l>
 						<l>Da trifft mich stracks ein Rückenschlag,</l>
 						<l>Es blißt, ich schau beim grellen Schein</l>
@@ -4765,7 +4284,7 @@
 						<l>Der Schedel ist des Haars beraubt,</l>
 						<l>Ein Helm bedeckt das Knochenhaupt,</l>
 						<l>In Händen zückt es Schild und Speer,</l>
-						<l>Sein Panzer knarret eiſenſchwer,</l>
+						<l>Sein Panzer knarret eisenschwer,</l>
 						<l>Sein Mantel, weiß, mit goldnen Knöpfen,</l>
 						<l>War übersä't mit Todtenköpfen.</l>
 						<l>Ich stürz, erfaßt von Angst und Graus,</l>
@@ -4781,15 +4300,11 @@
 						<l>Ein Zeichen, das der Geist ihm schlug:</l>
 						<l>Auf seinem nackten Leibe waren</l>
 						<l>Fünf braune Finger zu gewahren.</l>
-						<l>page_marker_ocr219</l>
-						<l>page_marker_book191</l>
+						<pb n="76" />
 						<l>Die Karthause.</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="64">
-				<head>noCategorie</head>
-				<div type="group" n="64">
+				<div type="group" n="29">
 					<head>Karthaufe</head>
 					<head type="sage" n="64">Der verborgene Keller</head>
 					<p>
@@ -4800,7 +4315,7 @@
 						<l>Zu lassen ihr Asyl.</l>
 						<l>Was sich in Kirch und Zelle fand,</l>
 						<l>Was da beweglich war,</l>
-						<l>Das nahmen flüchtig ſie zur Hand</l>
+						<l>Das nahmen flüchtig sie zur Hand</l>
 						<l>Uud flohen die Gefahr.</l>
 						<l>Dort lag ein Keller voll von Wein,</l>
 						<l>Der Wein trug sich nicht fort,</l>
@@ -4810,15 +4325,14 @@
 						<l>Und hofft auf Wiederkehr,</l>
 						<l>Des Kellers Eingang ward verscharrt,</l>
 						<l>Man sah von ihm Nichts mehr.</l>
-						<l>page_marker_ocr220</l>
-						<l>page_marker_book192</l>
+						<pb n="18" />
 						<l>Doch ach! die Zeiten waren arg,</l>
 						<l>Man kehrte nicht zurück,</l>
 						<l>Der Keller, der den Wein verbarg,</l>
 						<l>Er floh der Menschen Blick.</l>
 						<l>Da liegt der Keller noch mit Wein,</l>
 						<l>Er liegt vergraben dort,</l>
-						<l>An hundert Fuder mögen's ſein,</l>
+						<l>An hundert Fuder mögen's sein,</l>
 						<l>Owüßten wir den Ort!</l>
 						<l>Gar Mancher hielt schon Nacht und Tag</l>
 						<l>Den Spaten in der Hand,</l>
@@ -4834,17 +4348,13 @@
 						<l>Ihn krönt des Glückes Gunst.</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="65">
-				<head>noCategorie</head>
-				<div type="group" n="65">
+				<div type="group" n="30">
 					<head>St. Medard</head>
 					<head type="sage" n="65">Das gerettete Kind</head>
 					<p>
-						<l>page_marker_ocr221</l>
-						<l>page_marker_book193</l>
+						<pb n="1" />
 						<l>Das gerettete Kind.</l>
-						<l>Bei St. Medard mitten im Moſelfluß,</l>
+						<l>Bei St. Medard mitten im Moselfluß,</l>
 						<l>Im Strome der rauschenden Wogen,</l>
 						<l>Stand die Mühle des Müllers Laurentius,</l>
 						<l>Von weißem Gitter umzogen.</l>
@@ -4856,18 +4366,17 @@
 						<l>Die Saat in gedeihlicher Güte,</l>
 						<l>Laurentius lebte da sorgenleer,</l>
 						<l>Sein Mühlengewerbe blühte.</l>
-						<l>Das Mühlrad, gerafft von des Waſſers Macht,</l>
+						<l>Das Mühlrad, gerafft von des Wassers Macht,</l>
 						<l>Dreht sich lustigen Schwunges Tag und Nacht;</l>
 						<l>Der Müller pflegte mit frommem Vertrauen</l>
 						<l>Auf den heil'gen Apostel zu bauen.</l>
-						<l>page_marker_ocr222</l>
-						<l>page_marker_book194</l>
+						<pb n="19" />
 						<l>Doch wie es am heitern Sommertag</l>
 						<l>Wohl donnert im Augenblicke,</l>
 						<l>So drohte dem Müller ein Schicksalsschlag</l>
 						<l>Urplößlich im heitersten Glücke.</l>
 						<l>Ein Knäblein hat er, ein einziges Kind,</l>
-						<l>Dem eben drei Sommer verfloſſen find,</l>
+						<l>Dem eben drei Sommer verflossen find,</l>
 						<l>Das will der Fluß mit gierigem Munde</l>
 						<l>Ihm rauben in finsterer Stunde.</l>
 						<l>Einst fuhr er im Nachen vom grünen Strand</l>
@@ -4886,15 +4395,14 @@
 						<l>Befiehlt dort Manches mit ordnendem Wort:</l>
 						<l>Ihm dienen der rüstigen Knechte viele</l>
 						<l>In der räderdurchklapperten Mühle.</l>
-						<l>page_marker_ocr223</l>
-						<l>page_marker_book195</l>
+						<pb n="44" />
 						<l>Jezt hat er Nichts zu bestellen mehr,</l>
 						<l>Er eilt zurück zu dem Knaben,</l>
 						<l>Barmherziger Gott! der Kahn ist leer,</l>
 						<l>Das Kind in den Fluthen begraben!</l>
 						<l>Des Müllers Gesicht wird leichenweiß,</l>
 						<l>Die Angst befällt ihn kalt, wie Eis.</l>
-						<l>,,Wer wird mein liebes Kind mir beſchirmen!?"</l>
+						<l>,,Wer wird mein liebes Kind mir beschirmen!?"</l>
 						<l>Da schweift sein Blick zu den Thürmen.</l>
 						<l>-</l>
 						<l>-</l>
@@ -4917,15 +4425,11 @@
 						<l>Die zürnend am Ufer zerschellen.</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="66">
-				<head>noCategorie</head>
-				<div type="group" n="66">
+				<div type="group" n="31">
 					<head>St. Matheis</head>
 					<head type="sage" n="66">Medardin von Rottenfelt</head>
 					<p>
-						<l>page_marker_ocr224</l>
-						<l>page_marker_book196</l>
+						<pb n="1" />
 						<l>Medardin von Rottenfelt.</l>
 						<l>Das Mahl im Klostersaale,</l>
 						<l>Es schimmert Silber dort und Gold,</l>
@@ -4946,8 +4450,7 @@
 						<l>Karl Dickopp war der Bursch genannt,</l>
 						<l>Er war dem Koche stets zur Hand</l>
 						<l>Mit flüchtig munterm Sprunge.</l>
-						<l>page_marker_ocr225</l>
-						<l>page_marker_book197</l>
+						<pb n="22" />
 						<l>Es mußte bald der Knabe fort</l>
 						<l>Troy Unschuld, Fleiß und Weinen,</l>
 						<l>Man mißte in der Küche dort</l>
@@ -4968,9 +4471,8 @@
 						<l>Da wankt ganz unten aus dem Kreis</l>
 						<l>Ein Pater her, ein schwacher Greis,</l>
 						<l>Ein Mann von neunzig Jahren.</l>
-						<l>page_marker_ocr226</l>
-						<l>page_marker_book198</l>
-						<l>Sein Aug war thränenfeucht, er ſprach:</l>
+						<pb n="43" />
+						<l>Sein Aug war thränenfeucht, er sprach:</l>
 						<l>Ich sah die Leidgeschichte,</l>
 						<l>Ich sah den unglücksel❜gen Tag</l>
 						<l>Mit seinem Strafgerichte,</l>
@@ -4990,8 +4492,7 @@
 						<l>Es auszuspäh'n durch Wald und Flur,</l>
 						<l>Doch niemals ist die fernste Spur</l>
 						<l>Von Nachricht uns geworden.“</l>
-						<l>page_marker_ocr227</l>
-						<l>page_marker_book199</l>
+						<pb n="64" />
 						<l>,,Der Knabe</l>
 						<l>War weit nach Wien gezogen,</l>
 						<l>Dort traf er wehlerhalten ein,</l>
@@ -5014,8 +4515,7 @@
 						<l>Und ist als Gast mit greisem Haar</l>
 						<l>Jezt hier beim frohen Mahle.</l>
 						<l>-</l>
-						<l>page_marker_ocr228</l>
-						<l>page_marker_book200</l>
+						<pb n="87" />
 						<l>So folgt dem Mißgeschick der Lohn,</l>
 						<l>Wie Sonnenschein dem Blize!"</l>
 						<l>Kaum ist das Wort dem Gast entfloh'n,</l>
@@ -5027,12 +4527,6 @@
 						<l>Und manche stille Thräne rann</l>
 						<l>Im Mitgefühl der Freude.</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="67">
-				<head>noCategorie</head>
-				<div type="group" n="67">
-					<head>St. Matheis</head>
 					<head type="sage" n="67">Alte Inschrift</head>
 					<p>
 						<l>Alte Inschrift.</l>
@@ -5049,42 +4543,34 @@
 						<l>Von Rom zu Trier komen.</l>
 						<l>Euc. Val. Mat.</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="68">
-				<head>noCategorie</head>
-				<div type="group" n="68">
-					<head>St. Matheis</head>
 					<head type="sage" n="68">Der Matheiser Sauerbrunnen</head>
 					<p>
-						<l>page_marker_ocr229</l>
-						<l>page_marker_book201</l>
+						<pb n="1" />
 						<l>Der Matheiser Sauerbrunnen.</l>
 						<l>Lied.</l>
 						<l>Ein Kranz von Steinen in der blum'gen Wiese</l>
-						<l>Grüßt freundlich da, als Quellumfaſſer.</l>
+						<l>Grüßt freundlich da, als Quellumfasser.</l>
 						<l>Was rieselt fern und nah</l>
 						<l>Für eine Quelle da?</l>
 						<l>Sauerwaffer, Sauerwaffer.</l>
 						<l>O trinkt aus dieser Wasserquelle!</l>
 						<l>Gar wirksam ist für alle Fälle</l>
-						<l>Sauerwaffer, Sauerwaſſer.</l>
+						<l>Sauerwaffer, Sauerwasser.</l>
 						<l>Am Morgen kommt ein Herr dahin gegangen,</l>
 						<l>Ein mackelfüßiger, ein blaffer.</l>
 						<l>Er schöpft mit einem Glas,</l>
 						<l>Er schlürft und schlürft und Was?</l>
 						<l>Sauerwaffer, Sauerwaffer.</l>
 						<l>Er hat den Magen überladen,</l>
-						<l>Ihm wird kuriren dieſen Schaden</l>
+						<l>Ihm wird kuriren diesen Schaden</l>
 						<l>Sauerwaffer, Sauerwaffer.</l>
-						<l>page_marker_ocr230</l>
-						<l>page_marker_book202</l>
+						<pb n="20" />
 						<l>Am Mittag kommt ein Herr dahin gegangen,</l>
 						<l>Ein flaumenbärtiger, ein laffer.</l>
 						<l>Er schlürft und schlürft mit Wuth,</l>
 						<l>Was schmeckt ihm denn so gut?</l>
 						<l>Sauerwaffer, Sauerwaffer.</l>
-						<l>Er fühlt ſich laß zu den Geſchäften,</l>
+						<l>Er fühlt sich laß zu den Geschäften,</l>
 						<l>Ihn rüstet aus mit neuen Kräften</l>
 						<l>Sauerwasser, Sauerwasser.</l>
 						<l>Am Abend kommt ein Herr dahin gegangen,</l>
@@ -5099,12 +4585,11 @@
 						<l>Ein Sonderling, ein Rebenhaffer.</l>
 						<l>Voll Scham trinkt er bei Nacht,</l>
 						<l>Was trinkt er denn mit Macht?</l>
-						<l>Sauerwasser, Sauerwaſſer.</l>
+						<l>Sauerwasser, Sauerwasser.</l>
 						<l>Den Wein, ach! kann er nicht vertragen,</l>
 						<l>Ihm kißelt den verwöhnten Magen</l>
 						<l>Sauerwasser, Sauerwaffer.</l>
-						<l>page_marker_ocr231</l>
-						<l>page_marker_book203</l>
+						<pb n="45" />
 						<l>Doch sauer Wasser ist kein Sauerwasser!</l>
 						<l>Einst kam ein Herbst, ein warmer, naffer,</l>
 						<l>Er brachte guten Wein,</l>
@@ -5114,12 +4599,6 @@
 						<l>Wär's noch gewesen von dem echten</l>
 						<l>Sauerwaffer, Sauerwasser.</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="69">
-				<head>noCategorie</head>
-				<div type="group" n="69">
-					<head>St. Matheis</head>
 					<head type="sage" n="69">Die Forsthütte</head>
 					<p>
 						<l>Die Forsthütte.</l>
@@ -5131,8 +4610,7 @@
 						<l>Schon lange auf dem Tische,</l>
 						<l>Er ist dabei, die Faust geballt,</l>
 						<l>Und starrt ins Waldgebüsche.</l>
-						<l>page_marker_ocr232</l>
-						<l>page_marker_book204</l>
+						<pb n="10" />
 						<l>Er kann nicht seiner Augen Strahl</l>
 						<l>Am schönen Anblick weiden:</l>
 						<l>Ihm lacht nicht Dorf und Stadt und Thal,</l>
@@ -5145,16 +4623,15 @@
 						<l>Der Gattin zu dem Abendschmaus</l>
 						<l>Ein Häslein fest versprochen.</l>
 						<l>Der Jagdhund und der gute Mann,</l>
-						<l>Sie jagten unverdroſſen,</l>
+						<l>Sie jagten unverdrossen,</l>
 						<l>Auch liefen ihm zwei Häslein an:</l>
 						<l>Er hat vorbeigeschossen!</l>
 						<l>Des Weidmanns Ehre steht im Spiel,</l>
 						<l>Die Gattin wird ihn höhnen,</l>
-						<l>Ach! ſie empfängt ihn sicher fühl,</l>
+						<l>Ach! sie empfängt ihn sicher fühl,</l>
 						<l>Wie soll er sie versöhnen?</l>
-						<l>page_marker_ocr233</l>
-						<l>page_marker_book205</l>
-						<l>Das ist des Kummers ſpiger Keil,</l>
+						<pb n="30" />
+						<l>Das ist des Kummers spiger Keil,</l>
 						<l>Es drängt ihn ohne Maßen.</l>
 						<l>Still!</l>
 						<l>-</l>
@@ -5167,15 +4644,11 @@
 						<l>―――</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="70">
-				<head>noCategorie</head>
-				<div type="group" n="70">
+				<div type="group" n="32">
 					<head>Heiligkreuz</head>
 					<head type="sage" n="70">Siko</head>
 					<p>
-						<l>page_marker_ocr234</l>
-						<l>page_marker_book206</l>
+						<pb n="1" />
 						<l>Siko.</l>
 						<l>Wo jezt auf jenem Berg erhöht</l>
 						<l>Die Heiligkreuzkapelle steht,</l>
@@ -5193,8 +4666,7 @@
 						<l>Kommt streifend her und flieht davon</l>
 						<l>Und birgt sich hinter seinen Mauern,</l>
 						<l>Um wieder auf den Raub zu lauern.</l>
-						<l>page_marker_ocr235</l>
-						<l>page_marker_book207</l>
+						<pb n="19" />
 						<l>Der Bischof rief einst fummerheiß</l>
 						<l>In seiner treuen Ritter Kreis:</l>
 						<l>,,Soll ewig denn von jenen Thürmen</l>
@@ -5214,15 +4686,14 @@
 						<l>Zum Schloß Adalbero's hinan</l>
 						<l>Zog Sifo bald als Wandersmann</l>
 						<l>An einem schwülen Sommertage:</l>
-						<l>Er denkt an seines Biſchofs Klage.</l>
+						<l>Er denkt an seines Bischofs Klage.</l>
 						<l>Jezt flopst er an des Schlosses Thor,</l>
 						<l>Ein alter Diener tritt hervor.</l>
 						<l>„Geh, laß aus deines Herren Händen</l>
 						<l>Den kühlen Vecher Wein mir spenden!"</l>
 						<l>S</l>
 						<l>"</l>
-						<l>page_marker_ocr236</l>
-						<l>page_marker_book208</l>
+						<pb n="46" />
 						<l>Der Diener geht und bringt den Wein,</l>
 						<l>Der Wand'rer schlürft ihn gierig ein</l>
 						<l>Und spricht gar herzlich zu dem Schenken:</l>
@@ -5237,7 +4708,7 @@
 						<l>Mit fester Leinwand sie umwinden</l>
 						<l>Und Seilwerk in die Kreuz und Quer</l>
 						<l>Darübersträmmen ringsumher;</l>
-						<l>Doch liegt in jedes Faſſes Gitter</l>
+						<l>Doch liegt in jedes Fasses Gitter</l>
 						<l>Statt duft'gen Weins ein muth'ger Nitter.</l>
 						<l>Die Faßgeborg'nen sind bewehrt</l>
 						<l>Mit Panzerhemd und Schild und Schwert;</l>
@@ -5247,8 +4718,7 @@
 						<l>Darunter hängt ein Schwert bereit:</l>
 						<l>Je zwei bestimmt, ein Faß zu tragen</l>
 						<l>Und frisch den Strauß mit ihm zu wagen.</l>
-						<l>page_marker_ocr237</l>
-						<l>page_marker_book209</l>
+						<pb n="71" />
 						<l>Die Sonne schien zum zweiten Mal-</l>
 						<l>Seit Siko's Trank- ins Moselthal:</l>
 						<l>Da schreitet er mit Faß und Mannen</l>
@@ -5273,8 +4743,7 @@
 						<l>Die Fässerträger blank das Schwert,</l>
 						<l>Adalbero will schnell entweichen,</l>
 						<l>Todt fällt er von den ersten Streichen.</l>
-						<l>page_marker_ocr238</l>
-						<l>page_marker_book210</l>
+						<pb n="96" />
 						<l>Die Knechte trifft ein gleiches Loos,</l>
 						<l>Es sinkt die Burg Adalbero's.</l>
 						<l>Wo hochbethürmt sie einst ergraute</l>
@@ -5285,15 +4754,11 @@
 						<l>Klang noch von Siko's List die Kunde.</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="71">
-				<head>noCategorie</head>
-				<div type="group" n="71">
+				<div type="group" n="33">
 					<head>Die Seufzerallee</head>
 					<head type="sage" n="71">Spaziergang</head>
 					<p>
-						<l>page_marker_ocr239</l>
-						<l>page_marker_book211</l>
+						<pb n="1" />
 						<l>Spaziergang.</l>
 						<l>Da zieht sich ein Weg am Bache,</l>
 						<l>Wo Pappeln und Weiden blüh'n:</l>
@@ -5311,8 +4776,7 @@
 						<l>In des Baches murmelnden Klang z</l>
 						<l>An seinen Ufern verschönen</l>
 						<l>Weinberge und Gärten den Gang.</l>
-						<l>page_marker_ocr240</l>
-						<l>page_marker_book212</l>
+						<pb n="19" />
 						<l>Es summen Käfer und Bienen</l>
 						<l>Von der nahen Wiese daher;</l>
 						<l>Das Auge labt sich am Grünen,</l>
@@ -5335,15 +4799,11 @@
 						<l>Sich Trest in der stillen Allee.</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="72">
-				<head>noCategorie</head>
-				<div type="group" n="72">
+				<div type="group" n="34">
 					<head>Die Olewig</head>
 					<head type="sage" n="72">Der Name Olewig</head>
 					<p>
-						<l>page_marker_ocr241</l>
-						<l>page_marker_book213</l>
+						<pb n="1" />
 						<l>Der Name Olewig.</l>
 						<l>Eucharius kam zum Moselstrand,</l>
 						<l>Vom heil'gen Petrus ausgesandt,</l>
@@ -5364,8 +4824,7 @@
 						<l>Gar Manche kamen voll Verlangen,</l>
 						<l>Die heil'ge Taufe zu empfangen:</l>
 						<l>Er taufte Alle, so da kamen,</l>
-						<l>page_marker_ocr242</l>
-						<l>page_marker_book214</l>
+						<pb n="22" />
 						<l>In des dreiein'gen Gottes Namen.</l>
 						<l>Die Menge wuchs mit jedem Tag,</l>
 						<l>Se, daß Taufwasser ihm gebrach:</l>
@@ -5376,11 +4835,11 @@
 						<l>Da hebt er fromm in dem Gewimmel</l>
 						<l>Den Blick empor zu Gottes Himmel</l>
 						<l>Und denkt: „, Gott, verleih ein Zeichen,</l>
-						<l>Daß noch mehr Herzen ſich erweichen,</l>
+						<l>Daß noch mehr Herzen sich erweichen,</l>
 						<l>Ohalte deine Macht nicht hehl!”</l>
 						<l>Und sieh! es floß der Bach voll Del,</l>
 						<l>Zum Schöpfen in dem Dele schwamm</l>
-						<l>Ein goldnes Schüfflein wunderſam.</l>
+						<l>Ein goldnes Schüfflein wundersam.</l>
 						<l>Am Baches- Ufer weit hinunter</l>
 						<l>Staunt Jeder starrend an das Wunder.</l>
 						<l>Die heil'ge Taufe zu empfah'n,</l>
@@ -5393,23 +4852,16 @@
 						<l>Gelegen an des Baches Rand.</l>
 						<l>―</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="73">
-				<head>noCategorie</head>
-				<div type="group" n="73">
-					<head>Die Olewig</head>
 					<head type="sage" n="73">Ländliche Bilder</head>
 					<p>
-						<l>page_marker_ocr243</l>
-						<l>page_marker_book215</l>
+						<pb n="1" />
 						<l>Ländliche Bilder.</l>
 						<l>Wollt ihr entflieh'n dem Stadtgewühle,</l>
 						<l>So zieht nach der Olewig hin,</l>
 						<l>. Dert, wo sich schwingt das Rad der Mühle,</l>
 						<l>Dort führt ein Pfad ins Wiesengrün.</l>
 						<l>Noch pocht die Mühl an eurer Seite,</l>
-						<l>Beſchaut euch hier das Bienenhaus,</l>
+						<l>Beschaut euch hier das Bienenhaus,</l>
 						<l>Die Bienen summen in die Weite,</l>
 						<l>Auf die beblümte Flur hinaus.</l>
 						<l>Nun lacht der Berg, bepflanzt mit Reben,</l>
@@ -5421,8 +4873,7 @@
 						<l>Von Bach und Wiese hold umfangen,</l>
 						<l>Laßt eure Blicke schweifen frei!</l>
 						<l>―</l>
-						<l>page_marker_ocr244</l>
-						<l>page_marker_book216</l>
+						<pb n="20" />
 						<l>Euch winkt das Dörfchen zwischen Bäumen,</l>
 						<l>Zu freundlichem Empfang bereit,</l>
 						<l>Da läßt sich sel❜ge Zeit verträumen</l>
@@ -5433,7 +4884,7 @@
 						<l>Steigt hell der Schieferdächer Blau.</l>
 						<l>Schornsteine wirbeln zu den Lüften</l>
 						<l>Rauchwölkchen aus dem Dorf empor;</l>
-						<l>Dorſjugend ſpielt auf nahen Triften,</l>
+						<l>Dorsjugend spielt auf nahen Triften,</l>
 						<l>Und rings erschallt der Vögel Chor.</l>
 						<l>Das Dorf umkränzen Berge, Felder,</l>
 						<l>Landhäuschen, Gärten buntgestreift,</l>
@@ -5444,12 +4895,11 @@
 						<l>wandelt durch das Thalgefilde,</l>
 						<l>Wo Alles stillen Zauber hegt!</l>
 						<l>Zieht ein ins Dorf und seht die Häuser</l>
-						<l>Mit ihren engen Fenſterlein;</l>
+						<l>Mit ihren engen Fensterlein;</l>
 						<l>Im Schoppen liegen Stroh und Reiser,</l>
 						<l>Und Wäsche hängt im Sonnenschein.</l>
 						<l>&lt;</l>
-						<l>page_marker_ocr245</l>
-						<l>page_marker_book217</l>
+						<pb n="46" />
 						<l>Die Daube dörrt im Holzbehälter,</l>
 						<l>Ein Trepplein führt zum Hühnerstall;</l>
 						<l>Die Winzer bau'n an Faß und Kelter:</l>
@@ -5474,8 +4924,7 @@
 						<l>Das Perlhuhn gackert auf dem Heu;</l>
 						<l>Hier winden Kinder Blumenkränze,</l>
 						<l>Dort bringt der Knecht den Rindern Streu.</l>
-						<l>page_marker_ocr246</l>
-						<l>page_marker_book218</l>
+						<pb n="71" />
 						<l>Clewig.</l>
 						<l>Ein Mütterchen führt an der Leine</l>
 						<l>Behutsam ihre einz'ge Kuh,</l>
@@ -5493,26 +4942,19 @@
 						<l>Da steht auf den beblümten Matten</l>
 						<l>Einladend Tisch an Tisch gereiht,</l>
 						<l>Da lebt sich gut im Eichenschatten</l>
-						<l>In traulicher Geſelligkeit.</l>
+						<l>In traulicher Geselligkeit.</l>
 						<l>wäre mir ein Wunsch geblieben!</l>
 						<l>Ich wünschte mir als Lebenspreis,</l>
 						<l>Umringt vom Kreise meiner Lieben,</l>
 						<l>Dort, dort zu sterben einst als Greis:</l>
 						<l>Ein Landfiß, ruhig, klein, bescheiden,</l>
-						<l>Ein Landſß im Olew’ger Thal,</l>
+						<l>Ein Landsß im Olew’ger Thal,</l>
 						<l>Wär mir ein Füllhorn aller Freuden</l>
 						<l>In meines Lebens Abendstrahl.</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="74">
-				<head>noCategorie</head>
-				<div type="group" n="74">
-					<head>Die Olewig</head>
 					<head type="sage" n="74">Sauere Milch</head>
 					<p>
-						<l>page_marker_ocr247</l>
-						<l>page_marker_book219</l>
+						<pb n="1" />
 						<l>Sauere Milch.</l>
 						<l>In der Olewig auf blumiger Wiese,</l>
 						<l>Wo Tisch an Tisch sich reiht,</l>
@@ -5531,8 +4973,7 @@
 						<l>Das spielt und schlägt mit einem Rüthchen,</l>
 						<l>Wie sehr auch die Wärterin grollt.</l>
 						<l>en</l>
-						<l>page_marker_ocr248</l>
-						<l>page_marker_book220</l>
+						<pb n="20" />
 						<l>,,Frau Wirthin! ruft der altste der Knaben</l>
 						<l>Ein Topf voll Milch für uns Vier!</l>
 						<l>Kaneel und Zucker und Milchbrod haben</l>
@@ -5557,8 +4998,7 @@
 						<l>―</l>
 						<l>noch ist der Topf der Molken</l>
 						<l>--</l>
-						<l>page_marker_ocr249</l>
-						<l>page_marker_book221</l>
+						<pb n="45" />
 						<l>Der Löffel Takt, der Löffel Geklirre</l>
 						<l>Steigt dem jüngsten Knaben zu Ohr,</l>
 						<l>Noch einmal greift er ins Milchgeschirre,</l>
@@ -5579,17 +5019,13 @@
 						<l>-----</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="75">
-				<head>noCategorie</head>
-				<div type="group" n="75">
+				<div type="group" n="35">
 					<head>Das Franzenknöppchen</head>
 					<head type="sage" n="75">Trebeta's Grab</head>
 					<p>
-						<l>page_marker_ocr250</l>
-						<l>page_marker_book222</l>
+						<pb n="1" />
 						<l>Trebeta's Grab.</l>
-						<l>Semiramis beſtieg den Thron</l>
+						<l>Semiramis bestieg den Thron</l>
 						<l>Im glänzendreichen Babylon,</l>
 						<l>Unglücklich macht sie nur die Liebe:</l>
 						<l>Ihr Stiefsohn, der Trebeta hieß,</l>
@@ -5607,8 +5043,7 @@
 						<l>Trebeta segelt auf dem Meer</l>
 						<l>Als irrer Flüchtling schon einher,</l>
 						<l>Weit von dem lieben Vaterlande.</l>
-						<l>page_marker_ocr251</l>
-						<l>page_marker_book223</l>
+						<pb n="21" />
 						<l>In welchem dritten Theil der Well</l>
 						<l>Wird ruhen einst der junge Helt? —</l>
 						<l>Er weiß es selbst nicht zu ergründen ;</l>
@@ -5616,7 +5051,7 @@
 						<l>Es sagt ihm: in Europa's Schoos</l>
 						<l>Wirst du die neue Heimath finden.</l>
 						<l>Er fährt durch Sturm und Wogendrang</l>
-						<l>Jest Afrika's Geſtad entlang</l>
+						<l>Jest Afrika's Gestad entlang</l>
 						<l>Bis zu des Westlands fernen Küsten,</l>
 						<l>Er wandert in das Land hinein</l>
 						<l>Durch Heiden, Wald und Wüstenei'n,</l>
@@ -5633,8 +5068,7 @@
 						<l>Betrachtet mir die Hügelreih'n,</l>
 						<l>Sie schließen schöne Gründe ein,</l>
 						<l>Die einst des Landmanns Mühe lohnen!</l>
-						<l>page_marker_ocr252</l>
-						<l>page_marker_book224</l>
+						<pb n="46" />
 						<l>D</l>
 						<l>Auf jenen Bergen mag einst hold</l>
 						<l>Die Traube glüh'n im Sonnengold,</l>
@@ -5650,7 +5084,7 @@
 						<l>Trebeta wird des Thals Gebieter.</l>
 						<l>Und in des Thales weitstem Plan</l>
 						<l>Legt eine feste Stadt er an,</l>
-						<l>Dicht an des klaren Fluſſes Strande.</l>
+						<l>Dicht an des klaren Flusses Strande.</l>
 						<l>Man singt und sagt uns als gewiß.</l>
 						<l>Daß er die Stadt da Treberis</l>
 						<l>Mit Stolz nach seinem Namen nannte.</l>
@@ -5660,8 +5094,7 @@
 						<l>Er gibt Gescße und er lehrt,</l>
 						<l>Wie man die Götter fromm verehrt,</l>
 						<l>Er herrscht im vollsten Erdenglücke.</l>
-						<l>page_marker_ocr253</l>
-						<l>page_marker_book225</l>
+						<pb n="72" />
 						<l>Und als er starb, bestieg sein Sohn,</l>
 						<l>Hero genannt, des Landes Thron.</l>
 						<l>Des Kindes Achtung zu bewähren,</l>
@@ -5681,16 +5114,9 @@
 						<l>Noch malt des Ostens Purpurmeer</l>
 						<l>Sein Grab bei jedem Morgenstrahle.</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="76">
-				<head>noCategorie</head>
-				<div type="group" n="76">
-					<head>Das Franzenknöppchen</head>
 					<head type="sage" n="76">Sickingens Kanonenkugel</head>
 					<p>
-						<l>page_marker_ocr254</l>
-						<l>page_marker_book226</l>
+						<pb n="1" />
 						<l>Sickingens Kanonenkugel.</l>
 						<l>Brausend kam, wie Meereswegen,</l>
 						<l>Sickingen dahergezogen,</l>
@@ -5707,11 +5133,10 @@
 						<l>Sieben Tage, sieben Nächte</l>
 						<l>Wüthen Franzens Waffenknechte;</l>
 						<l>Prafselnd stürzt in rothen Flammen</l>
-						<l>Ningsher manches Dach zuſammen,</l>
+						<l>Ningsher manches Dach zusammen,</l>
 						<l>Denn mit Feuer und mit Schwert</l>
 						<l>Wird das schöne Thal verheert.</l>
-						<l>page_marker_ocr255</l>
-						<l>page_marker_book227</l>
+						<pb n="21" />
 						<l>Aber Alles ist vergebens!</l>
 						<l>Sickingen, voll regen Strebens,</l>
 						<l>Spinnt zuleßt der Arglist Schlingen,</l>
@@ -5736,8 +5161,7 @@
 						<l>Schied er vom verhaßten Thale,</l>
 						<l>Doch er ließ mit grimmem Blick</l>
 						<l>Ein Erinn'rungsmal zurück.</l>
-						<l>page_marker_ocr256</l>
-						<l>page_marker_book228</l>
+						<pb n="46" />
 						<l>Wo'des Marsbergs Höhen thronen,</l>
 						<l>Panzt er eine der Kanonen,</l>
 						<l>Eine von den ungeheu’ren,</l>
@@ -5751,12 +5175,6 @@
 						<l>Das von Franzens Scheidegruß</l>
 						<l>Später Nachwelt zeugen muß.</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="77">
-				<head>noCategorie</head>
-				<div type="group" n="77">
-					<head>Das Franzenknöppchen</head>
 					<head type="sage" n="77">Der Erdhügel</head>
 					<p>
 						<l>Der Erdhügel.</l>
@@ -5765,15 +5183,14 @@
 						<l>Franz sprach auf Stadt und Land den Fluch,</l>
 						<l>Schon zog sein Heer in langem Zug:</l>
 						<l>Da ließ er Halt noch einmal blasen.</l>
-						<l>page_marker_ocr257</l>
-						<l>page_marker_book229</l>
+						<pb n="7" />
 						<l>Laut rief er seinen Kriegerschaaren:</l>
 						<l>,,Auf! zeiget, daß wir hier einst waren!</l>
 						<l>In dieses Sodoms Angesicht</l>
 						<l>Erbaut mir einen Hügel dicht</l>
-						<l>Von Steinen, Erd und grünem Raſent,</l>
+						<l>Von Steinen, Erd und grünem Rasent,</l>
 						<l>,,Der Hügel soll in späten Tagen</l>
-						<l>Von unserm Moſelfeldzug sagen,</l>
+						<l>Von unserm Moselfeldzug sagen,</l>
 						<l>Den Herren unten haben wir</l>
 						<l>So Manches umgeworfen hier,</l>
 						<l>Wir wollen ihnen auch Was bauen!"</l>
@@ -5783,12 +5200,6 @@
 						<l>Daß bald hochauf der Hügel schwoll,</l>
 						<l>Noch jezt vom Thale aus zu schauen.</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="78">
-				<head>noCategorie</head>
-				<div type="group" n="78">
-					<head>Das Franzenknöppchen</head>
 					<head type="sage" n="78">Die Kreuzkapelle</head>
 					<p>
 						<l>Die Kreuzkapelle.</l>
@@ -5796,8 +5207,7 @@
 						<l>Steigt, schleudernd helle Bliße,</l>
 						<l>Die Sonne aus dem Schoos der Nacht</l>
 						<l>Und malt das Thal mit Flammenpracht.</l>
-						<l>page_marker_ocr258</l>
-						<l>page_marker_book230</l>
+						<pb n="6" />
 						<l>Da liegt die Bergkapelle,</l>
 						<l>Umstrahlt von gold'ner Helle,</l>
 						<l>Im Innern prangt, nah am Altar,</l>
@@ -5805,7 +5215,7 @@
 						<l>Genüber ihrem Bilde,</l>
 						<l>Gestüßt auf einem Schilde,</l>
 						<l>Steht kirchetragend Constantin,</l>
-						<l>Der Sohn der frommen Kaiſerin.</l>
+						<l>Der Sohn der frommen Kaiserin.</l>
 						<l>Wohl glänzt das Kirchlein oben,</l>
 						<l>Vom Morgengold umwoben:</l>
 						<l>Die Sonnenstrahlen, licht und flar,</l>
@@ -5819,8 +5229,7 @@
 						<l>Das Kirchlein grüßen Thal und Strom,</l>
 						<l>Das Kirchlein grüßt der hohe Dom,</l>
 						<l>-</l>
-						<l>page_marker_ocr259</l>
-						<l>page_marker_book231</l>
+						<pb n="28" />
 						<l>Der Dom? ei ja der hehren</l>
 						<l>Helena wohl zu Ehren,</l>
 						<l>Er grüßt Helena, deren Bild</l>
@@ -5838,42 +5247,37 @@
 						<l>Nach jenen Bergeshöhen,</l>
 						<l>Wo in bescheid'ner Majestät</l>
 						<l>Helena's Kreuzkapelle steht.</l>
-						<l>page_marker_ocr260</l>
-						<l>page_marker_book232</l>
+						<pb n="46" />
 						<l>Caftell an der Saar.</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="79">
-				<head>noCategorie</head>
-				<div type="group" n="79">
+				<div type="group" n="36">
 					<head>Castell an der Saar</head>
 					<head type="sage" n="79">Das Marmorbett</head>
 					<p>
 						<l>Das Marmorbett.</l>
 						<l>An Saravus' wildem Ufer hebt sich eine Felsenwand,</l>
-						<l>Oben schaut die stille Klause freundlich ſchimmernd in das</l>
+						<l>Oben schaut die stille Klause freundlich schimmernd in das</l>
 						<l>Land;</l>
 						<l>Ueber Serrig's alten Friedhof und der Fluren bunte</l>
 						<l>Streifen</l>
-						<l>Mag in waldbegränzte Fernen muthig hier das Auge ſchweifen.</l>
+						<l>Mag in waldbegränzte Fernen muthig hier das Auge schweifen.</l>
 						<l>Wie die Adler hoch auf Klippen ihre luft'gen Nester bau'n,</l>
 						<l>So hat dert der Römer einstens seine Warte eingehau'n.</l>
 						<l>O wie oft in Mitternächten sah der Krieger in die Ferne,</l>
 						<l>Unter sich die blauen Wogen, über sich das Heer der Sterne!</l>
-						<l>Jahre kamen, Jahre gingen, und es ſank der Römer Macht:</l>
+						<l>Jahre kamen, Jahre gingen, und es sank der Römer Macht:</l>
 						<l>Aus des Erdreichs Fundamenten schimmert noch die alte</l>
 						<l>Pracht;</l>
 						<l>Und man hörte statt der Waffen später nur mit eh'rnen</l>
 						<l>Schwingen</l>
 						<l>Hell des Klausners stilles Glöcklein in das Thal</l>
 						<l>herniederdringen.</l>
-						<l>page_marker_ocr261</l>
-						<l>page_marker_book233</l>
+						<pb n="19" />
 						<l>Jahre kamen, Jahre gingen, und der Klausner sank ins Grab,</l>
 						<l>Und die öde Felsenwohnung schaute stumm ins Thal hinab,</l>
 						<l>Da umrauscht die öden Hallen einer andern Zeit Gefieder:</l>
-						<l>Für die halbzerfall'ne Klauſe kehrten schön're Tage wieder.</l>
+						<l>Für die halbzerfall'ne Klause kehrten schön're Tage wieder.</l>
 						<l>Wie die Lilie stolz emporglänzt, frisch getränkt vom</l>
 						<l>Morgenthau,</l>
 						<l>Also wuchs in hohem Schuße schimmernd auf der neue Bau,</l>
@@ -5891,10 +5295,9 @@
 						<l>Neu gefaßt vom Kranz der Steine, aus dem kühlen</l>
 						<l>Felsenschatten</l>
 						<l>Goß sich da die muntre Quelle in die üppiggrünen Matten.</l>
-						<l>page_marker_ocr262</l>
-						<l>page_marker_book234</l>
+						<pb n="41" />
 						<l>Caftell an der Saar.</l>
-						<l>Und es kam der edle König, ſchön geschmückt war sein</l>
+						<l>Und es kam der edle König, schön geschmückt war sein</l>
 						<l>Palast,</l>
 						<l>Und er stieg ins Bett von Marmor, freundlich rief es ihn</l>
 						<l>zur Rast,</l>
@@ -5902,22 +5305,18 @@
 						<l>Endlich sollt er hier die Ruhe, die so oft entbehrte, finden.</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="80">
-				<head>noCategorie</head>
-				<div type="group" n="80">
+				<div type="group" n="37">
 					<head>Fließem</head>
 					<head type="sage" n="80">Der Hirtenknabe</head>
 					<p>
-						<l>page_marker_ocr263</l>
-						<l>page_marker_book235</l>
+						<pb n="1" />
 						<l>Der Hirtenknabe.</l>
 						<l>Gebückt auf seinem Stabe</l>
-						<l>Im Abendsonnenſchein,</l>
+						<l>Im Abendsonnenschein,</l>
 						<l>Stand einst ein Hirtenknabe</l>
 						<l>Auf jener Flur allein.</l>
 						<l>Ihm weiden Schaf und Ziegen</l>
-						<l>In Gras und Buſch einher;</l>
+						<l>In Gras und Busch einher;</l>
 						<l>Die nahen Berge liegen</l>
 						<l>In einem Flammenmeer.</l>
 						<l>Der Knabe spricht mit Schmerzen,</l>
@@ -5928,14 +5327,13 @@
 						<l>Gedrückt von arger Noth,</l>
 						<l>Ich selber such auf Feldern</l>
 						<l>Mein karges Stücklein Brod!</l>
-						<l>page_marker_ocr264</l>
-						<l>page_marker_book236</l>
+						<pb n="19" />
 						<l>Fliessem</l>
 						<l>Wie sah ich mit Behagen</l>
 						<l>Die Eltern hochbeglückt!</l>
 						<l>Gern wollt ich selbst ertragen,</l>
 						<l>Was mir der Himmel schickt!"</l>
-						<l>Kaum ist mit leiſem Flügel</l>
+						<l>Kaum ist mit leisem Flügel</l>
 						<l>Des Knaben Wort entschwebt,</l>
 						<l>Als sich am nahen Hügel</l>
 						<l>Ein stolzer Bau erhebt.</l>
@@ -5956,13 +5354,12 @@
 						<l>Und gold'ne Früchte blinken</l>
 						<l>Im Körblein wunderhold.</l>
 						<l>―</l>
-						<l>page_marker_ocr265</l>
-						<l>page_marker_book237</l>
+						<pb n="46" />
 						<l>Llieffem.</l>
 						<l>So tritt sie vor den Knaben,</l>
 						<l>Reicht ihm mit sanftem Blick</l>
 						<l>Das Körblein und die Gaben,</l>
-						<l>Geht langſam dann zurück,</l>
+						<l>Geht langsam dann zurück,</l>
 						<l>Sie schließt des Thores Flügel</l>
 						<l>Mit holdem Gruße zu;</l>
 						<l>Der Tempel an dem Hügel</l>
@@ -5977,15 +5374,11 @@
 						<l>Was einst der Knabe sah.</l>
 					</p>
 				</div>
-			</div>
-			<div type="category" n="81">
-				<head>noCategorie</head>
-				<div type="group" n="81">
+				<div type="group" n="38">
 					<head>Verschiedenes</head>
 					<head type="sage" n="81">Der gekreuzigte Amor</head>
 					<p>
-						<l>page_marker_ocr266</l>
-						<l>page_marker_book238</l>
+						<pb n="1" />
 						<l>Der gekreuzigte Amor.</l>
 						<l>Cupido, Bändiger der Herzen,</l>
 						<l>Ist das ein Ort zu deinen Scherzen?</l>
@@ -5994,7 +5387,7 @@
 						<l>Mit welchem Beben, welchem Bangen</l>
 						<l>Die zarten Mägdlein an dir hangen,</l>
 						<l>Wie jede greift und dich umschließt,</l>
-						<l>Damit du tückisch nicht entfliehſt!</l>
+						<l>Damit du tückisch nicht entfliehst!</l>
 						<l>Drei zerren dich an Händ' und Füßen,</l>
 						<l>Als kämpften sie mit einem Riesen,</l>
 						<l>Die Vierte hält dein Flügleinpaar</l>
@@ -6003,8 +5396,7 @@
 						<l>Die flüggen Vögelein zu zügeln;</l>
 						<l>Die Fünfte schlägt Goldnägelein</l>
 						<l>In deine Händ' und Füßchen ein.</l>
-						<l>page_marker_ocr267</l>
-						<l>page_marker_book239</l>
+						<pb n="19" />
 						<l>Die Sechste wahret deinen Vogen,</l>
 						<l>Noch ist der Bogen angezogen:</l>
 						<l>Wie sie ihn angreift, ihn beschaut</l>
@@ -6017,7 +5409,7 @@
 						<l>w</l>
 						<l>Du Schalf, wo blieb denn deine Stärke,</l>
 						<l>Erprobt durch tausend Liebeswerke,</l>
-						<l>Du lagst gewiß in tieſem Schlaf,</l>
+						<l>Du lagst gewiß in tiesem Schlaf,</l>
 						<l>Als dich der Schwarm der Mädchen traf?</l>
 						<l>Wo war dein Mütterlein, o sage,</l>
 						<l>An diesem jammervollen Tage,</l>
@@ -6031,23 +5423,16 @@
 						<l>Die Mädchen fühlen kein Erbarmen;</l>
 						<l>Das Mündlein klaß, die Aeuglein matt,</l>
 						<l>Ei, ei, bist du des Lebens satt?</l>
-						<l>page_marker_ocr268</l>
-						<l>page_marker_book240</l>
+						<pb n="46" />
 						<l>Du trasst einst schärfer, als die Spigen</l>
-						<l>Der Näglein, die im Fleisch dir ſizen,</l>
+						<l>Der Näglein, die im Fleisch dir sizen,</l>
 						<l>Wie brannte deiner Pfeile Wuth!</l>
-						<l>Nun fühle ſelber, wie es thut.</l>
+						<l>Nun fühle selber, wie es thut.</l>
 						<l>Ein Trost ist's noch, den Tod, den herben,</l>
 						<l>Von zarter Mädchenhand zu sterben:</l>
 						<l>Stirb hin, stirb hin, du arger Wicht,</l>
 						<l>Dein Tod betrübt die Mädchen nicht!</l>
 					</p>
-				</div>
-			</div>
-			<div type="category" n="82">
-				<head>noCategorie</head>
-				<div type="group" n="82">
-					<head>Verschiedenes</head>
 					<head type="sage" n="82">Die drei Helden</head>
 					<p>
 						<l>Die drei Helden.</l>
@@ -6056,13 +5441,12 @@
 						<l>Zu Ehren dreier Helden,</l>
 						<l>Für Trier hat ihr Herz geglüht,</l>
 						<l>Wie uns die Bücher melden.</l>
-						<l>Wären die drei Helden nicht geweſen,</l>
+						<l>Wären die drei Helden nicht gewesen,</l>
 						<l>Wäre Trier nicht,</l>
 						<l>Darum macht kein Federlesen,</l>
 						<l>Preiset sie nach Pflicht!</l>
-						<l>page_marker_ocr269</l>
-						<l>page_marker_book241</l>
-						<l>Der erste kam ins Moſelland,</l>
+						<pb n="11" />
+						<l>Der erste kam ins Moselland,</l>
 						<l>Es war noch wüst und öd' da,</l>
 						<l>Er baute Trier mit Verstand,</l>
 						<l>Sein Name hieß Trebeta.</l>
@@ -6079,15 +5463,14 @@
 						<l>Darum macht kein Federlesen,</l>
 						<l>Preiset ihn nach Pflicht!</l>
 						<l>Der Dritte auch ist weltbekannt,</l>
-						<l>Er thürmt' in Trier's Schooſe</l>
+						<l>Er thürmt' in Trier's Schoose</l>
 						<l>Paläste auf mit mächt'ger Hand:</l>
 						<l>Held Constantin der Große.</l>
 						<l>Wäre Constantinus nicht gewesen,</l>
 						<l>Glänzte Trier nicht,</l>
 						<l>Darum macht kein Federlesen,</l>
 						<l>Preiset ihn nach Pflicht!</l>
-						<l>page_marker_ocr270</l>
-						<l>page_marker_book242</l>
+						<pb n="36" />
 						<l>Trebeta, Probus, Constantin,</l>
 						<l>Den drei bewährten Helden,</l>
 						<l>Laßt Lob und Jubelsang erglüh'n,</l>

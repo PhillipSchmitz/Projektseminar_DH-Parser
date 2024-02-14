@@ -1,3 +1,21 @@
+def get_tei_header():
+    MainTitle = "Trier und seine Umgebung in Sagen und Liedern."
+    SubTitle = "Mit Bemerkungen über die Quellen dieser Sagen."
+    Author = "Ph. Laven"
+    PublicationYear = "1851"
+    PublicationPlace = "Trier, Germany"
+    # PublicationCountry="Germany"
+    Publisher = "Verlag der Fr. Lintz'schen Buchhandlung"
+    #Edition = "first"
+    Edition = None
+    source = "Sagen, die aus Trier selbst stammen oder dem nahen Umfeld"
+
+    Copyright = "CC0"
+    encoder = "Ben Conrad"
+
+    return MainTitle, SubTitle, Author, PublicationYear, PublicationPlace, Publisher, Edition,source, Copyright, encoder
+
+
 def get_pkl():
     pickle_filename = "oberelsass_sagen"
     return pickle_filename

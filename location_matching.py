@@ -89,12 +89,13 @@ def match_el(locs: list, coord: list):
 
 
 def main_de():
-    name = "moseltal_sagen"
+    name = "lothringen_sagen"
     locs = retrieve_list(name)
     print(locs)
     freq, first = locify(locs)
     print(freq)
     print(first)
+    quit()
     coord = retrieve_coordinates("DE-txt.csv")
     # print(coord)
     t = matching(freq, coord)

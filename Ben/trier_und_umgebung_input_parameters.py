@@ -8,12 +8,12 @@ def get_tei_header():
     Publisher = "Verlag der Fr. Lintz'schen Buchhandlung"
     #Edition = "first"
     Edition = None
-    source = "Sagen, die aus Trier selbst stammen oder dem nahen Umfeld"
+    srcDesc = "Sagen, die aus Trier selbst stammen oder dem nahen Umfeld"
 
     Copyright = "CC0"
     encoder = "Ben Conrad"
 
-    return MainTitle, SubTitle, Author, PublicationYear, PublicationPlace, Publisher, Edition,source, Copyright, encoder
+    return [MainTitle, SubTitle, Author, PublicationYear, PublicationPlace, Publisher, Edition, srcDesc, Copyright, encoder]
 
 def get_pkl():
     pickle_filename = "trier_umgebung_sagen"

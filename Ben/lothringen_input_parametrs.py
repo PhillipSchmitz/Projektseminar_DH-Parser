@@ -1,19 +1,23 @@
 def get_tei_header():
-    MainTitle = "Trier und seine Umgebung in Sagen und Liedern."
-    SubTitle = "Mit Bemerkungen über die Quellen dieser Sagen."
-    Author = "Ph. Laven"
-    PublicationYear = "1851"
-    PublicationPlace = "Trier, Germany"
+    MainTitle = "Sagen und Bilder aus Lothringens Vorzeit"
+    SubTitle = None
+    Author = "Oskar Schwebel"
+    PublicationYear = "1886"
+    PublicationPlace = "Lorbach, Germany"
     # PublicationCountry="Germany"
-    Publisher = "Verlag der Fr. Lintz'schen Buchhandlung"
+    Publisher = "Verlag von Robert Hupfer"
     #Edition = "first"
     Edition = None
-    source = "Sagen, die aus Trier selbst stammen oder dem nahen Umfeld"
+    source = "Sagen aus dem Gebiet Lothringen"
 
     Copyright = "CC0"
-    encoder = "Ben Conrad"
+    encoder = "Ben Conrad, Dennis Binz"
 
     return MainTitle, SubTitle, Author, PublicationYear, PublicationPlace, Publisher, Edition,source, Copyright, encoder
+
+def get_pkl():
+    pickle_filename = "lothringen_sagen"
+    return pickle_filename
 
 
 def get_dict():

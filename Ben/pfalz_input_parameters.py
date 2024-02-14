@@ -1,19 +1,19 @@
 def get_tei_header():
-    MainTitle = "Trier und seine Umgebung in Sagen und Liedern."
-    SubTitle = "Mit Bemerkungen über die Quellen dieser Sagen."
-    Author = "Ph. Laven"
-    PublicationYear = "1851"
-    PublicationPlace = "Trier, Germany"
+    MainTitle = "Pfälzisches Sagenbuch"
+    SubTitle = None
+    Author = "F. W. Hebel"
+    PublicationYear = "1912"
+    PublicationPlace = "Kaiserslautern, Germany"
     # PublicationCountry="Germany"
-    Publisher = "Verlag der Fr. Lintz'schen Buchhandlung"
+    Publisher = " Eugen Crusius Hofbuchhandlung"
     #Edition = "first"
     Edition = None
-    source = "Sagen, die aus Trier selbst stammen oder dem nahen Umfeld"
+    source = "Sammlung von Sagen aus dem pfälzischen Bereich"
 
     Copyright = "CC0"
-    encoder = "Ben Conrad"
+    encoder = "Ben Conrad, Dennis Binz"
 
-    return MainTitle, SubTitle, Author, PublicationYear, PublicationPlace, Publisher, Edition,source, Copyright, encoder
+    return [MainTitle, SubTitle, Author, PublicationYear, PublicationPlace, Publisher, Edition, source, Copyright, encoder]
 
 
 def get_pkl():

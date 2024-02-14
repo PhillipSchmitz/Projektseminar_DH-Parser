@@ -1,17 +1,19 @@
 def get_tei_header():
-    MainTitle = "Trier und seine Umgebung in Sagen und Liedern."
-    SubTitle = "Mit Bemerkungen über die Quellen dieser Sagen."
-    Author = "Ph. Laven"
-    PublicationYear = "1851"
-    PublicationPlace = "Trier, Germany"
+    MainTitle = "Die Sagen des Elsasses"
+    SubTitle = "getreu nach der Volksüberlieferung, den Chroniken und andern gedruckten und handschriftlichen Quellen, gesammelt von August Stöber. Neue Ausgabe besorgt von Kurt Mündel. Erster Teil. Die Sagen des Ober-Elsass."
+    Author = "August Stöber"
+    PublicationYear = "1892"
+    PublicationPlace = "Strassburg, German Empire (modern day France)"
     # PublicationCountry="Germany"
-    Publisher = "Verlag der Fr. Lintz'schen Buchhandlung"
-    Edition = "first"
+    Publisher = "J. H. Ed Heitz (Heitz & Mündel)"
+    Edition = "Zweiter Teil. Die Sagen des Unter-Elsass"
+    srcDesc = "Von August Stöber gesammelte Sagen über den Unterelsass"
 
     Copyright = "CC0"
     encoder = "Ben Conrad, Dennis Binz"
 
-    return MainTitle, SubTitle, Author, PublicationYear, PublicationPlace, Publisher, Edition, Copyright, encoder
+    return [MainTitle, SubTitle, Author, PublicationYear, PublicationPlace, Publisher, Edition, srcDesc, Copyright,
+            encoder]
 
 
 def get_pkl():

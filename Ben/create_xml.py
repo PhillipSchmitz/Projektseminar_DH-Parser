@@ -4,7 +4,7 @@ from os.path import join
 # import initiate
 
 # ====Parameters====
-import trier_und_umgebung_input_parameters as input  # change to desired input file
+import lothringen_input_parametrs as input  # change to desired input file
 
 
 def retrieve_list(name):

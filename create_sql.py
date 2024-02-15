@@ -21,7 +21,7 @@ def create_dataframe_input(tales: list, tale_dict: dict, book_title: str):
         for line in tale[1:]:
             if "page_marker" in line:
                 continue
-            #line = re.sub(r"\n", " ", line)
+            line = re.sub(r"\n", " ", line)
             tale_str += line
             # print(tale_str)
         df_tale.append(tale_dict[tale[0]][0])
@@ -47,7 +47,7 @@ def create_dataframe_output(df_input: list):
 
 
 def write_csv(df_output: pd.DataFrame, name: str):
-    df_output.to_csv("sql_sagen/csv_linebreak/" + name + "_linebreak.csv", ";", encoding="utf-8", index=False)
+    df_output.to_csv("sql_sagen/csv/" + name + ".csv", ";", encoding="utf-8", index=False)
 
 
 def main():

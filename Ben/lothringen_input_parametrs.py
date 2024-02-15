@@ -43,7 +43,7 @@ def get_dict():
             ['Gorze', 49.053889, 5.998889], ['Metz', 49.119722, 6.176944], ['Bouillon', 49.795556, 5.068111],
             ['Clugny', 46.434444, 4.659167], ['Verdun', 49.159722, 5.382778], ['Maréville', 49.452778, 5.456667],
             ['Lothringen', 0, 0], ['Lothringen', 0, 0], ['Engelweiler', 0, 0], ['Lothringen', 0, 0],
-            ['Metz', 49.119722, 6.176944], "Verdun", 49.159722, 5.382778]
+            ['Metz', 49.119722, 6.176944], ["Verdun", 49.159722, 5.382778]]
 
     n_book = 1
     n_universal = 42  # Start Nummer für universelle Nummer

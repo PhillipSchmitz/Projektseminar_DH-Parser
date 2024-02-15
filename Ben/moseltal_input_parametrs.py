@@ -178,7 +178,7 @@ def get_dict():
 
 def get_sql():
     name = "moseltal_sagen"
-    book_title = "Geschichten und Erzählungen des Moseltals"
+    book_title = "Sagen und Geschichten des Moseltals"
     dict = get_dict()
     # lang = "deutsch"
     return name, book_title, dict

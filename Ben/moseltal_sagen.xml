@@ -21,26 +21,6 @@
 		</fileDesc>
 	</teiHeader>
 	<text>
-		<front>
-			<ab>
-				Im weiten deutschen Lande
-				Zieht mancher Strom dahin,
-				Von allen, die ich kannte,
-				Liegt einer mir im Sinn:
-				Moselstrand,
-				O selig Land!
-				Ihr grünen Berge, o Fluß und Tal,
-				Ich grüß euch von Herzen viel tausendmal!
-				Sagen und Geschichten
-				des
-				Moseltals
-				Don
-				Karl Hessel.
-				A3751
-				Bonn
-				Albert Ahn.
-			</ab>
-		</front>
 		<body>
 			<div type="category" n="1">
 				<head>NoCategory</head>
@@ -49,7 +29,7 @@
 					<div type="tale">
 						<head n="1">Das rote Haus zu Trier und die Sage von Triers Gründung</head>
 						<p>
-							<pb n="630" />
+							<pb n="1" />
 							<l>Am Marktplatz zu Trier steht der jezige Gasthof zum </l>
 							<l>roten Haus, erbaut 1450, an der Stirnseite geziert mit </l>
 							<l>den Bildsäulen der heiligen Apostel Peter, Paul, Philippus </l>
@@ -71,7 +51,7 @@
 							<l>der König Trebeta, ein Sohn des Ninus und Stiefsohn </l>
 							<l>liche Liebe zu ihm, und da er ihre Anträge zurückwies, </l>
 							<l>nossen und irrte lange umher, bis er ins Thal der Mosel </l>
-							<pb n="631" />
+							<pb n="2" />
 							<l>kam und da sich niederließ und eine Stadt baute, die nach </l>
 							<l>ihm Treviris genannt wurde. Nach seinem Tode ward </l>
 							<l>er von Hero, seinem Sohn und Erben, verbrannt und die </l>
@@ -104,7 +84,7 @@
 							<l>Induciomar und sein Schwiegersohn Cingetorir um die </l>
 							<l>Herrschaft. Cingetorir stellte sich auf Seite der Römer </l>
 							<l>und erlangte dadurch deren Unterstüßung, Induciomar aber </l>
-							<pb n="632" />
+							<pb n="3" />
 							<l>drückt und Induciomars Haupt dem Cäsar gebracht. Cäsars </l>
 							<l>Feldherr Labienus schlug die leßten Reste der Aufständischen, </l>
 							<l>Cingetorir aber erhielt die höchste Gewalt im Lande der </l>
@@ -144,7 +124,7 @@
 							<l>Stadt war etwa doppelt so groß als das heutige Trier, </l>
 							<l>die Festungsmauer zog sich die Hügel hinan und hatte </l>
 							<l>vier Thore, darunter die mächtige Porta Nigra im Norden, </l>
-							<pb n="633" />
+							<pb n="4" />
 							<l>die noch steht. Die Moselbrücke war nicht, wie jezt, am </l>
 							<l>südlichen Ende der Stadt, sondern in deren Mitte. Wo </l>
 							<l>die Mariminabtei liegt, erhob sich ein Apollotempel. Un= </l>
@@ -178,7 +158,7 @@
 							<l>wurden Kirchen, aber die ältesten Kirchen wurden aus </l>
 							<l>Wohnhäusern zurecht gemacht, vor allem der Dom aus der </l>
 							<l>großen Halle des Palastes der Kaiserin Helena. Im </l>
-							<pb n="634" />
+							<pb n="5" />
 							<l>Mittelbau des Domes ist der römische Kern noch sehr </l>
 							<l>wohl zu erkennen. Noch erhalten sind teils vollständig, </l>
 							<l>teils in Trümmern: die Porta nigra, die Basilika, die </l>
@@ -215,7 +195,7 @@
 							<l>Hauses in Trier aus dem Amphitheater sich Steine zu </l>
 							<l>holen, und seit man einmal begonnen hatte, den mächtigen </l>
 							<l>Bau als Steinbruch zu benußen, hat man bis vor hundert </l>
-							<pb n="635" />
+							<pb n="6" />
 							<l>Jahren ruhig damit fortgefahren, jest aber wird alles </l>
 							<l>sorgsam erhalten. Im Volksmunde heißt das Ganze der </l>
 							<l>Kasteller. </l>
@@ -257,7 +237,7 @@
 					<div type="tale">
 						<head n="6">Sagen von der römischen Wasserleitung</head>
 						<p>
-							<pb n="636" />
+							<pb n="7" />
 							<l>Durch die ganze Eifel hin, von Trier bis Köln, laufen </l>
 							<l>noch jezt auf weite Wegstrecken hin römische Wasserleitungen. </l>
 							<l>Sie waren bestimmt, von starken Bergquellen her das </l>
@@ -293,7 +273,7 @@
 					<div type="tale">
 						<head n="7">Die Kultur des Mosellandes zur Römerzeit</head>
 						<p>
-							<pb n="637" />
+							<pb n="8" />
 							<l>Der römische Dichter Ausonius, geboren zu Bordeaux, </l>
 							<l>war als Erzieher des spätern Kaisers Gratian von dessen </l>
 							<l>Vater, dem Kaiser Valentinian, nach Trier, der damaligen </l>
@@ -331,7 +311,7 @@
 							<l>Wir haben uns die Römerkultur im Moselthal so zu </l>
 							<l>denken, daß die Römer, die sich dort ansiedelten, durchaus </l>
 							<l>als Herren sich anbauten, nicht als Kolonisten, die der </l>
-							<pb n="638" />
+							<pb n="9" />
 							<l>Kampf ums Dasein in die Ferne getrieben hatte ; es waren </l>
 							<l>besizer, an hohe Kultur und alle Behaglichkeit des Lebens </l>
 							<l>gedehnten Wirtschaftsräumen, eingerichtet auf einen großen </l>
@@ -364,7 +344,7 @@
 							<l>die ihm aus dem Munde seiner eigenen Kinder zu kommen </l>
 							<l>stochen, und ehe er sein Leben aushaucht, schallen ihm die </l>
 							<l>Worte ins Ohr: Ich bin es, Eptes, der dich erschlagen hat, </l>
-							<pb n="639" />
+							<pb n="10" />
 							<l>und all deine Kinder habe ich auch ums Leben gebracht. </l>
 							<l>viel Kraft, seinen Dienern anzuempfehlen, man möge ihm </l>
 							<l>im Marsthor sein Grab zurüsten. Und in der Porta </l>
@@ -400,7 +380,7 @@
 							<l>für Trier rettete, die andere Hälfte kam nach Köln. Egbert </l>
 							<l>gab dem Stab eine kostbare Hülse ans Gold, verziert mit </l>
 							<l>nissen heiliger Bischöfe. Als der Trierer Domschaß zur </l>
-							<pb n="640" />
+							<pb n="11" />
 							<l>Franzosenzeit nach Ehrenbreitstein geflüchtet ward, kam </l>
 							<l>das Kleinod in den Besit der Nassauer Fürsten und durch </l>
 							<l>diese später nach Limburg, wo es noch jezt im Domschat </l>
@@ -437,7 +417,7 @@
 							<l>dem Freunde sagte, er habe sich soeben entschlossen, ganz </l>
 							<l>Gott zu dienen, und zwar von dieser Stunde ab. Der </l>
 							<l>andere pries diesen Entschluß und wollte dasselbe thun. Das </l>
-							<pb n="641" />
+							<pb n="12" />
 							<l>zweite Freundespaar suchte lange Zeit, fand sie endlich </l>
 							<l>gegen Abend und vernahm staunend, was sich begeben. Sie </l>
 							<l>wünschten ihren Freunden alles Heil und empfahlen sich </l>
@@ -478,7 +458,7 @@
 					<div type="tale">
 						<head n="12">Die Porta nigra oder das Römerthor zu Trier</head>
 						<p>
-							<pb n="642" />
+							<pb n="13" />
 							<l>Von Norden her bildet den Eingang in die Stadt </l>
 							<l>Trier das gewaltige Römerthor, genannt die Porta nigra, </l>
 							<l>d. h. die schwarze Pforte. Die schwärzlichen, gewaltigen </l>
@@ -515,7 +495,7 @@
 						<p>
 							<l>Es wird erzählt, daß der Erzbischof Poppo auf seiner </l>
 							<l>Wallfahrt ins heilige Land sich eines Einsiedlers vom Berge </l>
-							<pb n="643" />
+							<pb n="14" />
 							<l>Sinai, namens Simeon, zum Führer bediente. Dieser </l>
 							<l>war nämlich Almosen halber ins Abendland gereist gewesen </l>
 							<l>und kam auch mit Poppo wieder nach Trier zurück. </l>
@@ -552,7 +532,7 @@
 							<l>vorgelegt, aber was er sich erboten hatte auszuführen, war </l>
 							<l>nachten nahte, und der Wunderbau war nahezu fertig. Nur </l>
 							<l>noch eins hatte der Baumeister zu thun : die Kapitolsthore </l>
-							<pb n="644" />
+							<pb n="15" />
 							<l>zu holen. Wie ein Sturmwind sauste er gen Rom, packte </l>
 							<l>nachts die eisernen Thürflügel und schwebte damit durch </l>
 							<l>die Lüfte. Und wie er sich auf dem Gipfel der Alpen </l>
@@ -584,7 +564,7 @@
 							<l>mosaik geschmückt und trug des Abends ein Leuchtfeuer </l>
 							<l>zur Erhellung des Hafens. Die Gesta Trevirorum erzählen </l>
 							<l>bild frei schwebend in der Luft gehangen habe, indem </l>
-							<pb n="645" />
+							<pb n="16" />
 							<l>Magnete von unten und von oben her das Bild gleich </l>
 							<l>stark angezogen hätten. An der Mosel lagen auch mächtige </l>
 							<l>Getreidemagazine, horrea genannt, und wir wissen, daß </l>
@@ -618,7 +598,7 @@
 							<l>Arius und Athanasius verwickelt worden. Die Lehre des </l>
 							<l>Arius schien endgültig triumphiren zu wollen, und weil </l>
 							<l>Paulinus sich ihr nicht fügen wollte, so schickte der Kaiser </l>
-							<pb n="646" />
+							<pb n="17" />
 							<l>ihn_nach Kleinafinen in die Verbanung, wo er auch ge= </l>
 							<l>storben ist. Später wurden seine Gebeine nach Trier ge= </l>
 							<l>hause beigesezt. Sein Sarg soll an Ketten in der Gruft </l>
@@ -661,7 +641,7 @@
 					<div type="tale">
 						<head n="18">Moselreise des Frankenkönigs Siegebert, 570 n. Chr</head>
 						<p>
-							<pb n="647" />
+							<pb n="18" />
 							<l>Um die Mitte des 6. Jahrhunderts hatten die Franken </l>
 							<l>den Schwerpunkt ihrer Herrschaft auf das linke Rheinufer </l>
 							<l>verlegt und ihr Reich in mehrere Königsherrschaften geteilt. </l>
@@ -700,7 +680,7 @@
 					<div type="tale">
 						<head n="19">Adalbero und Poppo</head>
 						<p>
-							<pb n="648" />
+							<pb n="19" />
 							<l>Um das Jahr 1000 lebte Siegfried, Graf von </l>
 							<l>Ardennen, Herr von Luxemburg und Besizer vieler Orte </l>
 							<l>an der Mosel. Seine Tochter Kunigunde wurde die in </l>
@@ -734,7 +714,7 @@
 							<l>aber stak ein wohlgerüsteter Krieger, und sechszig Krieger </l>
 							<l>in Bauerntracht waren mitgekommen, die 30 Faß in den </l>
 							<l>Keller zu schaffen. Wie nun alle im Burghof waren, da </l>
-							<pb n="649" />
+							<pb n="20" />
 							<l>entfallen den Ohmfässern die Böden und jedem entstieg ein </l>
 							<l>Gewappneter, auch die bäurischen Knechte haben plöglich </l>
 							<l>ein Schwert. Adalbero fällt zuerst unter ihren Streichen, </l>
@@ -774,7 +754,7 @@
 							<l>den 23 Tagen dieser Ausstellung sollen 100000 Menschen </l>
 							<l>zur Verehrung des Rockes herbeigeströmt sein, viele waren </l>
 							<l>allerdings nur wegen des Reichstags nach Trier gekommen. </l>
-							<pb n="650" />
+							<pb n="21" />
 							<l>In der überfüllten Stadt brachen Krankheiten aus, so daß: </l>
 							<l>der Reichstag nach Köln verlegt werden mußte. Es ward </l>
 							<l>bestimmt, der heilige Rock solle inskünftig alle sieben Jahre </l>
@@ -811,7 +791,7 @@
 							<l>schenkte ihn einem Juden, und wie dieser die Blutflecken </l>
 							<l>nicht herausbekam, warf er ihn ins Meer. Nun zog Orendel </l>
 							<l>ihn an und hieß danach überall der Graurock. Der Rock </l>
-							<pb n="651" />
+							<pb n="22" />
 							<l>ward aber sein ihn beschüßender Panzer, so daß er Wunder </l>
 							<l>der Tapferkeit that, die streitbare Breide ,,die schonste aller </l>
 							<l>wibe" (die schönste aller Weiber) zur Gemahlin gewann, </l>
@@ -853,7 +833,7 @@
 					<div type="tale">
 						<head n="23">Die Vorstadt Löwenbrücken bei Trier</head>
 						<p>
-							<pb n="652" />
+							<pb n="23" />
 							<l>Zwischen Trier und der Kirche Matheis, die südlich </l>
 							<l>vor der Stadt liegt, fließt ein Bach. Nun kam im Jahre </l>
 							<l>geheißen, war ein deutscher Bischof zu Tull gewesen, und </l>
@@ -887,7 +867,7 @@
 							<l>selbst in Italien. Balduin gab seine Stimme Ludwig dem </l>
 							<l>Baiern, jedoch nach langen Jahren, als Ludwig in den </l>
 							<l>Bann kam, half er die Wahl auf seinen Großneffen lenken,. </l>
-							<pb n="653" />
+							<pb n="24" />
 							<l>burg, König von Böhmen. Balduin hat den Kurstaat. </l>
 							<l>Trier eigentlich erst geschaffen. Insbesondere machte er </l>
 							<l>überall seine Hoheitsrechte zäh und wuchtig geltend, selbst </l>
@@ -926,7 +906,7 @@
 					<div type="tale">
 						<head n="25">Moselreise des Kaisers Maximilian 1512 n. Chr</head>
 						<p>
-							<pb n="654" />
+							<pb n="25" />
 							<l>Kaiser Maximilian ist dreimal an der Mosel gewesen.. </l>
 							<l>Das erstemal 1473 als Prinz mit seinem Vater, dieweil sie </l>
 							<l>in Trier mit dem Herzog Karl dem Kühnen von Burgund </l>
@@ -956,7 +936,7 @@
 							<l>Kellnerien gelegen. Trier hat Sr. Majestät ein Fuder </l>
 							<l>Weines thun schenken, dagegen Ihre Majestät dem Kellner </l>
 							<l>daselbst, Jorgen von Senheim, sechs und finer Frauen ein </l>
-							<pb n="655" />
+							<pb n="26" />
 							<l>Gulden geschenkt. Den Montag gen Cusa gefahren. Den </l>
 							<l>Montag in des Kellners Hus zu Bernkastel gelegen, genannt </l>
 							<l>Hecht und viel schöner Fornlen (Forellen) geschenket. Kaiserlich </l>
@@ -991,7 +971,7 @@
 					<div type="tale">
 						<head n="26">Markgraf Albrecht von Brandenburg in Trier</head>
 						<p>
-							<pb n="656" />
+							<pb n="27" />
 							<l>Im Jahre 1559 duldete die ganze Moselgegend viel </l>
 							<l>Kulmbach, genannt Alcibiades. Es war im schmalkaldischen </l>
 							<l>Kriege, wo jener protestantische Fürst auf eigene Faust mit </l>
@@ -1027,7 +1007,7 @@
 							<l>war Philipp Christoph von Sötern der schlimmste. Er </l>
 							<l>regierte von 1623 bis 1652, also im 30jährigen Kriege. </l>
 							<l>In stetem Hader mit seinem Domkapitel und der Abtei </l>
-							<pb n="657" />
+							<pb n="28" />
 							<l>Marimin, schloß er sich enge an Frankreich an und damit </l>
 							<l>auch an die Schweden und die protestantische Partei. Er </l>
 							<l>hatte seine Residenz nach Ehrenbreitstein verlegt, wo er sich </l>
@@ -1066,7 +1046,7 @@
 							<l>Uuwahrscheinlichkeit über Unwahrscheinlichkeit. Vielmehr </l>
 							<l>bezieht sich der Zusat More Trev darauf. , daß bis zum </l>
 							<l>gann, wie draußen in der Welt, sondern erst am 25. März, dem </l>
-							<pb n="658" />
+							<pb n="29" />
 							<l>Tage Mariä Verkündigung. So gehörten also die 83 Tage </l>
 							<l>vom 1. Januar bis zum 24. März noch zum vorigen Jahr. </l>
 							<l>Starb jemand am Dienstag nach Dreikönigen 1461 , oder </l>
@@ -1105,7 +1085,7 @@
 					<div type="tale">
 						<head n="30">Ein seltsames Volksfest zu Trier</head>
 						<p>
-							<pb n="659" />
+							<pb n="30" />
 							<l>Trier gegenüber umkränzen steile Berge das Moselufer, </l>
 							<l>berg, jegt der Marrberg. Bis zum Jahre 1779 wurde </l>
 							<l>alljährlich dort ein merkwürdiges Volksfest gefeiert. Am </l>
@@ -1141,7 +1121,7 @@
 							<l>fürsten Kuno Marschalk Johann von Kesselstatt, genannt </l>
 							<l>Mohr, als der erste dieses Stammes vor. Von da ab be= </l>
 							<l>gegnen uns immer häufiger Kesselstatte unter den höheren </l>
-							<pb n="660" />
+							<pb n="31" />
 							<l>einander drei Kesselstatte als Dompröbste, und der lezte </l>
 							<l>in aller Form zum Nachfolger des Kurfürsten Clemens </l>
 							<l>Wenzeslaus bestimmt worden, denn die Domherrn waren </l>
@@ -1174,7 +1154,7 @@
 						<p>
 							<l>Der Name Pfalzel, sonst Palatiolum, deutet schon an, </l>
 							<l>daß daselbst einstmalens der römischen Kaiser Sommerresidenz </l>
-							<pb n="661" />
+							<pb n="32" />
 							<l>war. Auf ihren Trümmern erhob sich ein Palast der </l>
 							<l>kloster erbaute, dem sie selbst als Aebtissin verstand. Dort </l>
 							<l>empfing sie auch einmal den heiligen Bonifazius. Der </l>
@@ -1212,7 +1192,7 @@
 					<div type="tale">
 						<head n="33">Ruwer</head>
 						<p>
-							<pb n="662" />
+							<pb n="33" />
 							<l>Bei dem lebhaften Orte Nuwer kommt vom Hunsrück </l>
 							<l>her die rasche Ruwer dem Moselstrom zugeflossen und gleich </l>
 							<l>darauf die nicht minder rasche Kyll von der Eifel her. </l>
@@ -1249,7 +1229,7 @@
 						<head n="34">Die drei Schwestern zu Aum an der Kyll</head>
 						<p>
 							<l>Geht man die Kyll aufwärts, so kommt man nach </l>
-							<pb n="663" />
+							<pb n="34" />
 							<l>ehrt, zu dem man früher auch gewallfahrtet ist, das stellt </l>
 							<l>drei Jungfrauen dar, die hintereinander auf einem Esel </l>
 							<l>reiten, und die mittlere hat eine Binde um die Augen. </l>
@@ -1285,7 +1265,7 @@
 							<l>Der größte Nebenfluß der Mosel, abgesehen von der </l>
 							<l>Saar, kommt von der Eifel ihr zugeflossen die reißende </l>
 							<l>Kyll. Eine halbe Stunde oberhalb ihrer Mündung liegt der </l>
-							<pb n="664" />
+							<pb n="35" />
 							<l>Flecken Ehrang, wo die Lokomotive pfeift und die Schlote </l>
 							<l>der Mosaikplattenfabrik rauchen. Etwas unterhalb der </l>
 							<l>römische Meilen von Trier entfernt, liegt das Hüttenwerk </l>
@@ -1322,7 +1302,7 @@
 					<div type="tale">
 						<head n="36">Etwas von der Weisheit des Schöffengerichts zu Schweich</head>
 						<p>
-							<pb n="665" />
+							<pb n="36" />
 							<l>Der ansehnliche und wichtige Flecken Schweich liegt </l>
 							<l>auf dem linken Moselufer, da wo die trierische Ebene sich </l>
 							<l>schließt und die Berge wieder bis dicht an das rechte Ufer </l>
@@ -1352,7 +1332,7 @@
 							<l>Mobelgüter zu beweisen, erkennt der Scheffen zum ersten, </l>
 							<l>das Bett bis uf den Schussen, das Leiltuch bis uf den </l>
 							<l>Seven, den Kessel bis uf den Bant, die Pfan bis uf den </l>
-							<pb n="666" />
+							<pb n="37" />
 							<l>Stiel, das Dippe bis uf die Henk, die kante bis uf das </l>
 							<l>Glied, die Kuhe bis uf das Horn, so lang als solches zu </l>
 							<l>fall, und dabei steet der Scheffen bei seinem Weistum." </l>
@@ -1386,7 +1366,7 @@
 							<l>Die Reichen wohnten im Dorf und gaben viel für </l>
 							<l>Betten und Schlafkammern, sogar der lette Herzog von </l>
 							<l>hat Verstand bei dem Bronnen gesucht, aber vergeblich ; </l>
-							<pb n="667" />
+							<pb n="38" />
 							<l>denn er war eben unheilbar blödsinnig. Auch Freibeuter </l>
 							<l>kamen aus Geldern und Mörs in Hoffnung, etliche feiste </l>
 							<l>Abte und Prälaten zuzu ertappen.ertappen. Schifflent, Garköche, </l>
@@ -1422,7 +1402,7 @@
 							<l>Lastfuhren bestellt. Der Fuhrmann hatte Angst, sie sänken, </l>
 							<l>und fragte erstaunt die Mönche, was sie denn so Schweres </l>
 							<l>kleid, und darunter gewahrte der Fuhrmann den glühenden </l>
-							<pb n="668" />
+							<pb n="39" />
 							<l>Geist. Die Mönche brachten ihn nun in den Meilenwald. </l>
 							<l>und bannten ihn hinein, und da soll er noch heutiges Tages. </l>
 							<l>glühend umhergehen. </l>
@@ -1455,7 +1435,7 @@
 							<l>auch Valentin. Am nächsten Tage schon rückte Cerealis in </l>
 							<l>brücke zu Trier kämpfen. Die Germanen verloren die Lust, </l>
 							<l>länger dem Civilis und seinen Batavern. Heeresfolge zu. </l>
-							<pb n="669" />
+							<pb n="40" />
 							<l>Leisten, Civilis selbst zog sich wieder an den Niederrhein </l>
 							<l>und suchte Hilfe in Westfalen, und als das mißlang, schloß </l>
 							<l>er mit den Römern einen für ihn ehrenvollen Frieden. </l>
@@ -1494,7 +1474,7 @@
 							<l>erwiesene Freundschaft doppelt und dreifach. Denn er war </l>
 							<l>stimmte, sich an den Kaiser um Hilfe zu wenden, er war es, </l>
 							<l>der die folgenschwere Heirat des Sohnes des Kaisers, </l>
-							<pb n="670" />
+							<pb n="41" />
 							<l>Johann, mit der Prinzessin Elisabeth von Böhmen ver: </l>
 							<l>mittelte, er war es, der 1311 in der Prager Domkirche </l>
 							<l>diesem Johann die Königskrone von Böhmen aufs Haupt </l>
@@ -1532,7 +1512,7 @@
 							<l>Mehring, da steht auf der Spize des Calvarienberges ein </l>
 							<l>altes Kreuz, das heißt das Spinnerkreuz. Dort lebte vor </l>
 							<l>mal zu, wie ein armer Sünder an den Galgen gehängt </l>
-							<pb n="671" />
+							<pb n="42" />
 							<l>werden sollte und sagte zu den Nebenstehenden : Ich möchte </l>
 							<l>hatte der arme Sünder gehört, und er sagte alsbald zum </l>
 							<l>Henker: Halt, ich muß noch etwas bekennen, ich habe einen </l>
@@ -1563,7 +1543,7 @@
 							<l>langte zu großer Blüte und zu bedeutendem Reichtum. Es </l>
 							<l>ist die Grabstätte der Grafen von Vianden und der von </l>
 							<l>Sponheim. Der lezte Abt war ein Herr von Pidoll, der </l>
-							<pb n="672" />
+							<pb n="43" />
 							<l>noch die Aufhebung und Zerstörung durch die Franzosen </l>
 							<l>erlebte. Die ausgedehnten Klostergüter, die besonders im </l>
 							<l>Weinbaugebiete der Mosel zerstreut lagen, erwarben die </l>
@@ -1599,7 +1579,7 @@
 							<l>Da stellte sich der heilige Bernhard ans Fenster und </l>
 							<l>bannte mit harten Fluchworten die verführerischen Vögel, </l>
 							<l>und siehe da : seine glaubensstarken Worte übten Macht </l>
-							<pb n="673" />
+							<pb n="44" />
 							<l>über die unvernünftige Kreatur, am nächsten Abend war </l>
 							<l>keine Nachtigall mehr zu hören, sie waren alle fortgeflogen </l>
 							<l>gelassen haben. </l>
@@ -1633,7 +1613,7 @@
 					<div type="tale">
 						<head n="45">Trittenheim</head>
 						<p>
-							<pb n="674" />
+							<pb n="45" />
 							<l>lichen Rufes sich erfreut, so ist doch der dauernde Ruhm </l>
 							<l>rühmten Abt von Sponheim. </l>
 							<l>Die Mutter starb, als das Söhnlein ein Jahr alt </l>
@@ -1672,7 +1652,7 @@
 					<div type="tale">
 						<head n="46">Der Abt Tritheim als Zauberer</head>
 						<p>
-							<pb n="675" />
+							<pb n="46" />
 							<l>Der Abt Tritheim hat das Schicksal gehabt, daß man </l>
 							<l>schon zu seinen Lebzeiten unheimlich zu ihm hinauffah und </l>
 							<l>ihn für einen Kenner verborgener Künste hielt. Nach </l>
@@ -1702,7 +1682,7 @@
 							<l>eingedenk wird, daß Maria ein schwarz Flecklein hinten am </l>
 							<l>Hals gehabt habe, so hat er darauf Acht und findet es </l>
 							<l>auch also, als sie zum zweitenmal vorüberging. Da ist </l>
-							<pb n="676" />
+							<pb n="47" />
 							<l>dem Kaiser ein Graufen angekommen, und er hat mit </l>
 							<l>Zittern und Zorn gesprochen : Mönch, mache mir der </l>
 							<l>Kaiser sich überwunden hat und erst gesprochen, als die </l>
@@ -1737,7 +1717,7 @@
 						<head n="48">Die Konstantinsburg zu Neumagen</head>
 						<p>
 							<l>weit der Mündung der Thron, ganz umgeben von prächtigem </l>
-							<pb n="677" />
+							<pb n="48" />
 							<l>Weinbaulande. Hier erreichte die alte Römerstraße die </l>
 							<l>Mosel, von Bingen her über Kirchberg und den stumpfen </l>
 							<l>Turm führend. Diese Straße ist im Jahre 370 n. Chr. </l>
@@ -1772,7 +1752,7 @@
 							<l>Niemals sind bis jest in den einst römischen Gebieten </l>
 							<l>Deutschlands so zahlreiche und wichtige Werke des Alter= </l>
 							<l>zu Neumagen. Zumeist sind es Teile von Grabdenkmälern </l>
-							<pb n="678" />
+							<pb n="49" />
 							<l>stein gemeißelt. Einige zeigen Meergötter, Seetiere und </l>
 							<l>Gottheiten, die meisten hingegen Szenen aus dem täglichen </l>
 							<l>Leben, so ist eine Schule zu sehen, ein Kontor, wo Geld </l>
@@ -1808,7 +1788,7 @@
 							<l>jezt noch erhaltene Römerstraße, genannt der Rimweg, auf </l>
 							<l>dem Gebirgskamm des rechten Moselufers auf Trier zu. </l>
 							<l>Etwa eine Stunde von Neumagen, am Layenberg, heißt </l>
-							<pb n="679" />
+							<pb n="50" />
 							<l>eine Stelle noch heute auf Kron". Dort soll Konstantin </l>
 							<l>jenes himmlische Zeichen erblickt haben, als er mit seinen </l>
 							<l>Legionen auszog gegen seinen Nebenbuhler Marentius. </l>
@@ -1844,7 +1824,7 @@
 							<l>hemmen und für die Schiffahrt unschädlich zu machen, hat </l>
 							<l>man neuerdings die Mündung durch Querdämme gesperrt, </l>
 							<l>so daß die Thron gezwungen wird, in einem sehr spißen </l>
-							<pb n="680" />
+							<pb n="51" />
 							<l>lenken. Hier ist klassischer Boden : Drahonus heißt das </l>
 							<l>Flüßchen bei Ausonius. An seinem Oberlauf liegt der </l>
 							<l>Stumpfe_Turm", eine Römerbefestigung an der alten </l>
@@ -1879,7 +1859,7 @@
 							<l>und Sommersiß an der Mosel erbaut hatte. Nicetius war </l>
 							<l>ein thatkräftiger Mann, von 527-566 Bischof zu Trier, </l>
 							<l>und hat die auftrafischen Könige, die zu Mez herrschten, </l>
-							<pb n="681" />
+							<pb n="52" />
 							<l>bannt, doch dessen Sohn Siegebert rief ihn zurück. Leider </l>
 							<l>wissen wir nicht genau, wo die Burg des Nicetius lag, </l>
 							<l>doch dürfen wir sie schwerlich viel weiter moselabwärts als </l>
@@ -1912,7 +1892,7 @@
 							<l>Und in der Frühlingszeit blüht es und duftet es rings." </l>
 							<l>Man möchte wohl annehmen, daß der Bischof die </l>
 							<l>störten Konstantinsburg zu seinem Bau mitbenugt habe, ja, </l>
-							<pb n="682" />
+							<pb n="53" />
 							<l>laß gewesen sei, gerade bei Neumagen seine Feste zu: </l>
 							<l>bauen, denn in der Frankenzeit fehlte es nicht an mutigen. </l>
 							<l>Kriegern, wohl aber an geschickten Handwerkern. </l>
@@ -1950,7 +1930,7 @@
 							<l>dem Felsen </l>
 							<l>Wieder, aus Wipfeln des Waldes und aus des Flusses. </l>
 							<l>Gewölbe." </l>
-							<pb n="683" />
+							<pb n="54" />
 							<l>Auch paßt nirgends besser als hier seine Schilderung </l>
 							<l>von der Spiegelung im Wasser : </l>
 							<l>• se ,ht wie zittert der Traube </l>
@@ -1985,7 +1965,7 @@
 							<l>Cusanus aber erkrankte in Koblenz bei seiner Schwester, </l>
 							<l>der Schulheißenfrau Breyfigerin, und wie er so da im </l>
 							<l>Fieber lag, reute ihn sein hartes Wort, das er zu dem </l>
-							<pb n="684" />
+							<pb n="55" />
 							<l>stüßte den Kirchenbau. Der ward nicht ohne Wunder </l>
 							<l>vollendet, denn als Eberhards Fäßchen leer war, aus dem </l>
 							<l>ei den Bauleuten zu trinken geben wollte, da füllte es sich </l>
@@ -2020,7 +2000,7 @@
 							<l>sucht in Haus und Feld, im ganzen Dorf, das Kind blieb </l>
 							<l>fort. Die Nachbarn begehen andern Tags die ganze Flur, </l>
 							<l>man durchfragt alle Dörfer in der Runde : das Mägdelein </l>
-							<pb n="685" />
+							<pb n="56" />
 							<l>bringen. Drei Tage lang war das Kind schon fort, und </l>
 							<l>am vierten Tag, wo das Meßopfer zu Klausen vollbracht </l>
 							<l>werden sollte, geht die Mutter, begleitet von Freunden und </l>
@@ -2056,7 +2036,7 @@
 							<l>die hundert Jahre lang jedesmal an den höchsten Festen, </l>
 							<l>bis einmal zur Nachzeit Diebe in die Kirche einbrachen. </l>
 							<l>Die zündeten zu dem Werke der Finsternis die geweihte </l>
-							<pb n="686" />
+							<pb n="57" />
 							<l>Kerze an, doch beim Weggehen ließen sie sie ruhig brennen. </l>
 							<l>stahl, aber nicht zugleich, daß die Kerze brannte. Erst nach </l>
 							<l>mehreren Wochen entdeckte man durch Zufall den Schaden, </l>
@@ -2095,7 +2075,7 @@
 						<p>
 							<l>Oberhalb Winterich, an dem rechten Moselufer, erhebt </l>
 							<l>sich der Ohligsberg ; den Namen hat er von einer Kapelle </l>
-							<pb n="687" />
+							<pb n="58" />
 							<l>zum Delberg, die dort steht. Auf diesem Berge wächst </l>
 							<l>bei duftig und zart. Der anstoßende Neuberg, der sich ein </l>
 							<l>Bachthal entlang zieht, ist dem Ohligsberger nahe verwandt </l>
@@ -2131,7 +2111,7 @@
 							<l>Graach, Bernkastel und Zeltingen. Der Brauneberg ist so </l>
 							<l>ausgedehnt, daß in guten Jahren 800 Fuder daselbst </l>
 							<l>wachsen können. Die Orte Filzen, Dusemond Mülheim, </l>
-							<pb n="688" />
+							<pb n="59" />
 							<l>und Lieser teilen sich in den Besit des kostbaren Berges. </l>
 							<l>Auch die Gemarkung des Dörfchens Monzel, das an dem </l>
 							<l>obern Ende des Brauneberges auf der Höhe liegt, rechnet </l>
@@ -2167,7 +2147,7 @@
 							<l>hunderten schon zu einem reichen Weinbaugebiet gemacht hat. </l>
 							<l>Die Grafen des Nahegaues besaßen zur fränkischen </l>
 							<l>viele Dörfer im Nahegebiet, sie waren es, die auch Veldenz </l>
-							<pb n="689" />
+							<pb n="60" />
 							<l>liegende Verdun eines starken Verwalters seiner Güter : </l>
 							<l>mäßig eintrafen. In Veldenz herrschten also eine Reihe </l>
 							<l>mahlin zugleich mit dem Markgrafen von Baden Erbe der </l>
@@ -2194,7 +2174,7 @@
 							<l>Ein Ritter aus Veldenz war in den Kampf gezogen </l>
 							<l>geben. Wie er aber gar nicht wiederkam und die Maid </l>
 							<l>gar so viel um ihn weinte, da wollte ihre Mutter sie </l>
-							<pb n="690" />
+							<pb n="61" />
 							<l>trösten und sagte : „ Gib mir den Ring her, denn da ist </l>
 							<l>ein Zauber drin, dein Ritter ist tot, und du sollst nicht </l>
 							<l>dein ganzes Leben um seinetwillen vertrauern. “ </l>
@@ -2230,7 +2210,7 @@
 							<l>Papste Eugen IV. die Anerkennung auf so lange_ver= </l>
 							<l>weigern, bis er die Obmacht der Konzilien anerkannt </l>
 							<l>habe, sind von Lysura entworfen worden. Der Sieg der </l>
-							<pb n="691" />
+							<pb n="62" />
 							<l>in, Basel versammelten Väter schien nicht mehr zweifelhaft, </l>
 							<l>da gab des Papstes Geheimsekretär, Aeneas Sylvius </l>
 							<l>Piccolomini, der spätere Papst Pius II., seinem Herrn den </l>
@@ -2261,7 +2241,7 @@
 							<l>dem Namen nach zu urteilen eine deutsche Gründung zu </l>
 							<l>wähnt, indem sich Adalbero, der zu Gunsten Poppos auf </l>
 							<l>die Würde eines Trierer Erzbischofs verzichtete, als Herr von </l>
-							<pb n="692" />
+							<pb n="63" />
 							<l>Sierk, Saarburg und Bernkastel bezeichnet. Damals scheint </l>
 							<l>worben zu haben. Nach und nach aber fettete Trier den </l>
 							<l>Ort immer fester an sich ; im Jahre 1277 baute Erzbischof </l>
@@ -2295,7 +2275,7 @@
 							<l>schlichter Bernkasteler Bürger den Burgweg keuchend hinan </l>
 							<l>und trug auf seiner Schulter ein Fäßlein; und er begehrte </l>
 							<l>Einlaß in die Burg, vorgebend, er sei der rechte Doktor </l>
-							<pb n="693" />
+							<pb n="64" />
 							<l>für den hohen Kranken. Wie man ihn nun vorgelassen </l>
 							<l>hatte, da lockerte er den Spunden und stieß einen Krahnen </l>
 							<l>in sein Fäßlein und ließ einen goldenen Wein laufen, den </l>
@@ -2332,7 +2312,7 @@
 							<l>zu Bernkastel in den herrschaftlichen Forsten gewildert und' </l>
 							<l>einen Kapitalhirsch geschossen. Die Geschichte ward ruchbar </l>
 							<l>und den Kellner befiel eine heillose Angst, daß es ihm möge an </l>
-							<pb n="694" />
+							<pb n="65" />
 							<l>den Kragen gehn und sicherlich zum wenigsten seine schöne </l>
 							<l>Stelle kosten werde. Was thut er ? Er sattelt sein Rößlein </l>
 							<l>liche Schloß und ruht nicht, bis er zum gnädigen Herrn </l>
@@ -2366,7 +2346,7 @@
 							<l>Jagd weilte, so gelang es ihm, seinen gnädigen Herrn zu </l>
 							<l>warnen, und dieser macht sich alsbald auf die Socken gen </l>
 							<l>Ehrenbreitstein, bis Kaisersesch von den Husaren verfolgt. </l>
-							<pb n="695" />
+							<pb n="66" />
 							<l>Der treue Postillon aber erhielt zeitlebens das Recht, so </l>
 							<l>oft er nach Ehrenbreitstein käme, sich allda gütlich thun zu </l>
 							<l>dürfen in Hofküche und Hoffeller. </l>
@@ -2399,7 +2379,7 @@
 							<l>Vorsitzender dieser Kirchenversammlung (1431) und trat mit </l>
 							<l>seltener Beredtsamkeit für die Reformation der Kirche an </l>
 							<l>Haupt und Gliedern ein, zusammen mit seinem Freunde </l>
-							<pb n="696" />
+							<pb n="67" />
 							<l>Aeneas Sylvius Piccolomini. Er vertrat insbesondere </l>
 							<l>den Saz, die Konzilien seien die Kirche, darum stehe ein </l>
 							<l>richtig geleitetes Konzil über dem Papste. Da er </l>
@@ -2433,7 +2413,7 @@
 							<l>der Kapelle zu Cues. </l>
 							<l>schreibern als das hellste Licht der Wissenschaft im ganzen </l>
 							<l>seine mathematischen Kenntnisse ; er lehrte die Mehrheit der </l>
-							<pb n="697" />
+							<pb n="68" />
 							<l>Weltkörper, lehrte, daß im Weltall nichts stille stehe, die </l>
 							<l>Erde bewege sich in dreifacher Weise : um sich selbst, um </l>
 							<l>die Pole der Welt, was auch die stillestehende Sonne thue, </l>
@@ -2464,7 +2444,7 @@
 							<l>sollten ein graues Kleid tragen nach Landesbrauch, die </l>
 							<l>nung und doch der Schwachheit des Leibes Rechnung </l>
 							<l>dauert; wenn freilich nicht allezeit streng nach dem Sinn </l>
-							<pb n="698" />
+							<pb n="69" />
 							<l>des Stifters verfahren wurde, so ist man doch immer </l>
 							<l>wieder darauf zurückgekommen, und noch immer bevölkern </l>
 							<l>die 33 Pfründner die klosterartigen Räume, noch immer </l>
@@ -2505,7 +2485,7 @@
 					<div type="tale">
 						<head n="69">Graach und Zeltingen</head>
 						<p>
-							<pb n="699" />
+							<pb n="70" />
 							<l>Auf dem Bischofsstuhl zu Köln saß um 620 der </l>
 							<l>heilige Kunibert; er stammte von der Mosel und hat der </l>
 							<l>Sage nach sein mütterliches Erbgut Rachtig, Zeltingen und </l>
@@ -2537,7 +2517,7 @@
 							<l>Der Berg hinter Graach ist sehr hoch, und die höchste, </l>
 							<l>aber nicht schlechteste Weinlage daselbst heißt darum ,im </l>
 							<l>Himmelreich". Oben auf dem Rücken hat einmal eine </l>
-							<pb n="700" />
+							<pb n="71" />
 							<l>Festung gebaut werden sollen, sofern nämlich 1796 die </l>
 							<l>Franzosen dort starke Verschanzungen errichteten, ihre </l>
 							<l>Stellung auf dem rechten Moselufer gegen Mainz und </l>
@@ -2573,7 +2553,7 @@
 					<div type="tale">
 						<head n="71">Wehlen</head>
 						<p>
-							<pb n="701" />
+							<pb n="72" />
 							<l>Im Anfang des 18. Jahrhunderts wurde dem Wehlener </l>
 							<l>lagen von wegen der Abgabe, der sogenannten Weinbeede, </l>
 							<l>und deshalb in fünf Klassen geteilt wurden, so rechnete </l>
@@ -2605,7 +2585,7 @@
 							<l>Man wallfahrtete gerne dorthin gegen den Veitstanz, aber </l>
 							<l>die Nonnen müssen zeitweise wohl selber gern dem Tanz </l>
 							<l>zugeschaut haben, wenigstens hat Erzbischof Werner ihnen </l>
-							<pb n="702" />
+							<pb n="73" />
 							<l>gestorben und ist mit ihnen der Konvent erloschen. Eine </l>
 							<l>Sage erzählt, das Kloster habe früher zwischen Horchheim </l>
 							<l>und Niederlahnstein gestanden, da wo ein Bach dem Rheine </l>
@@ -2639,7 +2619,7 @@
 							<l>und wurde unter Kaiser Heinrich IV. zum Erzbischof von </l>
 							<l>Trier ernannt. Aber er Graf Theoderich oder Dieterich, </l>
 							<l>kennen und fandte Mörder aus, die ihn auf seiner Reise </l>
-							<pb n="703" />
+							<pb n="74" />
 							<l>nach Trier ereilen sollten. Kuno dachte anfangs, als die </l>
 							<l>Männer nach ihm fragten, sie seien als feierliches Geleit </l>
 							<l>gekommen, ihn einzuholen in die Bischofsstadt, aber bald </l>
@@ -2670,7 +2650,7 @@
 							<l>Vögten verwaltet wurde. Rudolf von Habsburg verlieh </l>
 							<l>heim wegen treugeleisteter Dienste als Lehen, zwar nur auf </l>
 							<l>so lange, bis er ihm ein anderes Lehen ausgemittelt habe, </l>
-							<pb n="704" />
+							<pb n="75" />
 							<l>überließ seinem Bruder, dem Erzbischof Balduin von Trier, </l>
 							<l>die Reichsburg Kochem und erlaubte ihm, alles einzulösen, </l>
 							<l>was als Gefälle dieser Burg etwa verpfändet war, also </l>
@@ -2706,7 +2686,7 @@
 							<l>Cröferreich sollten evangelisch werden dürfen und in die </l>
 							<l>für gab das Reich an die dortigen Pfarrer jährlich vier </l>
 							<l>Fuder Wein. Sie wurden aber nicht evangelisch und </l>
-							<pb n="705" />
+							<pb n="76" />
 							<l>tranken ihre vier Fuder Wein lieber selbst. Als endlich </l>
 							<l>im Jahre 1776 die sponheimischen Erben sich dahin einten, </l>
 							<l>tausend lang bestehen geblieben waren, hielt der geordnete </l>
@@ -2737,7 +2717,7 @@
 							<l>pfalz und die Sponheimer Linie zu Starkenburg an der </l>
 							<l>Mosel erbten die Grafschaft Sponheim, deren Gebiet den </l>
 							<l>alten Namen behielt. Aber die Starkenburger Linie war </l>
-							<pb n="706" />
+							<pb n="77" />
 							<l>auf Starkenburg und wurde zu Trarbach begraben. Schon </l>
 							<l>schwesterseite, der Markgraf Bernhard von Baden und </l>
 							<l>der Graf Friedrich von Veldenz waren die glücklichen Erben. </l>
@@ -2769,7 +2749,7 @@
 							<l>mittleren Mofel fand das lutherische Glaubensbekenntnis </l>
 							<l>graf Friedrich von Simmern und der Markgraf Philibert </l>
 							<l>von Baden reformierten den Gottesdienst. So geschah es, </l>
-							<pb n="707" />
+							<pb n="78" />
 							<l>schaft protestantisch war, nur das Cröferreich ausgenommen, </l>
 							<l>wo der Erzbischof von Trier seinen Mitbesig erfolgreich </l>
 							<l>geltend machte. Als aber der kinderlose Markgraf von </l>
@@ -2805,7 +2785,7 @@
 							<l>Anno 1498 begann man einen Klosterbau, und 1500 schlug </l>
 							<l>man den Dachstuhl auf. Auch Reliquien gewann man, so </l>
 							<l>den untern Kinnbacken des heiligen . Alerius mit einem </l>
-							<pb n="708" />
+							<pb n="79" />
 							<l>Zahn, und Meister Nikolaus von Mastricht malte ihnen </l>
 							<l>„umbsonst“ ein Muttergottesbild. Aber Diebe brachen ein </l>
 							<l>und bestahlen die Kirche, und die Kogelherrn selber wandelten </l>
@@ -2839,7 +2819,7 @@
 							<l>das sich sanft und mit Obstbäumen bedeckt bis zu den </l>
 							<l>Ruinen das Klosters Wolf hinaufzieht." In dieser Kapelle </l>
 							<l>Hat der Rektor Hofmann aus Trarbach noch um 1660 ge= </l>
-							<pb n="709" />
+							<pb n="80" />
 							<l>predigt. In Stores Jugendzeit wurde nur noch einmal </l>
 							<l>halten. Nur einmal im Jahre," fährt Storck fort, in </l>
 							<l>der Zeit, wo die Natur ihr Brautfest begeht, wurde die </l>
@@ -2874,7 +2854,7 @@
 							<l>Herrschaft durfte keiner sich außer Landes begeben, nicht </l>
 							<l>einmal nach auswärts sich verheiraten, vielmehr bedurfte </l>
 							<l>es dazu eines Loskaufes. Jeder Bürger mußte seine Kinder </l>
-							<pb n="710" />
+							<pb n="81" />
 							<l>ein Jahr lang bei Hofe dienen lassen, und jederzeit gab es </l>
 							<l>wurde für Traben, Lißig und Riesbach ein Freiheitsbrief </l>
 							<l>ausgefertigt, der nur noch die Frohndienste bestehen ließ. </l>
@@ -2905,7 +2885,7 @@
 							<l>Schloß den Kaiserlichen überlassen, für welche Schmach ihn </l>
 							<l>bald darauf Herzog Bernhard von Weimar, der berühmte </l>
 							<l>Anführer der Schweden, mit dem Tode bestrafte. Auch im </l>
-							<pb n="711" />
+							<pb n="82" />
 							<l>spanischen Erbfolgekrieg ward das Schloß von den Franzosen </l>
 							<l>belagert und gewonnen, aber ihnen bald wieder entrissen. </l>
 							<l>nischen Erbfolgekrieg der allzukühne Kurfürst Franz Georg </l>
@@ -2934,7 +2914,7 @@
 							<l>er könne auch nicht unterminiert werden. Außerhalb des </l>
 							<l>Thores gegen den Hunsrücken hin war auch noch ein </l>
 							<l>großes Rundel, mit Geschüß dergestalt versehen, daß keine </l>
-							<pb n="712" />
+							<pb n="83" />
 							<l>selbst einen Angriff zu wagen. Gegen die Stadt hin waren </l>
 							<l>auch Abschnitte, Streichwehren und Türme, so daß man </l>
 							<l>die Gräfenburg für des Landes „Schußwehr, Freistatt </l>
@@ -2965,7 +2945,7 @@
 							<l>und zwar wurden die Kosten aus den Gefällen des Klosters </l>
 							<l>Wolf bestritten. „ Dannenhero diejenigen, welche ihre Kinder </l>
 							<l>wisses ihrer Kinder wegen zu reichen haben, es sei denn, </l>
-							<pb n="713" />
+							<pb n="84" />
 							<l>liebiges wollen verehren," sagt Hofmann. Seit 1649 war </l>
 							<l>die lateinische Schule in zwei Klassen geteilt worden, unter </l>
 							<l>einem Rektor und einem Konrektor, dazu kam 1753 noch </l>
@@ -2999,7 +2979,7 @@
 							<l>jährliche Darreichung von einem Drittel des Ertrags in </l>
 							<l>Weinberg umgewandelt hatten. Das Baugeding hatte nun </l>
 							<l>den Zweck, zu untersuchen, ob all diese Weingärten in gutem </l>
-							<pb n="714" />
+							<pb n="85" />
 							<l>schreiber, der Amtsschreiber, der Keller, der Burgemeister </l>
 							<l>sperrt und alle Verordnungen und Geseze des Baugedinges </l>
 							<l>laut verlesen. Neue Baugedingsverwandte, an welche solche </l>
@@ -3031,7 +3011,7 @@
 					<div type="tale">
 						<head n="83">Geldarmut der Moselbauern in früheren Jahrhunderten</head>
 						<p>
-							<pb n="715" />
+							<pb n="86" />
 							<l>So sehr man auch öfter den lebhaften Verkehr und </l>
 							<l>Handel an der Mosel während des Mittelalters gerühmt </l>
 							<l>findet, so muß nach unserm heutigen Maßstabe gemessen </l>
@@ -3069,7 +3049,7 @@
 					<div type="tale">
 						<head n="84">Weinbau an der Mosel heutzutage</head>
 						<p>
-							<pb n="716" />
+							<pb n="87" />
 							<l>An Mosel und unterer Saar sind über sechstausend </l>
 							<l>Hektaren als Weinberg angelegt, die durchschnittlich jährlich. </l>
 							<l>gegen 20 000 Fuder Wein hervorbringen, also 20 Millionen </l>
@@ -3096,7 +3076,7 @@
 							<l>Stöcke dagegen niedriger, doch immer noch viel höher als </l>
 							<l>schieht, läßt man am Rhein nur eine oder zwei sogenannte </l>
 							<l>Bogreben von etwa 80 Zentimeter Länge stehen. An der Mosel </l>
-							<pb n="717" />
+							<pb n="88" />
 							<l>stehenden Stockwerken ein Dußend und mehr Bogreben </l>
 							<l>oder Büglinge, jest immerhin doch noch vier bis sechs . Ein </l>
 							<l>schön gebundener Stock mit sechs Büglingen gleicht im </l>
@@ -3127,7 +3107,7 @@
 							<l>oder Loden geheftet, dann wird aufgebunden ausgebrochen, , </l>
 							<l>d. h. zu starke und unnüße Seitentriebe abgezwackt, zulet </l>
 							<l>gegipfelt, d. h. die Spizen der Haupttriebe in der Höhe </l>
-							<pb n="718" />
+							<pb n="89" />
 							<l>des Pfahles abgeschnitten, und dann endlich wird das </l>
 							<l>Nahen der Reife und die Lese abgewartet. Dazu kommt </l>
 							<l>der Kampf gegen die Schädlinge gegen die Perinospera </l>
@@ -3159,7 +3139,7 @@
 					<div type="tale">
 						<head n="85">Das Mosellied</head>
 						<p>
-							<pb n="719" />
+							<pb n="90" />
 							<l>sterblichen Ruhm erworben dadurch, daß es ein Fuder, d. h. </l>
 							<l>tausend Liter besten Moselweines, 1842er Gewächs, als </l>
 							<l>Bewerber auf den Plan, darunter namhafte Dichter, wie </l>
@@ -3190,7 +3170,7 @@
 							<l>einer die Geschichte jenes Preisausschreibens noch genauer </l>
 							<l>nachweis). Der Verfasser war Postrat in Koblenz und </l>
 							<l>Köln und ist 1894 gestorben. Er hat auch Koblenz in </l>
-							<pb n="720" />
+							<pb n="91" />
 							<l>fröhlicher und liedergewandter Dichtermund, warum mußtest . </l>
 							<l>du so früh dich schließen ? Viel ungetrunkener Moselwein </l>
 							<l>wartet vergeblich auf dich. </l>
@@ -3223,7 +3203,7 @@
 							<l>gestellt. </l>
 							<l>Bist du aber nur ein gewöhnlicher Sterblicher dritter </l>
 							<l>bis vierter oder gar noch höherer Klasse, dann laß fahren </l>
-							<pb n="721" />
+							<pb n="92" />
 							<l>sorten und sei froh und zufrieden, wenn du deinen Erdener </l>
 							<l>oder Throner oder Graacher oder Piesporter oder Zeltinger </l>
 							<l>verfälschten Weinchen aus den Weingärten vierter bis </l>
@@ -3253,7 +3233,7 @@
 							<l>Die besten Weine an der Untermosel wachsen nach </l>
 							<l>übereinstimmender Ansicht der Kenner bei Winningen in </l>
 							<l>halb des Ortes. Kobern produziert gleichfalls in seinen Uhlen </l>
-							<pb n="722" />
+							<pb n="93" />
 							<l>gute, den Winningern ebenbürtige Weine und die besten in </l>
 							<l>seinem Fahrberg und Rosenberg . Weiter aufwärts zeichnen </l>
 							<l>Aber die magna Charta der Mosel fängt erst oberhalb </l>
@@ -3281,7 +3261,7 @@
 						<p>
 							<l>wie das anstoßende Hunsrückgebiet birgt tief im Schoß der </l>
 							<l>Erde mancherlei wertvolles Gestein, insbesondere Bleierz </l>
-							<pb n="723" />
+							<pb n="94" />
 							<l>und Kupferkies, auch etwas Silber. Seit 400 Jahren ist </l>
 							<l>lichen Amte Bernkastel unter anderen folgende Bergwerke </l>
 							<l>schnur, der Barbaraberg, die Kautenbach, die Himmelshecke </l>
@@ -3310,7 +3290,7 @@
 							<l>untergeworfen, so daß jest längst nichts Merkwürdiges an </l>
 							<l>besagtem Punkte mehr zu sehen ist. Der Schreiber dieser </l>
 							<l>fessor der Mineralogie, der unverhohlen als seine feste </l>
-							<pb n="724" />
+							<pb n="95" />
 							<l>Ueberzeugung aussprach es liege hier, überhaupt kein </l>
 							<l>Menschenwerk vor, sondern eine Unterwaschung des Gesteins </l>
 							<l>durch Witterungseinflüsse natürlicher Art. </l>
@@ -3349,7 +3329,7 @@
 					<div type="tale">
 						<head n="89">Die Festung Montroyal auf dem Trabener Berg</head>
 						<p>
-							<pb n="725" />
+							<pb n="96" />
 							<l>Von Wolf bis Enkirch umfließt die Mosel in mächtigem </l>
 							<l>Bogen einen nach Südost sich abdachenden Bergrücken ; dort </l>
 							<l>oben, nahe beim Dörfchen Kövenich, Enkirch gegenüber, </l>
@@ -3380,7 +3360,7 @@
 							<l>pfälzischenErbfolgekrieg, der nun ausbrach, von Mainz bis Köln </l>
 							<l>raubend, mordend und brennend die Lande durchzog. Aber die </l>
 							<l>Notschreie der gebrandschaßten Lande hörte der Kaiser nicht, </l>
-							<pb n="726" />
+							<pb n="97" />
 							<l>dieweil er selbst hart von den Türken bedrängt war, nur </l>
 							<l>der Kurfürst von Brandenbur ,g Friedrich Wilhelm, war zur </l>
 							<l>Hilfe bereit. Im Frühling 1690 hatte er ein großes Heer </l>
@@ -3416,7 +3396,7 @@
 							<l>es doch, da es ein chikanöses gebirgiges Terrain durchstreift, </l>
 							<l>von beiden Seiten durch vorspringende Winkel bald rechts, </l>
 							<l>bald links gedrängt, so daß es nur im weitläufigen </l>
-							<pb n="727" />
+							<pb n="98" />
 							<l>Schlangengange fortwandeln kann. Deswegen ist denn aber </l>
 							<l>wies Kraft und Gewandtheit, indem er bald hier einen </l>
 							<l>vorgeschobenen Kies zu vermeiden, sogleich aber dort den </l>
@@ -3448,7 +3428,7 @@
 							<l>Stockfinstern lange hin und her geworfeu, bis sich endlich </l>
 							<l>in der Ferne ein Licht und damit auch Hoffnung aufthat. </l>
 							<l>Nun ward nach Möglichkeit drauf losgesteuert und gerudert. </l>
-							<pb n="728" />
+							<pb n="99" />
 							<l>Endlich stiegen wir in Trarbach glücklich ans Land, </l>
 							<l>wo man uns in einem leidlichen Gasthofe Henne mit Reis </l>
 							<l>alsobald anbot. Ein angesehener Kaufmann aber, die </l>
@@ -3483,7 +3463,7 @@
 							<l>das schönste Naturbild gesehen, was mir vielleicht zu Augen </l>
 							<l>gekommen. Als wir gegen die Moselbrücke zufuhren, stand </l>
 							<l>uns dieses schwarze, mächtige Bauwerk kräftig entgegen ; </l>
-							<pb n="729" />
+							<pb n="100" />
 							<l>bäude des Thals, über der Brückenlinie soeben das Schloß </l>
 							<l>Ehrenbreitstein im blauen Dufte durch und hervor; rechts </l>
 							<l>bildete die Stadt, an die Brücke sich anschließend, einen </l>
@@ -3516,7 +3496,7 @@
 							<l>gekehrt, da hatte die Witwe dieses Sohnes, Gräfin Lauretta, </l>
 							<l>eine geborene Gräfin Salm aus dem Wasgau, Balduins </l>
 							<l>mann des mächtigen Kurfürsten, Friedrich, Wildgrafen von </l>
-							<pb n="730" />
+							<pb n="101" />
 							<l>Kirburg bei Kirn, gefangen genommen hatte, da rächte sich </l>
 							<l>der kriegerische Kirchenfürst dadurch, daß er auf sponheimischem </l>
 							<l>Boden, bei Birkenfeld, eine Zwingburg baute und von dort </l>
@@ -3550,7 +3530,7 @@
 						<p>
 							<l>Am rechten Moselufer türmen sich zwischen Nußbäumen </l>
 							<l>die freundlichen Häusermassen des bedeutenden Fleckens </l>
-							<pb n="731" />
+							<pb n="102" />
 							<l>'Enkirch am Bergeshang übereinander; der Ort wird schon </l>
 							<l>dem Kloster zu Pfalzel Güter in Enchiriacum zuweist. </l>
 							<l>Später heißt es Ankaracha, Einkirke, Enkerich; die Königin </l>
@@ -3581,7 +3561,7 @@
 							<l>Jezt ist ihr Kloster das Königliche Arresthaus, und ihre Kirche </l>
 							<l>dient zur katholischen Garnisonkirche. Als sie noch nicht </l>
 							<l>zeit eines Abends der Kurfürst bei ihrer Abendmahlzeit, </l>
-							<pb n="732" />
+							<pb n="103" />
 							<l>bieres vor sich und dazu schwarzes Roggenbrot: das war </l>
 							<l>alles. Das jammerte den Fürsten. Ich will euch einen. </l>
 							<l>bessern Fastentrunk geben, sagte er ; die Gemeinde Burg. </l>
@@ -3615,7 +3595,7 @@
 							<l>in mehr denn 50 Orten die Mönche Höfe und Grundbesig </l>
 							<l>hatten und nach dem Inventar von 1791 noch gegen </l>
 							<l>.schaften. Von sonderlichem Nußen, den das Kloster ge= </l>
-							<pb n="733" />
+							<pb n="104" />
 							<l>stiftet, oder von berühmten Insassen verlautet in den </l>
 							<l>Chroniken nichts, nur daß mehr und mehr der Konvent nur </l>
 							<l>aus Edelleuten sich zusammenseßte, wie auch daß klösterliche </l>
@@ -3656,7 +3636,7 @@
 						<p>
 							<l>Hinter Reil steigt dicht am Moselufer das Gebirge </l>
 							<l>steil in die Höhe, eine Einsattelung trägt den Namen. </l>
-							<pb n="734" />
+							<pb n="105" />
 							<l>Reilerhals, dort hinüber führt eine vielbegangene Straße </l>
 							<l>nach Alf. Auf der Höhe des Passes lenkt die Straße an </l>
 							<l>einem Kapellchen vorbei, das ins Moselthal hinunterschaut. </l>
@@ -3693,7 +3673,7 @@
 							<l>wurden sie am 26. Dezember 1799 zu Koblenz enthauptet. </l>
 							<l>Nur des Krämer, genannt Hunsrückerhannes, konnte man </l>
 							<l>aiemals habhaft werden, man sagt, er sei von später ge= </l>
-							<pb n="735" />
+							<pb n="106" />
 							<l>worbenen Genossen erschlagen worden. Die Hunsrückbande </l>
 							<l>aber wurde samt ihrem Hauptmann, demSchinderhannes, im </l>
 							<l>November 1803 zu Mainz enthauptet. Von da ab hat </l>
@@ -3731,7 +3711,7 @@
 							<l>Wer an einem Abend in der zweiten Hälfte des August </l>
 							<l>oder im September die Mosel abwärts fährt, dem bietet </l>
 							<l>Ferd. Harrach. Ebenda : Räuberbande der Mosel, Preis 0,50 Mk. </l>
-							<pb n="736" />
+							<pb n="107" />
 							<l>sich eine mächtige Rauchwolke, die leise im Wind hin und </l>
 							<l>herwogt und anscheinend einer großen Masse einzelner Herde </l>
 							<l>entstammt. Wendet sich aber der Blick nach einer andern </l>
@@ -3766,7 +3746,7 @@
 							<l>spenstisch zum Himmel ragen. Aber im Juni sind sie schon </l>
 							<l>verschwunden, und nun beginnt auch schon die Arbeit der </l>
 							<l>Losinhaber in den „Rotthecken“, wie die Lohschläge genannt </l>
-							<pb n="737" />
+							<pb n="108" />
 							<l>werden. Dem Winzer ist eben kein Erholungstag gegönnt, </l>
 							<l>soweit die Weinbergsarbeiten ihn nicht in Anspruch nehmen, </l>
 							<l>wird im Rott geschafft, das ganze Jahr durch. Sind die </l>
@@ -3800,7 +3780,7 @@
 							<l>handen ist und die Wurzelstöcke der Eichen durch den Blut </l>
 							<l>hauch leicht eingehen, so duldet die Behörde das eigen </l>
 							<l>nur ungern, kann es aber als uralten Gebrauch nicht wohl </l>
-							<pb n="738" />
+							<pb n="109" />
 							<l>= 115 = </l>
 							<l>berbieten wird doch diese Art Wirtschaft schon in einet </l>
 							<l>entzöge Ta auch zahlreichen Menschen dadurch Nahrung d </l>
@@ -3836,7 +3816,7 @@
 							<l>waren, die als Vorhut Sickingens Sturm auf Trier ziveeZtired </l>
 							<l>lande sprichwörtlich: He staiht ferme, wie ' n Zeller us dem </l>
 							<l>Hamm". Doch ist Zell ein Bild vergangener Größe. Da </l>
-							<pb n="739" />
+							<pb n="110" />
 							<l>es in dem tiefen Moselbogen liegt, den jedermann auf </l>
 							<l>Richtwegen abschneidet, so kommt nur nach Zell, wer dort </l>
 							<l>schaft locken. Die Welt hat es vergessen, und obschon </l>
@@ -3867,7 +3847,7 @@
 							<l>Zum Zweck der abendlichen Erholung seien die leichten </l>
 							<l>und anmutigen Moselweine, sagt er, viel passender als </l>
 							<l>schwere Weine, da sie auch reichlich genossen, was in heiterer </l>
-							<pb n="740" />
+							<pb n="111" />
 							<l>geistgehalt den Kopf, noch durch zu viele Säure den Magen </l>
 							<l>angreifen. Vor allem aber rät er dem schönen Geschlechte </l>
 							<l>den Moselwein an : „Wenn nun doch einmal Kinder,“ sagt er, </l>
@@ -3899,7 +3879,7 @@
 							<l>vents geschmälert wurden, bald die Klosterzucht Schäden </l>
 							<l>aufwies, so erwirkte schließlich Richard von Greifenklau eine </l>
 							<l>burg mit Kloster Stubben anordnete. Die Nonnen weigerten </l>
-							<pb n="741" />
+							<pb n="112" />
 							<l>sich des, zumal die Meisterin, Ottilie von Kesselstatt, an</l>
 							<l>ihrer vornehmen Sippschaft einen Rückhalt, zu haben</l>
 							<l>glaubte. Man mußte schließlich jeder Konvents-Jonffer</l>
@@ -3937,7 +3917,7 @@
 							<l>Hauptmann zu Limburg an der Lahn. Der wollte sich </l>
 							<l>brüsten, hob also ein volles Ohmfaß in die Höhe und trank</l>
 							<l>aus dem Spundloch. Das konnten die beiden Heimburger</l>
-							<pb n="742" />
+							<pb n="113" />
 							<l>nicht ansehen, der eine war von Neef, der andere von </l>
 							<l>Aldegund, es schien ihnen gegen die Moselerehre, daß ein </l>
 							<l>Fremder die Einheimischen also aussteche, drum schwangen </l>
@@ -3971,7 +3951,7 @@
 							<l>Geht man das Alfbachthal hinauf und folgt dann der </l>
 							<l>Landstraße, die alsbald in das lesbachthal einbiegt, so </l>
 							<l>kommt man in zwei Stunden nach Bad Bertrich, wo eine </l>
-							<pb n="743" />
+							<pb n="114" />
 							<l>quelle aus einem Brunnen quillt, den schon die Römer in </l>
 							<l>den Fels gehauen haben. Eine zweite Quelle wird auch </l>
 							<l>schon seit 400 Jahren zu Heilzwecken benut. Man nennt </l>
@@ -4008,7 +3988,7 @@
 							<l>keiten und Kleinoden, als sie in einer Manne, so nennt </l>
 							<l>man an der Mosel die großen Tragkörbe, auf dem Kopf zu </l>
 							<l>tragen vermöge. Gerne willigt man ein und läßt alsbald </l>
-							<pb n="744" />
+							<pb n="115" />
 							<l>die Burgfrau mit ihrer Manne heraus, dann stürmt man </l>
 							<l>durch das offene Thor und nimmt die Besaßung gefangen, </l>
 							<l>nur des Burgherrn selber konnte man nicht habhaft werden: </l>
@@ -4047,7 +4027,7 @@
 							<l>aber jest mit dem rechten Ufer zusammenhängt, die Ruine </l>
 							<l>des Frauenklosters Stubben ; zwischen hohem Gras und </l>
 							<l>Weiden ragen die von spizbogigen leeren Fensterhöhlen </l>
-							<pb n="745" />
+							<pb n="116" />
 							<l>kirche gen Himmel, mehr gespenstisch als malerisch. </l>
 							<l>Alles Holzwerkes und Eisens ist das Gemäuer beraubt, </l>
 							<l>bannten Nachtigallen scheinen nicht mehr hier zu nisten. </l>
@@ -4081,7 +4061,7 @@
 							<l>ärger, wie die Heiden: sie zerschlugen die herrlichsten ehernen </l>
 							<l>Bildsäulen aus dem Altertum, um Münzen daraus zu </l>
 							<l>schlagen, sie raubten die kaiserlichen Paläste aus, wo seit </l>
-							<pb n="746" />
+							<pb n="117" />
 							<l>Logiens te rijen die Gräber, astfund ihotten dorther und </l>
 							<l>zeit. Auch Heinrich von Uelmentam beutebeladen zur </l>
 							<l>Heimat zurück und schenkte, antele Klöster und Kirchen </l>
@@ -4113,7 +4093,7 @@
 							<l>verschenkte hier liegende Güter und Rechte an die Speierer </l>
 							<l>Kirche, und auch die Abteien Steinfeld und Himmerode in </l>
 							<l>der Eifel hatten schon im tiefen Mittelalter hier Besizungen. </l>
-							<pb n="747" />
+							<pb n="118" />
 							<l>bischofes, waren die Herrn von Isenburg, die ihr Amt </l>
 							<l>liehen hatten. Von hier aus führen über den Berg nähere </l>
 							<l>schleife abschneidend. Die Orte sind ein Paradies für </l>
@@ -4146,7 +4126,7 @@
 							<l>rittern auf dem Hunsrück, Gefangene zu lösen, oft auch im </l>
 							<l>Winter zu entfernten Burgen und Klöstern, daß armen </l>
 							<l>Zinspflichtigen Zehnten oder Beede erlassen werde. Eines </l>
-							<pb n="748" />
+							<pb n="119" />
 							<l>Morgens läuteten die Glocken ringsum von selber, und </l>
 							<l>eilten, lag der gute Vater tot auf seinem Lager. Er ward </l>
 							<l>im Kloster Stubben beigeseßt, aber seine Leiche zeigte nach </l>
@@ -4180,7 +4160,7 @@
 							<l>sie händelsüchtige Raufbolde. Jahraus, jahrein, so sagt </l>
 							<l>sammengekommen, sich im Ringkampf und Keulenschwingen </l>
 							<l>zu messen, selbst der Reichslehensmann auf Beilstein foll </l>
-							<pb n="749" />
+							<pb n="120" />
 							<l>Fuchs beteiligt haben, und ob auch strenge kaiserliche Mandate </l>
 							<l>kamen man hielt misses Ruhe Das ist allerdings sicher, </l>
 							<l>daß seinerzeit die Poltersdorfer der Einführuith des neuen </l>
@@ -4217,7 +4197,7 @@
 							<l>benz geborener Sohn Klemens Wengeslaus Lothar zum </l>
 							<l>durch als Fürst Metternich die Geschicke von ganz Europa, </l>
 							<l>micht immerzumoHeile Unter anderin Ghrenföld erhielt </l>
-							<pb n="750" />
+							<pb n="121" />
 							<l>garn und das ehemalige Kloster Johannisberg im Rheingau </l>
 							<l>mit seinem unvergleichlich kostbaren Weingut... unit mod </l>
 							<l>Zu Beilstein erzählt man sich auch die Geschichte, daß </l>
@@ -4253,7 +4233,7 @@
 							<l>prachtige Wendeltreppe, im deutschen </l>
 							<l>gearbeitet, donwappentragenden Löwen gestüßt. Ein </l>
 							<l>mächtiger Ofen ausgebranntem Thon, mit Wappen und </l>
-							<pb n="751" />
+							<pb n="122" />
 							<l>Heiligenbildern, eichenes Getäfel und Schnißwerk verleihen </l>
 							<l>dem Raum ein so herrschaftliches und vornehm behagliches </l>
 							<l>Gepräge, wie man es in diesem abgelegenen Moselwinkel </l>
@@ -4293,7 +4273,7 @@
 						<head n="116">Ober- und Niederernst. Pfarr- und Klosterweine</head>
 						<p>
 							<l>Bruttig eine Kirchengemeinde. Da aber wegen Eis oder </l>
-							<pb n="752" />
+							<pb n="123" />
 							<l>hob Erzbischof Kuno von Falkenstein bereits 1378 die beiden </l>
 							<l>erstgenannten Dörfer zu einer eigenen Pfarrei. Da der </l>
 							<l>Zehnte Bruttig verblieb, so wurde die neue Pfarrei also </l>
@@ -4326,7 +4306,7 @@
 							<l>Kochem nennt, oder weiter oberhalb nach Zeltingen zu, wo </l>
 							<l>die Einkünfte der Frühmesserei fast ausschließlich aus dem </l>
 							<l>Ertrag der Pfarrwingerte bestanden. Wie nun einmal eine </l>
-							<pb n="753" />
+							<pb n="124" />
 							<l>schah es, daß man dem Frühmesser vierzehnhundert Gulden </l>
 							<l>zählte, schlug dieser vor, sie wollten das Fuder erst einmal </l>
 							<l>probieren. Es schmeckte aber so vorzüglich, daß der geist= </l>
@@ -4369,7 +4349,7 @@
 					<div type="tale">
 						<head n="118">Kochem</head>
 						<p>
-							<pb n="754" />
+							<pb n="125" />
 							<l>Wer die Mosel abwärts fährt, der glaubt sich an die </l>
 							<l>Lorelei verjezt, wenn er etwas oberhalb Kochem rechts die </l>
 							<l>gewaltige Felswand der Brauselei, auch die Mosel-Lorelei </l>
@@ -4408,7 +4388,7 @@
 					<div type="tale">
 						<head n="119">Pfalzgraf Heinrich der Tolle von Kochem</head>
 						<p>
-							<pb n="755" />
+							<pb n="126" />
 							<l>Königin Richenza von Polen, die in Clotten an der </l>
 							<l>Mosel wohnte, wo wir noch von ihr näher hören werden, </l>
 							<l>hatte anno 1056 ihrem Vetter, dem Pfalzgrafen Heinrich, Burg </l>
@@ -4444,7 +4424,7 @@
 							<l>wurde das Schloß und die Wunnenburg unterminiert und </l>
 							<l>in die Luft gesprengt. Im August sodann erschien der </l>
 							<l>Marschall Boufleur mit 15 000 Mann und umschloß die </l>
-							<pb n="756" />
+							<pb n="127" />
 							<l>Stadt. Drei Stürme wurden abgeschlagen, endlich am </l>
 							<l>schossene Bresche ein. Sie hatten 2500 Mann vor Kochem </l>
 							<l>verloren. Der Kommandant von Kochem war der trierische </l>
@@ -4479,7 +4459,7 @@
 							<l>Mainz, hat als solcher beide Diözesen zu Fuß oftmals </l>
 							<l>durchwandert und viel zur Herstellung der Kirchenzucht </l>
 							<l>gethan. Er ist, achtzig Jahre alt, 1712 zu Waghäusel in </l>
-							<pb n="757" />
+							<pb n="128" />
 							<l>Baden an den Folgen eines Sturzes gestorben. In der </l>
 							<l>Folgezeit hat der Name Pater Martin von Kochem meist </l>
 							<l>bei an die derben, kindlichen, krassen und handgreiflichen </l>
@@ -4514,7 +4494,7 @@
 							<l>wesen sein, wo man die gefangenen Wiesenverderber zum </l>
 							<l>lebendig Begrabenwerden verurteilte. Wir beschränken uns </l>
 							<l>teilen. So hat einmal ein Ratsherr, dem die Ortspolizei </l>
-							<pb n="758" />
+							<pb n="129" />
 							<l>tretenen Tauwetters unverzüglich aller Schnee aus den </l>
 							<l>Gassen fortzukehren sei, drei Wochen lang in der Tasche </l>
 							<l>feines Bratenrockes stecken lassen, und wie seine Frau das </l>
@@ -4548,7 +4528,7 @@
 							<l>Haushaltsentwurf einmal ein beträchtlicher Fehlbetrag war, </l>
 							<l>den niemand zu tilgen wußte, sintemal im lezten Jahre </l>
 							<l>überaus große Bauaufwendungen waren gemacht worden. </l>
-							<pb n="759" />
+							<pb n="130" />
 							<l>Die Steuern konnte man nicht erhöhen, weil sie bereits </l>
 							<l>meister und Rat bei : man nahm Tinte, Feder und ein </l>
 							<l>Lineal, strich mit dicken schwarzen Strichen, aber dennoch </l>
@@ -4583,7 +4563,7 @@
 							<l>Tagen als herrlichster Turm des Landes dastehen soll, nur </l>
 							<l>müßt Ihr als Lohn Euer Töchterlein mit einmauern. Den </l>
 							<l>Meister überrieselt es kalt, aber er geht doch den Pakt ein </l>
-							<pb n="760" />
+							<pb n="131" />
 							<l>und hat zur Mitternachtzeit das grausige Werk gethan. </l>
 							<l>Und darum ist der Turm der Winneburg, durch höllische </l>
 							<l>Mächte gefeit, unzerstörbar und steht auch heute noch fest </l>
@@ -4629,7 +4609,7 @@
 					<div type="tale">
 						<head n="126">Das Antoniuskreuz zwischen Uelmen und Kochem</head>
 						<p>
-							<pb n="761" />
+							<pb n="132" />
 							<l>Unfern der Straße, die von Uelmen nach Kochem führt, </l>
 							<l>steht auf einer Anhöhe, die eine weite Fernsicht bietet, ein </l>
 							<l>Heiligenhäuschen, das nennt man das Antoniuskreuz. </l>
@@ -4663,7 +4643,7 @@
 							<l>Jahre lang hat Rixa den untüchtigen Gatten beraten, und </l>
 							<l>nach seinem Tode regierte sie an Stelle ihres unmündigen </l>
 							<l>giment nicht dulden, und sie nahm ihr Söhnlein und floh </l>
-							<pb n="762" />
+							<pb n="133" />
 							<l>in die alte Heimat. Die hadernden Parteien schickten ein </l>
 							<l>Jahr darauf Abgesandte, das Königskind zu holen und auf </l>
 							<l>den Thron zu sehen, denn die Böhmen bedrängten sie hart, </l>
@@ -4700,7 +4680,7 @@
 							<l>Zwischen Obstbäumen blickt die alte Kirche von </l>
 							<l>Pommern herüber, daneben ein mächtiger Rundturm, der </l>
 							<l>die ehemalige Kellerei derer von der Layen schmückte und </l>
-							<pb n="763" />
+							<pb n="134" />
 							<l>schüßte. In dem Dorfe hatte der Erzbischof von Trier </l>
 							<l>schon im 21 . Jahrhundert einen Burghof. Das von einem </l>
 							<l>thal, vallis rosarum, das 1170 vom Ritter Dietrich zu </l>
@@ -4736,7 +4716,7 @@
 							<l>anderthalb Stunden landein, über Höhen und durch </l>
 							<l>Schluchten, so gelangt man zu den Trümmern des adligen </l>
 							<l>Frauenklosters Engelport. Im Jahre 1262 stellte Philipp </l>
-							<pb n="764" />
+							<pb n="135" />
 							<l>von Wildenburg das damals verlassene Kloster wieder her und </l>
 							<l>ließ seine Töchter daselbst den Schleier nehmen, nach der Regel </l>
 							<l>der Prämonstratenser. Die französischeRegierung hat dasKloster </l>
@@ -4774,7 +4754,7 @@
 					<div type="tale">
 						<head n="131">Carden und der heilige Castor</head>
 						<p>
-							<pb n="765" />
+							<pb n="136" />
 							<l>ragenden, dreitürmigen romanischen St. Castorkirche, dann </l>
 							<l>scheint der Ort viel bedeutender zu sein, als er wirklich ist. </l>
 							<l>Auch das gotische Burghaus, das so malerisch am untern </l>
@@ -4812,7 +4792,7 @@
 					<div type="tale">
 						<head n="132">Die Sonntagsmühle bei Carden</head>
 						<p>
-							<pb n="766" />
+							<pb n="137" />
 							<l>Gerade da, wo am Ufer der heilige Castor Wache </l>
 							<l>hält, geht eine tiefe Schlucht in das Gebirge hinein, von </l>
 							<l>einem Bächlein durchflossen, dessen Wasser aber nicht stetig </l>
@@ -4847,7 +4827,7 @@
 							<l>seine Flügel aus und flöge mit ihm ans Meer, dann über Meer </l>
 							<l>und Land und Wälder und Heide, und endlich senke er die </l>
 							<l>schwebe wiederum gen Himmel. Da erwachte der Ritter </l>
-							<pb n="767" />
+							<pb n="138" />
 							<l>gaukelt hätte. Aber wie er die Augen rieb, lag er zwar </l>
 							<l>auch auf rauher Erde, aberaber die Gegend umher war </l>
 							<l>ihm wohlbekannt, denn es war das Maifeld und war </l>
@@ -4883,7 +4863,7 @@
 							<l>dachlos und viele Fenster nur mit Brettern notdürftig zu= </l>
 							<l>geschlagen, doch fand sich zum Glück immer wieder ein die </l>
 							<l>alten Familienüberlieferungen treu pflegendes Mitglied des </l>
-							<pb n="768" />
+							<pb n="139" />
 							<l>Geschlechtes, das die Lücken besserte und auch die Mittel </l>
 							<l>dazu besaß. Zulegt hat Graf Karl zu Elz von 1845 ab </l>
 							<l>nach und nach die ganze Burg neu herstellen lassen, im </l>
@@ -4915,7 +4895,7 @@
 					<div type="tale">
 						<head n="135">Die Grafen von Eltz</head>
 						<p>
-							<pb n="769" />
+							<pb n="140" />
 							<l>So wie Schloß Els ein seltenes Beispiel ist von einer </l>
 							<l>mittelalterlichen Burg, die alle Stürme der Zeit überdauert </l>
 							<l>hat, so sind auch die Grafen zu Elz ein noch seltneres </l>
@@ -4946,7 +4926,7 @@
 							<l>die ganze Sippschaft, doch hockten sie immerhin eng genug </l>
 							<l>beisammen. Darum war der Burgfriede streng geregelt, </l>
 							<l>und männiglich mußte ihn beschwören. Der Burgkaplan </l>
-							<pb n="770" />
+							<pb n="141" />
 							<l>gulden in die Familienkasse, wer die nicht regelmäßig be= </l>
 							<l>zahlte, der mochte in eine Herberge nach Münstermaifeld </l>
 							<l>liche Beschimpfung einen Monat Entfernung aus der Burg, </l>
@@ -4983,7 +4963,7 @@
 							<l>Bei Hof zu Koblenz ist mein Körper angelanget, </l>
 							<l>Der Zierat meines Haupts dir hier, o Leser, hanget. </l>
 							<l>Anno 1751, den 25. Oktobris . </l>
-							<pb n="771" />
+							<pb n="142" />
 							<l>Dieses Geweih hat ursprünglich nicht hier, sondern in </l>
 							<l>der Kurtrierer Kellerei zu Münstermaifeld gehangen. Es hat </l>
 							<l>mijd </l>
@@ -5022,7 +5002,7 @@
 							<l>wütend das Schloß Elg, kündigt die Verlobung auf und </l>
 							<l>schickt einen Fehdebrief. Nachdem beide Parteien sich schon </l>
 							<l>viel Herzeleid angethan, dringt Braunsberg in nächtliche </l>
-							<pb n="772" />
+							<pb n="143" />
 							<l>Ueberfall bis in den Burgfrieden von Elt. Da tritt ihm </l>
 							<l>an der Spize der geringen Besagung ein zarter Jüngling </l>
 							<l>in Harnisch und mit geschlossenem Visier entgegen : es war </l>
@@ -5062,7 +5042,7 @@
 							<l>müssen. Andere erzählen, Räuber hätten sich der Burg be= </l>
 							<l>mächtigt, des Bischofs Leute hätten sie aber zurückerobert, </l>
 							<l>und nachdem alle Räuber mit dem Tode bestraft waren, </l>
-							<pb n="773" />
+							<pb n="144" />
 							<l>habe der Bischof den Ring um den Turm ziehen lassen als </l>
 							<l>Zeichen, daß ihm die Burg gehöre und daß hier Ring </l>
 							<l>und Krummstab regiere. </l>
@@ -5103,7 +5083,7 @@
 					<div type="tale">
 						<head n="140">Die Ehrenburg bei Brodenbach</head>
 						<p>
-							<pb n="774" />
+							<pb n="145" />
 							<l>Eine Viertelstunde abseits von Brodenbach liegt auf </l>
 							<l>einem steilen Bergvorsprung das liebliche, von einem Bach </l>
 							<l>durchflossene Wiesenthal gleichsam sperrend, die gewaltige </l>
@@ -5133,7 +5113,7 @@
 							<l>In der französischen Zeit haben dort lagernde Soldaten </l>
 							<l>den Rampenturm mutwillig gesprengt, auch sonst allerlei </l>
 							<l>Unfug getrieben. Unten in Brodenbach sieht man noch in </l>
-							<pb n="775" />
+							<pb n="146" />
 							<l>berg-Pyrmonter Wappen und der Jahreszahl 1444 : über </l>
 							<l>dem Gekreuzigten öffnet ein Pelikan die Brust, seine Jungen </l>
 							<l>mit Blut zu nähren, unten kniet ein betender Ritter. Es </l>
@@ -5169,7 +5149,7 @@
 						<p>
 							<l>Bei Alken liegen hoch oben in den Weinbergen die </l>
 							<l>Ruinen der Doppelburg Thurant deren zwei, wohlerhaltene </l>
-							<pb n="776" />
+							<pb n="147" />
 							<l>Rundtürme, zinnenbewehrt, samt der in weitem Umkreis </l>
 							<l>den Raum umspannenden Zingelmauer andeuten, daß es </l>
 							<l>keine gewöhnliche Ritterburg gewesen ist. Sie wurde in </l>
@@ -5205,7 +5185,7 @@
 							<l>roten Röschen. Der Burghof zu Alken steht am untern </l>
 							<l>Ende des Ortes, da wo der Bach aus der Thalschlucht </l>
 							<l>herauskommt, er ist im Stil der deutschen Renaissance </l>
-							<pb n="777" />
+							<pb n="148" />
 							<l>erbaut, noch bewohnt, und gehört mit seinem zierlichen, </l>
 							<l>säulengetragenen Portal, seinen mächtigen Kaminen und </l>
 							<l>feinen schiefergedeckten, schön geschwungenen Türmchen zu </l>
@@ -5242,7 +5222,7 @@
 						<head n="144">Die Stiftung zu Lehmen</head>
 						<p>
 							<l>gutes dem Trierer Dom, und zwar in echt mittelalterlicher </l>
-							<pb n="778" />
+							<pb n="149" />
 							<l>königstage, sodann an des Geschenkgebers Ordinationstage, </l>
 							<l>endlich später an seinem Sterbetage mußte der Hof den </l>
 							<l>Stiftsbrüdern zu Trier ein Liebesmahl geben, lateinisch </l>
@@ -5279,7 +5259,7 @@
 							<l>war voll Goldes. Da begann der Müller mit dem Gold </l>
 							<l>sich zu beladen und steckte mittlerweile den Kienspan in die </l>
 							<l>Bretterwand. Und wie er noch wühlte und in die Taschen </l>
-							<pb n="779" />
+							<pb n="150" />
 							<l>stopfte, da stand er plößlich in dichtem Qualm, und die </l>
 							<l>Flammen fingen schon an ihn zu umlodern. Er will die </l>
 							<l>Treppe hinunter, aber die brennt auch schon, er hört die </l>
@@ -5310,7 +5290,7 @@
 							<l>höher. In Karl Kaspar von der Leyen gab das Geschlecht </l>
 							<l>Damian 1675 auch Mainz einen solchen. Karl Kaspar </l>
 							<l>fels bei Linz seinem Hause. Er ist es auch gewesen, der </l>
-							<pb n="780" />
+							<pb n="151" />
 							<l>festungen umschuf, mit einem Aufwand von über einer </l>
 							<l>Million Gulden aus seinem eignen Vermögen. Im Jahre </l>
 							<l>hoben, Napoleon endlich hat die zum Rheinbund gehörenden </l>
@@ -5345,7 +5325,7 @@
 					<div type="tale">
 						<head n="147">Der rote Aermel zu Gondorf</head>
 						<p>
-							<pb n="781" />
+							<pb n="152" />
 							<l>Wenn zu Gondorf die Schöffen in hochnotpeinlicher </l>
 							<l>Sache zu Gericht saßen, hatten sie blutrote Talare a ,n wie </l>
 							<l>es dem Ernste der Verhandlung angemessen war. Sinte </l>
@@ -5381,7 +5361,7 @@
 						<p>
 							<l>Wo sich das große, stattliche Dorf Kobern weit am </l>
 							<l>linken Moselufer hinzieht, grüßen vom Berge herunter zwei </l>
-							<pb n="782" />
+							<pb n="153" />
 							<l>verfallene Burgen : niedriger liegt die Niederburg oder neue </l>
 							<l>grat mit jener zusammenhängend, die Oberburg oder alte </l>
 							<l>Burg. Zwischen den dürftigen Mauerresten der Oberburg </l>
@@ -5419,7 +5399,7 @@
 					<div type="tale">
 						<head n="149">Lutter, der letzte Ritter von Kobern</head>
 						<p>
-							<pb n="783" />
+							<pb n="154" />
 							<l>Es gab noch ein zweites edles Geschlecht von Kobern, </l>
 							<l>dessen Glieder eigentlich Burgmänner und Lehnsleute der </l>
 							<l>fize mehrerer Höfe waren, ging es mit dieser Adelsfamilie doch </l>
@@ -5453,7 +5433,7 @@
 							<l>eben den Dank empfangen sollte, da macht sich ein </l>
 							<l>stämmiger, kleiner, breitschultriger Krieger behende Bahn </l>
 							<l>durch den Haufen und sagt: Du willst ein Koberner sein ? </l>
-							<pb n="784" />
+							<pb n="155" />
 							<l>wie der andere das nicht konnte, so nannte er es und </l>
 							<l>forderte den Feldherrn auf, Nachfrage zu thun, ob es sich </l>
 							<l>nicht also verhielte. Und so hat das Wahrzeichen von </l>
@@ -5486,7 +5466,7 @@
 							<l>Satan habe sich zu ihm gesellt, mit ihm gebuhlt, ihn zu </l>
 							<l>nächtlichen Tänzen beredet, da hätten sie weißen und roten </l>
 							<l>Wein getrunken, grünes Fleisch gegessen, in der Luft </l>
-							<pb n="785" />
+							<pb n="156" />
 							<l>sprochen, sie reich zu machen und ihnen Gewalt verliehen, </l>
 							<l>stecher zu machen", Krankheiten an Menschen und Vieh zu </l>
 							<l>bringen, Sachen zu beschädigen und was derlei mehr ist. </l>
@@ -5521,7 +5501,7 @@
 					<div type="tale">
 						<head n="152">Volksfeste zu Winningen</head>
 						<p>
-							<pb n="786" />
+							<pb n="157" />
 							<l>schaft Sponheim und ist eben deshalb an der Untermosel </l>
 							<l>der einzige protestantische Ort. Darum haben die Bewohner, </l>
 							<l>die in Verkehr, Eheschließung, Gerichtssachen und andern </l>
@@ -5553,7 +5533,7 @@
 							<l>Winningen reichbegütert waren, aufgewartet, und™ diese </l>
 							<l>hätten dann dem jungen Volk ein Tanzfest gegeben. Wie </l>
 							<l>dem auch sein mag, die jest üblichen Feste werden von </l>
-							<pb n="787" />
+							<pb n="158" />
 							<l>zwei Vorständen, deren einer aus drei Jungfrauen, der </l>
 							<l>andere aus drei Jünglingen besteht, sorgfältig vorbereitet, </l>
 							<l>wählt, die für die Dauer des Festes zu einander halten. </l>
@@ -5586,7 +5566,7 @@
 							<l>finnbildlich mitgeführt wir ,d ist um so selbstverständlicher, </l>
 							<l>als die umständliche Einholung der Festjungfrauen sich bis </l>
 							<l>zählig, dann geht es in den Adler oder den Schwan, und </l>
-							<pb n="788" />
+							<pb n="159" />
 							<l>der erste Tanz beginnt. Inzwischen ist in einem zweiten </l>
 							<l>Wirtshaus das Mahl zugerüstet, und um sieben Uhr zieht </l>
 							<l>man in feierlichem Zuge dorthin, diesmal geht ein Bursche </l>
@@ -5621,7 +5601,7 @@
 							<l>hört haben. </l>
 							<l>Als der Heiland noch auf Erden wandelte, so erzählt er, </l>
 							<l>kam er mit seinen Jüngern auch an die Mosel. Und da </l>
-							<pb n="789" />
+							<pb n="160" />
 							<l>der Tag heiß war, schickte er den heiligen Petrus in ein </l>
 							<l>Dorf einen Trunk Weines holen. Man gab Sankt Peter </l>
 							<l>eine hölzerne Kanne, voll bis zum Rande, allein der in </l>
@@ -5656,7 +5636,7 @@
 							<l>schritten ward. Das römische Koblenz war ursprünglich. </l>
 							<l>eine sogenannte Mutatio, d. h. eine richtige Poststation, wo </l>
 							<l>für die römischen Beamten und Offiziere Wagen und Pferde </l>
-							<pb n="790" />
+							<pb n="161" />
 							<l>zum Wechseln bereit standen. Daraus entstand nach und </l>
 							<l>nach eine befestigte Stadt. Dieselbe war eine: Moselstadt, </l>
 							<l>keine Rheinstadt. Sie bildete ein von Westen nach Osten .. </l>
@@ -5693,7 +5673,7 @@
 							<l>lichen Stuhl von Trier erst seinen Schwager Adalbero, </l>
 							<l>dann aber, nachdem er mit diesem sich entzweit, den Poppo, </l>
 							<l>dem er fortan seine volle Gunst schenkte: so gab er ihm </l>
-							<pb n="791" />
+							<pb n="162" />
 							<l>Stadt der Rechte einer reichsunmittelbaren Stadt, wie z. B. </l>
 							<l>Köln und Mainz sie immerdar besaßen. Dadurch geschah </l>
 							<l>ung gehemmt wurde, insbesondere eines selbstbewußten, </l>
@@ -5721,7 +5701,7 @@
 							<l>handene Philippsburg, Franz Georg errichtete ebenda von </l>
 							<l>Mehlsack, so dicht, daß keiner ausgleiten kann, die üppigen </l>
 							<l>Blumengewinde und Posaunenengel der Stuckdecken schauen </l>
-							<pb n="792" />
+							<pb n="163" />
 							<l>kleider mehr herab, sondern höchstens, wenn der Mond durch </l>
 							<l>zinkazen auflauern. </l>
 							<l>Endlich hat der leßte Kurfürst, Klemens Wenzeslaus, </l>
@@ -5757,7 +5737,7 @@
 							<l>romanisch redete, und in einen östlichen, wo deutsch die </l>
 							<l>Landessprache war. Kaiser Heinrich IV. , der unglückliche Mann, </l>
 							<l>lerisch empfangen und angeblich den Rhein hinaufgeleitet, </l>
-							<pb n="793" />
+							<pb n="164" />
 							<l>unterwegs aber treulos gefangen genommen. In St.,Kastor </l>
 							<l>endlich hat Erzbischof Albero 1138, um der Welfenpartei </l>
 							<l>staufen, zum Kaiser ausgerufen. In St. Kastor hat der </l>
@@ -5793,7 +5773,7 @@
 					<div type="tale">
 						<head n="158">Die St. Florinskirche zu Koblenz</head>
 						<p>
-							<pb n="794" />
+							<pb n="165" />
 							<l>Die Florinskirche steht von den Koblenzer Kirchen der </l>
 							<l>Mosel am nächsten, aber das mittelalterliche Koblenz war. </l>
 							<l>so klein, daß auch diese Kirche außerhalb der Stadt lag. </l>
@@ -5830,7 +5810,7 @@
 							<l>römische Moselbrücke bei Koblenz zu Grunde gegangen war, </l>
 							<l>hat man viele Jahrhunderte lang mit dem Kahn überfahren </l>
 							<l>müssen, wenn man ans andere Üfer wollte, bis endlich der </l>
-							<pb n="795" />
+							<pb n="166" />
 							<l>große Kurfürst Balduin 1344 die noch jezt stehende, auf </l>
 							<l>bauen lassen. In Verbindung mit dieser Brücke haben. </l>
 							<l>sich viele Jahrhunderte hindurch einige merkwürdige Ge= </l>
@@ -5867,7 +5847,7 @@
 							<l>zu Koblenz ihre Höf ,e deren viele noch heute vorhanden </l>
 							<l>find. So der Metternicher Hof, den der Kurfürst Lothar </l>
 							<l>von Metternich für seine damals ins Erzstift berufene </l>
-							<pb n="796" />
+							<pb n="167" />
 							<l>Familie baute, das Geburtshaus des berühmten Fürsten </l>
 							<l>Metternich. Dies Haus hati 1816 König Friedrich Wilhelm III. </l>
 							<l>der Familie Mettern ch als ihr altes Stammhaus geschenkt, </l>
@@ -5903,7 +5883,7 @@
 							<l>unter Erzbischof Richard von Greifenklau 1530 erbaute </l>
 							<l>Schöffenhaus, wo sonst das Schöffengericht getagt hat. </l>
 							<l>kauft und zum Heim des Altertumsvereines herrichten </l>
-							<pb n="797" />
+							<pb n="168" />
 							<l>Lassen; in dieser seiner stilgerechten Erneuerung ist es ein </l>
 							<l>wahrhaftes Schmuckkästchen geworden. Nichts kann trau </l>
 							<l>den prächtigen, spätgotischen Erker zu fißen, wo in Stein </l>
@@ -5934,7 +5914,7 @@
 					<div type="tale">
 						<head n="162">Koblenz als französische Stadt</head>
 						<p>
-							<pb n="798" />
+							<pb n="169" />
 							<l>tag, da fuhr Graf Artois, der zweite Bruder des franzö </l>
 							<l>fürsten Klemens Wenzeslaus, bei seinem Oheim vor, ihn </l>
 							<l>um ein Asyl zu bitten. Einen Monat später kam auch der </l>
@@ -5964,7 +5944,7 @@
 							<l>aufbewahrt. Es kam ein Zeitalter der Beschlagnahme aller </l>
 							<l>öffentlichen Kassen, der Erpressungen und Zwangsmittel, der </l>
 							<l>Einziehung aller ehrwürdigen öffentlichen alten Gebäude, </l>
-							<pb n="799" />
+							<pb n="170" />
 							<l>des Abbruchs von Klöstern und Kirchen. Der Kurstaat </l>
 							<l>Trier war zu Ende, und mit ihm sanken alle alten Rechte, </l>
 							<l>habendsten Familien sahen sich mit einem Schlage verarmt, </l>
@@ -5996,7 +5976,7 @@
 							<l>fallen dem Pferd in die Zügel. Wie sie aber merken, daß </l>
 							<l>sie betrogen sind, haben sie den Spohn zusammengehauen, </l>
 							<l>seinen Wunden erlegen ist. </l>
-							<pb n="800" />
+							<pb n="171" />
 							<l>Dieser Franz Spohn war ein Zimmermann aus </l>
 							<l>Koblenz, damals 29 Jahre alt und ein altgedienter Soldat, </l>
 							<l>fischen Linienregimente stand. Die eben erzählte Geschichte </l>
@@ -6031,7 +6011,7 @@
 							<l>würdige Wahrzeichen auf Stadtkosten wieder geflict war. </l>
 							<l>Das andere Wahrzeichen ist der Brunnen auf dem </l>
 							<l>Kastorhof. Er ist eigentlich der mächtige, aber plumpe </l>
-							<pb n="801" />
+							<pb n="172" />
 							<l>Unterbau für ein einstmals beabsichtigtes Denkmal Kaiser </l>
 							<l>Napoleons und trägt zwei Inschriften, eine stolze und eine </l>
 							<l>höhnische. Erstere lautet : </l>
@@ -6069,7 +6049,7 @@
 							<l>von Koblenz anfänglich eine Bevorzugung der Stadt, so </l>
 							<l>ward sie nach und nach immer mehr ein Hemmnis für </l>
 							<l>deren aufstrebende Entwicklung. Darum atmeten die </l>
-							<pb n="802" />
+							<pb n="173" />
 							<l>Bürger auf, als am 13. März 1890 die Aufhebung der inneren </l>
 							<l>Festungsmauer und Baufreiheit vor den bisherigen Thoren </l>
 							<l>ausgesprochen wurde. Seitdem breitet sich nach Süden </l>
@@ -6104,7 +6084,7 @@
 						<p>
 							<l>Drei Männer, in Koblenz geboren, sind jeder </l>
 							<l>in seiner Art zu einer ganz besonderen Berühmtheit ge= </l>
-							<pb n="803" />
+							<pb n="174" />
 							<l>boren 1773, Johann Joseph Görres , 1776 geboren, </l>
 							<l>und der Physiologe und Anatom Johannes Müller, </l>
 							<l>geboren 1801. Görres war der Sohn eines Holzhändlers, </l>
@@ -6139,7 +6119,7 @@
 							<l>sein Lehrer Johannes Müller errichtet habe. </l>
 							<l>Von hervorragender Bedeutung als freifinniger </l>
 							<l>duldsamer Kirchenfürst, als wahrhaft guter Mensch und </l>
-							<pb n="804" />
+							<pb n="175" />
 							<l>trefflicher Herrscher ist der aus Koblenz stammende Mainzer </l>
 							<l>der 1774 gestorben ist, derselbe, der unter anderm den </l>
 							<l>Protestanten Wieland als Professor der Philosophie an die </l>
@@ -6173,7 +6153,7 @@
 							<l>Johanna von Weißenthurn (geb. 1773). In der </l>
 							<l>Himmel glänzen Klemens Brentano , wenn er nicht in </l>
 							<l>Ehrenbreitstein geboren wäre, also nicht in der Moselstadt </l>
-							<pb n="805" />
+							<pb n="176" />
 							<l>selbst. Freilich hat er seine Schuljahre im Haus seinetie </l>
 							<l>wenigstens nennen dürfen. Als Schiller jene spißigen Zweifid </l>
 							<l>zeilen dem Vater Rhein in den Mund legte : ig </l>
@@ -6210,7 +6190,7 @@
 							<l>eigentlich als Besuch der Hausfrau gekommen, der einstigen </l>
 							<l>Braut Wielands und damals gefeierten Romanschriftstellerin. </l>
 							<l>Stramberg ebenso verdienstlich bearbeitet. </l>
-							<pb n="806" />
+							<pb n="177" />
 							<l>Die Töchter gefielen ihm sehr wohl, besonders die ältere, </l>
 							<l>Maximiliane, die spätere Frau Brentano und Mutter des </l>
 							<l>Dichters Klemens Brentano. In Werthers Leiden ist die </l>
@@ -6245,7 +6225,7 @@
 							<l>Und wie nach Emaus weiter gings </l>
 							<l>Prophete rechts, Prophete links, </l>
 							<l>Das Weltkind in der Mitten. " </l>
-							<pb n="807" />
+							<pb n="178" />
 							<l>fahrt von 1792, die wir bereits kennen gelernt haben </l>
 							<l>(vgl. Seite 103) . Mit dem Herzog von Weimar bezog er </l>
 							<l>pfuhl. Der Stadtrat spendete dem Fürsten und seiner </l>
@@ -6271,44 +6251,5 @@
 				</div>
 			</div>
 		</body>
-		<back>
-			<ab>
-				Nachwort statt der Vorrede. 
-				Das vorliegende Büchlein schließt sich nach Anlage und Aus- 
-				führung eng an die vor zwei Jahren von mir herausgegebenen Nahe- 
-				sagen. Der Gedanke, diesen zunächst die Rheinsagen folgen zu lassen, 
-				wurde vorläufig noch zur Seite gestellt gegenüber dem Wunsch des 
-				Mosel- und Saarvereins, seinen Mitgliedern möglichst bald 
-				eine Veröffentlichung zu bieten, welche die Freude der Einheimischen 
-				an ihrem schönen Moselstrom erhöhen könnte und das Interesse der 
-				Fremden daran soweit anregen, daß die Lust in ihnen geweckt würde, 
-				selbst zu kommen und zu schauen. 
-				Der angefügte Quellennachweis mag den Reichtum besonders 
-				der ältern Mosellitteratur zeigen, aber auch darthun, daß der Heraus- 
-				geber überall selbst bis zu den Quellen gedrungen ist. Vermißt man 
-				hier und da eine „ Moselsage“, so fehlt sie absichtlich ; besonders haben 
-				v. Damik und Menk allerlei Dinge teils ganz erfunden, teils roman- 
-				tisch aufgestußt, teils willkürlich an die Mosel verlegt. Manches 
-				konnte ich unmittelbar aus mündlichen und schriftlichen Mitteilungen 
-				ganz neu darbieten : namentlich bin ich in dieser Hinsicht verpflichtet 
-				den Herren Landrat König zu Zell, Obersteuerinspektor Künkeler 
-				zu Kochem, Pfarrer Müller und Pfarrer Theveny zu Winningen, 
-				Archivrat Dr. Becker, Geheimrat Fischel , Justizrat Richter, 
-				Ferdinand Sehmer zu Koblenz. 
-				DasBüchlein wünscht natürlich auch außerhalb des Moselvereins 
-				Freunde zu finden, z . B. würde seine Einverleibung in Schulbiblio- 
-				theken sicherlich von Schülern aller Art freudig begrüßt werden. 
-				Denn die Geschichten aus dem Moselthal gewähren viele merk- 
-				würdige Einblicke in eins der allerältesten Kulturgebiete unseres Vater- 
-				landes, die Moselsagen aber bergen vielfach einen poetischen 
-				Zauber, haben einen Zug einfacher, ungesuchter Frömmigkeit, daß sie 
-				jedem sinnigen Gemüte in der That überraschend viel bieten. Hoffent= 
-				lich wird man mir Dank wissen, daß gerade die Sagen, die ja in 
-				ihrer Urgestalt fast überall sehr kurz sind, auch kurz und ohne Um- 
-				schweife und Brimborium erzählt sind. 
-				Koblenz, im September 1896. 
-				Dr. Karl Heffel.
-			</ab>
-		</back>
 	</text>
 </TEI>

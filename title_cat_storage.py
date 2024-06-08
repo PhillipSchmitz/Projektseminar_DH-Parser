@@ -412,7 +412,7 @@ def new_dict():
         dict[key] = value
         # print(di)
         i += 1
-    print(dict)
+    #print(dict)
 
 
 def get_dict_unterelsass():

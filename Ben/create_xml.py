@@ -13,6 +13,7 @@ import pfalz_input_parameters as input6
 
 PAGE = 1
 
+
 def retrieve_list(name):
     # with open("/parsed_sagen/" + name + ".pkl", "rb") as f:
     with open(
@@ -73,10 +74,12 @@ def create_group(body: ET, group_name: str, number: int):
     gr_head = create_head(group, group_name)
     return group
 
+
 def create_head(div: ET, name: str):
     head = ET.SubElement(div, "head")
     head.text = name
     return head
+
 
 def create_sage(category: ET, sage: str, number: int):
     """
@@ -115,16 +118,16 @@ def create_book(body: ET, book: list, dictionary: dict):
     cat_memory = ""
     group_memory = ""
     # dictionary = dictionary[0]
-    #print(dictionary)
+    # print(dictionary)
     for tale in book:
         # for index in dictionary:
-        #print(tale[0])
+        # print(tale[0])
         title = tale[0]
         # print(title)
         category = dictionary[title][4]
-        #print(category)
+        # print(category)
         group = dictionary[title][5]
-        #print(group)
+        # print(group)
         if not category == cat_memory:
             tale_cat = create_category(body, category, i_cat)
             i_cat += 1
@@ -147,11 +150,14 @@ def write_xml(tree: ET, name: str):
 def main():
     func_list = [input1, input2, input3, input4, input5, input6]
     for input in func_list:
+        global PAGE
+        PAGE = 1
         dict = input.get_dict()
         name = input.get_pkl()
         meta = input.get_tei_header()
         print(meta)
         sagen = retrieve_list(name)
+        print(sagen)
         tei_header, body, tree = create_xml_tree()
         create_tei_header(tei_header, meta)
         create_book(body, sagen, dict)

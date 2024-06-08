@@ -18,4 +18,4 @@ def retrieve_list():
         tale_list = pickle.load(f)
     print(tale_list)
 
-retrieve_list()
+#retrieve_list()

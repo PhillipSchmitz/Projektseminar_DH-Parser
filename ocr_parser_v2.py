@@ -176,7 +176,7 @@ def parse_elsass(text: list, titles: list):
     for sage in text:
         add = True
         if titles[i] + ".\n" in sage or titles[i] + ". \n" in sage or titles[i] + "\n" in sage:
-            print(sage)
+            # print(sage)
             mem = False
             if "page_marker" in s[-1]:
                 page_memory = []
@@ -195,7 +195,7 @@ def parse_elsass(text: list, titles: list):
             # print(titles[i])
         if not re.search(r"-+ Page \d+-+", sage):
             if not re.search(r"^-*\d+-*", sage):
-                if not re.search(r"-+\s\n*", sage):
+                if not re.search(r"[\.-]+\s\n*", sage):
                     if not re.search(r"―+\s*\n", sage):
                         if not re.search(r"!+", sage):
                             if not re.search(r"^\w\s\n$", sage):
@@ -319,7 +319,7 @@ def parse_unterelsass_full():
     text = read_text(name)
     sep_text = parse_elsass(text, titles)
     del sep_text[0]
-    print_tale(sep_text)
+    #print_tale(sep_text)
     write_tale(name, sep_text)
 
 
@@ -423,6 +423,7 @@ def parse_pfalz_2(text: list, titles: list, cat: list, group: list):
     return sort_sagen
     # return ["!This is under construction!"]
 
+
 def parse_pfalz_3(text: list, titles: list, cat: list, group: list):
     sort_sagen = []
     i = 0
@@ -430,11 +431,11 @@ def parse_pfalz_3(text: list, titles: list, cat: list, group: list):
     page = 283
     page_memory = []
     line = True
-    #print(titles)
+    # print(titles)
     for sage in text:
         line = True
         if titles[i] + ".\n" in sage or titles[i] + "\n" in sage:
-            #print(sage)
+            # print(sage)
             line = False
             # print(titles[i])
             mem = False
@@ -459,8 +460,8 @@ def parse_pfalz_3(text: list, titles: list, cat: list, group: list):
                 if not re.search(r"^$", sage):
                     s.append(sage)
         else:
-            #print(sage)
-            #print(page)
+            # print(sage)
+            # print(page)
             if page == 332:
                 page = 335
             s.append("page_marker_ocr" + str(page + 30) + "\n")
@@ -470,9 +471,11 @@ def parse_pfalz_3(text: list, titles: list, cat: list, group: list):
                 s.append(t)
             page += 1
     # print(sort_sagen)
-    #print(page)
+    # print(page)
     return sort_sagen
     # return ["!This is under construction!"]
+
+
 def parse_pfalz_full():
     name, titles, cat, group, num = initiate.pfalz()
     text = read_text(name[0])
@@ -482,15 +485,14 @@ def parse_pfalz_full():
     text = read_text(name[1])
     sep_text_2 = parse_pfalz_2(text, titles[num[0]:], cat, group)
     del sep_text_2[0]
-    #print_tale(sep_text_2)
+    # print_tale(sep_text_2)
     text = read_text(name[2])
     sep_text_3 = parse_pfalz_3(text, titles[num[1]:], cat, group)
     del sep_text_3[0]
-    #print_tale(sep_text_3)
+    # print_tale(sep_text_3)
     sep_text = sep_text_1 + sep_text_2 + sep_text_3
     print_tale(sep_text)
     write_tale("pfalz_sagen", sep_text)
-
 
 
 def parse_erzählungen_moselthal(text, titles):
@@ -501,7 +503,7 @@ def parse_erzählungen_moselthal(text, titles):
     page_memory = []
     for sage in text:
         add = True
-        #print(sage)
+        # print(sage)
         if titles[i] in sage:
             print(sage)
             mem = False
@@ -542,11 +544,13 @@ def parse_erzählungen_moselthal(text, titles):
     return sort_sagen
     # return ["!This is under construction!"]
 
+
 def parse_erzählungen_moseltal_full():
     name, titles = initiate.erzählungen_moseltal()
     text = read_text(name)
-    #print(text)
+    # print(text)
     sep_text = parse_erzählungen_moselthal(text, titles)
+
 
 def print_tale(book: list):
     """
@@ -566,7 +570,7 @@ def parse():
     """
     book_names = {1: "Trier und Umgebung", 2: "Lothringen", 3: "Oberelsass", 4: "Unterelsass", 5: "Moseltal",
                   6: "Geschichten Moseltal", 7: "Pfalz", 8: "Erzählungen Moselthal"}
-    book = book_names[7]
+    book = book_names[3]
     if book == "Trier und Umgebung":
         print("Parsing Trier und Umgebung")
         parse_trier_umgebung_full()
@@ -588,5 +592,6 @@ def parse():
         parse_pfalz_full()
     elif book == "Erzählungen Moselthal":
         parse_erzählungen_moseltal_full()
+
 
 parse()

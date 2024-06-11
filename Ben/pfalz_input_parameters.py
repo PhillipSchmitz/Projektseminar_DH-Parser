@@ -1,3 +1,6 @@
+import re
+
+
 def get_tei_header():
     MainTitle = "Pfälzisches Sagenbuch"
     SubTitle = None
@@ -6,14 +9,15 @@ def get_tei_header():
     PublicationPlace = "Kaiserslautern, Germany"
     # PublicationCountry="Germany"
     Publisher = " Eugen Crusius Hofbuchhandlung"
-    #Edition = "first"
+    # Edition = "first"
     Edition = None
     source = "Sammlung von Sagen aus dem pfälzischen Bereich"
 
     Copyright = "CC0"
     encoder = "Ben Conrad, Dennis Binz"
 
-    return [MainTitle, SubTitle, Author, PublicationYear, PublicationPlace, Publisher, Edition, source, Copyright, encoder]
+    return [MainTitle, SubTitle, Author, PublicationYear, PublicationPlace, Publisher, Edition, source, Copyright,
+            encoder]
 
 
 def get_pkl():
@@ -701,6 +705,7 @@ def get_dict():
         else:
             longitude = 0
             latitude = 0
+        title = re.sub(r'\d+\.\s', '', title)
         # xml_id = "Elsass2." + str(n_book)
         dict[title] = [uid, werkID, n_book, title, categorie, group, placeID, longitude,
                        latitude]
@@ -721,5 +726,11 @@ def get_sql():
     # lang = "deutsch"
     return name, book_title, dict
 
-
-get_dict()
+"""
+d, titles = get_dict()
+import re
+print(d)
+for title in titles:
+    print(title)
+titles = [re.sub(r"\d+\.\s", "", title) for title in titles]
+"""

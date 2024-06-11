@@ -99,6 +99,7 @@ def parse_trier_umgebung(text: list, titles: list, categories: list):
                 s.append(page_memory[0])
                 s.append(page_memory[1])
             i += 1
+            continue
         if not re.search(r"----- \d+ / \d+ -----", sage):
             if not re.search(r"\d+", sage):
                 for cat in categories:
@@ -116,6 +117,7 @@ def parse_trier_umgebung(text: list, titles: list, categories: list):
             s.append("page_marker_ocr" + str(page + 28) + "\n")
             s.append("page_marker_book" + str(page) + "\n")
             page += 1
+    #sort_sagen = [sage.remo for sage in sort_sagen]
     return sort_sagen
 
 
@@ -148,9 +150,10 @@ def parse_lothringen(text: list, titles: list):
                 s.append(page_memory[0])
                 s.append(page_memory[1])
             i += 1
+            continue
         if not re.search(r"-+ Page \d+-+", sage):
             if not re.search(r"^-*\d+-*", sage):
-                if not re.search(r"-+\s\n*", sage):
+                if not re.search(r"-{2}\s\n*", sage):
                     if not re.search(r"―+\s*\n", sage):
                         if not re.search(r"!+", sage):
                             if not re.search(r"^\w\s\n$", sage):
@@ -191,11 +194,10 @@ def parse_elsass(text: list, titles: list):
                 s.append(page_memory[0])
                 s.append(page_memory[1])
             i += 1
-            # print(i + 1)
-            # print(titles[i])
+            continue
         if not re.search(r"-+ Page \d+-+", sage):
             if not re.search(r"^-*\d+-*", sage):
-                if not re.search(r"[\.-]+\s\n*", sage):
+                #if not re.search(titles[i-1], sage):
                     if not re.search(r"―+\s*\n", sage):
                         if not re.search(r"!+", sage):
                             if not re.search(r"^\w\s\n$", sage):
@@ -203,9 +205,10 @@ def parse_elsass(text: list, titles: list):
                                     if not re.search(r"\*", sage):
                                         if not re.search(r"•\s*\n", sage):
                                             if not re.search(r"—\s*\n", sage):
-                                                if not re.search(r"[-—―\d]+\s*\n", sage):
-                                                    if add:
-                                                        s.append(sage)
+                                                if not re.search(r"[—―\d]+\s*\n", sage):
+                                                    if not re.search(r"^\.\s*\d+\s*\.$", sage):
+                                                        if add:
+                                                            s.append(sage)
         else:
             s.append("page_marker_ocr" + str(page + 20) + "\n")
             s.append("page_marker_book" + str(page) + "\n")
@@ -215,7 +218,7 @@ def parse_elsass(text: list, titles: list):
     # return ["!This is under construction!"]
 
 
-def parse_geschichten_moseltal(text: list, titles: list):
+def parse_moseltal(text: list, titles: list):
     sort_sagen = []
     i = 0
     s = []
@@ -224,7 +227,7 @@ def parse_geschichten_moseltal(text: list, titles: list):
     for sage in text:
         add = True
         if titles[i] + ".\n" in sage or titles[i] + ". \n" in sage or titles[i] + "\n" in sage:
-            print(sage)
+            #print(sage)
             mem = False
             if "page_marker" in s[-1]:
                 page_memory = []
@@ -239,11 +242,12 @@ def parse_geschichten_moseltal(text: list, titles: list):
                 s.append(page_memory[0])
                 s.append(page_memory[1])
             i += 1
-            print(i + 1)
-            print(titles[i])
+            continue
+            #print(i + 1)
+            #print(titles[i])
         if not re.search(r"Page \d+", sage):
-            if not re.search(r"-*\d+-*", sage):
-                if not re.search(r"-+\s\n*", sage):
+            if not re.search(r"^-*\d+-*$", sage):
+                if not re.search(r"-{2}\s\n*", sage):
                     if not re.search(r"―+\s*\n", sage):
                         if not re.search(r"!+", sage):
                             if not re.search(r"^\w\s\n$", sage):
@@ -251,7 +255,7 @@ def parse_geschichten_moseltal(text: list, titles: list):
                                     if not re.search(r"\*", sage):
                                         if not re.search(r"•\s*\n", sage):
                                             if not re.search(r"—\s*\n", sage):
-                                                if not re.search(r"[-—―\d]+\s*\n", sage):
+                                                if not re.search(r"―|—+\d+―|—+\s*\n", sage):
                                                     if add:
                                                         s.append(sage)
         else:
@@ -279,6 +283,7 @@ def parse_trier_umgebung_full():
     text = read_text(name)
     sep_text = parse_trier_umgebung(text, titles, categories)
     del sep_text[0]
+    #sep_text = [sage[1:] for sage in sep_text]
     print_tale(sep_text)
     write_tale(name, sep_text)
     print(testing.test_trier_umgebung(sep_text))
@@ -319,7 +324,7 @@ def parse_unterelsass_full():
     text = read_text(name)
     sep_text = parse_elsass(text, titles)
     del sep_text[0]
-    #print_tale(sep_text)
+    print_tale(sep_text)
     write_tale(name, sep_text)
 
 
@@ -330,7 +335,7 @@ def parse_moseltal_full():
     """
     name, titles = initiate.moseltal()
     text = read_text(name)
-    sep_text = parse_elsass(text, titles)
+    sep_text = parse_moseltal(text, titles)
     del sep_text[0]
     print_tale(sep_text)
     write_tale(name, sep_text)
@@ -361,6 +366,7 @@ def parse_pfalz_1(text: list, titles: list, cat: list, group: list):
                 s.append(page_memory[0])
                 s.append(page_memory[1])
             i += 1
+            continue
             # print(i + 1)
             # print(titles[i])
         if not re.search(r"Page\s?\d+", sage):
@@ -409,6 +415,7 @@ def parse_pfalz_2(text: list, titles: list, cat: list, group: list):
                 s.append(page_memory[0])
                 s.append(page_memory[1])
             i += 1
+            continue
             # print(i + 1)
             # print(titles[i])
         if not re.search(r"^\d\d\d$", sage):
@@ -453,6 +460,7 @@ def parse_pfalz_3(text: list, titles: list, cat: list, group: list):
                 s.append(page_memory[0])
                 s.append(page_memory[1])
             i += 1
+            continue
             # print(i + 1)
             # print(titles[i])
         if not re.search(r"^(-\s?\d\d\d)|^(\d\d\d\s?-)|^(-\s?\d\d\d\s?-)", sage):
@@ -495,62 +503,6 @@ def parse_pfalz_full():
     write_tale("pfalz_sagen", sep_text)
 
 
-def parse_erzählungen_moselthal(text, titles):
-    sort_sagen = []
-    i = 0
-    s = [[]]
-    page = 1
-    page_memory = []
-    for sage in text:
-        add = True
-        # print(sage)
-        if titles[i] in sage:
-            print(sage)
-            mem = False
-            if "page_marker" in s[-1]:
-                page_memory = []
-                page_memory.append(s[-2])
-                page_memory.append(s[-1])
-                del s[-2:]
-                mem = True
-            sort_sagen.append(s)
-            s = []
-            s.append(titles[i])
-            if mem:
-                s.append(page_memory[0])
-                s.append(page_memory[1])
-            i += 1
-            # print(i + 1)
-            # print(titles[i])
-        if not re.search(r"Page \d+", sage):
-            if not re.search(r"-*\d+-*", sage):
-                if not re.search(r"-+\s\n*", sage):
-                    if not re.search(r"―+\s*\n", sage):
-                        if not re.search(r"!+", sage):
-                            if not re.search(r"^\w\s\n$", sage):
-                                if not re.search(r"", sage):
-                                    if not re.search(r"\*", sage):
-                                        if not re.search(r"•\s*\n", sage):
-                                            if not re.search(r"—\s*\n", sage):
-                                                if not re.search(r"[-—―\d]+\s*\n", sage):
-                                                    if add:
-                                                        s.append(sage)
-        else:
-            print(page)
-            s.append("page_marker_ocr" + str(page + 20) + "\n")
-            s.append("page_marker_book" + str(page) + "\n")
-            page += 1
-    print(len(sort_sagen))
-    return sort_sagen
-    # return ["!This is under construction!"]
-
-
-def parse_erzählungen_moseltal_full():
-    name, titles = initiate.erzählungen_moseltal()
-    text = read_text(name)
-    # print(text)
-    sep_text = parse_erzählungen_moselthal(text, titles)
-
 
 def print_tale(book: list):
     """
@@ -569,8 +521,8 @@ def parse():
     :return: None
     """
     book_names = {1: "Trier und Umgebung", 2: "Lothringen", 3: "Oberelsass", 4: "Unterelsass", 5: "Moseltal",
-                  6: "Geschichten Moseltal", 7: "Pfalz", 8: "Erzählungen Moselthal"}
-    book = book_names[3]
+                  6: "Geschichten Moseltal", 7: "Pfalz"}
+    book = book_names[7]
     if book == "Trier und Umgebung":
         print("Parsing Trier und Umgebung")
         parse_trier_umgebung_full()
@@ -590,8 +542,6 @@ def parse():
         parse_geschichten_moseltal_full()
     elif book == "Pfalz":
         parse_pfalz_full()
-    elif book == "Erzählungen Moselthal":
-        parse_erzählungen_moseltal_full()
 
 
 parse()

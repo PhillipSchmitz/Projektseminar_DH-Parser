@@ -5,6 +5,7 @@ from Ben.moseltal_input_parametrs import get_sql as mo_sql
 from Ben.pfalz_input_parameters import get_sql as pf_sql
 from Ben.lothringen_input_parametrs import get_sql as lo_sql
 
+
 def get_trier_und_umgebung_parameters():
     name, book_title, data = tu_sql()
     # print(data)
@@ -29,6 +30,7 @@ def get_moseltal_parameters():
 def get_pfalz_parameters():
     name, book_title, data = pf_sql()
     return name, book_title, data
+
 
 def get_lothringen_parameters():
     name, book_title, data = lo_sql()

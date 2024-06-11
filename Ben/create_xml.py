@@ -124,6 +124,7 @@ def create_book(body: ET, book: list, dictionary: dict):
         # print(tale[0])
         title = tale[0]
         # print(title)
+        print(dictionary)
         category = dictionary[title][4]
         # print(category)
         group = dictionary[title][5]
@@ -151,13 +152,14 @@ def main():
     func_list = [input1, input2, input3, input4, input5, input6]
     for input in func_list:
         global PAGE
+        print(input)
         PAGE = 1
         dict = input.get_dict()
         name = input.get_pkl()
         meta = input.get_tei_header()
-        print(meta)
+        # print(meta)
         sagen = retrieve_list(name)
-        print(sagen)
+        # print(sagen)
         tei_header, body, tree = create_xml_tree()
         create_tei_header(tei_header, meta)
         create_book(body, sagen, dict)

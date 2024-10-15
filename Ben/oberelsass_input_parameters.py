@@ -12,8 +12,8 @@ def get_tei_header():
     Copyright = "CC0"
     encoder = "Ben Conrad, Dennis Binz"
 
-
-    return [MainTitle, SubTitle, Author, PublicationYear, PublicationPlace, Publisher, Edition, srcDesc, Copyright, encoder]
+    return [MainTitle, SubTitle, Author, PublicationYear, PublicationPlace, Publisher, Edition, srcDesc, Copyright,
+            encoder]
 
 
 def get_pkl():
@@ -189,6 +189,26 @@ def get_dict():
     return dict
 
 
+def get_front():
+    with open("vorwort/oberelsass_vorwort.txt", "r", encoding="utf-8") as f:
+        return " ".join(
+            [
+                word.strip()
+                for word in f.read().split()
+            ]
+        )
+
+
+def get_back():
+    with open("nachwort/oberelsass_nachwort.txt", "r", encoding="utf-8") as f:
+        return " ".join(
+            [
+                word.strip()
+                for word in f.read().split()
+            ]
+        )
+
+
 def get_sql():
     name = "oberelsass_sagen"
     book_title = "Die Sagen des Elsasses. Erster Teil. Die Sagen des Ober-Elsass"
@@ -284,5 +304,4 @@ DICT = {'Die Schlange im Jura': 'Jura', 'St. Morands Ruhe': 'Altkirch', 'Der Kä
         'Warum die Markircher Silberminen Nichts mehr abwerfen': '', 'Der Jungfrauenplatz bei Markirch': '',
         'Die Glocke von Leberau': 'Leberau', 'Der Charlemont': ''}
 
-d = fill_dict(DICT)
-print(d)
+# d = fill_dict(DICT)

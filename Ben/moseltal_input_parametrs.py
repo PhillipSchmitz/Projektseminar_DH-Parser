@@ -6,14 +6,15 @@ def get_tei_header():
     PublicationPlace = "Bonn, Germany"
     # PublicationCountry="Germany"
     Publisher = "Albert Ahn"
-    #Edition = "first"
+    # Edition = "first"
     Edition = None
     source = "Sagen aus dem deutschen Bereich der Mosel"
 
     Copyright = "CC0"
     encoder = "Ben Conrad, Dennis Binz"
 
-    return [MainTitle, SubTitle, Author, PublicationYear, PublicationPlace, Publisher, Edition, source, Copyright, encoder]
+    return [MainTitle, SubTitle, Author, PublicationYear, PublicationPlace, Publisher, Edition, source, Copyright,
+            encoder]
 
 
 def get_pkl():
@@ -174,6 +175,26 @@ def get_dict():
     # print(num_dict)
 
     return dict
+
+
+def get_front():
+    with open("vorwort/moseltal_vorwort.txt", "r", encoding="utf-8") as f:
+        return " ".join(
+            [
+                word.strip()
+                for word in f.read().split()
+            ]
+        )
+
+
+def get_back():
+    with open("nachwort/moseltal_nachwort.txt", "r", encoding="utf-8") as f:
+        return " ".join(
+            [
+                word.strip()
+                for word in f.read().split()
+            ]
+        )
 
 
 def get_sql():

@@ -6,14 +6,15 @@ def get_tei_header():
     PublicationPlace = "Lorbach, Germany"
     # PublicationCountry="Germany"
     Publisher = "Verlag von Robert Hupfer"
-    #Edition = "first"
+    # Edition = "first"
     Edition = None
     source = "Sagen aus dem Gebiet Lothringen"
 
     Copyright = "CC0"
     encoder = "Ben Conrad, Dennis Binz"
 
-    return MainTitle, SubTitle, Author, PublicationYear, PublicationPlace, Publisher, Edition,source, Copyright, encoder
+    return MainTitle, SubTitle, Author, PublicationYear, PublicationPlace, Publisher, Edition, source, Copyright, encoder
+
 
 def get_pkl():
     pickle_filename = "lothringen_sagen"
@@ -72,6 +73,26 @@ def get_dict():
     # print(num_dict)
 
     return dict
+
+
+def get_front():
+    with open("vorwort/lothringen_vorwort.txt", "r", encoding="utf-8") as f:
+        return " ".join(
+            [
+                word.strip()
+                for word in f.read().split()
+            ]
+        )
+
+
+def get_back():
+    with open("nachwort/lothringen_nachwort.txt", "r", encoding="utf-8") as f:
+        return " ".join(
+            [
+                word.strip()
+                for word in f.read().split()
+            ]
+        )
 
 
 def get_sql():

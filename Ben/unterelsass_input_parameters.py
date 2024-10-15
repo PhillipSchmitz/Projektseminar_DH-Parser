@@ -349,6 +349,26 @@ def get_dict():
     return dict
 
 
+def get_front():
+    with open("vorwort/unterelsass_vorwort.txt", "r", encoding="utf-8") as f:
+        return " ".join(
+            [
+                word.strip()
+                for word in f.read().split()
+            ]
+        )
+
+
+def get_back():
+    with open("nachwort/unterelsass_nachwort.txt", "r", encoding="utf-8") as f:
+        return " ".join(
+            [
+                word.strip()
+                for word in f.read().split()
+            ]
+        )
+
+
 def get_sql():
     name = "unterelsass_sagen"
     book_title = "Die Sagen des Elsasses. Zweiter Teil. Die Sagen des Unter-Elsass"

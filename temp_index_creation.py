@@ -1,3 +1,4 @@
+import pickle
 import re
 
 
@@ -850,7 +851,7 @@ def nahetal():
 def trier_back():
     with open("trier_nachwort.txt", "r", encoding="utf-8") as f:
         titles = f.readlines()
-        titles_final =[]
+        titles_final = []
         for t in titles:
             if not re.search(r"----- \d+ / \d+ -----", t):
                 if not re.search(r"^\d+$", t):
@@ -858,6 +859,7 @@ def trier_back():
                         titles_final.append(t)
     with open("trier_nachwort_clean.txt", "w", encoding="utf-8") as f:
         f.writelines(titles_final)
+
 
 def oberelsass_back():
     with open("unterelsass_nachwort.txt", "r", encoding="utf-8") as f:
@@ -891,4 +893,10 @@ def pfalz_nachwort():
     with open("pfalz_nachwort_clean.txt", "w", encoding="utf-8") as f:
         f.writelines(titles_final)
 
-pfalz_nachwort()
+
+def moseltal_nachwort():
+    with open("parsed_sagen/moseltal_sagen.pkl", "rb") as f:
+        tale_book = pickle.load(f)
+    print("".join(tale_book[-1]))
+
+moseltal_nachwort()

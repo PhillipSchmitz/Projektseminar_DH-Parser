@@ -32,9 +32,11 @@ def create_xml_tree():
     tree = ET.ElementTree(tei)
     tei_header = ET.SubElement(tei, "teiHeader")
     text = ET.SubElement(tei, "text")
+    front = ET.SubElement(text, "front")
     body = ET.SubElement(text, "body")
+    back = ET.SubElement(text, "back")
 
-    return tei_header, body, tree
+    return tei_header, body, tree, front, back
 
 
 def create_tei_header(tei_header: ET, meta: list):
@@ -61,6 +63,11 @@ def create_tei_header(tei_header: ET, meta: list):
     date.text = meta[3]
     src = ET.SubElement(sourceDesc, "p")
     src.text = meta[7]
+
+
+def create_front(front: ET.Element, front_text: str):
+    ab = ET.SubElement(front, "ab")
+    ab.text = front_text
 
 
 def create_category(body: ET, cat: str, number: int):
@@ -142,6 +149,11 @@ def create_book(body: ET, book: list, dictionary: dict):
         i_tale += 1
 
 
+def create_back(back: ET.Element, back_text: str):
+    ab = ET.SubElement(back, "ab")
+    ab.text = back_text
+
+
 def write_xml(tree: ET, name: str):
     ET.indent(tree, space="\t", level=0)
     with open(name + ".xml", "wb") as f:
@@ -157,12 +169,16 @@ def main():
         dict = input.get_dict()
         name = input.get_pkl()
         meta = input.get_tei_header()
+        front_text = input.get_front()
+        back_text = input.get_back()
         # print(meta)
         sagen = retrieve_list(name)
         # print(sagen)
-        tei_header, body, tree = create_xml_tree()
+        tei_header, body, tree, front, back = create_xml_tree()
         create_tei_header(tei_header, meta)
+        create_front(front, front_text)
         create_book(body, sagen, dict)
+        create_back(back, back_text)
         write_xml(tree, name)
 
 

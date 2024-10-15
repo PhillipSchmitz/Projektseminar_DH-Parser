@@ -719,12 +719,33 @@ def get_dict():
     return dict
 
 
+def get_front():
+    with open("vorwort/pfalz_vorwort.txt", "r", encoding="utf-8") as f:
+        return " ".join(
+            [
+                word.strip()
+                for word in f.read().split()
+            ]
+        )
+
+
+def get_back():
+    with open("nachwort/pfalz_nachwort.txt", "r", encoding="utf-8") as f:
+        return " ".join(
+            [
+                word.strip()
+                for word in f.read().split()
+            ]
+        )
+
+
 def get_sql():
     name = "pfalz_sagen"
     book_title = "Pfälzisches Sagenbuch"
     dict = get_dict()
     # lang = "deutsch"
     return name, book_title, dict
+
 
 """
 d, titles = get_dict()

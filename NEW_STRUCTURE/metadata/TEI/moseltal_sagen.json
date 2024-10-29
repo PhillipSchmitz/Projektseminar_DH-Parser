@@ -1,0 +1,35 @@
+{
+  "fileDesc": {
+    "title": "Sagen und Geschichtend des Moseltals",
+    "subtitle": "None",
+    "author": "Karl Hessel",
+    "publisher": "Albert Ahn",
+    "address": "Bonn, Germany",
+    "date": "1869",
+    "sourceDesc": "Sagen aus dem deutschen Teil des Moselgebiets",
+    "editor": [
+      "Dennis Binz",
+      "Ben Conrad",
+      "Phillip Schmitz"
+    ]
+  },
+  "encodingDesc": {
+    "projectDesc": "Description of project",
+    "samplingDecl": "Description of methods used for selecting text",
+    "editorialDecl": {
+      "correction": "Corrections applied to text",
+      "normalization": "Normalization applied to text",
+      "segmentation": "Segments"
+    }
+  },
+  "profileDesc": {
+    "abstract": "Abstract",
+    "langUsage": [
+      {
+        "ident": "de-DE",
+        "name": "Deutsch"
+      }
+    ],
+    "classCode": "Classcode"
+  }
+}

@@ -31,5 +31,8 @@
       }
     ],
     "classCode": "Classcode"
-  }
+  },
+  "division": [
+    "NaN"
+  ]
 }

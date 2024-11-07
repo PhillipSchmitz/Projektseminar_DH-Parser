@@ -2,6 +2,7 @@ from xml.etree import ElementTree as ET
 import pickle
 import json
 from os.path import join
+import glob
 
 # import initiate
 
@@ -14,6 +15,13 @@ import moseltal_input_parametrs as input4
 import lothringen_input_parametrs as input5
 import pfalz_input_parameters as input6
 """
+
+# NAME = "moseltal"
+# NAME = "oberelsass"
+# NAME = "unterelsass"
+# NAME = "lothringen"
+# NAME = "pfalz"
+# NAME = "trier"
 
 PAGE = 1
 
@@ -92,9 +100,14 @@ def create_tei_header(tei_header: ET, meta: dict):
     classCode = ET.SubElement(textClass, "classCode", {"scheme": meta["profileDesc"]["classCode"]})
 
 
-def create_front(front: ET.Element, front_text: str):
-    ab = ET.SubElement(front, "ab")
-    ab.text = front_text
+def create_front(front: ET.Element, front_text: list):
+    if len(front_text) == 3:
+        grimm = ET.SubElement(front, "ab")
+        grimm.text = front_text[2]
+    ab = ET.SubElement(front, "ab", {"type": "foreword"})
+    ab.text = front_text[0]
+    index = ET.SubElement(front, "ab", {"type": "index"})
+    index.text = front_text[1]
 
 
 def create_category(body: ET, cat: str, number: int):
@@ -143,79 +156,150 @@ def create_text(tale: ET, text: list):
             l.text = tale_line[:-1]
 
 
-def create_book(body: ET, book: list, dictionary: dict):
+def create_book(body: ET, book: list, dictionary: dict, division: list):
     i_cat = 1
     i_group = 1
     i_tale = 1
     book_tale = i_tale - 1
     tale_nodes = []
-    cat_memory = ""
-    group_memory = ""
-    # dictionary = dictionary[0]
-    for tale in book:
-        # for index in dictionary:
-        title = tale[0]
-        category = dictionary[title][4]
-        group = dictionary[title][5]
-        if not category == cat_memory:
-            tale_cat = create_category(body, category, i_cat)
-            i_cat += 1
-            cat_memory = category
-        if not group == group_memory:
-            tale_group = create_group(tale_cat, group, i_group)
-            i_group += 1
-            group_memory = group
-        sage = create_sage(tale_group, title, i_tale)
-        create_text(sage, tale[1:])
-        i_tale += 1
+    if len(division) == 2:
+        if division[0] == "cat":
+            if division[1] == "cat":
+                cat_1_memory = ""
+                cat_2_memory = ""
+
+                for tale in book:
+                    title = tale[0]
+                    category_1 = dictionary[title][4]
+                    category_2 = dictionary[title][5]
+                    if not category_1 == cat_1_memory:
+                        tale_cat_1 = create_category(body, category_1, i_cat)
+                        i_cat += 1
+                        cat_1_memory = category_1
+                    if not category_2 == cat_2_memory:
+                        tale_cat_2 = create_category(tale_cat_1, category_2, i_group)
+                        i_group += 1
+                        cat_2_memory = category_2
+                    sage = create_sage(tale_cat_2, title, i_tale)
+                    create_text(sage, tale[1:])
+                    i_tale += 1
+
+            if division[1] == "group":
+                cat_memory = ""
+                group_memory = ""
+
+                for tale in book:
+                    title = tale[0]
+                    category_1 = dictionary[title][4]
+                    category_2 = dictionary[title][5]
+                    if not category_1 == cat_memory:
+                        tale_cat = create_category(body, category_1, i_cat)
+                        i_cat += 1
+                        cat_memory = category_1
+                    if not category_2 == group_memory:
+                        tale_group = create_group(tale_cat, category_2, i_group)
+                        i_group += 1
+                        group_memory = category_2
+                    sage = create_sage(tale_group, title, i_tale)
+                    create_text(sage, tale[1:])
+                    i_tale += 1
+
+    elif len(division) == 1:
+        if division[0] == "group":
+            group_memory = ""
+
+            for tale in book:
+                title = tale[0]
+                group = dictionary[title][5]
+                if not group == group_memory:
+                    tale_group = create_group(body, group, i_group)
+                    i_group += 1
+                    group_memory = group
+                sage = create_sage(tale_group, title, i_tale)
+                create_text(sage, tale[1:])
+                i_tale += 1
+
+        elif division[0] == "NaN":
+            for tale in book:
+                title = tale[0]
+                sage = create_sage(body, title, i_tale)
+                create_text(sage, tale[1:])
+                i_tale += 1
 
 
-def create_back(back: ET.Element, back_text: str):
-    ab = ET.SubElement(back, "ab")
-    ab.text = back_text
+def create_back(back: ET.Element, back_text: dict[int: dict[str: str]]):
+    for i in range(len(back_text)):
+        key = list(back_text[i].keys())[0]
+        ab = ET.SubElement(back, "ab", {"type": key})
+        ab.text = back_text[i][key]
 
 
 def write_xml(tree: ET, name: str):
     ET.indent(tree, space="\t", level=0)
-    with open(name + ".xml", "wb") as f:
+    with open(f"xml_sagen/{name}.xml", "wb") as f:
         tree.write(f, encoding="utf-8")
 
 
 def main():
-    name = "moseltal"
-
-    with open("metadata/TEI/json_template.json", "r", encoding="utf-8") as f:
+    with open(f"metadata/TEI/{NAME}_sagen.json", "r", encoding="utf-8") as f:
         metadata = json.load(f)
 
-    with open("metadata/Database/moseltal_sagen.json", "r", encoding="utf-8") as f:
+    with open(f"metadata/Database/{NAME}_sagen.json", "r", encoding="utf-8") as f:
         database = json.load(f)
 
-    metadata_list = [
-        {
-            "metadata": metadata,
-            "database": database
-        }
-    ]
+    with open(f"vorwort/{NAME}/{NAME}_vorwort.txt", "r", encoding="utf-8") as f:
+        front_text = f.read()
 
-    for input in metadata_list:
-        global PAGE
-        PAGE = 1
-        dict = input["database"]
-        meta = input["metadata"]
+    with open(f"vorwort/{NAME}/{NAME}_index.txt", "r", encoding="utf-8") as f:
+        index = f.read()
 
-        with open(f"vorwort/{name}_vorwort.txt", "r", encoding="utf-8") as f:
-            front_text = f.read()
-        with open(f"nachwort/{name}_nachwort.txt", "r", encoding="utf-8") as f:
+    front_list = [front_text, index]
+
+    if NAME == "oberelsass":
+        with open(f"vorwort/oberelsass/oberelsass_grimm.txt", "r", encoding="utf-8") as f:
+            front_list.append(f.read())
+
+    if NAME == "oberelsass" or NAME == "unterelsass" or NAME == "trier":
+        with open(f"nachwort/{NAME}/{NAME}_quellen.txt", "r", encoding="utf-8") as f:
+            back_sources = f.read()
+
+        back_list = {0: {"sources": back_sources}}
+
+    elif NAME == "lothringen" or NAME == "moseltal":
+        with open(f"nachwort/{NAME}/{NAME}_quellen.txt", "r", encoding="utf-8") as f:
+            back_sources = f.read()
+
+        with open(f"nachwort/{NAME}/{NAME}_nachwort.txt", "r", encoding="utf-8") as f:
             back_text = f.read()
-        with open(f"parsed_sagen/{name}_sagen.pkl", "rb") as f:
-            sagen = pickle.load(f)
 
-        tei_header, body, tree, front, back = create_xml_tree()
-        create_tei_header(tei_header, meta)
-        create_front(front, front_text)
-        create_book(body, sagen, dict)
-        create_back(back, back_text)
-        write_xml(tree, f"{name}_sagen")
+        if NAME == "moseltal":
+            back_list = {0: {"sources": back_sources}, 1: {"postscript": back_text}}
+        elif NAME == "lothringen":
+            back_list = {1: {"sources": back_sources}, 0: {"postscript": back_text}}
+
+    elif NAME == "pfalz":
+        with open(f"nachwort/{NAME}/{NAME}_quellen.txt", "r", encoding="utf-8") as f:
+            back_sources = f.read()
+
+        with open(f"nachwort/{NAME}/{NAME}_orte.txt", "r", encoding="utf-8") as f:
+            back_locs = f.read()
+
+        back_list = {0: {"sources": back_sources}, 1: {"locations": back_locs}}
+
+    else:
+        back_list = []
+
+    with open(f"parsed_sagen/{NAME}_sagen.pkl", "rb") as f:
+        sagen = pickle.load(f)
+
+    global PAGE
+    PAGE = 1
+    tei_header, body, tree, front, back = create_xml_tree()
+    create_tei_header(tei_header, metadata)
+    create_front(front, front_list)
+    create_book(body, sagen, database, metadata["division"])
+    create_back(back, back_list)
+    write_xml(tree, f"{NAME}_sagen")
 
 
 main()

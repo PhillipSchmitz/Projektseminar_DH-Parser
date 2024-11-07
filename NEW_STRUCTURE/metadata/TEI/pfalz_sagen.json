@@ -1,16 +1,18 @@
 {
   "fileDesc": {
-    "title": "Title",
-    "subtitle": "Subtitle",
-    "author": "Author",
-    "publisher": "Publisher",
-    "address": "Address",
-    "date": "1850-01-01",
+    "title": "Pfälzisches Sagenbuch",
+    "subtitle": "NaN",
+    "author": "F. W. Hebel",
+    "publisher": "Eugen Crusius Hofbuchhandlung",
+    "address": "Kaiserslautern, Germany",
+    "date": "1912",
     "sourceDesc": "Description of source",
     "editor": [
-      "Editor 1",
-      "Editor 2"
-    ]
+      "Dennis Binz",
+      "Ben Conrad",
+      "Phillip Schmitz"
+    ],
+    "edition": "NaN"
   },
   "encodingDesc": {
     "projectDesc": "Description of project",
@@ -32,8 +34,7 @@
     "classCode": "Classcode"
   },
   "division": [
-    "NaN",
     "cat",
-    "group"
+    "cat"
   ]
 }

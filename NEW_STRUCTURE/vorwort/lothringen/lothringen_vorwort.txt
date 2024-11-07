@@ -1,130 +1,3 @@
------------------------ Page 1-----------------------
-This is a reproduction of a library book that was digitized
-by Google as part of an ongoing effort to preserve the
-information in books and make it universally accessible.
-https://books.google.com
------------------------ Page 2-----------------------
-Über dieses Buch
-Dies ist ein digitales Exemplar eines Buches, das seit Generationen in den Regalen der Bibliotheken aufbewahrt wurde, bevor es von Google im
-Rahmen eines Projekts, mit dem die Bücher dieser Welt online verfügbar gemacht werden sollen, sorgfältig gescannt wurde.
-Das Buch hat das Urheberrecht überdauert und kann nun öffentlich zugänglich gemacht werden. Ein öffentlich zugängliches Buch ist ein Buch,
-das niemals Urheberrechten unterlag oder bei dem die Schutzfrist des Urheberrechts abgelaufen ist. Ob ein Buch öffentlich zugänglich ist, kann
-von Land zu Land unterschiedlich sein. Öffentlich zugängliche Bücher sind unser Tor zur Vergangenheit und stellen ein geschichtliches, kulturelles
-und wissenschaftliches Vermögen dar, das häuﬁg nur schwierig zu entdecken ist.
-Gebrauchsspuren, Anmerkungen und andere Randbemerkungen, die im Originalband enthalten sind, ﬁnden sich auch in dieser Datei – eine Erin-
-nerung an die lange Reise, die das Buch vom Verleger zu einer Bibliothek und weiter zu Ihnen hinter sich gebracht hat.
-Nutzungsrichtlinien
-Google ist stolz, mit Bibliotheken in partnerschaftlicher Zusammenarbeit öffentlich zugängliches Material zu digitalisieren und einer breiten Masse
-zugänglich zu machen. Öffentlich zugängliche Bücher gehören der Öffentlichkeit, und wir sind nur ihre Hüter. Nichtsdestotrotz ist diese
-Arbeit kostspielig. Um diese Ressource weiterhin zur Verfügung stellen zu können, haben wir Schritte unternommen, um den Missbrauch durch
-kommerzielle Parteien zu verhindern. Dazu gehören technische Einschränkungen für automatisierte Abfragen.
-Wir bitten Sie um Einhaltung folgender Richtlinien:
-+ Nutzung der Dateien zu nichtkommerziellen Zwecken Wir haben Google Buchsuche für Endanwender konzipiert und möchten, dass Sie diese
-Dateien nur für persönliche, nichtkommerzielle Zwecke verwenden.
-+ Keine automatisierten Abfragen Senden Sie keine automatisierten Abfragen irgendwelcher Art an das Google-System. Wenn Sie Recherchen
-über maschinelle Übersetzung, optische Zeichenerkennung oder andere Bereiche durchführen, in denen der Zugang zu Text in großen Mengen
-nützlich ist, wenden Sie sich bitte an uns. Wir fördern die Nutzung des öffentlich zugänglichen Materials für diese Zwecke und können Ihnen
-unter Umständen helfen.
-+ Beibehaltung von Google-Markenelementen Das "Wasserzeichen" von Google, das Sie in jeder Datei ﬁnden, ist wichtig zur Information über
-dieses Projekt und hilft den Anwendern weiteres Material über Google Buchsuche zu ﬁnden. Bitte entfernen Sie das Wasserzeichen nicht.
-+ Bewegen Sie sich innerhalb der Legalität Unabhängig von Ihrem Verwendungszweck müssen Sie sich Ihrer Verantwortung bewusst sein,
-sicherzustellen, dass Ihre Nutzung legal ist. Gehen Sie nicht davon aus, dass ein Buch, das nach unserem Dafürhalten für Nutzer in den USA
-öffentlich zugänglich ist, auch für Nutzer in anderen Ländern öffentlich zugänglich ist. Ob ein Buch noch dem Urheberrecht unterliegt, ist
-von Land zu Land verschieden. Wir können keine Beratung leisten, ob eine bestimmte Nutzung eines bestimmten Buches gesetzlich zulässig
-ist. Gehen Sie nicht davon aus, dass das Erscheinen eines Buchs in Google Buchsuche bedeutet, dass es in jeder Form und überall auf der
-Welt verwendet werden kann. Eine Urheberrechtsverletzung kann schwerwiegende Folgen haben.
-Über Google Buchsuche
-Das Ziel von Google besteht darin, die weltweiten Informationen zu organisieren und allgemein nutzbar und zugänglich zu machen. Google
-Buchsuche hilft Lesern dabei, die Bücher dieser Welt zu entdecken, und unterstützt Autoren und Verleger dabei, neue Zielgruppen zu erreichen.
-Den gesamten Buchtext können Sie im Internet unter http://books.google.com durchsuchen.
------------------------ Page 3-----------------------
-S
-RO
-FLE
-A AU
-IG
-CT
-BI
-IH
-LRO
-ANE
-A IU
-TRAR
-YYLCN
-0
-0
-0
-1 5
-7
--
-1
-7
-6
-3
-=:1
-1
-Schwebel
-D
-Sagen und Bilber
-aus
-Lothringens Porzelt
------------------------ Page 4-----------------------
-23/7
-V
-EIL TIS
-HNA Y
-FTUE FO
-O S
-LAC
-OFI
-INR
-A
-MLIGHT
-VERE
-1868
-THE LIBRARY
-OF
-THE UNIVERSITY
-OF CALIFORNIA
-LOS ANGELES
------------------------ Page 5-----------------------
------------------------ Page 6-----------------------
-1
-#
------------------------ Page 7-----------------------
-Ritter
-Y
-Hern Scheinen Zohrath, Keller
-Heulich
-ehrerbietigst und dankbar
-der Verf.
-く
-}
------------------------ Page 8-----------------------
------------------------ Page 9-----------------------
-Sagen und Bilder
-aus
-Lothringens Vorzeit.
-Don
-Oskar Schwebel.
-Forbach
-Verlag von Robert Hupfer
-1886.
------------------------ Page 10-----------------------
------------------------ Page 11-----------------------
-GR
-167
-48541
-FL
-Sr. Durchlaucht dem Fürßen
-Chlodwig vonHohenlohe- Schillingsfürßt,
-Kaiserlichem Statthalter von Elsaß-Lothringen,
-in tiefter Ehrfurcht
-der Verfaffer.
-1763112
------------------------ Page 12-----------------------
-r
------------------------ Page 13-----------------------
 Vorrede.
 ―
 „Noch gab es kein Sagenbuch des Landes Lothringen.
@@ -158,8 +31,7 @@ Fleiß geschaffenen Riesenwerkes! Ja, jekt floß der Strom der
 hatten mich nicht getäuscht; auch in Lothringen war einst die Sage,
 die ernste Schwester der Geschichte, in alten Tagen vielgeschäftig
 thätig gewesen !
------------------------ Page 14-----------------------
-- VI -
+
 Mit frischem Mute ging ich jetzt an die holde Arbeit, welche
 der Herr Verleger mir aufgetragen hatte : ich überreiche dem Publikum
 heut ihr Resultat. Wohl weiß ich, daß dies Buch trotz alles, auf
@@ -196,8 +68,7 @@ der Kreuzfahrt lauscht. Die Legende überwiegt be wi eiten im Sagen
 schate dieses Landes. Einzelne Stücke dieses alten, prächtigen Hortes,
 ich glaube, das wird man mir unbedenklich zugestehen, sind
 so kostbar, daß sie allgemein bekannt zu sein verdienen. Wohl
------------------------ Page 15-----------------------
-VII
+
 haben die Brüder Grimm eine kleine Anzahl der hier folgenden
 Stücke bereits in ihren deutschen Sagen veröffentlicht. Sie haben
 3. B. „Frau Florentina die Getreue" unter dem Titel „Der Mann
@@ -234,8 +105,7 @@ Fürsten“ und „Geflügelte Worte aus dem alten Mezz“. Man wird
 sprechen: "!Das ist ja Geschichte, nicht Sage! " Allein ich gebe zu
 bedenken, daß die Grenze zwischen Sage und Geschichte sich sehr
 oft nicht auffinden läßt. Jene Stücke schienen mir gleichwohl in
------------------------ Page 16-----------------------
-VIII --
+
 näherem oder entfernterem Zusammenhange mit der Sage zu stehen.
 Direktor W. Schwartz hat bei einer seiner Publikationen dasselbe
 ―
@@ -258,28 +128,3 @@ oder, wie's im Anschlusse an einen altlothringischen Wahlspruch
 heißen muß:
 "Adjuva Lotharingios, tu Deus salutaris ! "
 Berlin. Oskar Schwebel.
------------------------ Page 17-----------------------
-Inhalt.
-Seite
-fran florentina die Getreue 1
-Die Bischöfe von Metz und ihre Legenden 53
-Im Königspalaste in Metz 21
-Sancta Glossindis von Metz 105
-Im Schatten des Hirtenstabes von Gorze 122
-Die Kaiserin Hildegard 133
-Lohengrin 150
-Papst Leo XI . 179
-Der heil. Richard und Kaiser Heinrich II. 190
-Die Sagen der Herzöge von Lothringen 207
-Wappen, Fahnen, Schlachtrufe und Devisen derHerzöge von Lothringen 226
-Templer und Adelsfagen 239
-Der Graf von Engelweiler und die Waldfrau 250
-Auf Feld und flur . · 270
-Geflügelte Worte aus dem alten Metz 284
-Der reiche Bürger von Verdun 297
------------------------ Page 18-----------------------
------------------------ Page 19-----------------------
-Sagen und Bilder
-aus
-Lothringens Vorzeit.
------------------------ Page 20-----------------------

@@ -1,16 +1,18 @@
 {
   "fileDesc": {
-    "title": "Title",
-    "subtitle": "Subtitle",
-    "author": "Author",
-    "publisher": "Publisher",
-    "address": "Address",
-    "date": "1850-01-01",
+    "title": "Trier und seine Umgebung in Sagen und Liedern.",
+    "subtitle": "Mit Bemerkungen über die Quellen dieser Sagen.",
+    "author": "Phillip Laven",
+    "publisher": "Verlag der Fr. Lintz'schen Buchhandlung",
+    "address": "Trier, Germany",
+    "date": "1851",
     "sourceDesc": "Description of source",
     "editor": [
-      "Editor 1",
-      "Editor 2"
-    ]
+      "Dennis Binz",
+      "Ben Conrad",
+      "Phillip Schmitz"
+    ],
+    "edition": "NaN"
   },
   "encodingDesc": {
     "projectDesc": "Description of project",
@@ -32,8 +34,6 @@
     "classCode": "Classcode"
   },
   "division": [
-    "NaN",
-    "cat",
     "group"
   ]
 }

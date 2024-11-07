@@ -1,3 +1,6 @@
+import json
+
+
 def get_tei_header():
     MainTitle = "Trier und seine Umgebung in Sagen und Liedern."
     SubTitle = "Mit Bemerkungen über die Quellen dieser Sagen."
@@ -123,7 +126,7 @@ def get_dict():
 
     for title, value in dict.items():
         group = value
-        categorie = "NoCategory"  # if cat and group already in dict, replace with value[1]. Nested categories split using a symbol(f.ex. @)
+        categorie = "NaN"  # if cat and group already in dict, replace with value[1]. Nested categories split using a symbol(f.ex. @)
         for o in ort:
             if value in o:
                 print(value)
@@ -136,15 +139,26 @@ def get_dict():
                 latitude = 49.76917
                 longitude = 6.675
         # xml_id = "Trier1." + str(n_book)
-        dict[title] = [uid, werkID, n_book, title, categorie, group, placeID, longitude,
-                       latitude]  # je nach Werk anpassen {Name der Sage: Kategorie, Gruppe, Nummer im Werk, universelle Nummer, XML-ID}
+        dict[title] = {"id": uid,
+                       "werk_id": werkID,
+                       "n_book": n_book,
+                       "title": title,
+                       "division_1": categorie,
+                       "division_2": group,
+                       "place_id": placeID,
+                       "longitude": longitude,
+                       "latitude": latitude}  # je nach Werk anpassen {Name der Sage: Kategorie, Gruppe, Nummer im Werk, universelle Nummer, XML-ID}
 
         # num_dict[xml_id] = dict[title]
         n_book += 1
         uid += 1
-    print(dict)
+
+    with open("trier_sagen.json", "w", encoding="UTF-8") as f:
+        json.dump(dict, f, ensure_ascii=False, indent=2)
+
     return dict
 
+get_dict()
 
 def get_front():
     with open("vorwort/trier_vorwort.txt", "r", encoding="utf-8") as f:

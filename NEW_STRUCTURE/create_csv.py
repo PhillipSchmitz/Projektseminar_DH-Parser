@@ -1,7 +1,10 @@
 """Hier entstehen die SQL Dateien der Sagen, mit denen die Datenbank gefüttert wird"""
+import glob
+
 import pandas as pd
 import pickle
 import re
+import json
 from OLD_STRUCTURE.Ben import input
 
 
@@ -11,10 +14,10 @@ def retrieve_list(name: str):
     return tale_list
 
 
-def create_dataframe_input(tales: list, tale_dict: dict, book_title: str):
+def create_dataframe_input(tales: list, tale_dict: dict, tale_list: list):
     df_input = []
-    print(len(tales))
-    i = 1
+    #print(len(tales))
+    i = 0
     for tale in tales:
         df_tale = []
         tale_str = ""
@@ -24,25 +27,27 @@ def create_dataframe_input(tales: list, tale_dict: dict, book_title: str):
             line = re.sub(r"\n", " ", line)
             tale_str += line
             # print(tale_str)
-        df_tale.append(tale_dict[tale[0]][0])
-        df_tale.append(tale_dict[tale[0]][1])
-        df_tale.append(tale_dict[tale[0]][2])
-        df_tale.append(tale_dict[tale[0]][2])
-        df_tale.append(tale_dict[tale[0]][3])
-        df_tale.append(tale_dict[tale[0]][4])
-        df_tale.append(tale_dict[tale[0]][5])
-        df_tale.append(tale_dict[tale[0]][6])
-        df_tale.append(tale_dict[tale[0]][7])
-        df_tale.append(tale_dict[tale[0]][8])
+        df_tale.append(tale_dict[tale_list[i]]["id"])
+        df_tale.append(tale_dict[tale_list[i]]["werk_id"])
+        df_tale.append(tale_dict[tale_list[i]]["n_book"])
+        df_tale.append(tale_dict[tale_list[i]]["n_book"])
+        df_tale.append(tale_dict[tale_list[i]]["title"])
+        df_tale.append(tale_dict[tale_list[i]]["division_1"])
+        df_tale.append(tale_dict[tale_list[i]]["division_2"])
+        df_tale.append(tale_dict[tale_list[i]]["place_id"])
+        df_tale.append(tale_dict[tale_list[i]]["longitude"])
+        df_tale.append(tale_dict[tale_list[i]]["latitude"])
         df_tale.append(tale_str)
-        df_tale.append(book_title)
+        df_tale.append(tale_dict["name"])
         df_input.append(df_tale)
+
+        i += 1
     return df_input
 
 
 def create_dataframe_output(df_input: list):
-    df = pd.DataFrame(df_input, columns=["sagenid", "werkid", "sagenidautor", "sagenidimwerk", "titel", "sagenkategorie",
-                                         "sagengruppe", "ortschaft", "longitude", "latitude", "volltext", "buchtitel"])
+    df = pd.DataFrame(df_input, columns=["tale_id", "book_id", "tale_id_author", "tale_id_book", "title", "division_1",
+                                         "division 2", "location", "longitude", "latitude", "full_text", "booktitle"])
     return df
 
 
@@ -52,11 +57,24 @@ def write_csv(df_output: pd.DataFrame, name: str):
 
 def main():
     f_list = [input.get_trier_und_umgebung_parameters, input.get_moseltal_parameters, input.get_pfalz_parameters, input.get_oberelsass_parameter, input.get_unterelsass_parameters, input.get_lothringen_parameters]
-    for func in f_list:
-        name, book_title, data = func()
+
+    json_list = glob.glob("metadata/Database/*")
+
+    for file in json_list:
+        with open(file, "r", encoding="utf-8") as f:
+            meta = json.load(f)
+        file = re.sub(r"^[\w/\\]{18}", "", file)
+        name = re.sub(r"\.json", "", file)
+
+
+    # for func in f_list:
+        # name, book_title, data = func()
         # print(data)
         tale_list = retrieve_list(name)
-        df_input = create_dataframe_input(tale_list, data, book_title)
+
+        title_list = list(meta.keys())[1:]
+
+        df_input = create_dataframe_input(tale_list, meta, title_list)
         df_output = create_dataframe_output(df_input)
         print(df_output)
         write_csv(df_output, name)

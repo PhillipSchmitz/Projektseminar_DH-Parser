@@ -154,8 +154,8 @@ def get_dict():
 
     # je nach Werk anpassen {Name der Sage: Kategorie, Gruppe, Ort, Nummer im Werk, universelle Nummer, XML-ID}
     for title in titles:
-        group = "NoGroup"
-        categorie = "NoCategory"  # if cat and group already in dict, replace with value[1]. Nested categories split using a symbol(f.ex. @)
+        group = "NaN"
+        categorie = "NaN"  # if cat and group already in dict, replace with value[1]. Nested categories split using a symbol(f.ex. @)
         placeID = loc[i][0]
         if loc[i][1] != "NaN":
             c += 1
@@ -165,8 +165,15 @@ def get_dict():
             longitude = 0
             latitude = 0
         # xml_id = "Elsass1." + str(n_book)
-        dict[title] = [uid, werkID, n_book, title, categorie, group, placeID, longitude,
-                       latitude]
+        dict[title] = {"id": uid,
+                       "werk_id": werkID,
+                       "n_book": n_book,
+                       "title": title,
+                       "division_1": categorie,
+                       "division_2": group,
+                       "place_id": placeID,
+                       "longitude": longitude,
+                       "latitude": latitude}
         # num_dict[xml_id] = dict[key]
         n_book += 1
         i += 1
@@ -181,6 +188,8 @@ def get_dict():
 
     return dict
 
+
+get_dict()
 
 def get_front():
     with open("vorwort/moseltal_vorwort.txt", "r", encoding="utf-8") as f:

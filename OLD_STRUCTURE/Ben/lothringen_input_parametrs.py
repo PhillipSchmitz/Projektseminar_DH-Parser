@@ -1,3 +1,6 @@
+import json
+
+
 def get_tei_header():
     MainTitle = "Sagen und Bilder aus Lothringens Vorzeit"
     SubTitle = None
@@ -57,14 +60,21 @@ def get_dict():
 
     for title in titles:
         # print(i)
-        group = "NoGroup"
-        categorie = "NoCategory"  # if cat and group already in dict, replace with value[1]. Nested categories split using a symbol(f.ex. @)
+        group = "NaN"
+        categorie = "NaN"  # if cat and group already in dict, replace with value[1]. Nested categories split using a symbol(f.ex. @)
         placeID = locs[i][0]
         longitude = locs[i][2]
         latitude = locs[i][1]
         # xml_id = "Elsass2" + str(n_book)
-        dict[title] = [uid, werkID, n_book, title, categorie, group, placeID, longitude,
-                       latitude]
+        dict[title] = {"id": uid,
+                       "werk_id": werkID,
+                       "n_book": n_book,
+                       "title": title,
+                       "division_1": categorie,
+                       "division_2": group,
+                       "place_id": placeID,
+                       "longitude": longitude,
+                       "latitude": latitude}
         # num_dict[xml_id] = dict[key]
         n_book += 1
         i += 1
@@ -72,9 +82,12 @@ def get_dict():
     print(dict)
     # print(num_dict)
 
-
+    with open("lothringen_sagen.json", "w", encoding="UTF-8") as f:
+        json.dump(dict, f, ensure_ascii=False, indent=2)
 
     return dict
+
+get_dict()
 
 
 def get_front():

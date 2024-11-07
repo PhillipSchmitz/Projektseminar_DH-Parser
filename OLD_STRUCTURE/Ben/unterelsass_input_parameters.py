@@ -1,3 +1,6 @@
+import json
+
+
 def get_tei_header():
     MainTitle = "Die Sagen des Elsasses"
     SubTitle = "getreu nach der Volksüberlieferung, den Chroniken und andern gedruckten und handschriftlichen Quellen, gesammelt von August Stöber. Neue Ausgabe besorgt von Kurt Mündel. Erster Teil. Die Sagen des Ober-Elsass."
@@ -327,8 +330,8 @@ def get_dict():
     werkID = 5
 
     for key, value in dict.items():
-        group = "NoGroup"
-        categorie = "NoCategory"  # if cat and group already in dict, replace with value[1]. Nested categories split using a symbol(f.ex. @)
+        group = "NaN"
+        categorie = "NaN"  # if cat and group already in dict, replace with value[1]. Nested categories split using a symbol(f.ex. @)
         placeID = value
         if loc[i]:
             longitude = loc[i][2]
@@ -337,8 +340,15 @@ def get_dict():
             longitude = 0
             latitude = 0
         # xml_id = "Elsass2." + str(n_book)
-        dict[key] = [uid, werkID, n_book, key, categorie, group, placeID, longitude,
-                     latitude]
+        dict[key] = {"id": uid,
+                     "werk_id": werkID,
+                     "n_book": n_book,
+                     "title": key,
+                     "division_1": categorie,
+                     "division_2": group,
+                     "place_id": placeID,
+                     "longitude": longitude,
+                     "latitude": latitude}
         # num_dict[xml_id] = dict[key]
         n_book += 1
         i += 1
@@ -346,7 +356,13 @@ def get_dict():
     print(dict)
     # print(num_dict)
 
+    with open("unterelsass_sagen.json", "w", encoding="UTF-8") as f:
+        json.dump(dict, f, ensure_ascii=False, indent=2)
+
     return dict
+
+
+get_dict()
 
 
 def get_front():

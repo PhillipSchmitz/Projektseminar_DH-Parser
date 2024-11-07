@@ -1,3 +1,4 @@
+import json
 import re
 
 
@@ -707,8 +708,15 @@ def get_dict():
             latitude = 0
         title = re.sub(r'\d+\.\s', '', title)
         # xml_id = "Elsass2." + str(n_book)
-        dict[title] = [uid, werkID, n_book, title, categorie, group, placeID, longitude,
-                       latitude]
+        dict[title] = {"id": uid,
+                       "werk_id": werkID,
+                       "n_book": n_book,
+                       "title": title,
+                       "division_1": categorie,
+                       "division_2": group,
+                       "place_id": placeID,
+                       "longitude": longitude,
+                       "latitude": latitude}
         # num_dict[xml_id] = dict[key]
         n_book += 1
         i += 1
@@ -716,8 +724,12 @@ def get_dict():
     # print(dict)
     # print(num_dict)
 
+    with open("pfalz_sagen.json", "w", encoding="UTF-8") as f:
+        json.dump(dict, f, ensure_ascii=False, indent=2)
+
     return dict
 
+get_dict()
 
 def get_front():
     with open("vorwort/pfalz_vorwort.txt", "r", encoding="utf-8") as f:

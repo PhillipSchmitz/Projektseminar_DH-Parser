@@ -76,7 +76,11 @@ The following is a schematic structure of the JSON file and its contents
     ],
     "classCode": "Classcode"
   },
-  "cat_num": "Number of categories (0-2)"
+  "division": [
+    "NaN",
+    "cat",
+    "group"
+  ]
 }
 ```
 

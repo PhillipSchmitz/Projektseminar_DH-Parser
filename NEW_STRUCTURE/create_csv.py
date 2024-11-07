@@ -46,8 +46,8 @@ def create_dataframe_input(tales: list, tale_dict: dict, tale_list: list):
 
 
 def create_dataframe_output(df_input: list):
-    df = pd.DataFrame(df_input, columns=["tale_id", "book_id", "tale_id_author", "tale_id_book", "title", "division_1",
-                                         "division 2", "location", "longitude", "latitude", "full_text", "booktitle"])
+    df = pd.DataFrame(df_input, columns=["sagenid", "werkid", "sagenidautor", "sagenidimwerk", "titel", "sagenkategorie",
+                                         "sagengruppe", "ortschaft", "longitude", "latitude", "volltext", "buchtitel"])
     return df
 
 

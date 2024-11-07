@@ -32,8 +32,8 @@ for filename in glob.glob(input_folder + '/*.csv'):
     print(n)
 
 
-master_csv.set_index('tale_id', inplace=True)
-#master_csv.sort_index(axis=0)
+master_csv.set_index('sagenid', inplace=True)
+master_csv.sort_index(axis=0)
 print(master_csv)
 save_data(master_csv, "Master_csv.csv")
 
@@ -44,10 +44,10 @@ for index, row in master_csv.iterrows():
     if row['longitude'] == 0.0 or row['longitude'] == '' or row['longitude'] == 'NaN' or pd.isnull(row['longitude']):
         master_csv.drop(index, inplace=True)
     else:
-        if len(row['full_text']) > 1000:
-            master_csv.loc[index, 'full_text'] = str(row['full_text'][:1000] + '<a href="https://cm-gruppe3.de/einzelansicht-sagen/?markerid=' + str(index) + '">[...]</a>')
+        if len(row['volltext']) > 1000:
+            master_csv.loc[index, 'volltext'] = str(row['volltext'][:1000] + '<a href="https://mosel-sagen.de/einzelansicht-sagen/?markerid=' + str(index) + '">[...]</a>')
             #master_csv.loc[index, 'volltext'] = row['volltext'][:1000]
-        master_csv.loc[index, 'book_id'] = int(row['book_id'])
-        master_csv.loc[index, 'tale_id_book'] = int(row['tale_id_book'])
+        master_csv.loc[index, 'werkid'] = int(row['werkid'])
+        master_csv.loc[index, 'sagenidimwerk'] = int(row['sagenidimwerk'])
 save_data(master_csv, "Master_csv_with_coord.csv")
 

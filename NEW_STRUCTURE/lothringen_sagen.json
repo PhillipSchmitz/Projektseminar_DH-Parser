@@ -1,0 +1,178 @@
+{
+  "Frau Florentina die Getreue": {
+    "id": 1010,
+    "werk_id": 6,
+    "n_book": 1,
+    "title": "Frau Florentina die Getreue",
+    "division_1": "NaN",
+    "division_2": "NaN",
+    "place_id": "Metz",
+    "longitude": 6.176944,
+    "latitude": 49.119722
+  },
+  "Die Bischöfe von Metz und ihre Legenden": {
+    "id": 1011,
+    "werk_id": 6,
+    "n_book": 2,
+    "title": "Die Bischöfe von Metz und ihre Legenden",
+    "division_1": "NaN",
+    "division_2": "NaN",
+    "place_id": "Metz",
+    "longitude": 6.176944,
+    "latitude": 49.119722
+  },
+  "Im Königspalaste zu Metz": {
+    "id": 1012,
+    "werk_id": 6,
+    "n_book": 3,
+    "title": "Im Königspalaste zu Metz",
+    "division_1": "NaN",
+    "division_2": "NaN",
+    "place_id": "Pfalz",
+    "longitude": 0,
+    "latitude": 0
+  },
+  "Sankta Glossindis von Metz": {
+    "id": 1013,
+    "werk_id": 6,
+    "n_book": 4,
+    "title": "Sankta Glossindis von Metz",
+    "division_1": "NaN",
+    "division_2": "NaN",
+    "place_id": "Troyes",
+    "longitude": 4.078056,
+    "latitude": 48.298889
+  },
+  "Im Schatten des Hirtenstabes von Gorze": {
+    "id": 1014,
+    "werk_id": 6,
+    "n_book": 5,
+    "title": "Im Schatten des Hirtenstabes von Gorze",
+    "division_1": "NaN",
+    "division_2": "NaN",
+    "place_id": "Gorze",
+    "longitude": 5.998889,
+    "latitude": 49.053889
+  },
+  "Die Kaiserin Hildegard": {
+    "id": 1015,
+    "werk_id": 6,
+    "n_book": 6,
+    "title": "Die Kaiserin Hildegard",
+    "division_1": "NaN",
+    "division_2": "NaN",
+    "place_id": "Metz",
+    "longitude": 6.176944,
+    "latitude": 49.119722
+  },
+  "Lohengrin": {
+    "id": 1016,
+    "werk_id": 6,
+    "n_book": 7,
+    "title": "Lohengrin",
+    "division_1": "NaN",
+    "division_2": "NaN",
+    "place_id": "Bouillon",
+    "longitude": 5.068111,
+    "latitude": 49.795556
+  },
+  "Papst Leo IX.": {
+    "id": 1017,
+    "werk_id": 6,
+    "n_book": 8,
+    "title": "Papst Leo IX.",
+    "division_1": "NaN",
+    "division_2": "NaN",
+    "place_id": "Clugny",
+    "longitude": 4.659167,
+    "latitude": 46.434444
+  },
+  "Der hlg. Richard und Kaiser Heinrich II.": {
+    "id": 1018,
+    "werk_id": 6,
+    "n_book": 9,
+    "title": "Der hlg. Richard und Kaiser Heinrich II.",
+    "division_1": "NaN",
+    "division_2": "NaN",
+    "place_id": "Verdun",
+    "longitude": 5.382778,
+    "latitude": 49.159722
+  },
+  "Die Sagen der Herzöge von Lothringen": {
+    "id": 1019,
+    "werk_id": 6,
+    "n_book": 10,
+    "title": "Die Sagen der Herzöge von Lothringen",
+    "division_1": "NaN",
+    "division_2": "NaN",
+    "place_id": "Maréville",
+    "longitude": 5.456667,
+    "latitude": 49.452778
+  },
+  "Wappen, Fahnen, Schlachtrufe u. Devisen der Herzöge von Lothringen": {
+    "id": 1020,
+    "werk_id": 6,
+    "n_book": 11,
+    "title": "Wappen, Fahnen, Schlachtrufe u. Devisen der Herzöge von Lothringen",
+    "division_1": "NaN",
+    "division_2": "NaN",
+    "place_id": "Lothringen",
+    "longitude": 0,
+    "latitude": 0
+  },
+  "Templer- und Adelssagen": {
+    "id": 1021,
+    "werk_id": 6,
+    "n_book": 12,
+    "title": "Templer- und Adelssagen",
+    "division_1": "NaN",
+    "division_2": "NaN",
+    "place_id": "Lothringen",
+    "longitude": 0,
+    "latitude": 0
+  },
+  "Der Graf von Engelweiler und die Waldfrau": {
+    "id": 1022,
+    "werk_id": 6,
+    "n_book": 13,
+    "title": "Der Graf von Engelweiler und die Waldfrau",
+    "division_1": "NaN",
+    "division_2": "NaN",
+    "place_id": "Engelweiler",
+    "longitude": 0,
+    "latitude": 0
+  },
+  "Auf Feld und Flur": {
+    "id": 1023,
+    "werk_id": 6,
+    "n_book": 14,
+    "title": "Auf Feld und Flur",
+    "division_1": "NaN",
+    "division_2": "NaN",
+    "place_id": "Lothringen",
+    "longitude": 0,
+    "latitude": 0
+  },
+  "Geflügelte Worte aus dem alten Metz": {
+    "id": 1024,
+    "werk_id": 6,
+    "n_book": 15,
+    "title": "Geflügelte Worte aus dem alten Metz",
+    "division_1": "NaN",
+    "division_2": "NaN",
+    "place_id": "Metz",
+    "longitude": 6.176944,
+    "latitude": 49.119722
+  },
+  "Der reiche Bürger von Verdun": {
+    "id": 1025,
+    "werk_id": 6,
+    "n_book": 16,
+    "title": "Der reiche Bürger von Verdun",
+    "division_1": "NaN",
+    "division_2": "NaN",
+    "place_id": "Verdun",
+    "longitude": 5.382778,
+    "latitude": 49.159722
+  }
+}
